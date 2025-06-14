@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;600&display=swap"
+        rel="stylesheet">
+    <style>
+        /* Global Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+            padding: 40px 20px;
+        }
+
+        h1, h2 {
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        section {
+            padding: 40px 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            max-width: 1200px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        header h1 {
+            font-size: 3em;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.2em;
+            color: #555;
+        }
+
+        /* Section Styles */
+        .about, .skills, .experience, .projects, .contact {
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+
+        .skills ul, .experience ul, .projects ul {
+            list-style: none;
+        }
+
+        .skills li, .experience li, .projects li {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .skills li:last-child, .experience li:last-child, .projects li:last-child {
+            border-bottom: none;
+        }
+
+        /* Contact Form */
+        .contact form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .contact input, .contact textarea {
+            padding: 15px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .contact button {
+            padding: 15px;
+            background-color: #004225;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        .contact button:hover {
+            background-color: #002f1c;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                width: 90%;
+            }
+
+            header h1 {
+                font-size: 2.5em;
+            }
+
+            .about, .skills, .experience, .projects, .contact {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer | Designer | Content Creator</p>
+    </header>
+
+    <section class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hello! I'm a passionate web developer with a knack for creating engaging and user-friendly websites. I love
+                to build beautiful and efficient systems using modern web technologies. My goal is to constantly learn,
+                grow, and create websites that provide value to users.</p>
+        </div>
+    </section>
+
+    <section class="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>HTML5</strong> - Markup language for structuring web content.</li>
+                <li><strong>CSS3</strong> - Styling and layout techniques for web pages.</li>
+                <li><strong>JavaScript</strong> - Dynamic and interactive web features.</li>
+                <li><strong>React</strong> - Building modern web apps using components.</li>
+                <li><strong>Node.js</strong> - Server-side JavaScript runtime.</li>
+                <li><strong>MongoDB</strong> - NoSQL database for handling large data.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="experience">
+        <div class="container">
+            <h2>Experience</h2>
+            <ul>
+                <li>
+                    <strong>Web Developer - XYZ Company (Jan 2020 - Present)</strong>
+                    <p>Developed responsive, mobile-first websites using HTML, CSS, and JavaScript. Collaborated with cross-functional teams to design and implement user-facing features.</p>
+                </li>
+                <li>
+                    <strong>Front-End Developer - ABC Inc. (Jun 2018 - Dec 2019)</strong>
+                    <p>Worked on building interactive websites and web applications using React, HTML, and CSS. Improved website performance and user experience across various platforms.</p>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <strong>Personal Portfolio</strong> - A personal portfolio website showcasing my skills and projects.
+                    <a href="https://yourportfolio.com" target="_blank">View Project</a>
+                </li>
+                <li>
+                    <strong>Weather App</strong> - A weather forecasting app that uses a public API to display real-time weather data.
+                    <a href="https://weatherapp.com" target="_blank">View Project</a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <form>
+                <input type="text" id="name" name="name" placeholder="Your Name" required />
+                <input type="email" id="email" name="email" placeholder="Your Email" required />
+                <textarea id="message" name="message" placeholder="Your Message" rows="5" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+    </section>
+</body>
+
+</html>
