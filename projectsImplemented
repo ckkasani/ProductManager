@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chaitanya Kasani | AI Product Manager</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+      color: #222;
+    }
+    header, nav, section, footer {
+      max-width: 960px;
+      margin: auto;
+      padding: 20px;
+    }
+    header {
+      background: #1f2937;
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    nav a {
+      margin-right: 20px;
+      color: #1f2937;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    h1, h2 {
+      margin-bottom: 10px;
+    }
+    .section-title {
+      color: #1f2937;
+      border-bottom: 2px solid #e5e7eb;
+      padding-bottom: 5px;
+      margin-bottom: 20px;
+    }
+    footer {
+      background: #f3f4f6;
+      text-align: center;
+      font-size: 14px;
+      padding: 20px;
+    }
+    .contact-form input, .contact-form textarea {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 10px;
+      border: 1px solid #d1d5db;
+      border-radius: 4px;
+    }
+    .contact-form button {
+      background: #1f2937;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Chaitanya Kasani</h1>
+    <p>AI Product Manager | Platform Thinker | Roadmap Closer</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2 class="section-title">About Me</h2>
+    <p>I’m an AI & platform-focused Product Manager with 9+ years of experience shipping B2B and B2C products across fintech, eCommerce, and healthcare. I specialize in scaling systems from 0 → 1, architecting AI workflows, and building multi-tenant platforms that serve thousands of users.</p>
+  </section>
+
+  <section id="projects">
+    <h2 class="section-title">Projects & Highlights</h2>
+    <ul>
+      <li>📈 Genie AI chatbot – Scaled to 1M+ requests/month, automated 40% of support tickets.</li>
+      <li>💳 Behavioral credit engine – Boosted fintech engagement by 2.5× with ML signals.</li>
+      <li>🖨️ Photo print engine – Drove 40% revenue lift at Shutterfly via workflow automation.</li>
+      <li>🏥 Medicare onboarding – Built geo-routed, ADA-compliant portals for 5K+ field agents.</li>
+      <li>🛍️ EdTech storefront – Delivered CPQ bundling and checkout flow for $500K+ uplift.</li>
+      <li>⚙️ IBM MQ Billing System – Migrated legacy billing to event-driven, cutting latency 30%.</li>
+      <li>🔐 Salesforce CPQ for Amcor – Enhanced cross-region workflows for 1,200+ B2B users.</li>
+      <li>🏦 KeyBank Credit APIs – Launched 99.5% accurate underwriting across card and loan flows.</li>
+      <li>📊 Sprint acceleration – Improved velocity by 20% via clean story breakdown at BBVA.</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2 class="section-title">Contact Me</h2>
+    <form class="contact-form" action="mailto:ckkasani@gmail.com" method="post" enctype="text/plain">
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="email" name="email" placeholder="Your Email" required />
+      <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    &copy; 2025 Chaitanya Kasani · Built with ❤️ on GitHub Pages
+  </footer>
+</body>
+</html>
