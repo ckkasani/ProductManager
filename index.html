@@ -10,28 +10,37 @@
       font-family: 'Inter', sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #ffffff;
+      background: linear-gradient(to bottom right, #f8fafc, #e0f2fe);
       color: #222;
     }
-    header, nav, section, footer {
-      max-width: 960px;
-      margin: auto;
-      padding: 20px;
-    }
     header {
-      background: #1f2937;
+      background: url('https://images.unsplash.com/photo-1682687220298-050b7ee118af?fit=crop&w=1470&q=80') center/cover no-repeat;
       color: white;
       text-align: center;
-      padding: 40px 20px;
+      padding: 80px 20px;
+    }
+    header img {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      border: 4px solid white;
+      margin-bottom: 20px;
+    }
+    nav {
+      text-align: center;
+      background: #1f2937;
+      padding: 10px 0;
     }
     nav a {
-      margin-right: 20px;
-      color: #1f2937;
+      margin: 0 15px;
+      color: white;
       text-decoration: none;
       font-weight: 600;
     }
-    h1, h2 {
-      margin-bottom: 10px;
+    section {
+      max-width: 960px;
+      margin: auto;
+      padding: 40px 20px;
     }
     .section-title {
       color: #1f2937;
@@ -49,8 +58,13 @@
       color: #555;
       font-size: 14px;
     }
+    .experience ul {
+      margin: 10px 0 20px 20px;
+      padding: 0;
+    }
     footer {
-      background: #f3f4f6;
+      background: #1f2937;
+      color: white;
       text-align: center;
       font-size: 14px;
       padding: 20px;
@@ -75,6 +89,7 @@
 </head>
 <body>
   <header>
+    <img src="https://avatars.githubusercontent.com/u/your-photo.png" alt="Chaitanya Kasani">
     <h1>Chaitanya Kasani</h1>
     <p>AI Product Manager | Platform Thinker | Roadmap Closer</p>
   </header>
@@ -82,7 +97,9 @@
   <nav>
     <a href="#about">About</a>
     <a href="#experience">Experience</a>
+    <a href="#education">Education</a>
     <a href="#contact">Contact</a>
+    <a href="pitch.html">Professional Pitch →</a>
   </nav>
 
   <section id="about">
@@ -94,42 +111,85 @@
     <h2 class="section-title">Experience</h2>
 
     <div class="experience">
-      <h3>TechGenie.ai – AI Chatbot with NLP, Fallback escalation and Callback</h3>
+      <h3>TechGenie.ai – AI Chatbot with NLP, Escalation & Callback</h3>
       <span>Feb 2025 – Present</span>
-    </div>
-    <div class="experience">
-      <h3>Sentara Healthcare – Agent Portal for Medicare enrollment</h3>
-      <span>Sep 2023 – Feb 2025</span>
-    </div>
-    <div class="experience">
-      <h3>Shutterfly – GTM Strategy and Automated order management workflow design</h3>
-      <span>Mar 2023 – Sep 2023</span>
-    </div>
-    <div class="experience">
-      <h3>Learning Without Tears – E-com storefront with Taxation and Automated cart saving</h3>
-      <span>Jul 2021 – Feb 2022</span>
-    </div>
-    <div class="experience">
-      <h3>Amcor – System migration, Data cleanup and Automation redesign</h3>
-      <span>Aug 2020 – Jul 2021</span>
-    </div>
-    <div class="experience">
-      <h3>KeyBank – Payment processing, Card Maintenance</h3>
-      <span>Nov 2019 – Jul 2020</span>
-    </div>
-    <div class="experience">
-      <h3>BBVA Bank – Sprint velocity uplift through clear user stories</h3>
-      <span>Nov 2017 – Oct 2019</span>
-    </div>
-    <div class="experience">
-      <h3>GE Power – Agile delivery for utility ops</h3>
-      <span>Aug 2016 – Oct 2017</span>
-    </div>
-    <div class="experience">
-      <h3>Aramark – Customized Salesforce workflows and compliance reporting</h3>
-      <span>Dec 2014 – Apr 2015</span>
+      <ul>
+        <li>Launched GenAI chatbot scaling to 1M+ monthly requests and 40% support ticket automation</li>
+        <li>Built fallback logic and NLP behavior tracking to reduce avg. resolution time by 35%</li>
+        <li>Drafted a 12-month AI roadmap, aligned cloud infra with AWS + Azure scaling goals</li>
+      </ul>
     </div>
 
+    <div class="experience">
+      <h3>Sentara Healthcare – Agent Portal for Medicare Onboarding</h3>
+      <span>Sep 2023 – Feb 2025</span>
+      <ul>
+        <li>Delivered Salesforce-integrated, ADA-compliant portal for 5K+ field reps</li>
+        <li>Introduced OKR dashboards and Jira Ops workflows for SLA management</li>
+      </ul>
+    </div>
+
+    <div class="experience">
+      <h3>Shutterfly – Automated Order & GTM Workflow</h3>
+      <span>Mar 2023 – Sep 2023</span>
+      <ul>
+        <li>Scaled modular e-commerce engine for print logistics</li>
+        <li>Launched tiered incentives boosting seasonal conversion</li>
+      </ul>
+    </div>
+
+    <div class="experience">
+      <h3>Learning Without Tears – B2B/B2C EdTech Storefront</h3>
+      <span>Jul 2021 – Feb 2022</span>
+      <ul>
+        <li>Redesigned storefront UX with tax logic, CPQ bundling, and address autofill</li>
+        <li>Improved cart abandonment rate by 15%</li>
+      </ul>
+    </div>
+
+    <div class="experience">
+      <h3>Amcor – Global Salesforce CPQ Platform</h3>
+      <span>Aug 2020 – Jul 2021</span>
+      <ul>
+        <li>Upgraded Salesforce workflows for 1,200+ B2B users with SOC2 compliance</li>
+        <li>Integrated API-driven order orchestration</li>
+      </ul>
+    </div>
+
+    <div class="experience">
+      <h3>KeyBank – Digital Banking APIs</h3>
+      <span>Nov 2019 – Jul 2020</span>
+      <ul>
+        <li>Integrated real-time underwriting across credit and loan APIs</li>
+        <li>Streamlined product requirements for secure replatforming</li>
+      </ul>
+    </div>
+
+    <div class="experience">
+      <h3>BBVA – Credit Workflows + API Collaboration</h3>
+      <span>Nov 2017 – Oct 2019</span>
+      <ul>
+        <li>Defined loan approval and validation flows with clear BRDs</li>
+        <li>Improved sprint velocity by 20%</li>
+      </ul>
+    </div>
+
+    <div class="experience">
+      <h3>GE Power & Aramark – Salesforce + Agile Execution</h3>
+      <span>2014 – 2017</span>
+      <ul>
+        <li>Delivered Agile features in utility ops, built reporting with Salesforce automation</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="education">
+    <h2 class="section-title">Education</h2>
+    <ul>
+      <li><strong>MIT xPRO</strong> – Product Management Certificate (Expected 2025)</li>
+      <li><strong>Texas A&M University, Kingsville</strong> – M.S. in Computer Science</li>
+      <li><strong>JNTU, Kakinada</strong> – B.S. in Computer Science</li>
+    </ul>
   </section>
 
   <section id="contact">
@@ -143,7 +203,7 @@
   </section>
 
   <footer>
-    &copy; 2025 Chaitanya Kasani · Built with GitHub Pages
+    &copy; 2025 Chaitanya Kasani · Built with ❤️ on GitHub Pages
   </footer>
 </body>
 </html>
