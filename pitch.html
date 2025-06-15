@@ -9,7 +9,7 @@
     body {
       font-family: 'Calibri', sans-serif;
       margin: 0;
-      background: #0d1b2a;
+      background: #0c1e3c;
       color: #f1f5f9;
       overflow-x: hidden;
     }
@@ -21,7 +21,7 @@
       width: 100vw;
       height: 100vh;
       pointer-events: none;
-      background: radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgba(59, 130, 246, 0.5) 0%, transparent 20%);
+      background: radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgba(100, 179, 255, 0.65) 0%, transparent 12%);
       z-index: 0;
       transition: background 0.1s ease;
     }
@@ -30,28 +30,32 @@
       z-index: 1;
     }
     header {
-      background: linear-gradient(to right, #1e3a8a, #2563eb);
-      padding: 40px 20px;
+      background: linear-gradient(135deg, #102542, #1e3a8a);
+      padding: 50px 20px;
       text-align: center;
+      animation: fadeInDown 1.2s ease both;
     }
     header h1 {
-      font-size: 2.2rem;
-      margin-bottom: 8px;
+      font-size: 2.4rem;
+      margin-bottom: 10px;
+      color: #e0f2fe;
     }
     header p {
-      font-size: 1rem;
+      font-size: 1.05rem;
       font-weight: 300;
+      color: #cbd5e1;
     }
     section {
       max-width: 960px;
       margin: auto;
-      padding: 30px 20px;
+      padding: 32px 20px;
+      animation: fadeInUp 0.8s ease both;
     }
     .section-title {
-      font-size: 1.4rem;
+      font-size: 1.5rem;
       border-bottom: 2px solid #60a5fa;
-      padding-bottom: 4px;
-      margin-bottom: 16px;
+      padding-bottom: 6px;
+      margin-bottom: 18px;
       color: #93c5fd;
     }
     ul {
@@ -75,19 +79,25 @@
     a:hover {
       text-decoration: underline;
     }
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>Building Platforms * Driving Innovation * Delivering Value.</h1>
-    <p>"I don’t just build products. I create platforms addressing stakeholders needs with long-term vision and reusability."</p>
+    <p>"I don’t just build products. I create platforms addressing stakeholders' needs with long-term vision and reusability."</p>
   </header>
-
   <section>
     <h2 class="section-title">🚀 Elevator Pitch</h2>
     <p><strong>"I build digital products that solve complex business problems with ruthless clarity and execution. With over a decade blending business analysis and product management, I’ve led high-impact solutions across fintech, AI platforms, and enterprise tech. My portfolio is not just a showcase — it's proof of momentum, obsession with outcomes, and the grit to build what others delay. If you’re looking for velocity, precision, and a partner who owns outcomes like a founder — you just found him."</strong></p>
   </section>
-
   <section>
     <h2 class="section-title">🧪 Projects & Proof</h2>
     <ul>
@@ -95,7 +105,6 @@
       <li><strong>MIT xPRO</strong> – Building Go-to-Market (GTM) strategy and product design frameworks for AI-integrated tools and SaaS products.</li>
     </ul>
   </section>
-
   <section>
     <h2 class="section-title">🎯 What I Bring to the Table</h2>
     <ul>
@@ -106,18 +115,15 @@
       <li>Relentless focus on metrics, A/B tests, and user feedback</li>
     </ul>
   </section>
-
   <section>
     <h2 class="section-title">📬 Let’s Talk</h2>
     <p>If you care about speed, outcomes, and real product impact — let’s connect.</p>
     <p>Email: <a href="mailto:ckkasani@gmail.com">ckkasani@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/chaitanyakproductconsultant/" target="_blank">Chaitanya on LinkedIn</a></p>
   </section>
-
   <footer>
     &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 6 ⚡
   </footer>
-
   <script>
     document.addEventListener("mousemove", (e) => {
       const x = (e.clientX / window.innerWidth) * 100;
