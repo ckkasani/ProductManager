@@ -11,6 +11,23 @@
       margin: 0;
       background: #0f172a;
       color: #f8fafc;
+      overflow-x: hidden;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      pointer-events: none;
+      background: radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgba(59, 130, 246, 0.3) 0%, transparent 40%);
+      z-index: 0;
+      transition: background 0.1s ease;
+    }
+    header, section, footer {
+      position: relative;
+      z-index: 1;
     }
     header {
       background: linear-gradient(to right, #1e293b, #334155);
@@ -59,7 +76,7 @@
 <body>
   <header>
     <h1>Driving Innovation. Delivering Value.</h1>
-    <p>"I don’t apply to roles. I create urgency around hiring me."</p>
+    <p>"I don’t just buildproducts. I create platforms with longterm usability."</p>
   </header>
 
   <section>
@@ -96,6 +113,14 @@
   <footer>
     &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 6 ⚡
   </footer>
+
+  <script>
+    document.addEventListener("mousemove", (e) => {
+      const x = (e.clientX / window.innerWidth) * 100;
+      const y = (e.clientY / window.innerHeight) * 100;
+      document.body.style.setProperty("--x", `${x}%`);
+      document.body.style.setProperty("--y", `${y}%`);
+    });
+  </script>
 </body>
 </html>
-
