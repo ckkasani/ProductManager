@@ -1,10 +1,10 @@
-<!-- Version: pitch.html v2.0.1 — Updated 2024-06-16, Navbar/Brand Consistency Fix -->
+<!-- Version: pitch.html v2.2 — Magic Mouse Light, Full-Page 3D, Unique Styling -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pitch | Chaitanya Kasani — v2.0.1</title>
+  <title>Pitch | Chaitanya Kasani — v2.2</title>
   <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
   <!-- Vanta.NET for animated background -->
@@ -14,12 +14,12 @@
     html, body { height: 100%; margin: 0; padding: 0; font-family: 'Calibri', Arial, sans-serif; scroll-behavior: smooth;}
     body { min-height: 100vh; color: #f4f6fa; background: #0a192f; overflow-x: hidden; }
 
-    /* NAVIGATION - Consistent with index */
+    /* NAVIGATION - World-Class, Consistent with index.html */
     .main-nav {
       width: 100vw; min-width: 0; height: 64px;
       background: rgba(8,13,23,0.99);
       display: flex; align-items: center; justify-content: center;
-      position: fixed; top: 0; left: 0; z-index: 100;
+      position: fixed; top: 0; left: 0; z-index: 2000;
       box-shadow: 0 2px 14px #001a3a22; padding: 0;
       gap: 0;
     }
@@ -77,32 +77,34 @@
       margin-left: 10px;
     }
 
-    /* SECTION GAPS & CONTAINERS */
+    /* CARD/SECTION STYLES - AIRY for Pitch */
     .section-card {
       margin: 54px auto 0 auto;
-      max-width: 1200px;
-      background: rgba(11,21,34,0.96);
+      max-width: 800px;
+      background: rgba(11,21,34,0.19);  /* much lighter for 3D mesh to show through! */
       border-radius: 20px;
-      padding: 40px 4vw 32px 4vw;
-      box-shadow: 0 6px 30px #00336624;
+      padding: 38px 4vw 30px 4vw;
+      box-shadow: 0 6px 30px #0033660c;
+      backdrop-filter: blur(2px);
     }
     .section-title {
-      color: #38bdf8; font-size: 1.22rem; font-weight: 800; letter-spacing: 1.1px; margin-bottom: 27px;
+      color: #38bdf8; font-size: 1.21rem; font-weight: 800; letter-spacing: 1.1px; margin-bottom: 24px;
       text-transform: uppercase; text-align: center;
-      border-bottom: 2.5px solid #1a3250; padding-bottom: 7px;
+      border-bottom: 2.2px solid #1a3250; padding-bottom: 7px;
+      background: none;
     }
     section {margin-bottom: 0;}
 
-    /* PITCH PAGE CUSTOM */
     .pitch-header {
       text-align: center;
       margin: 0 auto;
-      max-width: 1000px;
+      max-width: 900px;
       margin-top: 96px;
-      margin-bottom: 42px;
+      margin-bottom: 38px;
+      background: none;
     }
     .pitch-header h1 {
-      font-size: 2.3rem;
+      font-size: 2.18rem;
       font-weight: 800;
       color: #f3fafc;
       letter-spacing: 1.2px;
@@ -125,73 +127,32 @@
       margin: 0;
       font-weight: 500;
     }
-    /* Card/Timeline/Project styles match index */
-    .projects-row {
-      display: flex; flex-wrap: wrap; gap: 36px; justify-content: center;
-    }
-    .project-card {
-      background: #132138;
-      border-radius: 18px;
-      padding: 34px 28px 20px 28px;
-      min-width: 270px; max-width: 340px;
-      flex: 1 1 290px;
-      box-shadow: 0 3px 16px #38bdf822;
-      border-top: 4px solid #38bdf8;
-      text-align: left;
-      transition: transform 0.18s, box-shadow 0.19s;
-    }
-    .project-card:hover { transform: translateY(-5px) scale(1.03); box-shadow: 0 8px 32px #38bdf844;}
-    .project-icon { font-size: 2.1rem; margin-bottom: 13px; color: #4dd0e1; }
-    .project-title { font-size: 1.14rem; color: #38bdf8; font-weight: 700; margin-bottom: 8px;}
-    .project-desc { font-size: 1.02rem; color: #eaf8fa; margin-bottom: 14px;}
-    .project-link { color: #4dd0e1; text-decoration: underline; font-weight: 600; font-size: 1.01rem; }
-
-    /* RESEARCH */
-    .research-timeline { border-left: 4px solid #38bdf8; padding-left: 32px; }
-    .research-item {position: relative; margin-bottom: 32px;}
-    .research-item:before {
-      content: "★"; color: #4dd0e1; font-size: 1.18rem;
-      position: absolute; left: -28px; top: 3px;
-    }
-    .research-title { font-size: 1.09rem; color: #38bdf8; font-weight: bold; margin-bottom: 3px;}
-    .research-desc { color: #eaf8fa; font-size: 1.02rem; }
-
-    /* EXPERIENCE - Sliding Timeline */
-    .timeline {
-      display: flex; flex-direction: row; gap: 36px; align-items: flex-start;
-      margin: 30px 0 0 0; overflow-x: auto; padding-bottom: 14px;
-      scrollbar-color: #38bdf8 #142236; scrollbar-width: thin;
-    }
-    .timeline::-webkit-scrollbar { height: 8px;}
-    .timeline::-webkit-scrollbar-thumb { background: #38bdf8; border-radius: 7px;}
-    .timeline-item {
-      background: #172745;
-      border-radius: 14px;
-      padding: 24px 19px;
-      min-width: 260px; flex: 0 0 280px;
-      box-shadow: 0 3px 16px #38bdf822;
-      border-left: 4px solid #38bdf8; position: relative; margin-right: 0;
-    }
-    .timeline-item h3 { color: #38bdf8; margin: 0 0 4px 0; font-size: 1.08rem;}
-    .timeline-item .period { color: #a6e5ff; font-size: 0.97em; font-style: italic; margin-bottom: 2px; display: block;}
-    .timeline-item ul { margin: 8px 0 0 0; padding-left: 18px; color: #cfe5fa; font-size: 0.97rem;}
-
     /* CONTACT SECTION */
     #contact { text-align: center;}
     #contact .section-title { margin-bottom: 18px;}
     #contact a { color: #38bdf8; font-weight: bold;}
 
-    /* FOOTER */
-    footer { color: #b3cbe5; font-size: 0.98rem; text-align: center; margin: 36px 0 18px 0; opacity: 0.8; letter-spacing: 1px;}
-
-    @media (max-width: 1050px) {
-      .projects-row { flex-direction: column; align-items: center;}
+    /* MAGIC MOUSE LIGHT */
+    #magic-mouse-light {
+      pointer-events: none;
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 70px;
+      height: 70px;
+      z-index: 1001; /* above Vanta, below nav */
+      border-radius: 50%;
+      background: radial-gradient(circle, #fff 0%, #38bdf8 65%, transparent 100%);
+      opacity: 0.33;
+      box-shadow: 0 0 32px 12px #38bdf855, 0 0 80px 16px #fff2;
+      transform: translate(-50%, -50%);
+      transition: opacity 0.2s;
+      will-change: left, top;
     }
     @media (max-width: 700px) {
       .section-card { padding: 18px 2vw 14px 2vw; border-radius: 11px;}
-      .timeline-item { min-width: 90vw; flex: 0 0 90vw;}
-      .cta-btn { padding: 11px 0; width: 96vw;}
-      .pitch-header h1 { font-size: 1.22rem;}
+      .pitch-header h1 { font-size: 1.17rem;}
+      #magic-mouse-light { width: 42px; height: 42px; }
     }
     @media (max-width: 500px) {
       .main-nav { font-size: 0.96rem;}
@@ -201,216 +162,77 @@
   </style>
 </head>
 <body>
+  <!-- MAGIC MOUSE LIGHT FOLLOWER -->
+  <div id="magic-mouse-light"></div>
   <!-- NAVIGATION - Consistent with index, Centered -->
   <nav class="main-nav">
     <span class="logo-nav">Chaitanya Kasani</span>
     <div class="nav-list">
-      <a href="index.html">🏠 Home</a>
-      <a href="pitch.html" class="active">🚀 Pitch</a>
-      <a href="#about">👋 About</a>
-      <a href="#projects">⭐ Highlights</a>
-      <a href="#research">🔬 Research</a>
-      <a href="#experience">💼 Experience</a>
-      <a href="#contact" class="contact-btn">Contact</a>
+      <a href="index.html">Portfolio</a>
+      <a href="pitch.html" class="active">Pitch</a>
     </div>
   </nav>
 
-  <!-- HEADER (like pitch intro) -->
+  <!-- HEADER -->
   <div class="pitch-header" id="home">
     <h1>Building Platforms * Driving Innovation * Delivering Value.</h1>
     <p>"I don’t just build products. I create platforms addressing stakeholders' needs with long-term vision and reusability."</p>
   </div>
 
-  <!-- ABOUT -->
+  <!-- ELEVATOR PITCH -->
   <section class="section-card" id="about">
     <div class="section-title">Elevator Pitch</div>
     <div style="font-size:1.09rem; color:#d2edfc;">
       <strong>"I build digital products that solve complex business problems with ruthless clarity and execution."</strong><br>
-      With a decade blending business analysis and product management, I’ve led high-impact solutions across fintech, AI platforms, and enterprise tech. My portfolio is not just a showcase — it's proof of momentum, obsession with outcomes, and the grit to build what others delay. If you’re looking for velocity, precision, and a partner who owns outcomes like a founder — you just found him.
+      With over a decade blending business analysis and product management, I’ve led high-impact solutions across fintech, AI platforms, and enterprise tech. My portfolio is not just a showcase — it's proof of momentum, obsession with outcomes, and the grit to build what others delay. If you’re looking for velocity, precision, and a partner who owns outcomes like a founder — you just found him.
     </div>
   </section>
 
-  <!-- SIGNATURE WINS / PORTFOLIO HIGHLIGHTS -->
-  <section class="section-card" id="projects">
-    <div class="section-title">Signature Wins</div>
-    <div class="projects-row">
-      <div class="project-card">
-        <div class="project-icon">🤖</div>
-        <div class="project-title">Genie AI</div>
-        <div class="project-desc">Multi-tenant NLP platform automating 40%+ ticket volume and 1M+ monthly requests. Powers appointment, escalation, and support logic for global clients.</div>
-        <a href="resume.html" class="project-link">See my role</a>
-      </div>
-      <div class="project-card">
-        <div class="project-icon">🎓</div>
-        <div class="project-title">MIT xPRO Practicum</div>
-        <div class="project-desc">Product discovery and GTM frameworks for enterprise AI SaaS, validated with MIT product leads. Delivered modular assistant and roadmap proposals in live stakeholder sessions.</div>
-        <a href="https://www.linkedin.com/in/chaitanyakproductconsultant/" class="project-link" target="_blank">See on LinkedIn</a>
-      </div>
-      <div class="project-card">
-        <div class="project-icon">🏥</div>
-        <div class="project-title">Sentara Onboarding</div>
-        <div class="project-desc">Enterprise-grade onboarding platform with geo-routing, Salesforce automation, and real-time dashboards, used by 5K+ internal agents and reps.</div>
-        <a href="resume.html" class="project-link">See my role</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- RESEARCH & PRACTICUM -->
-  <section class="section-card" id="research">
-    <div class="section-title">Research & Practicum Highlights</div>
-    <div class="research-timeline">
-      <div class="research-item">
-        <div class="research-title">Staples (MIT Practicum)</div>
-        <div class="research-desc">Led discovery and product roadmap for internal procurement tools during MIT xPRO. Identified system gaps and pitched a modular assistant inspired by Genie. Collaborated with experienced PM peers.</div>
-      </div>
-      <div class="research-item">
-        <div class="research-title">Libra Solutions (Pre-Interview Research)</div>
-        <div class="research-desc">Independently reverse-engineered Libra’s testing process before interviewing with their Director of Product. Proposed ways to streamline alpha/beta launches using AI-tagged tracking and roadmap alignment.</div>
-      </div>
-      <div class="research-item">
-        <div class="research-title">Genie (Your Product)</div>
-        <div class="research-desc">Designed and shipped a multi-tenant GenAI support assistant from scratch. Scaled to 1M+ requests/month, automated 40% of support workflows, and powered appointment, escalation, and plan logic flows.</div>
-      </div>
-    </div>
-  </section>
-
-  <!-- EXPERIENCE TIMELINE - ALL JOBS -->
-  <section class="section-card" id="experience">
-    <div class="section-title">Experience & Impact</div>
-    <div class="timeline">
-      <div class="timeline-item">
-        <h3>TechGenie.ai</h3>
-        <span class="period">Product Manager | 2025–Present</span>
-        <ul>
-          <li>Launched GenAI support assistant, scaled to 1M+ requests/month.</li>
-          <li>Automated 40%+ support workflows, cut resolution time by 35%.</li>
-        </ul>
-      </div>
-      <div class="timeline-item">
-        <h3>Sentara Healthcare</h3>
-        <span class="period">Product Manager | 2023–2025</span>
-        <ul>
-          <li>Medicare onboarding platform, 5K+ agents, geo-routing, ADA portals.</li>
-          <li>OKR dashboards, JiraOps playbooks, led cross-team launches.</li>
-        </ul>
-      </div>
-      <div class="timeline-item">
-        <h3>Shutterfly</h3>
-        <span class="period">Product Manager | 2022–2023</span>
-        <ul>
-          <li>Photo eCommerce engine, drove 40% K–12 revenue lift.</li>
-          <li>Mentored PMs, built regional A/B testing & offer logic.</li>
-        </ul>
-      </div>
-      <div class="timeline-item">
-        <h3>Learning Without Tears</h3>
-        <span class="period">Product Manager | 2021–2022</span>
-        <ul>
-          <li>Redesigned EdTech storefront, IBM MQ event migration.</li>
-          <li>$500K+ in new revenue via funnel/discount experiments.</li>
-        </ul>
-      </div>
-      <div class="timeline-item">
-        <h3>Amcor</h3>
-        <span class="period">Lead Business Analyst | 2020–2021</span>
-        <ul>
-          <li>Modernized Salesforce CPQ platform for 1,200+ B2B users.</li>
-          <li>Led InfoSec compliance and workflow redesign.</li>
-        </ul>
-      </div>
-      <div class="timeline-item">
-        <h3>KeyBank</h3>
-        <span class="period">Lead Business Analyst | 2019–2020</span>
-        <ul>
-          <li>Owned digital banking requirements; integrated credit APIs, delivered real-time underwriting (99.5% accuracy).</li>
-        </ul>
-      </div>
-      <div class="timeline-item">
-        <h3>BBVA Bank</h3>
-        <span class="period">Senior Business Analyst | 2017–2019</span>
-        <ul>
-          <li>Streamlined credit card/loan approvals, authored BRDs, improved sprint velocity by 20%.</li>
-        </ul>
-      </div>
-      <div class="timeline-item">
-        <h3>GE Power</h3>
-        <span class="period">Business Analyst | 2016–2017</span>
-        <ul>
-          <li>Automated B2B pricing platform, reduced quote time by 28%.</li>
-        </ul>
-      </div>
-      <div class="timeline-item">
-        <h3>Aramark</h3>
-        <span class="period">Business Analyst | 2014–2015</span>
-        <ul>
-          <li>Modernized reporting and order systems for university clients.</li>
-        </ul>
-      </div>
-    </div>
+  <!-- WHAT I BRING TO THE TABLE -->
+  <section class="section-card" id="what">
+    <div class="section-title">What I Bring to the Table</div>
+    <ul>
+      <li>Product Leadership: 9+ years of roadmap ownership and OKR-driven execution</li>
+      <li>AI + NLP Execution: Prompt design, fallback logic, and data-driven optimization</li>
+      <li>GTM Strategy: Voice-of-customer insights, A/B testing, and cross-functional launches</li>
+      <li>Platform Architecture: Secure, scalable multi-tenant systems on AWS & Azure</li>
+      <li>Obsessed with Clarity: Clean user stories, sprint velocity, and stakeholder alignment</li>
+    </ul>
   </section>
 
   <!-- CONTACT -->
   <section class="section-card" id="contact" style="margin-bottom:32px;">
     <div class="section-title">Contact</div>
     <p style="text-align:center;">
-      Want to connect, collaborate, or just talk product? <br>
+      If you care about speed, outcomes, and real product impact — let’s connect.<br>
       <a href="mailto:ckkasani@gmail.com">ckkasani@gmail.com</a><br>
-      <a href="https://www.linkedin.com/in/chaitanyakproductconsultant/" target="_blank">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/chaitanyakproductconsultant/" target="_blank">Chaitanya on LinkedIn</a>
     </p>
   </section>
+
   <footer>
-    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 9 ⚡
+    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 10 ⚡
   </footer>
   <script>
     VANTA.NET({
       el: document.body,
-      backgroundColor: 0x0a192f,
+      backgroundColor: 0x081e36,  // subtle deep blue for more contrast
       color: 0x38bdf8,
-      maxDistance: 21.0,
-      spacing: 19.0,
+      maxDistance: 28.0,
+      spacing: 21.0,
       showDots: true,
-      backgroundAlpha: 0.52
+      backgroundAlpha: 0.56
     });
-    // Enable smooth scroll for anchor links
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function(e) {
-        const targetId = this.getAttribute('href').slice(1);
-        const el = document.getElementById(targetId);
-        if (el) {
-          e.preventDefault();
-          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-      });
+
+    // MAGIC MOUSE LIGHT FOLLOWS CURSOR (no trail, just light under mouse)
+    const mouseLight = document.getElementById('magic-mouse-light');
+    document.addEventListener('mousemove', e => {
+      mouseLight.style.left = e.clientX + 'px';
+      mouseLight.style.top = e.clientY + 'px';
+      mouseLight.style.opacity = 0.33;
     });
+    document.addEventListener('mouseleave', () => { mouseLight.style.opacity = 0; });
+    document.addEventListener('mouseenter', () => { mouseLight.style.opacity = 0.33; });
   </script>
-  <script>
-  // MAGIC MOUSE TRAIL EFFECT
-  const mouseTrailColor = '#38bdf8';
-  const mouseTrailOpacity = 0.20;
-  const mouseTrailRadius = 52;   // px
-  const mouseTrailFade = 550;    // ms
-
-  document.addEventListener('mousemove', function(e) {
-    const trail = document.createElement('div');
-    trail.style.position = 'fixed';
-    trail.style.pointerEvents = 'none';
-    trail.style.left = (e.clientX - mouseTrailRadius/2) + 'px';
-    trail.style.top = (e.clientY - mouseTrailRadius/2) + 'px';
-    trail.style.width = mouseTrailRadius + 'px';
-    trail.style.height = mouseTrailRadius + 'px';
-    trail.style.borderRadius = '50%';
-    trail.style.background = `radial-gradient(circle, ${mouseTrailColor} ${mouseTrailOpacity*100}%, transparent 100%)`;
-    trail.style.opacity = mouseTrailOpacity;
-    trail.style.zIndex = 9999;
-    trail.style.transition = `opacity ${mouseTrailFade}ms ease`;
-
-    document.body.appendChild(trail);
-
-    setTimeout(() => {
-      trail.style.opacity = 0;
-      setTimeout(() => trail.remove(), mouseTrailFade);
-    }, 5);
-  });
-</script>
 </body>
 </html>
