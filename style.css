@@ -90,6 +90,27 @@ footer {
   z-index: 1;
 }
 
+.main-nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 0.2rem 0 1.2rem 0;
+  font-size: 1.12rem;
+}
+.main-nav a {
+  color: #93c5fd;
+  text-decoration: none;
+  font-weight: 600;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
+  transition: border 0.2s;
+}
+.main-nav a.active,
+.main-nav a:hover {
+  border-bottom: 2px solid #60a5fa;
+  color: #e0f2fe;
+}
+
 /* Utility */
 a { color: #38bdf8; text-decoration: none; }
 a:hover { text-decoration: underline; }
