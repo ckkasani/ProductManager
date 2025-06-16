@@ -29,7 +29,7 @@ body::before {
 header {
   background: transparent;
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1.2rem 1rem 0.7rem 1rem; /* LESS padding: top right bottom left */
   position: relative;
   z-index: 1;
   animation: fadeInDown 1s ease both;
@@ -50,9 +50,9 @@ header p {
 
 section {
   max-width: 800px;
-  margin: 2rem auto;
-  padding: 1.5rem;
-  background: rgba(15,31,58,0.8);
+  margin: 0.8rem auto;         /* LESS vertical margin */
+  padding: 0.8rem 1.2rem;      /* LESS padding */
+  background: rgba(15,31,58,0.84);
   border-radius: 8px;
   position: relative;
   z-index: 1;
