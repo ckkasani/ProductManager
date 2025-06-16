@@ -3,13 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pitch | Chaitanya Kasani — v7.7</title>
+  <title>Pitch | Chaitanya Kasani — v7.8</title>
   <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;800&display=swap" rel="stylesheet">
-  <!-- Link to external stylesheet -->
   <link rel="stylesheet" href="style.css" />
+  <!-- Three.js and Vanta.NET for dynamic background -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js"></script>
 </head>
 <body>
-  <!-- File: pitch.html | Version: RD Mode Level 7.7 -->
+  <!-- File: pitch.html | Version: RD Mode Level 7.8 -->
   <header>
     <h1>Building Platforms * Driving Innovation * Delivering Value.</h1>
     <p>"I don’t just build products. I create platforms addressing stakeholders' needs with long-term vision and reusability."</p>
@@ -47,10 +49,21 @@
   </section>
 
   <footer>
-    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 7.7 ⚡
+    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 7.8 ⚡
   </footer>
 
   <script>
+    // Initialize Vanta.NET background
+    VANTA.NET({
+      el: document.body,
+      backgroundColor: 0x102542,
+      color: 0x38bdf8,
+      maxDistance: 25.00,
+      spacing: 20.00,
+      showDots: true,
+      backgroundAlpha: 0.6
+    });
+    // Mouse-trail glow
     document.addEventListener("mousemove", e => {
       const x = (e.clientX / window.innerWidth) * 100;
       const y = (e.clientY / window.innerHeight) * 100;
