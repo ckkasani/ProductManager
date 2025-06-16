@@ -1,4 +1,4 @@
-<!-- Version: index.html v2.2 — Full-page 3D, Magic Mouse Light, Resume Content Preserved -->
+<!-- Version: index.html v2.3 — Card Polish, 3D Background, Magic Mouse, Resume Content -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +13,8 @@
   <style>
     html, body { height: 100%; margin: 0; padding: 0; font-family: 'Calibri', Arial, sans-serif; scroll-behavior: smooth;}
     body { min-height: 100vh; color: #f4f6fa; background: #0a192f; overflow-x: hidden; }
-    /* NAVIGATION - Match Pitch Page */
+
+    /* NAVIGATION */
     .main-nav {
       width: 100vw; min-width: 0; height: 64px;
       background: rgba(8,13,23,0.99);
@@ -124,18 +125,112 @@
     .section-card {
       margin: 54px auto 0 auto;
       max-width: 1200px;
-      background: rgba(11,21,34,0.19); /* translucent, lets Vanta mesh show! */
+      background: rgba(11,21,34,0.67); /* improved for readability and mesh effect */
       border-radius: 20px;
       padding: 40px 4vw 32px 4vw;
-      box-shadow: 0 6px 30px #00336624;
-      backdrop-filter: blur(1.5px);
+      box-shadow: 0 6px 30px #00336632;
+      backdrop-filter: blur(2.5px);
     }
     .section-title {
       color: #38bdf8; font-size: 1.22rem; font-weight: 800; letter-spacing: 1.1px; margin-bottom: 27px;
       text-transform: uppercase; text-align: center;
       border-bottom: 2.5px solid #1a3250; padding-bottom: 7px;
     }
-    /* rest of your CSS untouched... */
+
+    /* PROJECTS */
+    .projects-row {
+      display: flex; flex-wrap: wrap; gap: 36px; justify-content: center;
+      margin-bottom: 18px;
+    }
+    .project-card {
+      background: rgba(19,33,56,0.89);
+      border-radius: 18px;
+      padding: 34px 28px 20px 28px;
+      min-width: 270px; max-width: 340px;
+      flex: 1 1 290px;
+      box-shadow: 0 3px 16px #38bdf844;
+      border-top: 4px solid #38bdf8;
+      text-align: left;
+      transition: transform 0.18s, box-shadow 0.19s;
+      margin-bottom: 6px;
+    }
+    .project-card:hover { transform: translateY(-5px) scale(1.03); box-shadow: 0 8px 32px #38bdf866;}
+    .project-icon { font-size: 2.1rem; margin-bottom: 13px; color: #4dd0e1; }
+    .project-title { font-size: 1.14rem; color: #38bdf8; font-weight: 700; margin-bottom: 8px;}
+    .project-desc { font-size: 1.02rem; color: #eaf8fa; margin-bottom: 14px;}
+    .project-link {
+      color: #4dd0e1; text-decoration: underline; font-weight: 600; font-size: 1.01rem;
+    }
+
+    /* RESEARCH */
+    .research-timeline { border-left: 4px solid #38bdf8; padding-left: 32px; }
+    .research-item {
+      position: relative; margin-bottom: 32px;
+      background: rgba(18,32,51,0.82);
+      border-radius: 14px;
+      padding: 20px 18px 14px 20px;
+      box-shadow: 0 2px 12px #38bdf822;
+      margin-left: -10px;
+    }
+    .research-item:before {
+      content: "★"; color: #4dd0e1; font-size: 1.18rem;
+      position: absolute; left: -28px; top: 9px;
+    }
+    .research-title { font-size: 1.09rem; color: #38bdf8; font-weight: bold; margin-bottom: 3px;}
+    .research-desc { color: #eaf8fa; font-size: 1.02rem; }
+
+    /* EXPERIENCE - Sliding Timeline with All Jobs */
+    .timeline {
+      display: flex; flex-direction: row; gap: 36px; align-items: flex-start;
+      margin: 30px 0 0 0; overflow-x: auto; padding-bottom: 14px;
+      scrollbar-color: #38bdf8 #142236; scrollbar-width: thin;
+    }
+    .timeline::-webkit-scrollbar { height: 8px;}
+    .timeline::-webkit-scrollbar-thumb { background: #38bdf8; border-radius: 7px;}
+    .timeline-item {
+      background: rgba(23,39,69,0.91);
+      border-radius: 14px;
+      padding: 24px 19px;
+      min-width: 260px; flex: 0 0 280px;
+      box-shadow: 0 3px 16px #38bdf844;
+      border-left: 4px solid #38bdf8; position: relative; margin-right: 0;
+      margin-bottom: 3px;
+    }
+    .timeline-item h3 { color: #38bdf8; margin: 0 0 4px 0; font-size: 1.08rem;}
+    .timeline-item .period { color: #a6e5ff; font-size: 0.97em; font-style: italic; margin-bottom: 2px; display: block;}
+    .timeline-item ul { margin: 8px 0 0 0; padding-left: 18px; color: #cfe5fa; font-size: 0.97rem;}
+    .timeline-fade {
+      content: ""; position: absolute; top: 0; right: 0; width: 36px; height: 100%;
+      background: linear-gradient(to right,rgba(23,39,69,0),#172745 98%);
+      pointer-events: none;
+      z-index: 2;
+    }
+
+    /* CONTACT SECTION */
+    #contact { text-align: center;}
+    #contact h2 { color: #38bdf8; font-size: 1.22rem; text-transform: uppercase; margin-bottom: 18px;}
+    #contact a { color: #38bdf8; font-weight: bold;}
+    /* FOOTER */
+    footer { color: #b3cbe5; font-size: 0.98rem; text-align: center; margin: 36px 0 18px 0; opacity: 0.8; letter-spacing: 1px;}
+    @media (max-width: 1050px) {
+      .hero { flex-direction: column; padding: 100px 0 30px 0; }
+      .hero-content, .hero-photo { padding: 0 20px; text-align: center;}
+      .hero-content { align-items: center; }
+      .projects-row { flex-direction: column; align-items: center;}
+    }
+    @media (max-width: 700px) {
+      .section-card { padding: 18px 2vw 14px 2vw; border-radius: 11px;}
+      .timeline-item { min-width: 90vw; flex: 0 0 90vw;}
+      .hero-photo img { max-width: 88vw; max-height: 320px;}
+      .hero h1 { font-size: 1.12rem;}
+      .cta-btn { padding: 11px 0; width: 96vw;}
+      .project-card { min-width: 80vw; max-width: 98vw; }
+    }
+    @media (max-width: 500px) {
+      .main-nav { font-size: 0.96rem;}
+      .logo-nav { font-size: 1rem;}
+      .section-title { font-size: 1rem;}
+    }
 
     /* MAGIC MOUSE LIGHT */
     #magic-mouse-light {
@@ -155,32 +250,27 @@
       will-change: left, top;
     }
     @media (max-width: 700px) {
-      .section-card { padding: 18px 2vw 14px 2vw; border-radius: 11px;}
-      .timeline-item { min-width: 90vw; flex: 0 0 90vw;}
-      .hero-photo img { max-width: 88vw; max-height: 320px;}
-      .hero h1 { font-size: 1.12rem;}
-      .cta-btn { padding: 11px 0; width: 96vw;}
       #magic-mouse-light { width: 42px; height: 42px; }
-    }
-    @media (max-width: 500px) {
-      .main-nav { font-size: 0.96rem;}
-      .logo-nav { font-size: 1rem;}
-      .section-title { font-size: 1rem;}
     }
   </style>
 </head>
 <body>
   <!-- MAGIC MOUSE LIGHT FOLLOWER -->
   <div id="magic-mouse-light"></div>
-  <!-- NAVIGATION - Match Pitch, Centered -->
+  <!-- NAVIGATION -->
   <nav class="main-nav">
     <span class="logo-nav">Chaitanya Kasani</span>
     <div class="nav-list">
       <a href="index.html" class="active">Profile</a>
       <a href="pitch.html">Pitch</a>
+      <a href="#about">About</a>
+      <a href="#projects">Highlights</a>
+      <a href="#research">Research</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact" class="contact-btn">Contact</a>
     </div>
   </nav>
-  <!-- Everything else: UNCHANGED FROM YOUR LAST MESSAGE -->
+  <!-- All content below is your original resume site -->
   <!-- HERO -->
   <section class="hero" id="home">
     <div class="hero-content">
@@ -233,7 +323,6 @@
       </div>
     </div>
   </section>
-
   <!-- RESEARCH & PRACTICUM -->
   <section class="section-card" id="research">
     <div class="section-title">Research & Practicum Highlights</div>
@@ -252,7 +341,6 @@
       </div>
     </div>
   </section>
-
   <!-- EXPERIENCE TIMELINE - ALL JOBS -->
   <section class="section-card" id="experience">
     <div class="section-title">Experience & Impact</div>
@@ -327,7 +415,6 @@
       </div>
     </div>
   </section>
-
   <!-- CONTACT -->
   <section class="section-card" id="contact" style="margin-bottom:32px;">
     <div class="section-title">Contact</div>
@@ -363,9 +450,7 @@
     });
 
     // MAGIC MOUSE LIGHT — just a soft light under cursor
-    const mouseLight = document.createElement('div');
-    mouseLight.id = 'magic-mouse-light';
-    document.body.appendChild(mouseLight);
+    const mouseLight = document.getElementById('magic-mouse-light');
     document.addEventListener('mousemove', e => {
       mouseLight.style.left = e.clientX + 'px';
       mouseLight.style.top = e.clientY + 'px';
@@ -373,7 +458,6 @@
     });
     document.addEventListener('mouseleave', () => { mouseLight.style.opacity = 0; });
     document.addEventListener('mouseenter', () => { mouseLight.style.opacity = 0.33; });
-
   </script>
 </body>
 </html>
