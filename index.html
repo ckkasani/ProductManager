@@ -1,209 +1,294 @@
+<!-- v1.0.0 2024-06-16 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Chaitanya Kasani | AI Product Manager</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>Chaitanya Kasani | Product Manager Resume</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Calibri:400,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
   <style>
     body {
-      font-family: 'Inter', sans-serif;
+      font-family: 'Calibri', Arial, sans-serif;
+      background: #f7fafc;
+      color: #212a34;
       margin: 0;
       padding: 0;
-      background: linear-gradient(to bottom right, #f8fafc, #e0f2fe);
-      color: #222;
     }
-    header {
-      background: url('https://images.unsplash.com/photo-1682687220298-050b7ee118af?fit=crop&w=1470&q=80') center/cover no-repeat;
-      color: white;
-      text-align: center;
-      padding: 80px 20px;
+    .navbar {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 10;
+      background: rgba(10,20,30,0.92);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+      height: 66px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.14);
+      backdrop-filter: blur(4px);
     }
-    header img {
-      width: 140px;
-      height: 140px;
-      border-radius: 50%;
-      border: 4px solid white;
-      margin-bottom: 20px;
+    .navbar-logo {
+      font-size: 1.6rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      color: #4dd0e1;
+      text-shadow: 0 2px 8px #00263577;
     }
-    nav {
-      text-align: center;
-      background: #1f2937;
-      padding: 10px 0;
+    .nav-links {
+      display: flex;
+      gap: 32px;
     }
-    nav a {
-      margin: 0 15px;
-      color: white;
+    .nav-link {
+      color: #f4f6fa;
+      font-weight: 500;
+      font-size: 1.05rem;
       text-decoration: none;
-      font-weight: 600;
+      letter-spacing: 1px;
+      transition: color 0.19s;
+      position: relative;
+      padding: 2px 0;
     }
-    section {
-      max-width: 960px;
-      margin: auto;
-      padding: 40px 20px;
+    .nav-link:hover,
+    .nav-link.active {
+      color: #4dd0e1;
+    }
+    .nav-link.active::after {
+      content: "";
+      position: absolute;
+      left: 0; right: 0; bottom: -5px; height: 3px;
+      background: linear-gradient(90deg, #30e8bf 20%, #4dd0e1 80%);
+      border-radius: 6px;
+    }
+    .container {
+      max-width: 880px;
+      margin: 90px auto 60px auto; /* add margin for navbar */
+      background: #fff;
+      box-shadow: 0 6px 36px rgba(33,42,52,0.07);
+      border-radius: 18px;
+      padding: 48px 36px 36px 36px;
+      position: relative;
+    }
+    .profile {
+      display: flex;
+      align-items: flex-start;
+      gap: 32px;
+    }
+    .profile img {
+      width: 142px;
+      height: 142px;
+      border-radius: 14px;
+      object-fit: cover;
+      border: 3px solid #4dd0e1;
+      background: #eaf8fa;
+    }
+    .profile-info {
+      flex: 1;
+    }
+    h1 {
+      font-size: 2.25rem;
+      margin: 0;
+      color: #102038;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+    .contact {
+      margin: 8px 0 16px 0;
+      font-size: 1.07rem;
+      color: #497992;
     }
     .section-title {
-      color: #1f2937;
-      border-bottom: 2px solid #e5e7eb;
-      padding-bottom: 5px;
-      margin-bottom: 20px;
+      font-size: 1.16rem;
+      letter-spacing: 1.1px;
+      color: #4dd0e1;
+      font-weight: bold;
+      margin-top: 40px;
+      margin-bottom: 14px;
+      text-transform: uppercase;
     }
-    .experience {
-      margin-bottom: 30px;
+    ul, .skills-list {
+      margin: 0 0 18px 0;
+      padding: 0 0 0 16px;
     }
-    .experience h3 {
-      margin-bottom: 5px;
-    }
-    .experience span {
-      color: #555;
-      font-size: 14px;
-    }
-    .experience ul {
-      margin: 10px 0 20px 20px;
+    .skills-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 18px;
+      list-style: none;
       padding: 0;
     }
-    footer {
-      background: #1f2937;
-      color: white;
-      text-align: center;
-      font-size: 14px;
-      padding: 20px;
+    .skills-list li {
+      background: #e6f7fa;
+      color: #18516e;
+      font-size: 0.97rem;
+      border-radius: 8px;
+      padding: 5px 13px;
+      margin: 0;
+      font-weight: 500;
     }
-    .contact-form input, .contact-form textarea {
-      width: 100%;
-      padding: 12px;
-      margin-bottom: 10px;
-      border: 1px solid #d1d5db;
-      border-radius: 4px;
-    }
-    .contact-form button {
-      background: #1f2937;
-      color: white;
-      padding: 10px 20px;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
+    .role {
       font-weight: bold;
+      color: #283b4e;
+    }
+    .company {
+      color: #4dd0e1;
+      font-weight: 600;
+      margin-left: 6px;
+    }
+    .period {
+      color: #92a3b2;
+      margin-left: 10px;
+      font-size: 0.96em;
+      font-style: italic;
+    }
+    .edu {
+      margin-bottom: 14px;
+    }
+    @media (max-width: 650px) {
+      .container { padding: 16px; }
+      .profile { flex-direction: column; align-items: center; gap: 12px;}
+      .profile img { width: 120px; height: 120px; }
+      h1 { font-size: 1.4rem;}
+      .navbar { padding: 0 12px; }
+      .nav-links { gap: 16px; }
     }
   </style>
 </head>
 <body>
-  <header>
-    <img src="https://avatars.githubusercontent.com/u/your-photo.png" alt="Chaitanya Kasani">
-    <h1>Chaitanya Kasani</h1>
-    <p>AI Product Manager | Platform Thinker | Roadmap Closer</p>
+  <!-- Elite sticky header/nav (identical to pitch page) -->
+  <header class="navbar">
+    <div class="navbar-logo">Chaitanya Kasani</div>
+    <nav class="nav-links">
+      <a href="index.html" class="nav-link">Home</a>
+      <a href="pitch.html" class="nav-link">Pitch</a>
+      <a href="resume.html" class="nav-link active">Resume</a>
+      <a href="#contact" class="nav-link">Contact</a>
+    </nav>
   </header>
 
-  <nav>
-    <a href="#about">About</a>
-    <a href="#experience">Experience</a>
-    <a href="#education">Education</a>
-    <a href="#contact">Contact</a>
-    <a href="pitch.html">Professional Pitch →</a>
-  </nav>
-
-  <section id="about">
-    <h2 class="section-title">About Me</h2>
-    <p>I’m an AI & platform-focused Product Manager with 9+ years of experience shipping B2B and B2C products across fintech, eCommerce, and healthcare. I specialize in scaling systems from 0 → 1, architecting AI workflows, and building multi-tenant platforms that serve thousands of users.</p>
-  </section>
-
-  <section id="experience">
-    <h2 class="section-title">Experience</h2>
-
-    <div class="experience">
-      <h3>TechGenie.ai – AI Chatbot with NLP, Escalation & Callback</h3>
-      <span>Feb 2025 – Present</span>
-      <ul>
-        <li>Launched GenAI chatbot scaling to 1M+ monthly requests and 40% support ticket automation</li>
-        <li>Built fallback logic and NLP behavior tracking to reduce avg. resolution time by 35%</li>
-        <li>Drafted a 12-month AI roadmap, aligned cloud infra with AWS + Azure scaling goals</li>
-      </ul>
+  <div class="container">
+    <div class="profile">
+      <img src="chaitanya_profile_cleaned.png" alt="Chaitanya Kasani headshot" />
+      <div class="profile-info">
+        <h1>Chaitanya Kasani</h1>
+        <div class="contact">
+          <span>ckkasani@gmail.com</span> |
+          <span>361-228-5963</span> |
+          <a href="https://www.linkedin.com/in/chaitanyakproductconsultant/" style="color:#497992;">LinkedIn</a>
+        </div>
+        <div>AI Product Manager &bull; AWS & Azure Implementations &bull; AI Workflows &bull; Salesforce Ecosystem</div>
+      </div>
     </div>
 
-    <div class="experience">
-      <h3>Sentara Healthcare – Agent Portal for Medicare Onboarding</h3>
-      <span>Sep 2023 – Feb 2025</span>
-      <ul>
-        <li>Delivered Salesforce-integrated, ADA-compliant portal for 5K+ field reps</li>
-        <li>Introduced OKR dashboards and Jira Ops workflows for SLA management</li>
-      </ul>
+    <!-- Professional Summary -->
+    <div class="section-title">Professional Summary</div>
+    <div>
+      AI & Platform Product Manager with 9+ years of experience scaling systems from 0 to 1 across fintech, eCommerce, and healthcare. Architected conversational AI products, LLM-integrated workflows, and API-first platforms serving thousands of users. Known for building velocity-driven teams and launching bold product bets—like a behavioral credit engine that boosted engagement 2.5× and a GenAI chatbot that scaled to 1M+ monthly requests. Systems thinker, Roadmap owner, Execution closer.
     </div>
 
-    <div class="experience">
-      <h3>Shutterfly – Automated Order & GTM Workflow</h3>
-      <span>Mar 2023 – Sep 2023</span>
-      <ul>
-        <li>Scaled modular e-commerce engine for print logistics</li>
-        <li>Launched tiered incentives boosting seasonal conversion</li>
-      </ul>
-    </div>
-
-    <div class="experience">
-      <h3>Learning Without Tears – B2B/B2C EdTech Storefront</h3>
-      <span>Jul 2021 – Feb 2022</span>
-      <ul>
-        <li>Redesigned storefront UX with tax logic, CPQ bundling, and address autofill</li>
-        <li>Improved cart abandonment rate by 15%</li>
-      </ul>
-    </div>
-
-    <div class="experience">
-      <h3>Amcor – Global Salesforce CPQ Platform</h3>
-      <span>Aug 2020 – Jul 2021</span>
-      <ul>
-        <li>Upgraded Salesforce workflows for 1,200+ B2B users with SOC2 compliance</li>
-        <li>Integrated API-driven order orchestration</li>
-      </ul>
-    </div>
-
-    <div class="experience">
-      <h3>KeyBank – Digital Banking APIs</h3>
-      <span>Nov 2019 – Jul 2020</span>
-      <ul>
-        <li>Integrated real-time underwriting across credit and loan APIs</li>
-        <li>Streamlined product requirements for secure replatforming</li>
-      </ul>
-    </div>
-
-    <div class="experience">
-      <h3>BBVA – Credit Workflows + API Collaboration</h3>
-      <span>Nov 2017 – Oct 2019</span>
-      <ul>
-        <li>Defined loan approval and validation flows with clear BRDs</li>
-        <li>Improved sprint velocity by 20%</li>
-      </ul>
-    </div>
-
-    <div class="experience">
-      <h3>GE Power & Aramark – Salesforce + Agile Execution</h3>
-      <span>2014 – 2017</span>
-      <ul>
-        <li>Delivered Agile features in utility ops, built reporting with Salesforce automation</li>
-      </ul>
-    </div>
-  </section>
-
-  <section id="education">
-    <h2 class="section-title">Education</h2>
+    <!-- Research & Practicum Section (your content, word for word) -->
+    <div class="section-title">Research & Practicum Highlights</div>
     <ul>
-      <li><strong>MIT xPRO</strong> – Product Management Certificate (Expected 2025)</li>
-      <li><strong>Texas A&M University, Kingsville</strong> – M.S. in Computer Science</li>
-      <li><strong>JNTU, Kakinada</strong> – B.S. in Computer Science</li>
+      <li>
+        <strong>📌 Staples (MIT Practicum):</strong>
+        Led discovery and product roadmap for internal procurement tools during MIT xPRO. Identified system gaps and pitched a modular assistant inspired by Genie. Collaborated with experienced PM peers.
+      </li>
+      <li>
+        <strong>📌 Libra Solutions (Pre-Interview Research):</strong>
+        Independently reverse-engineered Libra’s testing process before interviewing with their Director of Product. Proposed ways to streamline alpha/beta launches using AI-tagged tracking and roadmap alignment.
+      </li>
+      <li>
+        <strong>📌 Genie (Your Product):</strong>
+        Designed and shipped a multi-tenant GenAI support assistant from scratch. Scaled to 1M+ requests/month, automated 40% of support workflows, and powered appointment, escalation, and plan logic flows.
+      </li>
     </ul>
-  </section>
 
-  <section id="contact">
-    <h2 class="section-title">Contact Me</h2>
-    <form class="contact-form" action="mailto:ckkasani@gmail.com" method="post" enctype="text/plain">
-      <input type="text" name="name" placeholder="Your Name" required />
-      <input type="email" name="email" placeholder="Your Email" required />
-      <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
-      <button type="submit">Send Message</button>
-    </form>
-  </section>
+    <!-- Core Skills & Tools -->
+    <div class="section-title">Core Skills & Tools</div>
+    <ul class="skills-list">
+      <li>GenAI workflows</li>
+      <li>LLM prompt engineering</li>
+      <li>NLP escalation logic</li>
+      <li>Voice input UX</li>
+      <li>Multi-tenant platforms</li>
+      <li>API gateway integration</li>
+      <li>OAuth 2.0</li>
+      <li>AWS Lambda</li>
+      <li>Compliance-ready chat infra</li>
+      <li>Cloud-native architecture</li>
+      <li>RICE/MoSCoW prioritization</li>
+      <li>OKRs</li>
+      <li>Agile/Scrum/SAFe</li>
+      <li>A/B testing</li>
+      <li>Python (basic)</li>
+      <li>REST APIs</li>
+      <li>Azure & AWS</li>
+      <li>Salesforce</li>
+      <li>Postman</li>
+      <li>Hotjar</li>
+      <li>Google Analytics</li>
+    </ul>
 
-  <footer>
-    &copy; 2025 Chaitanya Kasani · Built with ❤️ on GitHub Pages
-  </footer>
+    <!-- Experience Section -->
+    <div class="section-title">Experience</div>
+    <div>
+      <div class="role">Product Manager <span class="company">@ TechGenie.ai</span> <span class="period">(Feb 2025–Present)</span></div>
+      <ul>
+        <li>Launched a GenAI chatbot on AWS/Azure; scaled from 0 to 1M+ monthly requests, automated 40%+ support tickets.</li>
+        <li>Tracked metrics, fine-tuned chatbot adoption, built escalation systems, cut resolution time by 35%.</li>
+        <li>Drove roadmap and alpha→GA features; A/B tested NLP flows, wrote 12-month AI product strategy.</li>
+      </ul>
+      <div class="role">Product Manager <span class="company">@ Sentara Healthcare</span> <span class="period">(Sep 2023–Feb 2025)</span></div>
+      <ul>
+        <li>Designed a Medicare/Medicaid onboarding platform with geo-routing, ADA portals, Salesforce automation (5K+ users).</li>
+        <li>Launched OKR dashboards, introduced JiraOps playbooks, led cross-functional releases on time.</li>
+      </ul>
+      <div class="role">Product Manager <span class="company">@ Shutterfly</span> <span class="period">(Aug 2022–Sep 2023)</span></div>
+      <ul>
+        <li>Built eCommerce engine for photo fulfillment, driving 40% revenue lift in K–12 segment.</li>
+        <li>Led Agile roadmaps, migrated platform infra, mentored junior PMs, built A/B testing for regional offers.</li>
+      </ul>
+      <div class="role">Product Manager <span class="company">@ Learning Without Tears</span> <span class="period">(July 2021–Aug 2022)</span></div>
+      <ul>
+        <li>Redesigned B2B/B2C EdTech storefront, CPQ bundling, IBM MQ event-driven migration; $500K+ revenue boost.</li>
+        <li>Cut cart abandonment by 15% via A/B discounts, led product-led acquisition with Sales/Marketing.</li>
+      </ul>
+      <div class="role">Lead Business Analyst <span class="company">@ Amcor</span> <span class="period">(Aug 2020–July 2021)</span></div>
+      <ul>
+        <li>Modernized Salesforce CPQ platform for 1,200+ B2B users; led InfoSec compliance and workflow redesign.</li>
+      </ul>
+      <div class="role">Lead Business Analyst <span class="company">@ KeyBank</span> <span class="period">(Nov 2019–July 2020)</span></div>
+      <ul>
+        <li>Owned digital banking requirements; integrated with credit APIs, delivered real-time underwriting (99.5% accuracy).</li>
+      </ul>
+      <div class="role">Senior Business Analyst <span class="company">@ BBVA Bank</span> <span class="period">(Nov 2017–Oct 2019)</span></div>
+      <ul>
+        <li>Streamlined credit card/loan approvals, authored BRDs, improved sprint velocity by 20%.</li>
+      </ul>
+      <div class="role">Business Analyst <span class="company">@ GE Power</span> <span class="period">(Aug 2016–Oct 2017)</span></div>
+      <div class="role">Business Analyst <span class="company">@ Aramark</span> <span class="period">(Dec 2014–Apr 2015)</span></div>
+    </div>
+
+    <!-- Education Section -->
+    <div class="section-title">Education</div>
+    <div class="edu">
+      <strong>MIT xPRO</strong> – Product Management Certificate (Expected 2025)
+    </div>
+    <div class="edu">
+      <strong>M.S., Computer Science</strong> – Texas A&M University, Kingsville
+    </div>
+    <div class="edu">
+      <strong>B.S., Computer Science</strong> – JNTU, Kakinada
+    </div>
+
+    <!-- Certifications -->
+    <div class="section-title">Certifications</div>
+    <ul>
+      <li>Certified Scrum Product Owner</li>
+      <li>Certified PMP</li>
+      <li>AZ-104 (In Progress)</li>
+    </ul>
+  </div>
 </body>
 </html>
