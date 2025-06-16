@@ -1,15 +1,79 @@
+/* style.css */
+
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  font-family: 'Calibri', sans-serif;
   margin: 0;
   padding: 0;
+  /* full-page gradient background */
+  background: linear-gradient(135deg, #102542 0%, #1e3a8a 100%);
+  color: #f1f5f9;
 }
+
 header {
-  background-color: #007bff;
-  color: white;
-  padding: 20px;
+  background: rgba(0,0,0,0.6);        /* semi-transparent dark overlay */
+  padding: 2rem 1rem;
   text-align: center;
 }
+
+header h1 {
+  font-size: 2.4rem;
+  margin: 0 0 .5rem;
+  color: #e0f2fe;
+}
+
+header p {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #cbd5e1;
+}
+
 section {
-  padding: 20px;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: rgba(15,31,58,0.8);     /* dark panel for readability */
+  border-radius: 8px;
+  animation: fadeInUp 0.8s ease both;
+}
+
+.section-title {
+  font-size: 1.4rem;
+  margin-bottom: .75rem;
+  padding-bottom: .25rem;
+  border-bottom: 2px solid #60a5fa;   /* your signature accent line */
+  color: #93c5fd;
+}
+
+ul {
+  padding-left: 1.25rem;
+  margin: 0 0 1rem;
+}
+
+li {
+  margin-bottom: .5rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #0f1f3a;
+  color: #94a3b8;
+  font-size: .85rem;
+}
+
+/* Optional mouse-trail effect, same as pitch.html */
+body::before {
+  content: "";
+  position: fixed; inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    radial-gradient(circle at var(--x) var(--y), rgba(100,179,255,0.3) 0%, transparent 15%);
+  z-index: 0;
+  transition: background .1s ease;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
