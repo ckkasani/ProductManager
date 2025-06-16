@@ -110,6 +110,9 @@ footer {
   border-bottom: 2px solid #60a5fa;
   color: #e0f2fe;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 /* Utility */
 a { color: #38bdf8; text-decoration: none; }
