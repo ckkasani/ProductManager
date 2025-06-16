@@ -3,111 +3,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pitch | Chaitanya Kasani — v7.6</title>
-  <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;800&display=swap" <link rel="stylesheet" href="style.css" />
-">
-  <style>
-    body {
-      font-family: 'Calibri', sans-serif;
-      margin: 0;
-      /* Use the PitchImage.png in your repo root */
-      background: url('PitchImage.png') center/cover no-repeat fixed;
-      color: #ffffff;
-      overflow-x: hidden;
-    }
-    body::before {
-      content: "";
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      pointer-events: none;
-      /* Dark overlay + mouse trail light */
-      background:
-        linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-        radial-gradient(circle at var(--x,50%) var(--y,50%), rgba(100,179,255,0.3) 0%, transparent 15%);
-      z-index: 1;
-      transition: background 0.1s ease;
-    }
-    header, section, footer {
-      position: relative;
-      z-index: 2;
-    }
-    header {
-      background: transparent;
-      padding: 28px 20px;
-      text-align: center;
-      animation: fadeInDown 1s ease both;
-    }
-    header h1 {
-      font-size: 2.4rem;
-      margin-bottom: 6px;
-      color: #e0f2fe;
-      letter-spacing: 0.5px;
-    }
-    header p {
-      font-size: 1rem;
-      font-weight: 300;
-      color: #cbd5e1;
-      margin-top: 0;
-    }
-    section {
-      max-width: 800px;
-      margin: auto;
-      padding: 16px 20px;
-      animation: fadeInUp 0.8s ease both;
-    }
-    .section-title {
-      font-size: 1.4rem;
-      border-bottom: 2px solid #60a5fa;
-      padding-bottom: 4px;
-      margin-bottom: 12px;
-      color: #93c5fd;
-    }
-    section p, section ul {
-      margin: 0 0 16px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 8px;
-    }
-    footer {
-      text-align: center;
-      font-size: 0.85rem;
-      background: #0f1f3a;
-      color: #94a3b8;
-      padding: 16px;
-    }
-    a {
-      color: #38bdf8;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes fadeInDown {
-      from { opacity: 0; transform: translateY(-20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
+  <title>Pitch | Chaitanya Kasani — v7.7</title>
+  <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;800&display=swap" rel="stylesheet">
+  <!-- Link to external stylesheet -->
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <!-- File: pitch.html | Version: RD Mode Level 7.6 -->
+  <!-- File: pitch.html | Version: RD Mode Level 7.7 -->
   <header>
     <h1>Building Platforms * Driving Innovation * Delivering Value.</h1>
     <p>"I don’t just build products. I create platforms addressing stakeholders' needs with long-term vision and reusability."</p>
   </header>
+
   <section>
     <h2 class="section-title">🚀 Elevator Pitch</h2>
     <p><strong>"I build digital products that solve complex business problems with ruthless clarity and execution. With over a decade blending business analysis and product management, I’ve led high-impact solutions across fintech, AI platforms, and enterprise tech. My portfolio is not just a showcase — it's proof of momentum, obsession with outcomes, and the grit to build what others delay. If you’re looking for velocity, precision, and a partner who owns outcomes like a founder — you just found him."</strong></p>
   </section>
+
   <section>
     <h2 class="section-title">🧪 Projects & Proof</h2>
     <ul>
@@ -115,6 +27,7 @@
       <li><strong>MIT xPRO</strong> – GTM strategy and product design frameworks for AI-integrated SaaS tools.</li>
     </ul>
   </section>
+
   <section>
     <h2 class="section-title">🎯 What I Bring to the Table</h2>
     <ul>
@@ -125,17 +38,20 @@
       <li>Obsessed with Clarity: Clean user stories, sprint velocity, and stakeholder alignment</li>
     </ul>
   </section>
+
   <section>
     <h2 class="section-title">📬 Let’s Talk</h2>
     <p>If you care about speed, outcomes, and real product impact — let’s connect.</p>
     <p>Email: <a href="mailto:ckkasani@gmail.com">ckkasani@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/chaitanyakproductconsultant/" target="_blank">Chaitanya on LinkedIn</a></p>
   </section>
+
   <footer>
-    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 7.6 ⚡
+    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 7.7 ⚡
   </footer>
+
   <script>
-    document.addEventListener("mousemove", (e) => {
+    document.addEventListener("mousemove", e => {
       const x = (e.clientX / window.innerWidth) * 100;
       const y = (e.clientY / window.innerHeight) * 100;
       document.body.style.setProperty("--x", `${x}%`);
