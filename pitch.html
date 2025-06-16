@@ -3,14 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pitch | Chaitanya Kasani — v7.4</title>
+  <title>Pitch | Chaitanya Kasani — v7.5</title>
   <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;800&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Calibri', sans-serif;
       margin: 0;
-      /* Background image from your GitHub Pages repo */
-      background: url('Pitch%20Image.png') center/cover no-repeat fixed;
+      /* Solid gradient background for reliable display */
+      background: linear-gradient(135deg, #1e3a8a, #102542);
       color: #ffffff;
       overflow-x: hidden;
     }
@@ -21,77 +21,62 @@
       left: 0;
       right: 0;
       bottom: 0;
-      width: 100%;
-      height: 100%;
       pointer-events: none;
-      background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-                  radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgba(100, 179, 255, 0.4) 0%, transparent 15%);
+      /* Dark overlay + mouse trail light */
+      background: radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgba(100,179,255,0.3) 0%, transparent 15%);
       z-index: 1;
-      transition: background 0.1s ease;
-    }
-    body::after {
-      content: "";
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      width: 100%;
-      height: 100%;
-      pointer-events: none;
-      background: radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgba(72, 165, 255, 0.3) 0%, transparent 12%);
-      z-index: 2;
       transition: background 0.1s ease;
     }
     header, section, footer {
       position: relative;
-      z-index: 3;
+      z-index: 2;
     }
     header {
       background: transparent;
-      padding: 36px 20px;
+      padding: 28px 20px;
       text-align: center;
-      animation: fadeInDown 1.2s ease both;
-      box-shadow: inset 0 0 60px rgba(72, 165, 255, 0.2);
+      animation: fadeInDown 1s ease both;
     }
     header h1 {
-      font-size: 2.6rem;
-      margin-bottom: 8px;
+      font-size: 2.4rem;
+      margin-bottom: 6px;
       color: #e0f2fe;
       letter-spacing: 0.5px;
     }
     header p {
-      font-size: 1.05rem;
+      font-size: 1rem;
       font-weight: 300;
-      color: #dbeafe;
+      color: #cbd5e1;
       margin-top: 0;
     }
     section {
-      max-width: 960px;
+      max-width: 800px;
       margin: auto;
-      padding: 16px 20px 10px;
+      padding: 16px 20px;
       animation: fadeInUp 0.8s ease both;
     }
     .section-title {
-      font-size: 1.5rem;
+      font-size: 1.4rem;
       border-bottom: 2px solid #60a5fa;
-      padding-bottom: 6px;
-      margin-bottom: 18px;
+      padding-bottom: 4px;
+      margin-bottom: 12px;
       color: #93c5fd;
+    }
+    section p, section ul {
+      margin: 0 0 16px;
     }
     ul {
       padding-left: 20px;
-      margin-top: 0;
     }
     li {
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
     footer {
       text-align: center;
       font-size: 0.85rem;
-      background: #1e293b;
+      background: #0f1f3a;
       color: #94a3b8;
-      padding: 20px;
+      padding: 16px;
     }
     a {
       color: #38bdf8;
@@ -101,17 +86,17 @@
       text-decoration: underline;
     }
     @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(30px); }
+      from { opacity: 0; transform: translateY(20px); }
       to { opacity: 1; transform: translateY(0); }
     }
     @keyframes fadeInDown {
-      from { opacity: 0; transform: translateY(-30px); }
+      from { opacity: 0; transform: translateY(-20px); }
       to { opacity: 1; transform: translateY(0); }
     }
   </style>
 </head>
 <body>
-  <!-- File: pitch.html | Version: RD Mode Level 7.4 -->
+  <!-- File: pitch.html | Version: RD Mode Level 7.5 -->
   <header>
     <h1>Building Platforms * Driving Innovation * Delivering Value.</h1>
     <p>"I don’t just build products. I create platforms addressing stakeholders' needs with long-term vision and reusability."</p>
@@ -123,18 +108,18 @@
   <section>
     <h2 class="section-title">🧪 Projects & Proof</h2>
     <ul>
-      <li><strong>Genie AI</strong> – Multi-tenant NLP platform with real-time support automation and plan-based appointment logic. Scaled to 1M+ monthly requests.</li>
-      <li><strong>MIT xPRO</strong> – Building Go-to-Market (GTM) strategy and product design frameworks for AI-integrated tools and SaaS products.</li>
+      <li><strong>Genie AI</strong> – Multi-tenant NLP platform automating 40%+ ticket volume and 1M+ monthly requests.</li>
+      <li><strong>MIT xPRO</strong> – GTM strategy and product design frameworks for AI-integrated SaaS tools.</li>
     </ul>
   </section>
   <section>
     <h2 class="section-title">🎯 What I Bring to the Table</h2>
     <ul>
-      <li>Strategic Product Thinking with GTM ownership</li>
-      <li>Hands-on Execution — backlog, QA, Dev, analytics</li>
-      <li>AI + NLP Implementation (GenAI workflows, prompt design)</li>
-      <li>Stakeholder Alignment and Cross-functional delivery</li>
-      <li>Relentless focus on metrics, A/B tests, and user feedback</li>
+      <li>Product Leadership: 9+ years of roadmap ownership and OKR-driven execution</li>
+      <li>AI + NLP Execution: Prompt design, fallback logic, and data-driven optimization</li>
+      <li>GTM Strategy: Voice-of-customer insights, A/B testing, and cross-functional launches</li>
+      <li>Platform Architecture: Secure, scalable multi-tenant systems on AWS & Azure</li>
+      <li>Obsessed with Clarity: Clean user stories, sprint velocity, and stakeholder alignment</li>
     </ul>
   </section>
   <section>
@@ -144,7 +129,7 @@
     <p>LinkedIn: <a href="https://www.linkedin.com/in/chaitanyakproductconsultant/" target="_blank">Chaitanya on LinkedIn</a></p>
   </section>
   <footer>
-    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 7.4 ⚡
+    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 7.5 ⚡
   </footer>
   <script>
     document.addEventListener("mousemove", (e) => {
