@@ -5,7 +5,7 @@
 📧 [ckkasani@gmail.com](mailto:ckkasani@gmail.com)  
 📞 361-228-5963  
 🔗 [LinkedIn](https://www.linkedin.com/in/chaitanyakproductconsultant/)  
-🌐 San Diego, CA  
+
 
 ---
 
