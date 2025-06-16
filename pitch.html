@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<!-- File: pitch.html | Version: RD Mode Level 7 -->
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pitch | Chaitanya Kasani</title>
+  <title>Pitch | Chaitanya Kasani — v7.1</title>
   <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;800&display=swap" rel="stylesheet">
   <style>
     body {
@@ -13,7 +12,7 @@
       background: url('/mnt/data/4c4e03d4-aeaf-4a24-9118-ef394413d8f5.png') center/cover no-repeat fixed;
       color: #ffffff;
       overflow-x: hidden;
-      background-color: rgba(0, 0, 0, 0.65);
+      
     }
     body::before {
   content: "";
@@ -25,7 +24,7 @@
   width: 100%;
   height: 100%;
   pointer-events: none;
-  background: radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgba(100, 179, 255, 0.4) 0%, transparent 15%);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), radial-gradient(circle at var(--x, 50%) var(--y, 50%), rgba(100, 179, 255, 0.4) 0%, transparent 15%);
   z-index: 1;
   transition: background 0.1s ease;
 }
@@ -111,7 +110,7 @@
 </style>
 </head>
 <body>
-  <!-- File: pitch.html | Version: RD Mode Level 7 -->
+  <!-- File: pitch.html | Version: RD Mode Level 7.1 -->
   <header>
     <h1>Building Platforms * Driving Innovation * Delivering Value.</h1>
     <p>"I don’t just build products. I create platforms addressing stakeholders' needs with long-term vision and reusability."</p>
@@ -146,14 +145,6 @@
   <footer>
     &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 7 ⚡
   </footer>
-  <script>
-    document.addEventListener("mousemove", (e) => {
-      const x = (e.clientX / window.innerWidth) * 100;
-      const y = (e.clientY / window.innerHeight) * 100;
-      document.body.style.setProperty("--x", `${x}%`);
-      document.body.style.setProperty("--y", `${y}%`);
-    });
-  </script>
   <script>
     document.addEventListener("mousemove", (e) => {
       const x = (e.clientX / window.innerWidth) * 100;
