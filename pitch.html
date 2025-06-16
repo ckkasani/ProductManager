@@ -383,5 +383,34 @@
       });
     });
   </script>
+  <script>
+  // MAGIC MOUSE TRAIL EFFECT
+  const mouseTrailColor = '#38bdf8';
+  const mouseTrailOpacity = 0.20;
+  const mouseTrailRadius = 52;   // px
+  const mouseTrailFade = 550;    // ms
+
+  document.addEventListener('mousemove', function(e) {
+    const trail = document.createElement('div');
+    trail.style.position = 'fixed';
+    trail.style.pointerEvents = 'none';
+    trail.style.left = (e.clientX - mouseTrailRadius/2) + 'px';
+    trail.style.top = (e.clientY - mouseTrailRadius/2) + 'px';
+    trail.style.width = mouseTrailRadius + 'px';
+    trail.style.height = mouseTrailRadius + 'px';
+    trail.style.borderRadius = '50%';
+    trail.style.background = `radial-gradient(circle, ${mouseTrailColor} ${mouseTrailOpacity*100}%, transparent 100%)`;
+    trail.style.opacity = mouseTrailOpacity;
+    trail.style.zIndex = 9999;
+    trail.style.transition = `opacity ${mouseTrailFade}ms ease`;
+
+    document.body.appendChild(trail);
+
+    setTimeout(() => {
+      trail.style.opacity = 0;
+      setTimeout(() => trail.remove(), mouseTrailFade);
+    }, 5);
+  });
+</script>
 </body>
 </html>
