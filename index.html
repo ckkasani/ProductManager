@@ -8,8 +8,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
   <!-- Vanta.NET for animated background -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js"></script>
   <style>
     html, body { height: 100%; margin: 0; padding: 0; font-family: 'Calibri', Arial, sans-serif; scroll-behavior: smooth;}
     body { min-height: 100vh; color: #f4f6fa; background: #0a192f; overflow-x: hidden; }
@@ -421,45 +419,49 @@
   <footer>
     &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 10 ⚡
   </footer>
-  <script>
-    VANTA.NET({
-      el: document.body,
-      backgroundColor: 0x0a192f,
-      color: 0x38bdf8,
-      maxDistance: 24.0,
-      spacing: 20.0,
-      showDots: true,
-      backgroundAlpha: 0.56
-    });
-    // Enable smooth scroll for anchor links
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function(e) {
-        const targetId = this.getAttribute('href').slice(1);
-        const el = document.getElementById(targetId);
-        if (el) {
-          e.preventDefault();
-          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-      });
-    });
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js"></script>
+<script>
+  VANTA.NET({
+    el: document.body,
+    backgroundColor: 0x0a192f,
+    color: 0x38bdf8,
+    maxDistance: 24.0,
+    spacing: 20.0,
+    showDots: true,
+    backgroundAlpha: 0.56
+  });
 
-    // MAGIC MOUSE LIGHT — just a soft light under cursor
-    const mouseLight = document.getElementById('magic-mouse-light');
-    document.addEventListener('mousemove', e => {
-      mouseLight.style.left = e.clientX + 'px';
-      mouseLight.style.top = e.clientY + 'px';
-      mouseLight.style.opacity = 0.33;
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      const targetId = this.getAttribute('href').slice(1);
+      const el = document.getElementById(targetId);
+      if (el) {
+        e.preventDefault();
+        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
     });
-    document.addEventListener('mouseleave', () => { mouseLight.style.opacity = 0; });
-    document.addEventListener('mouseenter', () => { mouseLight.style.opacity = 0.33; });
-  ...
-  </script>
-  <script src="/assets/js/genie-loader.js"></script>
-  <script>
-    window.Genie.init({
-      clientId: "my_portfolio",
-      themeColor: "#FF4081"
-    });
-  </script>
+  });
+
+  const mouseLight = document.getElementById('magic-mouse-light');
+  document.addEventListener('mousemove', e => {
+    mouseLight.style.left = e.clientX + 'px';
+    mouseLight.style.top = e.clientY + 'px';
+    mouseLight.style.opacity = 0.33;
+  });
+  document.addEventListener('mouseleave', () => {
+    mouseLight.style.opacity = 0;
+  });
+  document.addEventListener('mouseenter', () => {
+    mouseLight.style.opacity = 0.33;
+  });
+</script>
+<script src="./genie-loader.js"></script>
+<script>
+  window.Genie.init({
+    clientId: "portfolio_001",
+    themeColor: "#38bdf8"
+  });
+</script>
 </body>
 </html>
