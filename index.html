@@ -419,49 +419,61 @@
   <footer>
     &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 10 ⚡
   </footer>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js" defer></script>
+<script src="./genie-loader.js" defer></script>
 <script>
-  VANTA.NET({
-    el: document.body,
-    backgroundColor: 0x0a192f,
-    color: 0x38bdf8,
-    maxDistance: 24.0,
-    spacing: 20.0,
-    showDots: true,
-    backgroundAlpha: 0.56
-  });
+  document.addEventListener('DOMContentLoaded', () => {
+    // Initialize VANTA.NET safely
+    if (window.VANTA && VANTA.NET) {
+      VANTA.NET({
+        el: document.body,
+        backgroundColor: 0x0a192f,
+        color: 0x38bdf8,
+        maxDistance: 24.0,
+        spacing: 20.0,
+        showDots: true,
+        backgroundAlpha: 0.56
+      });
+    }
 
-  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function(e) {
-      const targetId = this.getAttribute('href').slice(1);
-      const el = document.getElementById(targetId);
-      if (el) {
-        e.preventDefault();
-        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
+    // Smooth scroll for internal anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', e => {
+        const targetId = anchor.getAttribute('href').slice(1);
+        const el = document.getElementById(targetId);
+        if (el) {
+          e.preventDefault();
+          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
     });
-  });
 
-  const mouseLight = document.getElementById('magic-mouse-light');
-  document.addEventListener('mousemove', e => {
-    mouseLight.style.left = e.clientX + 'px';
-    mouseLight.style.top = e.clientY + 'px';
-    mouseLight.style.opacity = 0.33;
-  });
-  document.addEventListener('mouseleave', () => {
-    mouseLight.style.opacity = 0;
-  });
-  document.addEventListener('mouseenter', () => {
-    mouseLight.style.opacity = 0.33;
+    // Magic mouse light follow effect
+    const mouseLight = document.getElementById('magic-mouse-light');
+    if (mouseLight) {
+      document.addEventListener('mousemove', e => {
+        mouseLight.style.left = `${e.clientX}px`;
+        mouseLight.style.top = `${e.clientY}px`;
+        mouseLight.style.opacity = 0.33;
+      });
+      document.addEventListener('mouseleave', () => {
+        mouseLight.style.opacity = 0;
+      });
+      document.addEventListener('mouseenter', () => {
+        mouseLight.style.opacity = 0.33;
+      });
+    }
+
+    // Initialize Genie loader safely
+    if (window.Genie && typeof window.Genie.init === 'function') {
+      window.Genie.init({
+        clientId: "portfolio_001",
+        themeColor: "#38bdf8"
+      });
+    }
   });
 </script>
-<script src="./genie-loader.js"></script>
-<script>
-  window.Genie.init({
-    clientId: "portfolio_001",
-    themeColor: "#38bdf8"
-  });
-</script>
+
 </body>
 </html>
