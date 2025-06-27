@@ -452,6 +452,31 @@
     });
     document.addEventListener('mouseleave', () => { mouseLight.style.opacity = 0; });
     document.addEventListener('mouseenter', () => { mouseLight.style.opacity = 0.33; });
+  ...
+  </script>
+  <!-- Genie SDK -->
+  <!-- Genie SDK -->
+  <script src="https://genie.mytechgenie.ai/genie-sdk.js"></script>
+  <script>
+    try {
+      Genie.init({
+        clientId: "portfolio_001",
+        theme: {
+            primaryColor: "#38bdf8",
+            launcherIcon: "https://yourcdn.com/genie-icon.svg",
+            width: 400,
+            height: 600
+        },
+        customEvents: {
+            onOpen: () => console.log("✅ Genie chat opened"),
+            onClose: () => console.log("✅ Genie chat closed"),
+            onMessageSent: (payload) => console.log("✅ Genie message sent", payload),
+            onMessageReceived: (payload) => console.log("✅ Genie message received", payload)
+        }
+      });
+    } catch (e) {
+      console.error("Genie SDK load error", e);
+    }
   </script>
 </body>
 </html>
