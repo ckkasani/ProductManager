@@ -465,15 +465,23 @@
       });
     }
 
-    // Initialize Genie loader safely
+    // ✅ Initialize Genie AND auto-open the chat window
     if (window.Genie && typeof window.Genie.init === 'function') {
       window.Genie.init({
         clientId: "portfolio_001",
         themeColor: "#38bdf8"
       });
+
+      // Small delay to ensure widget finishes loading
+      setTimeout(() => {
+        if (window.Genie.open && typeof window.Genie.open === 'function') {
+          window.Genie.open();
+        } else {
+          console.error("Genie.open() is not available!");
+        }
+      }, 500);
     }
   });
 </script>
-
 </body>
 </html>
