@@ -423,6 +423,28 @@
   .genie-launcher-button {
     display: none !important;
   }
+  .genie-green-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  background: linear-gradient(90deg, #38bdf8, #4dd0e1 90%);
+  color: #0a192f;
+  font-weight: 800;
+  border: none;
+  border-radius: 50px;
+  padding: 14px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  transition: all 0.3s ease;
+}
+
+.genie-green-btn:hover {
+  background: linear-gradient(90deg, #4dd0e1, #38bdf8 80%);
+  color: #0d2237;
+}
+
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js" defer></script>
@@ -492,6 +514,8 @@
     }
   });
 </script>
-
+<button id="genieCustomBtn" class="genie-green-btn">
+  💬 Chat with Genie
+</button>
 </body>
 </html>
