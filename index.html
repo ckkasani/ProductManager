@@ -419,12 +419,10 @@
   <footer>
     &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 10 ⚡
   </footer>
-<!-- Remove custom Genie button and green button CSS. 
-     Keep only what is needed for Genie default launcher -->
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js" defer></script>
 <script src="./genie-loader.js" defer></script>
+
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     // VANTA background
@@ -468,14 +466,37 @@
       });
     }
 
-    // ✅ Initialize Genie with default launcher (no showLauncher:false)
+    // Initialize Genie with clientId
     if (window.Genie && typeof window.Genie.init === 'function') {
       window.Genie.init({
         clientId: "portfolio_001",
         themeColor: "#38bdf8"
-        // showLauncher: true is default, so just omit it!
       });
     }
+
+    // Async sendMessage function with client_id
+    window.sendMessage = async function(message) {
+      const sessionId = window.localStorage.getItem("genie_session_id") || "";
+      const userId = window.localStorage.getItem("genie_user_id") || "guest";
+
+      try {
+        const response = await fetch("/api/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            session_id: sessionId,
+            user_id: userId,
+            client_id: "portfolio_001",
+            message: message
+          }),
+        });
+        const data = await response.json();
+        console.log("Genie response:", data.response);
+        // TODO: Display the chatbot response in your UI here
+      } catch (err) {
+        console.error("Genie chat error:", err);
+      }
+    };
   });
 </script>
 </body>
