@@ -419,33 +419,9 @@
   <footer>
     &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 10 ⚡
   </footer>
-<style>
-  #.genie-launcher-button {
-    display: none !important;
-  }
-  .genie-green-btn {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 9999;
-  background: linear-gradient(90deg, #38bdf8, #4dd0e1 90%);
-  color: #0a192f;
-  font-weight: 800;
-  border: none;
-  border-radius: 50px;
-  padding: 14px 24px;
-  font-size: 16px;
-  cursor: pointer;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
-  transition: all 0.3s ease;
-}
+<!-- Remove custom Genie button and green button CSS. 
+     Keep only what is needed for Genie default launcher -->
 
-.genie-green-btn:hover {
-  background: linear-gradient(90deg, #4dd0e1, #38bdf8 80%);
-  color: #0d2237;
-}
-
-</style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js" defer></script>
 <script src="./genie-loader.js" defer></script>
@@ -492,30 +468,15 @@
       });
     }
 
-    // ✅ Initialize Genie without its own launcher
+    // ✅ Initialize Genie with default launcher (no showLauncher:false)
     if (window.Genie && typeof window.Genie.init === 'function') {
       window.Genie.init({
         clientId: "portfolio_001",
-        themeColor: "#38bdf8",
-        showLauncher: false
+        themeColor: "#38bdf8"
+        // showLauncher: true is default, so just omit it!
       });
-
-      // Hook up your custom green button
-      const btn = document.getElementById('genieCustomBtn');
-      if (btn) {
-        btn.addEventListener('click', () => {
-          if (window.Genie && typeof window.Genie.open === 'function') {
-            window.Genie.open();
-          } else {
-            console.error("Genie.open() is not ready yet.");
-          }
-        });
-      }
     }
   });
 </script>
-<button id="genieCustomBtn" class="genie-green-btn">
-  💬 Chat with Genie
-</button>
 </body>
 </html>
