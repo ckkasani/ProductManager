@@ -424,80 +424,84 @@
 <script src="./genie-loader.js" defer></script>
 
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    // VANTA background
-    if (window.VANTA && VANTA.NET) {
-      VANTA.NET({
-        el: document.body,
-        backgroundColor: 0x0a192f,
-        color: 0x38bdf8,
-        maxDistance: 24.0,
-        spacing: 20.0,
-        showDots: true,
-        backgroundAlpha: 0.56
-      });
-    }
-
-    // Smooth scroll
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', e => {
-        const targetId = anchor.getAttribute('href').slice(1);
-        const el = document.getElementById(targetId);
-        if (el) {
-          e.preventDefault();
-          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-      });
+document.addEventListener('DOMContentLoaded', () => {
+  // VANTA background effect
+  if (window.VANTA && VANTA.NET) {
+    VANTA.NET({
+      el: document.body,
+      backgroundColor: 0x0a192f,
+      color: 0x38bdf8,
+      maxDistance: 24.0,
+      spacing: 20.0,
+      showDots: true,
+      backgroundAlpha: 0.56
     });
+  }
 
-    // Magic mouse effect
-    const mouseLight = document.getElementById('magic-mouse-light');
-    if (mouseLight) {
-      document.addEventListener('mousemove', e => {
-        mouseLight.style.left = `${e.clientX}px`;
-        mouseLight.style.top = `${e.clientY}px`;
-        mouseLight.style.opacity = 0.33;
-      });
-      document.addEventListener('mouseleave', () => {
-        mouseLight.style.opacity = 0;
-      });
-      document.addEventListener('mouseenter', () => {
-        mouseLight.style.opacity = 0.33;
-      });
-    }
-
-    // Initialize Genie with clientId
-    if (window.Genie && typeof window.Genie.init === 'function') {
-      window.Genie.init({
-        clientId: "portfolio_001",
-        themeColor: "#38bdf8"
-      });
-    }
-
-    // Async sendMessage function with client_id
-    window.sendMessage = async function(message) {
-      const sessionId = window.localStorage.getItem("genie_session_id") || "";
-      const userId = window.localStorage.getItem("genie_user_id") || "guest";
-
-      try {
-        const response = await fetch("/api/chat", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            session_id: sessionId,
-            user_id: userId,
-            client_id: "portfolio_001",
-            message: message
-          }),
-        });
-        const data = await response.json();
-        console.log("Genie response:", data.response);
-        // TODO: Display the chatbot response in your UI here
-      } catch (err) {
-        console.error("Genie chat error:", err);
+  // Smooth scrolling
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', e => {
+      const targetId = anchor.getAttribute('href').slice(1);
+      const el = document.getElementById(targetId);
+      if (el) {
+        e.preventDefault();
+        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
-    };
+    });
   });
+
+  // Magic mouse effect
+  const mouseLight = document.getElementById('magic-mouse-light');
+  if (mouseLight) {
+    document.addEventListener('mousemove', e => {
+      mouseLight.style.left = `${e.clientX}px`;
+      mouseLight.style.top = `${e.clientY}px`;
+      mouseLight.style.opacity = 0.33;
+    });
+    document.addEventListener('mouseleave', () => {
+      mouseLight.style.opacity = 0;
+    });
+    document.addEventListener('mouseenter', () => {
+      mouseLight.style.opacity = 0.33;
+    });
+  }
+
+  // Initialize Genie widget
+  if (window.Genie && typeof window.Genie.init === 'function') {
+    window.Genie.init({
+      clientId: "portfolio_001", // Update this if your portfolio client_id is different
+      themeColor: "#38bdf8"
+    });
+  }
+
+  // Async message sending with client_id context
+  window.sendMessage = async function(message) {
+    const sessionId = window.localStorage.getItem("genie_session_id") || "";
+    const userId = window.localStorage.getItem("genie_user_id") || "guest";
+
+    try {
+      const response = await fetch("/api/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          session_id: sessionId,
+          user_id: userId,
+          client_id: "portfolio_001", // IMPORTANT: filters traffic for this tenant
+          message: message
+        }),
+      });
+
+      const data = await response.json();
+      console.log("Genie response:", data.response);
+
+      // Optional: Display chatbot response in UI
+      // document.querySelector("#chatbot-output").textContent = data.response;
+
+    } catch (err) {
+      console.error("Genie chat error:", err);
+    }
+  };
+});
 </script>
 </body>
 </html>
