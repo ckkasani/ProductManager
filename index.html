@@ -438,7 +438,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Smooth scrolling
+  // Smooth scrolling for anchor links
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', e => {
       const targetId = anchor.getAttribute('href').slice(1);
@@ -450,7 +450,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // Magic mouse effect
+  // Magic mouse light effect
   const mouseLight = document.getElementById('magic-mouse-light');
   if (mouseLight) {
     document.addEventListener('mousemove', e => {
@@ -466,10 +466,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Initialize Genie widget
+  // Initialize Genie widget with correct clientId
   if (window.Genie && typeof window.Genie.init === 'function') {
     window.Genie.init({
-      clientId: "portfolio_001", // Update this if your portfolio client_id is different
+      clientId: "chaitanya_portfolio", // Correct Client ID for this portfolio
       themeColor: "#38bdf8"
     });
   }
@@ -486,7 +486,7 @@ document.addEventListener('DOMContentLoaded', () => {
         body: JSON.stringify({
           session_id: sessionId,
           user_id: userId,
-          client_id: "portfolio_001", // IMPORTANT: filters traffic for this tenant
+          client_id: "chaitanya_portfolio", // Correct Client ID for this portfolio
           message: message
         }),
       });
@@ -503,5 +503,6 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 });
 </script>
+
 </body>
 </html>
