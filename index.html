@@ -466,41 +466,22 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Initialize Genie widget with correct clientId
-  if (window.Genie && typeof window.Genie.init === 'function') {
-    window.Genie.init({
-      clientId: "chaitanya_portfolio", // Correct Client ID for this portfolio
-      themeColor: "#38bdf8"
-    });
-  }
-
-  // Async message sending with client_id context
-  window.sendMessage = async function(message) {
-    const sessionId = window.localStorage.getItem("genie_session_id") || "";
-    const userId = window.localStorage.getItem("genie_user_id") || "guest";
-
-    try {
-      const response = await fetch("/api/chat", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          session_id: sessionId,
-          user_id: userId,
-          client_id: "chaitanya_portfolio", // Correct Client ID for this portfolio
-          message: message
-        }),
-      });
-
-      const data = await response.json();
-      console.log("Genie response:", data.response);
-
-      // Optional: Display chatbot response in UI
-      // document.querySelector("#chatbot-output").textContent = data.response;
-
-    } catch (err) {
-      console.error("Genie chat error:", err);
-    }
-  };
+  // ✅ Embed Genie chatbot as iframe (replaces buggy SDK/API call)
+  const clientId = "chaitanya_portfolio";
+  const iframe = document.createElement("iframe");
+  iframe.src = `https://chat.mytechgenie.ai/?client_id=${clientId}`;
+  iframe.id = "genie-chatbot";
+  iframe.style.position = "fixed";
+  iframe.style.bottom = "20px";
+  iframe.style.right = "20px";
+  iframe.style.width = "400px";
+  iframe.style.height = "600px";
+  iframe.style.border = "1px solid #ccc";
+  iframe.style.borderRadius = "10px";
+  iframe.style.zIndex = "9999";
+  iframe.style.background = "#ffffff";
+  iframe.allow = "microphone; camera";
+  document.body.appendChild(iframe);
 });
 </script>
 
