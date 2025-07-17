@@ -466,24 +466,31 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // ✅ Embed Genie chatbot as iframe (replaces buggy SDK/API call)
+  // ✅ Embed Genie chatbot as iframe (secure HTTPS)
   const clientId = "chaitanya_portfolio";
   const iframe = document.createElement("iframe");
   iframe.src = `https://chat.mytechgenie.ai/?client_id=${clientId}`;
   iframe.id = "genie-chatbot";
-  iframe.style.position = "fixed";
-  iframe.style.bottom = "20px";
-  iframe.style.right = "20px";
-  iframe.style.width = "400px";
-  iframe.style.height = "600px";
-  iframe.style.border = "1px solid #ccc";
-  iframe.style.borderRadius = "10px";
-  iframe.style.zIndex = "9999";
-  iframe.style.background = "#ffffff";
-  iframe.allow = "microphone; camera";
+  Object.assign(iframe.style, {
+    position: "fixed",
+    bottom: "20px",
+    right: "20px",
+    width: "420px",
+    height: "620px",
+    border: "none",
+    borderRadius: "12px",
+    boxShadow: "0 10px 25px rgba(0, 0, 0, 0.15)",
+    zIndex: "9999",
+    backgroundColor: "#fff"
+  });
+  iframe.allow = "clipboard-write; microphone; camera";
+  iframe.loading = "lazy";
+  iframe.title = "Chat with Genie";
+
   document.body.appendChild(iframe);
 });
 </script>
+
 
 </body>
 </html>
