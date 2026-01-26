@@ -423,73 +423,228 @@
 <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js" defer></script>
 <script src="./genie-loader.js" defer></script>
 
+<!--
+  ╔═══════════════════════════════════════════════════════════════════════════╗
+  ║  TECHGENIE EMBED SCRIPT - PRODUCTION                                       ║
+  ║  Version: 2.0.0                                                            ║
+  ║  Environment: PRODUCTION (www.mytechgenie.ai / chatbot.mytechgenie.ai)    ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+  
+  INSTRUCTIONS FOR CLIENTS:
+  1. Copy this entire code block
+  2. Paste it just before the closing </body> tag on your website
+  3. Change data-client-id to YOUR unique client ID (provided by TechGenie)
+  4. That's it! The chat widget will appear on your site.
+  
+  CUSTOMIZATION OPTIONS:
+  - data-client-id: Your unique tenant ID (REQUIRED)
+  - data-origin: Chat server URL (do not change unless instructed)
+  - data-position: "right" (default) or "left"
+  - data-color: Brand color for launcher button (hex, e.g., "#0a7d58")
+-->
+
+<!-- Genie Chat Integration - PRODUCTION -->
+<div id="genie-chat-container"
+     data-client-id="YOUR_CLIENT_ID_HERE"
+     data-origin="https://chatbot.mytechgenie.ai"
+     data-position="right"
+     data-color="#0a7d58"
+     style="position:fixed;right:20px;bottom:20px;z-index:9999"></div>
+
+<style>
+  /* Floating launcher button */
+  #genie-launcher {
+    position: fixed;
+    right: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom));
+    width: 56px;
+    height: 56px;
+    border: none;
+    border-radius: 50%;
+    background: var(--genie-brand-color, #0a7d58);
+    box-shadow: 0 8px 20px rgba(0,0,0,.18);
+    cursor: pointer;
+    z-index: 2147483647;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  #genie-launcher:hover {
+    transform: scale(1.08);
+    box-shadow: 0 10px 28px rgba(0,0,0,.25);
+  }
+  #genie-launcher svg { width: 26px; height: 26px; fill: #fff; }
+  #genie-launcher.genie-left { right: auto; left: 16px; }
+  
+  /* Chat iframe container */
+  #genie-chatbot {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 420px;
+    height: 620px;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.15);
+    background: #fff;
+    z-index: 2147483647;
+    display: none;
+  }
+  #genie-chatbot.genie-left { right: auto; left: 20px; }
+  
+  /* Mobile responsive */
+  @media (max-width: 480px) {
+    #genie-launcher { 
+      bottom: calc(80px + env(safe-area-inset-bottom)); 
+      width: 52px;
+      height: 52px;
+    }
+    #genie-launcher.genie-left { left: 12px; }
+    #genie-chatbot {
+      width: 100% !important;
+      height: 70vh !important;
+      right: 0 !important;
+      left: 0 !important;
+      bottom: 0 !important;
+      border-radius: 12px 12px 0 0 !important;
+    }
+  }
+</style>
+
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  // VANTA background effect
-  if (window.VANTA && VANTA.NET) {
-    VANTA.NET({
-      el: document.body,
-      backgroundColor: 0x0a192f,
-      color: 0x38bdf8,
-      maxDistance: 24.0,
-      spacing: 20.0,
-      showDots: true,
-      backgroundAlpha: 0.56
-    });
+(function(){
+  "use strict";
+  
+  // Configuration
+  var container = document.getElementById("CHAIPF11");
+  var ORIGIN = "https://chatbot.mytechgenie.ai"; // PRODUCTION
+  var iframe = null;
+  var isOpen = false;
+  
+  // Get configuration from data attributes
+  function getConfig() {
+    if (!container) {
+      console.warn("[Genie] Container element not found");
+      return null;
+    }
+    
+    var originAttr = container.getAttribute("data-origin");
+    if (originAttr) {
+      ORIGIN = originAttr.replace(/\/+$/, "");
+    }
+    
+    return {
+      clientId: container.getAttribute("data-client-id") || "demo",
+      position: container.getAttribute("data-position") || "right",
+      color: container.getAttribute("data-color") || "#0a7d58"
+    };
   }
-
-  // Smooth scrolling for anchor links
-  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', e => {
-      const targetId = anchor.getAttribute('href').slice(1);
-      const el = document.getElementById(targetId);
-      if (el) {
-        e.preventDefault();
-        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  
+  // Create the chat iframe
+  function createIframe(config) {
+    var f = document.createElement("iframe");
+    f.id = "genie-chatbot";
+    f.title = "Chat with Genie";
+    f.src = ORIGIN + "CHAIPF11" + encodeURIComponent(config.clientId) + "&embed=1";
+    f.allow = "clipboard-write; microphone; camera";
+    f.loading = "lazy";
+    f.referrerPolicy = "no-referrer-when-downgrade";
+    
+    if (config.position === "left") {
+      f.classList.add("genie-left");
+    }
+    
+    return f;
+  }
+  
+  // Create the launcher button
+  function createLauncher(config) {
+    if (document.getElementById("genie-launcher")) return;
+    
+    var btn = document.createElement("button");
+    btn.id = "genie-launcher";
+    btn.setAttribute("aria-label", "Open chat");
+    btn.style.setProperty("--genie-brand-color", config.color);
+    
+    if (config.position === "left") {
+      btn.classList.add("genie-left");
+    }
+    
+    // Chat icon (closed state) / X icon (open state)
+    btn.innerHTML = '<svg id="genie-icon-chat" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2ZM6 9h12v2H6V9Zm0-4h12v2H6V5Zm0 8h8v2H6v-2Z"/></svg><svg id="genie-icon-close" viewBox="0 0 24 24" aria-hidden="true" style="display:none"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>';
+    
+    btn.onclick = function() {
+      toggleChat(config);
+    };
+    
+    document.body.appendChild(btn);
+  }
+  
+  // Toggle chat open/close
+  function toggleChat(config) {
+    if (!iframe) {
+      iframe = createIframe(config);
+      (container || document.body).appendChild(iframe);
+    }
+    
+    isOpen = !isOpen;
+    iframe.style.display = isOpen ? "block" : "none";
+    
+    // Toggle icon
+    var chatIcon = document.getElementById("genie-icon-chat");
+    var closeIcon = document.getElementById("genie-icon-close");
+    if (chatIcon && closeIcon) {
+      chatIcon.style.display = isOpen ? "none" : "block";
+      closeIcon.style.display = isOpen ? "block" : "none";
+    }
+  }
+  
+  // Listen for close messages from iframe
+  window.addEventListener("message", function(event) {
+    if (event.origin !== ORIGIN) return;
+    
+    try {
+      var data = typeof event.data === "string" ? JSON.parse(event.data) : event.data;
+      if (data.type === "genie:close" || data.action === "close") {
+        if (iframe) {
+          isOpen = false;
+          iframe.style.display = "none";
+          var chatIcon = document.getElementById("genie-icon-chat");
+          var closeIcon = document.getElementById("genie-icon-close");
+          if (chatIcon && closeIcon) {
+            chatIcon.style.display = "block";
+            closeIcon.style.display = "none";
+          }
+        }
       }
-    });
+    } catch (e) {}
   });
-
-  // Magic mouse light effect
-  const mouseLight = document.getElementById('magic-mouse-light');
-  if (mouseLight) {
-    document.addEventListener('mousemove', e => {
-      mouseLight.style.left = `${e.clientX}px`;
-      mouseLight.style.top = `${e.clientY}px`;
-      mouseLight.style.opacity = 0.33;
-    });
-    document.addEventListener('mouseleave', () => {
-      mouseLight.style.opacity = 0;
-    });
-    document.addEventListener('mouseenter', () => {
-      mouseLight.style.opacity = 0.33;
-    });
+  
+  // Initialize
+  function init() {
+    var config = getConfig();
+    if (!config) return;
+    
+    if (!config.clientId || config.clientId === "CHAIPF11") {
+      console.error("[Genie] ERROR: Please set your client ID in data-client-id attribute");
+      return;
+    }
+    
+    createLauncher(config);
+    console.log("[Genie] Chat widget initialized for client:", config.clientId);
   }
-
-  // ✅ Embed Genie chatbot as iframe (secure HTTPS)
-  const clientId = "chaitanya_portfolio";  // change if needed
-  const iframe = document.createElement("iframe");
-  iframe.src = `https://chat.mytechgenie.ai/?client_id=${clientId}`;
-  iframe.id = "genie-chatbot";
-  Object.assign(iframe.style, {
-    position: "fixed",
-    bottom: "20px",
-    right: "20px",
-    width: "420px",
-    height: "620px",
-    border: "none",
-    borderRadius: "12px",
-    boxShadow: "0 10px 25px rgba(0, 0, 0, 0.15)",
-    zIndex: "9999",
-    backgroundColor: "#fff"
-  });
-  iframe.allow = "clipboard-write; microphone; camera";
-  iframe.loading = "lazy";
-  iframe.title = "Chat with Genie";
-
-  document.body.appendChild(iframe);
-});
+  
+  // Start when DOM is ready
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init, { once: true });
+  } else {
+    init();
+  }
+})();
 </script>
+<!-- END Genie Chat Integration - PRODUCTION -->
+
 
 </body>
 </html>
