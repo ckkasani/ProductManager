@@ -423,7 +423,9 @@
 <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js" defer></script>
 <script src="./genie-loader.js" defer></script>
 
-<!-- Genie Chat Integration - PRODUCTION -->
+<!-- Genie Chat Integration - PRODUCTION (CORRECTED) -->
+<!-- Place this just before </body> tag -->
+
 <div id="genie-chat-container"
      data-client-id="CHAIPF11"
      data-origin="https://chatbot.mytechgenie.ai"
@@ -496,8 +498,8 @@
 (function(){
   "use strict";
   
-  // Configuration
-  var container = document.getElementById("CHAIPF11");
+  // Configuration - FIXED: Use correct container ID
+  var container = document.getElementById("genie-chat-container");
   var ORIGIN = "https://chatbot.mytechgenie.ai"; // PRODUCTION
   var iframe = null;
   var isOpen = false;
@@ -521,12 +523,13 @@
     };
   }
   
-  // Create the chat iframe
+  // Create the chat iframe - FIXED: Correct URL format
   function createIframe(config) {
     var f = document.createElement("iframe");
     f.id = "genie-chatbot";
     f.title = "Chat with Genie";
-    f.src = ORIGIN + "CHAIPF11" + encodeURIComponent(config.clientId) + "&embed=1";
+    // FIXED: Proper URL with /?client_id=
+    f.src = ORIGIN + "/?client_id=" + encodeURIComponent(config.clientId) + "&embed=1";
     f.allow = "clipboard-write; microphone; camera";
     f.loading = "lazy";
     f.referrerPolicy = "no-referrer-when-downgrade";
@@ -606,7 +609,8 @@
     var config = getConfig();
     if (!config) return;
     
-    if (!config.clientId || config.clientId === "CHAIPF11") {
+    // FIXED: Proper validation
+    if (!config.clientId || config.clientId === "YOUR_CLIENT_ID_HERE" || config.clientId === "demo") {
       console.error("[Genie] ERROR: Please set your client ID in data-client-id attribute");
       return;
     }
@@ -623,7 +627,7 @@
   }
 })();
 </script>
-<!-- END Genie Chat Integration - PRODUCTION -->
+<!-- END Genie Chat Integration -->
 
 
 </body>
