@@ -425,6 +425,8 @@
 
 <!-- Genie Chat Integration - PRODUCTION (CORRECTED) -->
 <!-- Place this just before </body> tag -->
+<!-- Genie Chat Integration - PRODUCTION -->
+<!-- Place this just before </body> tag -->
 
 <div id="genie-chat-container"
      data-client-id="CHAIPF11"
@@ -498,9 +500,9 @@
 (function(){
   "use strict";
   
-  // Configuration - FIXED: Use correct container ID
+  // Configuration
   var container = document.getElementById("genie-chat-container");
-  var ORIGIN = "https://chatbot.mytechgenie.ai"; // PRODUCTION
+  var ORIGIN = "https://chatbot.mytechgenie.ai";
   var iframe = null;
   var isOpen = false;
   
@@ -523,12 +525,11 @@
     };
   }
   
-  // Create the chat iframe - FIXED: Correct URL format
+  // Create the chat iframe
   function createIframe(config) {
     var f = document.createElement("iframe");
     f.id = "genie-chatbot";
     f.title = "Chat with Genie";
-    // FIXED: Proper URL with /?client_id=
     f.src = ORIGIN + "/?client_id=" + encodeURIComponent(config.clientId) + "&embed=1";
     f.allow = "clipboard-write; microphone; camera";
     f.loading = "lazy";
@@ -554,7 +555,6 @@
       btn.classList.add("genie-left");
     }
     
-    // Chat icon (closed state) / X icon (open state)
     btn.innerHTML = '<svg id="genie-icon-chat" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2ZM6 9h12v2H6V9Zm0-4h12v2H6V5Zm0 8h8v2H6v-2Z"/></svg><svg id="genie-icon-close" viewBox="0 0 24 24" aria-hidden="true" style="display:none"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>';
     
     btn.onclick = function() {
@@ -574,7 +574,6 @@
     isOpen = !isOpen;
     iframe.style.display = isOpen ? "block" : "none";
     
-    // Toggle icon
     var chatIcon = document.getElementById("genie-icon-chat");
     var closeIcon = document.getElementById("genie-icon-close");
     if (chatIcon && closeIcon) {
@@ -609,7 +608,6 @@
     var config = getConfig();
     if (!config) return;
     
-    // FIXED: Proper validation
     if (!config.clientId || config.clientId === "YOUR_CLIENT_ID_HERE" || config.clientId === "demo") {
       console.error("[Genie] ERROR: Please set your client ID in data-client-id attribute");
       return;
@@ -628,7 +626,6 @@
 })();
 </script>
 <!-- END Genie Chat Integration -->
-
 
 </body>
 </html>
