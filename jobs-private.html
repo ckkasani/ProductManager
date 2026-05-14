@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Jobs Pipeline — Private</title>
+<style>
+:root {
+  --bg: #0a0a0f;
+  --surface: #14141c;
+  --surface-2: #1c1c26;
+  --border: rgba(255,255,255,0.08);
+  --text: #e8e8f0;
+  --text-dim: #888;
+  --text-dimmer: #555;
+  --accent: #4a90d9;
+  --accent-2: #7b68ee;
+  --green: #32cd32;
+  --amber: #ffb347;
+  --red: #ff6b6b;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', -apple-system, system-ui, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+}
+.wrap { max-width: 1280px; margin: 0 auto; padding: 32px 24px 64px; }
+.nav {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 16px 0; border-bottom: 1px solid var(--border); margin-bottom: 32px;
+}
+.nav a { color: var(--text-dim); text-decoration: none; font-size: 13px; margin-right: 24px; transition: color 0.2s; }
+.nav a:hover { color: var(--accent); }
+.nav .brand { color: var(--text); font-weight: 600; font-size: 14px; }
+.pill {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 4px 12px; border-radius: 100px; font-size: 11px;
+  letter-spacing: 0.05em; margin-bottom: 16px;
+}
+.pill.live { background: rgba(50,205,50,0.1); border: 1px solid rgba(50,205,50,0.3); color: var(--green); }
+.pill.private { background: rgba(255,179,71,0.1); border: 1px solid rgba(255,179,71,0.3); color: var(--amber); margin-left: 8px; }
+.pill .dot {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: currentColor; box-shadow: 0 0 8px currentColor;
+}
+h1 { font-size: 32px; font-weight: 800; margin: 0 0 8px; letter-spacing: -0.02em; }
+.subtitle { color: var(--text-dim); font-size: 14px; margin: 0; }
+.last-updated { font-size: 12px; color: var(--text-dimmer); margin-top: 8px; }
+.stats {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px; margin: 24px 0;
+}
+.stat { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; }
+.stat-value { font-size: 28px; font-weight: 700; line-height: 1; }
+.stat-label { font-size: 10px; color: var(--text-dim); letter-spacing: 0.1em; text-transform: uppercase; margin-top: 6px; }
+.filters { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
+.filter-btn {
+  background: rgba(255,255,255,0.04); border: 1px solid var(--border);
+  color: var(--text-dim); padding: 8px 16px; border-radius: 8px;
+  font-size: 12px; font-weight: 600; cursor: pointer; font-family: inherit;
+  transition: all 0.2s;
+}
+.filter-btn.active { background: rgba(74,144,217,0.2); border-color: var(--accent); color: var(--accent); }
+.filter-btn:hover:not(.active) { color: var(--text); }
+.job-list { display: grid; gap: 12px; }
+.job {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+  padding: 20px 24px; transition: all 0.2s;
+}
+.job.high-match { border-left: 4px solid var(--green); }
+.job.med-match { border-left: 4px solid var(--accent); }
+.job.low-match { border-left: 4px solid var(--amber); }
+.job-row { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 16px; }
+.job-info { flex: 1; min-width: 280px; }
+.job-title { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; flex-wrap: wrap; }
+.job-title-text { font-size: 16px; font-weight: 700; color: var(--text); }
+.badge {
+  padding: 2px 10px; border-radius: 6px; font-size: 10px; font-weight: 600; letter-spacing: 0.05em;
+}
+.badge.source { background: rgba(50,205,50,0.1); color: var(--green); }
+.badge.posted { background: rgba(74,144,217,0.1); color: var(--accent); }
+.job-meta { font-size: 13px; color: var(--text-dim); margin-bottom: 10px; }
+.job-meta strong { color: var(--text); font-weight: 600; }
+.tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+.tag {
+  background: rgba(123,104,238,0.15); color: var(--accent-2);
+  padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 500;
+}
+.job-desc {
+  font-size: 12px; color: var(--text-dim); line-height: 1.5; max-height: 60px;
+  overflow: hidden; text-overflow: ellipsis;
+}
+.job-actions { display: flex; flex-direction: column; gap: 10px; align-items: flex-end; min-width: 160px; }
+.match-score { text-align: center; }
+.match-num { font-size: 28px; font-weight: 800; line-height: 1; }
+.match-num.high { color: var(--green); }
+.match-num.med { color: var(--accent); }
+.match-num.low { color: var(--amber); }
+.match-label { font-size: 10px; color: var(--text-dimmer); letter-spacing: 0.1em; margin-top: 2px; }
+.apply-btn {
+  background: linear-gradient(135deg, var(--green), #20b2aa);
+  color: #000; padding: 10px 18px; border-radius: 8px;
+  text-decoration: none; font-size: 12px; font-weight: 700;
+  text-align: center; width: 100%; box-sizing: border-box; transition: transform 0.1s;
+}
+.apply-btn:hover { transform: translateY(-1px); }
+.status-select {
+  padding: 6px 10px; border-radius: 6px; font-size: 11px; font-weight: 600;
+  width: 100%; cursor: pointer; font-family: inherit; border: 1px solid; background: transparent;
+}
+.empty {
+  text-align: center; padding: 64px 20px; color: var(--text-dim);
+  border: 1px dashed var(--border); border-radius: 12px;
+}
+.empty-icon { font-size: 48px; margin-bottom: 16px; }
+.footer-tip {
+  margin-top: 32px; padding: 20px 24px; background: var(--surface);
+  border: 1px solid var(--border); border-radius: 12px; font-size: 12px; color: var(--text-dim);
+}
+.footer-tip strong { color: var(--text); }
+@media (max-width: 640px) {
+  .job-actions { min-width: 100%; align-items: stretch; flex-direction: row; }
+  .match-score { display: none; }
+  .apply-btn { flex: 1; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<nav class="nav">
+  <a href="/" class="brand">Chaitanya Kasani</a>
+  <div>
+    <a href="/">Profile</a>
+    <a href="/pitch.html">Pitch</a>
+    <a href="/blog.html">Writing</a>
+  </div>
+</nav>
+
+<div class="header">
+  <span class="pill live"><span class="dot"></span> AUTO-FETCH ACTIVE</span>
+  <span class="pill private"><span class="dot"></span> PRIVATE / NOINDEX</span>
+  <h1>Fresh Roles Pipeline</h1>
+  <p class="subtitle">T1 fintech & AI Senior PM roles posted in the last 7 days. Refreshes every 6 hours.</p>
+  <p class="last-updated" id="lastUpdated">Loading…</p>
+</div>
+
+<div class="stats" id="stats"></div>
+
+<div class="filters">
+  <button class="filter-btn active" data-filter="all">All Roles</button>
+  <button class="filter-btn" data-filter="high">90+ Match</button>
+  <button class="filter-btn" data-filter="todo">To Apply</button>
+  <button class="filter-btn" data-filter="applied">Applied</button>
+  <button class="filter-btn" data-filter="callback">Callbacks</button>
+</div>
+
+<div id="jobList" class="job-list"></div>
+
+<div class="footer-tip">
+  <strong>How this works:</strong> A GitHub Actions workflow runs every 6 hours, pulling fresh job postings from Greenhouse and Lever public APIs across 21 target companies. Roles are filtered to Senior/Staff/Principal PM in fintech, payments, lending, and AI — posted in the last 7 days. Each role is auto-scored against your resume keywords (TSYS, FDIC, KYC, card origination, payment processing, AI platforms, etc.). Status updates save to your browser locally.
+</div>
+
+</div>
+
+<script>
+let allJobs = [];
+let currentFilter = "all";
+
+const STATUS_COLORS = {
+  new:       { bg: "rgba(74,144,217,0.15)",  fg: "#4a90d9", brd: "#4a90d9" },
+  applied:   { bg: "rgba(123,104,238,0.15)", fg: "#7b68ee", brd: "#7b68ee" },
+  callback:  { bg: "rgba(50,205,50,0.15)",   fg: "#32cd32", brd: "#32cd32" },
+  interview: { bg: "rgba(255,179,71,0.15)",  fg: "#ffb347", brd: "#ffb347" },
+  rejected:  { bg: "rgba(255,107,107,0.15)", fg: "#ff6b6b", brd: "#ff6b6b" }
+};
+
+function loadStatus(id) {
+  return localStorage.getItem(`job-status-${id}`) || "new";
+}
+function saveStatus(id, status) {
+  localStorage.setItem(`job-status-${id}`, status);
+}
+
+function timeAgo(iso) {
+  const diff = Date.now() - new Date(iso).getTime();
+  const days = Math.floor(diff / 86400000);
+  const hours = Math.floor(diff / 3600000);
+  if (days === 0 && hours === 0) return "just now";
+  if (days === 0) return `${hours}h ago`;
+  if (days === 1) return "1 day ago";
+  return `${days} days ago`;
+}
+
+function matchClass(score) {
+  if (score >= 90) return "high";
+  if (score >= 80) return "med";
+  return "low";
+}
+
+function jobClass(score) {
+  if (score >= 90) return "high-match";
+  if (score >= 80) return "med-match";
+  return "low-match";
+}
+
+function renderStats() {
+  const stats = [
+    { label: "Total Fresh", value: allJobs.length, color: "var(--accent)" },
+    { label: "90%+ Match",  value: allJobs.filter(j => j.match >= 90).length, color: "var(--green)" },
+    { label: "To Apply",    value: allJobs.filter(j => loadStatus(j.id) === "new").length, color: "var(--amber)" },
+    { label: "Applied",     value: allJobs.filter(j => loadStatus(j.id) === "applied").length, color: "var(--accent-2)" },
+    { label: "Callbacks",   value: allJobs.filter(j => loadStatus(j.id) === "callback").length, color: "var(--green)" }
+  ];
+  document.getElementById("stats").innerHTML = stats.map(s => `
+    <div class="stat">
+      <div class="stat-value" style="color: ${s.color}">${s.value}</div>
+      <div class="stat-label">${s.label}</div>
+    </div>`).join("");
+}
+
+function renderJobs() {
+  const list = document.getElementById("jobList");
+  let filtered = [...allJobs];
+
+  if (currentFilter === "high") filtered = filtered.filter(j => j.match >= 90);
+  if (currentFilter === "todo") filtered = filtered.filter(j => loadStatus(j.id) === "new");
+  if (currentFilter === "applied") filtered = filtered.filter(j => loadStatus(j.id) === "applied");
+  if (currentFilter === "callback") filtered = filtered.filter(j => loadStatus(j.id) === "callback");
+
+  if (filtered.length === 0) {
+    list.innerHTML = `<div class="empty">
+      <div class="empty-icon">📭</div>
+      <div>No roles match this filter yet.</div>
+      <div style="margin-top: 8px; font-size: 12px;">The fetcher runs every 6 hours. New roles will appear here.</div>
+    </div>`;
+    return;
+  }
+
+  list.innerHTML = filtered.map(job => {
+    const status = loadStatus(job.id);
+    const sc = STATUS_COLORS[status];
+    return `
+    <div class="job ${jobClass(job.match)}">
+      <div class="job-row">
+        <div class="job-info">
+          <div class="job-title">
+            <span class="job-title-text">${escapeHtml(job.title)}</span>
+            <span class="badge source">${job.source}</span>
+            <span class="badge posted">${timeAgo(job.posted)}</span>
+          </div>
+          <div class="job-meta">
+            🏢 <strong>${escapeHtml(job.company)}</strong> · 📍 ${escapeHtml(job.location)}
+          </div>
+          <div class="tags">
+            ${(job.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join("")}
+          </div>
+          <div class="job-desc">${escapeHtml(job.description || "").slice(0, 280)}…</div>
+        </div>
+        <div class="job-actions">
+          <div class="match-score">
+            <div class="match-num ${matchClass(job.match)}">${job.match}%</div>
+            <div class="match-label">MATCH</div>
+          </div>
+          <a href="${escapeAttr(job.url)}" target="_blank" rel="noreferrer" class="apply-btn">Apply →</a>
+          <select class="status-select"
+            data-job-id="${job.id}"
+            style="background: ${sc.bg}; color: ${sc.fg}; border-color: ${sc.brd};">
+            <option value="new" ${status==="new"?"selected":""}>📋 Not Applied</option>
+            <option value="applied" ${status==="applied"?"selected":""}>✅ Applied</option>
+            <option value="callback" ${status==="callback"?"selected":""}>📞 Callback</option>
+            <option value="interview" ${status==="interview"?"selected":""}>🎯 Interview</option>
+            <option value="rejected" ${status==="rejected"?"selected":""}>❌ Rejected</option>
+          </select>
+        </div>
+      </div>
+    </div>`;
+  }).join("");
+
+  // Wire up status selects
+  document.querySelectorAll(".status-select").forEach(sel => {
+    sel.addEventListener("change", (e) => {
+      saveStatus(e.target.dataset.jobId, e.target.value);
+      renderStats();
+      renderJobs();
+    });
+  });
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+function escapeAttr(s) { return escapeHtml(s); }
+
+document.querySelectorAll(".filter-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    currentFilter = btn.dataset.filter;
+    renderJobs();
+  });
+});
+
+// Load jobs.json
+fetch("jobs.json?ts=" + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    allJobs = data.jobs || [];
+    document.getElementById("lastUpdated").textContent =
+      `Last updated: ${new Date(data.lastUpdated).toLocaleString()} · ${allJobs.length} fresh roles found`;
+    renderStats();
+    renderJobs();
+  })
+  .catch(err => {
+    document.getElementById("lastUpdated").textContent = "No jobs.json yet — workflow will create it on first run.";
+    document.getElementById("jobList").innerHTML = `<div class="empty">
+      <div class="empty-icon">⏳</div>
+      <div>Waiting for first job fetch.</div>
+      <div style="margin-top: 8px; font-size: 12px;">Go to GitHub → Actions tab → "Fetch Fresh Jobs" → Run workflow manually to trigger immediately.</div>
+    </div>`;
+  });
+</script>
+</body>
+</html>
