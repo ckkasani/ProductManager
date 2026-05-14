@@ -1,0 +1,71 @@
+CHAITANYA KASANI
+Senior Product Manager  |  Fintech, Lending & Loan Servicing  |  Regulated Platforms  |  AI
+ckkasani@gmail.com  |  361-228-5963  |  linkedin.com/in/chaitanyapm  |  chaitanya-product.com
+
+
+Product Manager with 11 years building consumer fintech platforms in regulated environments. Currently leading the redesign of LPL Financial's $49B FDIC-insured cash sweep and AUM-based advisory billing platform serving 32K advisors and 8M end clients. Earlier in my career I owned card origination, daily TSYS batch payment processing, and fraud servicing workflows at KeyBank, and credit card product strategy at BBVA. Comfortable operating across Risk, Legal, Operations, and Engineering to ship under SEC, FDIC, KYC/AML, HIPAA, and PCI-DSS constraints. Also founded TechGenie.ai, an AI-powered member engagement platform processing 1M+ monthly interactions. MIT xPRO PM. PMP. CSPO. Azure AZ-104.
+
+
+CORE COMPETENCIES
+Servicing & Lending: Loan Servicing Platforms, Card Origination & Activation, Payment Processing, Batch Job Operations, Collections Workflows, Credit Card Programs, TSYS Integration, Fraud Detection, Bureau API Integrations, AUM-Based Billing, Fee Engine Design
+Regulated Environments: FDIC, SEC, KYC/AML, CIP Identity, PCI-DSS, HIPAA, FINRA, SOC2, ADA
+Platform & Technical: REST APIs, Microservices, Event-driven Architecture, Azure, AWS, CI/CD, Power BI, SQL, A/B Testing, Telemetry, Salesforce CPQ
+Leadership: 0 to 1 Platform Builds, Cross-functional Stakeholder Ownership, Roadmap & OKRs, SAFe / PI Planning, Agile/Scrum, Executive Storytelling, Vendor Management
+
+
+EXPERIENCE
+LPL Financial (Nasdaq: LPLA)    	             Feb 2025 - Present
+Senior Product Manager, Bank Sweep, Advisory Billing & Household 2.0  |  Remote
+Lead PM for three publicly disclosed strategic programs on LPL's $2.3T advisor platform serving 32K advisors and 8M end clients. The Bank Sweep Program redesign manages $49B+ in FDIC-insured client cash, around 10% of LPL revenue. I also own the AUM-based Advisory Billing platform and the Household 2.0 data model conversion. Single point of accountability across Compliance, SOR owners, Bank Operations, Advisor Service, and Engineering.
+Anchored Bank Sweep eligibility on CIP-verified party identity instead of legacy account-level keying. This created an SEC and FDIC defensible identity layer powering household-aware FDIC tiering, eligibility decisions, and downstream billing. Chose this over a faster account-only fix because it survives KYC/AML audit and unblocks Household 2.0.
+Built the AUM-based Advisory Billing platform supporting both fixed fee and tiered billing rate structures. Define which accounts get billed, when billing runs execute, and how fees calculate against total assets under management at the household level. Partnered with UX to design the advisor-facing billing display, and manage scheduled file delivery to vendor Beta for downstream processing.
+Drove a big-bang cutover for the Bank Sweep release rather than a phased rollout. Owned the cross-functional readiness gate with Compliance, SOR owners, Bank Operations, and Advisor Service. Eliminated dual-state FDIC reporting ambiguity and compressed advisor-facing change management to a single window.
+Designed the coupled flow between Account Opening and Bank Sweep enrollment so every new account is evaluated against CIP-verified party, household, and Priority Bank List eligibility in a single workflow. Eliminated post-open exception remediation that previously required manual ops intervention.
+Shipped AUM-based fee calculation supporting flat and tier-based schedules aligned to LPL's publicly announced October 2025 advisory pricing reset across SAM, MWP, and GWP. Directly enabled the firm's $50M+ savings commitment to advisors and clients.
+Run architecture reviews, contract-first API design, and dependency sequencing across five systems of record (accounts, clients, household, party, participants) so Bank Sweep, Billing, and Household 2.0 ship without overwriting each other's data invariants.
+
+TechGenie.ai	Feb 2025 - Present
+Founder & Product Lead, AI Member Engagement Platform  |  Remote
+Founded and built an AI-powered member engagement and support platform processing 1M+ monthly interactions. Replaced fragmented support, booking, and case management tools with one compliant system.
+Designed the AI escalation layer that governs when the system handles member queries autonomously versus routing to a live agent. Reduced support costs by approximately $3M annually while maintaining member trust, SLA compliance, and audit logging.
+Shipped end-to-end platform capabilities including after-hours AI support, appointment booking, case submission, callback requests, compliance logging, admin dashboards, user management, internal team chat, and website lead capture.
+Defined platform architecture on Azure using App Services, Redis, API Gateway, and Event Hubs. Built REST APIs and microservices for real-time escalation. Owned full lifecycle from roadmap through telemetry dashboards and A/B experiments.
+
+Eviden  |  Client: Sentara Healthcare	Sep 2023 - Feb 2025
+Product Manager, Medicare / Medicaid Onboarding & Payments  |  Remote
+Delivered a digital onboarding and payments platform serving 5,000+ agents across three states for Medicare and Medicaid members. Reduced onboarding cycle time 15% and cut error rates 22%, saving thousands of agent hours and millions in avoided rework.
+Owned contact-center capabilities including case management, interaction handling, knowledge enablement, and member support workflows under HIPAA and data-protection alignment with Compliance and Risk. The work patterns translate directly to consumer loan servicing operations.
+Defined funnel KPIs around drop-off, error rate, and completion time. Used Power BI and SQL to drive post-launch iteration. Shipped ADA-compliant registration and payment flows with UX and engineering.
+Eviden  |  Clients: Shutterfly, Learning Without Tears	Jul 2021 - Sep 2023
+Product Manager, eCommerce Platforms & Checkout  |  Remote
+Shutterfly: Owned a modular eCommerce engine and checkout microservices. Increased conversion 12% through telemetry-driven design and behavioral A/B testing.
+Learning Without Tears: Rebuilt the B2B/B2C EdTech storefront with CPQ bundling and smart-tax logic. Delivered $500K incremental revenue, reduced billing latency 30%, and lowered cart abandonment 15%. PLG experiments accelerated pipeline velocity 18%.
+
+
+CARD ORIGINATION, PAYMENT PROCESSING & LOAN SERVICING
+KeyBank  (via Spartan Solutions)	Nov 2019 - Jul 2020
+Lead Business Analyst, Card Origination, Payment Processing & Fraud Servicing  |  Remote
+On the Payments Processing team for KeyBank's consumer card program. Owned daily batch payment processing operations within the TSYS platform, including the rules and workflows to identify, flag, and stop fraudulent or suspicious transactions before settlement.
+Designed end-to-end card origination workflows covering application intake, credit decisioning, card activation, blocking, and account-level servicing.
+Integrated bureau APIs into origination and fraud monitoring workflows. Card activation time dropped from days to minutes and fraud detection accuracy improved across the servicing lifecycle.
+Worked with data engineers to automate batch fraud reporting. Replaced manual reconciliation with systematic exception flagging, ensuring PCI-DSS compliance and reducing operational workload 40%.
+
+BBVA Bank  (via Spartan Solutions)	Nov 2017 - Oct 2019
+Senior Business Analyst, Credit Card Product & Servicing Strategy  |  Remote
+Defined product strategy for personal and small-business credit card programs covering origination flows, servicing rules, payment processing logic, and collections sequencing. Reduced credit approval time 30% through bureau API integrations.
+Lifted sprint velocity 20% through backlog refinement and tighter QA collaboration across engineering and compliance teams.
+
+Amcor  (via Spartan Solutions)	Aug 2020 - Jul 2021
+Lead Business Analyst, B2B Platform & Compliance  |  Remote
+Modernized Salesforce CPQ for 1,200+ B2B users with embedded SOC2 controls and a migration to AWS microservices. Quote-generation time dropped 35% and ongoing compliance was maintained.
+Earlier: Business Analyst at GE Power (utility operations, 2016 to 2017) and Aramark (Salesforce compliance workflows, 2014 to 2015).
+
+
+EDUCATION & CERTIFICATIONS
+Massachusetts Institute of Technology (MIT xPRO), Product Management Certificate. GPA: 3.8
+Texas A&M University, Kingsville, M.S. Computer Science
+Certifications: PMP (Project Management Professional). CSPO (Certified Scrum Product Owner). Microsoft Azure Administrator Associate (AZ-104). Salesforce Certified Administrator.
+
+
+SELECTED INDEPENDENT WORK
+ARIDS (Adaptive Risk & Identity Defense System): Independently designed an ML-driven risk graph and biometric validation architecture to detect and block financial account takeovers in real time. Modeled 70% reduction in detection time and 30% reduction in false positives. Applied system thinking at the intersection of identity, compliance, and AI in financial services.
