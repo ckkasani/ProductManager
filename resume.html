@@ -1,0 +1,487 @@
+<!-- Version: resume.html v1.0.0 - Web mirror of PDF resume -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Résumé — Chaitanya Kasani</title>
+  <meta name="description" content="Senior Product Manager · Fintech, Lending & Loan Servicing · Regulated Platforms · AI. 11 years building consumer fintech and AI platforms." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0A0A0A; color: #E8E6E1; line-height: 1.6;
+      font-feature-settings: "ss01", "ss02", "cv11";
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    a { color: inherit; text-decoration: none; }
+    ::selection { background: #D4A24C; color: #0A0A0A; }
+
+    :root {
+      --bg: #0A0A0A; --bg-elev: #141414; --bg-card: #161616;
+      --border: #262626; --border-strong: #333333;
+      --text: #E8E6E1; --text-muted: #9A978F; --text-faint: #5A5A55;
+      --accent: #D4A24C;
+      --mono: 'JetBrains Mono', ui-monospace, monospace;
+    }
+
+    /* NAV */
+    .nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100; height: 64px;
+      background: rgba(10,10,10,0.85);
+      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-inner {
+      max-width: 1100px; margin: 0 auto; height: 100%; padding: 0 32px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-logo { font-weight: 600; font-size: 15px; letter-spacing: -0.2px; color: var(--text); }
+    .nav-links { display: flex; gap: 4px; align-items: center; }
+    .nav-link {
+      font-size: 14px; font-weight: 500; color: var(--text-muted);
+      padding: 8px 14px; border-radius: 6px;
+      transition: color 0.15s ease, background 0.15s ease;
+    }
+    .nav-link:hover { color: var(--text); background: rgba(255,255,255,0.04); }
+    .nav-link.active { color: var(--accent); }
+    .nav-cta {
+      font-size: 14px; font-weight: 500; color: var(--bg);
+      background: var(--text); padding: 8px 14px; border-radius: 6px; margin-left: 8px;
+    }
+    .nav-cta:hover { background: white; }
+
+    .container { max-width: 920px; margin: 0 auto; padding: 0 32px; }
+
+    /* HEADER */
+    .resume-header { padding: 130px 0 40px; }
+    .resume-name {
+      font-size: 44px; font-weight: 700; letter-spacing: -1.4px;
+      color: var(--text); margin: 0 0 10px;
+    }
+    .resume-title {
+      font-family: var(--mono); font-size: 14px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.3px;
+      margin: 0 0 24px;
+    }
+    .resume-contact {
+      display: flex; flex-wrap: wrap; gap: 16px 24px;
+      font-size: 14px; color: var(--text-muted);
+      padding-top: 24px; border-top: 1px solid var(--border);
+    }
+    .resume-contact a { color: var(--text); }
+    .resume-contact a:hover { color: var(--accent); }
+    .resume-contact .label {
+      font-family: var(--mono); font-size: 11px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.5px;
+      text-transform: uppercase; margin-right: 6px;
+    }
+
+    .download-bar {
+      display: flex; gap: 12px; margin: 24px 0 0;
+    }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 10px 18px; border-radius: 6px;
+      font-size: 13px; font-weight: 500;
+      transition: all 0.15s ease; border: 1px solid transparent;
+    }
+    .btn-primary { background: var(--text); color: var(--bg); }
+    .btn-primary:hover { background: white; }
+    .btn-secondary {
+      background: transparent; color: var(--text);
+      border-color: var(--border-strong);
+    }
+    .btn-secondary:hover { border-color: var(--text-muted); }
+
+    /* SUMMARY */
+    .summary {
+      padding: 40px 0; font-size: 16px; line-height: 1.7;
+      color: var(--text); max-width: 820px;
+    }
+    .summary strong { color: var(--text); font-weight: 600; }
+
+    /* SECTIONS */
+    section { padding: 32px 0; }
+    .section-header {
+      display: flex; align-items: baseline; gap: 16px;
+      margin-bottom: 24px; padding-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    .section-label {
+      font-family: var(--mono); font-size: 11px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.5px; text-transform: uppercase;
+    }
+    .section-title {
+      font-size: 22px; font-weight: 600; color: var(--text);
+      margin: 0; letter-spacing: -0.4px;
+    }
+
+    /* COMPETENCIES */
+    .competency-grid {
+      display: grid; grid-template-columns: 200px 1fr;
+      gap: 32px; padding: 20px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .competency-grid:last-of-type { border-bottom: none; }
+    .competency-label {
+      font-size: 14px; font-weight: 600; color: var(--text);
+      letter-spacing: -0.2px;
+    }
+    .competency-items {
+      font-size: 14px; line-height: 1.7; color: var(--text-muted);
+    }
+
+    /* EXPERIENCE */
+    .job {
+      padding: 28px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .job:last-child { border-bottom: none; }
+    .job-header {
+      display: flex; flex-wrap: wrap; justify-content: space-between;
+      align-items: baseline; gap: 12px; margin-bottom: 6px;
+    }
+    .job-company {
+      font-size: 18px; font-weight: 600; color: var(--text);
+      letter-spacing: -0.3px; margin: 0;
+    }
+    .job-company .sub {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.3px;
+      margin-left: 8px;
+    }
+    .job-period {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-muted); letter-spacing: 0.3px;
+    }
+    .job-role {
+      font-size: 14px; color: var(--accent); margin: 0 0 16px;
+      font-weight: 500;
+    }
+    .job-context {
+      font-size: 14px; line-height: 1.7; color: var(--text-muted);
+      margin: 0 0 14px; max-width: 800px;
+    }
+    .job-bullets {
+      list-style: none; padding: 0; margin: 0;
+      display: flex; flex-direction: column; gap: 10px;
+    }
+    .job-bullets li {
+      font-size: 14px; line-height: 1.65; color: var(--text-muted);
+      padding-left: 16px; position: relative;
+    }
+    .job-bullets li::before {
+      content: ""; position: absolute; left: 0; top: 10px;
+      width: 6px; height: 1px; background: var(--accent);
+    }
+    .job-bullets li strong { color: var(--text); font-weight: 600; }
+
+    /* EDUCATION & CERTS */
+    .edu-row {
+      display: grid; grid-template-columns: 1fr auto;
+      gap: 24px; padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+      align-items: baseline;
+    }
+    .edu-row:last-child { border-bottom: none; }
+    .edu-school { font-size: 15px; font-weight: 500; color: var(--text); margin: 0 0 2px; }
+    .edu-detail { font-size: 13px; color: var(--text-muted); margin: 0; }
+    .edu-meta {
+      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
+      letter-spacing: 0.3px;
+    }
+
+    .cert-list {
+      display: flex; flex-wrap: wrap; gap: 8px;
+      margin-top: 16px;
+    }
+    .cert {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-muted); letter-spacing: 0.3px;
+      padding: 5px 10px; border: 1px solid var(--border);
+      border-radius: 4px;
+    }
+
+    /* INDEPENDENT WORK */
+    .indie-item {
+      padding: 20px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .indie-item:last-child { border-bottom: none; }
+    .indie-title {
+      font-size: 16px; font-weight: 600; color: var(--text);
+      margin: 0 0 8px; letter-spacing: -0.2px;
+    }
+    .indie-desc {
+      font-size: 14px; line-height: 1.65; color: var(--text-muted);
+      margin: 0;
+    }
+
+    footer {
+      padding: 40px 0; border-top: 1px solid var(--border);
+      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
+      letter-spacing: 0.3px;
+    }
+    footer .container {
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 16px;
+    }
+
+    @media (max-width: 700px) {
+      .resume-header { padding: 100px 0 30px; }
+      .resume-name { font-size: 32px; letter-spacing: -1px; }
+      .competency-grid { grid-template-columns: 1fr; gap: 8px; }
+      .job-header { flex-direction: column; gap: 4px; }
+      .edu-row { grid-template-columns: 1fr; gap: 4px; }
+      .nav-inner, .container { padding-left: 20px; padding-right: 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Chaitanya Kasani</a>
+      <div class="nav-links">
+        <a href="index.html" class="nav-link">Profile</a>
+        <a href="pitch.html" class="nav-link">Pitch</a>
+        <a href="blog.html" class="nav-link">Writing</a>
+        <a href="mailto:ckkasani@gmail.com" class="nav-cta">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="resume-header">
+    <div class="container">
+      <h1 class="resume-name">Chaitanya Kasani</h1>
+      <p class="resume-title">Senior Product Manager · Fintech, Lending & Loan Servicing · Regulated Platforms · AI</p>
+      <div class="resume-contact">
+        <span><span class="label">Email</span><a href="mailto:ckkasani@gmail.com">ckkasani@gmail.com</a></span>
+        <span><span class="label">LinkedIn</span><a href="https://www.linkedin.com/in/chaitanyapm" target="_blank" rel="noopener">linkedin.com/in/chaitanyapm</a></span>
+        <span><span class="label">Web</span><a href="https://chaitanya-product.com">chaitanya-product.com</a></span>
+      </div>
+      <div class="download-bar">
+        <a href="Chaitanya_Kasani_PM.pdf" class="btn btn-primary" download>Download PDF ↓</a>
+        <a href="index.html" class="btn btn-secondary">View portfolio →</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <p class="summary">
+      <strong>Product Manager with 11 years building consumer fintech platforms in regulated environments.</strong> Currently leading the redesign of LPL Financial's $49B FDIC-insured cash sweep and AUM-based advisory billing platform serving 32K advisors and 8M end clients. Earlier owned card origination, daily TSYS batch payment processing, and fraud servicing workflows at KeyBank, and credit card product strategy at BBVA. Comfortable operating across Risk, Legal, Operations, and Engineering to ship under SEC, FDIC, KYC/AML, HIPAA, and PCI-DSS constraints. Also founded TechGenie.ai, an AI-powered member engagement platform processing 1M+ monthly interactions. MIT xPRO PM. PMP. CSPO. Azure AZ-104.
+    </p>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">/ 01</div>
+        <h2 class="section-title">Core Competencies</h2>
+      </div>
+
+      <div class="competency-grid">
+        <div class="competency-label">Servicing & Lending</div>
+        <div class="competency-items">Loan Servicing Platforms · Card Origination & Activation · Payment Processing · Batch Job Operations · Collections Workflows · Credit Card Programs · TSYS Integration · Fraud Detection · Bureau API Integrations · AUM-Based Billing · Fee Engine Design</div>
+      </div>
+      <div class="competency-grid">
+        <div class="competency-label">Regulated Environments</div>
+        <div class="competency-items">FDIC · SEC · KYC/AML · CIP Identity · PCI-DSS · HIPAA · FINRA · SOC2 · ADA</div>
+      </div>
+      <div class="competency-grid">
+        <div class="competency-label">Platform & Technical</div>
+        <div class="competency-items">REST APIs · Microservices · Event-driven Architecture · Azure · AWS · CI/CD · Power BI · SQL · A/B Testing · Telemetry · Salesforce CPQ</div>
+      </div>
+      <div class="competency-grid">
+        <div class="competency-label">Leadership</div>
+        <div class="competency-items">0-to-1 Platform Builds · Cross-functional Stakeholder Ownership · Roadmap & OKRs · SAFe / PI Planning · Agile/Scrum · Executive Storytelling · Vendor Management</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">/ 02</div>
+        <h2 class="section-title">Experience</h2>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <h3 class="job-company">LPL Financial <span class="sub">NASDAQ: LPLA</span></h3>
+          <span class="job-period">Feb 2025 — Present · Remote</span>
+        </div>
+        <p class="job-role">Senior Product Manager · Bank Sweep, Advisory Billing & Household 2.0</p>
+        <p class="job-context">
+          Lead PM for three publicly disclosed strategic programs on LPL's $2.3T advisor platform serving 32K advisors and 8M end clients. The Bank Sweep Program redesign manages $49B+ in FDIC-insured client cash, around 10% of LPL revenue. Single point of accountability across Compliance, SOR owners, Bank Operations, Advisor Service, and Engineering.
+        </p>
+        <ul class="job-bullets">
+          <li><strong>Anchored Bank Sweep eligibility on CIP-verified party identity</strong> instead of legacy account-level keying. Created an SEC and FDIC defensible identity layer powering household-aware FDIC tiering, eligibility decisions, and downstream billing.</li>
+          <li><strong>Built the AUM-based Advisory Billing platform</strong> supporting both fixed fee and tiered billing rate structures. Manages scheduled file delivery to vendor Beta for downstream processing.</li>
+          <li><strong>Drove a big-bang cutover for the Bank Sweep release</strong> rather than a phased rollout. Eliminated dual-state FDIC reporting ambiguity and compressed advisor-facing change management to a single window.</li>
+          <li><strong>Designed the coupled flow</strong> between Account Opening and Bank Sweep enrollment — every new account evaluated against CIP-verified party, household, and Priority Bank List eligibility in a single workflow.</li>
+          <li><strong>Shipped AUM-based fee calculation</strong> aligned to LPL's publicly announced October 2025 advisory pricing reset across SAM, MWP, and GWP. Enabled the firm's $50M+ savings commitment to advisors and clients.</li>
+          <li><strong>Run architecture reviews and contract-first API design</strong> across five systems of record (accounts, clients, household, party, participants).</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <h3 class="job-company">TechGenie.ai</h3>
+          <span class="job-period">Feb 2025 — Present · Remote</span>
+        </div>
+        <p class="job-role">Founder & Product Lead · AI Member Engagement Platform</p>
+        <p class="job-context">
+          Founded and built an AI-powered member engagement and support platform processing 1M+ monthly interactions. Replaced fragmented support, booking, and case management tools with one compliant system.
+        </p>
+        <ul class="job-bullets">
+          <li><strong>Designed the AI escalation layer</strong> that governs when the system handles member queries autonomously versus routing to a live agent. Reduced support costs by approximately $3M annually while maintaining member trust, SLA compliance, and audit logging.</li>
+          <li><strong>Shipped end-to-end platform capabilities</strong> including after-hours AI support, appointment booking, case submission, callback requests, compliance logging, admin dashboards, user management, internal team chat, and website lead capture.</li>
+          <li><strong>Defined platform architecture on Azure</strong> using App Services, Redis, API Gateway, and Event Hubs. Built REST APIs and microservices for real-time escalation. Owned full lifecycle from roadmap through telemetry dashboards and A/B experiments.</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <h3 class="job-company">Eviden <span class="sub">Client: Sentara Healthcare</span></h3>
+          <span class="job-period">Sep 2023 — Feb 2025 · Remote</span>
+        </div>
+        <p class="job-role">Product Manager · Medicare / Medicaid Onboarding & Payments</p>
+        <ul class="job-bullets">
+          <li><strong>Delivered a digital onboarding and payments platform</strong> serving 5,000+ agents across three states for Medicare and Medicaid members. Reduced onboarding cycle time 15% and cut error rates 22%, saving thousands of agent hours and millions in avoided rework.</li>
+          <li><strong>Owned contact-center capabilities</strong> including case management, interaction handling, knowledge enablement, and member support workflows under HIPAA and data-protection alignment with Compliance and Risk.</li>
+          <li><strong>Defined funnel KPIs</strong> around drop-off, error rate, and completion time. Used Power BI and SQL to drive post-launch iteration. Shipped ADA-compliant registration and payment flows.</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <h3 class="job-company">Eviden <span class="sub">Clients: Shutterfly, Learning Without Tears</span></h3>
+          <span class="job-period">Jul 2021 — Sep 2023 · Remote</span>
+        </div>
+        <p class="job-role">Product Manager · eCommerce Platforms & Checkout</p>
+        <ul class="job-bullets">
+          <li><strong>Shutterfly:</strong> Owned a modular eCommerce engine and checkout microservices. Increased conversion 12% through telemetry-driven design and behavioral A/B testing.</li>
+          <li><strong>Learning Without Tears:</strong> Rebuilt the B2B/B2C EdTech storefront with CPQ bundling and smart-tax logic. Delivered $500K incremental revenue, reduced billing latency 30%, and lowered cart abandonment 15%. PLG experiments accelerated pipeline velocity 18%.</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <h3 class="job-company">KeyBank <span class="sub">via Spartan Solutions</span></h3>
+          <span class="job-period">Nov 2019 — Jul 2020 · Remote</span>
+        </div>
+        <p class="job-role">Lead Business Analyst · Card Origination, Payment Processing & Fraud Servicing</p>
+        <ul class="job-bullets">
+          <li><strong>On the Payments Processing team</strong> for KeyBank's consumer card program. Owned daily batch payment processing operations within the TSYS platform, including rules and workflows to identify, flag, and stop fraudulent or suspicious transactions before settlement.</li>
+          <li><strong>Designed end-to-end card origination workflows</strong> covering application intake, credit decisioning, card activation, blocking, and account-level servicing.</li>
+          <li><strong>Integrated bureau APIs</strong> into origination and fraud monitoring workflows. Card activation time dropped from days to minutes and fraud detection accuracy improved across the servicing lifecycle.</li>
+          <li><strong>Automated batch fraud reporting</strong> with data engineers. Replaced manual reconciliation with systematic exception flagging, ensuring PCI-DSS compliance and reducing operational workload 40%.</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <h3 class="job-company">BBVA Bank <span class="sub">via Spartan Solutions</span></h3>
+          <span class="job-period">Nov 2017 — Oct 2019 · Remote</span>
+        </div>
+        <p class="job-role">Senior Business Analyst · Credit Card Product & Servicing Strategy</p>
+        <ul class="job-bullets">
+          <li><strong>Defined product strategy</strong> for personal and small-business credit card programs covering origination flows, servicing rules, payment processing logic, and collections sequencing. Reduced credit approval time 30% through bureau API integrations.</li>
+          <li><strong>Lifted sprint velocity 20%</strong> through backlog refinement and tighter QA collaboration across engineering and compliance teams.</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <h3 class="job-company">Amcor <span class="sub">via Spartan Solutions</span></h3>
+          <span class="job-period">Aug 2020 — Jul 2021 · Remote</span>
+        </div>
+        <p class="job-role">Lead Business Analyst · B2B Platform & Compliance</p>
+        <ul class="job-bullets">
+          <li><strong>Modernized Salesforce CPQ</strong> for 1,200+ B2B users with embedded SOC2 controls and a migration to AWS microservices. Quote-generation time dropped 35% and ongoing compliance was maintained.</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <h3 class="job-company">Earlier roles</h3>
+          <span class="job-period">2014 — 2017</span>
+        </div>
+        <p class="job-role">Business Analyst</p>
+        <ul class="job-bullets">
+          <li><strong>GE Power</strong> (2016-2017) — Utility operations.</li>
+          <li><strong>Aramark</strong> (2014-2015) — Salesforce compliance workflows.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- EDUCATION -->
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">/ 03</div>
+        <h2 class="section-title">Education & Certifications</h2>
+      </div>
+
+      <div class="edu-row">
+        <div>
+          <p class="edu-school">Massachusetts Institute of Technology (MIT xPRO)</p>
+          <p class="edu-detail">Product Management Certificate</p>
+        </div>
+        <div class="edu-meta">GPA 3.8</div>
+      </div>
+      <div class="edu-row">
+        <div>
+          <p class="edu-school">Texas A&M University, Kingsville</p>
+          <p class="edu-detail">M.S. Computer Science</p>
+        </div>
+        <div class="edu-meta"></div>
+      </div>
+
+      <div class="cert-list">
+        <span class="cert">PMP</span>
+        <span class="cert">CSPO</span>
+        <span class="cert">Azure AZ-104</span>
+        <span class="cert">Salesforce Certified Admin</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- INDEPENDENT WORK -->
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">/ 04</div>
+        <h2 class="section-title">Selected Independent Work</h2>
+      </div>
+
+      <div class="indie-item">
+        <h3 class="indie-title">ARIDS — Adaptive Risk & Identity Defense System</h3>
+        <p class="indie-desc">
+          Independently designed an ML-driven risk graph and biometric validation architecture to detect and block financial account takeovers in real time. Modeled 70% reduction in detection time and 30% reduction in false positives. Applied system thinking at the intersection of identity, compliance, and AI in financial services.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <div>© 2025 Chaitanya Kasani</div>
+      <div>Last updated May 2026</div>
+    </div>
+  </footer>
+
+<script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
+</body>
+</html>
