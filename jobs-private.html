@@ -11,6 +11,7 @@
   --surface: #14141c;
   --surface-2: #1c1c26;
   --border: rgba(255,255,255,0.08);
+  --border-strong: rgba(255,255,255,0.15);
   --text: #e8e8f0;
   --text-dim: #888;
   --text-dimmer: #555;
@@ -29,6 +30,8 @@ body {
   line-height: 1.6;
 }
 .wrap { max-width: 1280px; margin: 0 auto; padding: 32px 24px 64px; }
+
+/* Nav */
 .nav {
   display: flex; justify-content: space-between; align-items: center;
   padding: 16px 0; border-bottom: 1px solid var(--border); margin-bottom: 32px;
@@ -36,6 +39,8 @@ body {
 .nav a { color: var(--text-dim); text-decoration: none; font-size: 13px; margin-right: 24px; transition: color 0.2s; }
 .nav a:hover { color: var(--accent); }
 .nav .brand { color: var(--text); font-weight: 600; font-size: 14px; }
+
+/* Header */
 .pill {
   display: inline-flex; align-items: center; gap: 8px;
   padding: 4px 12px; border-radius: 100px; font-size: 11px;
@@ -43,6 +48,7 @@ body {
 }
 .pill.live { background: rgba(50,205,50,0.1); border: 1px solid rgba(50,205,50,0.3); color: var(--green); }
 .pill.private { background: rgba(255,179,71,0.1); border: 1px solid rgba(255,179,71,0.3); color: var(--amber); margin-left: 8px; }
+.pill.surgical { background: rgba(123,104,238,0.1); border: 1px solid rgba(123,104,238,0.3); color: var(--accent-2); margin-left: 8px; }
 .pill .dot {
   width: 6px; height: 6px; border-radius: 50%;
   background: currentColor; box-shadow: 0 0 8px currentColor;
@@ -50,6 +56,8 @@ body {
 h1 { font-size: 32px; font-weight: 800; margin: 0 0 8px; letter-spacing: -0.02em; }
 .subtitle { color: var(--text-dim); font-size: 14px; margin: 0; }
 .last-updated { font-size: 12px; color: var(--text-dimmer); margin-top: 8px; }
+
+/* Stats */
 .stats {
   display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   gap: 12px; margin: 24px 0;
@@ -57,20 +65,71 @@ h1 { font-size: 32px; font-weight: 800; margin: 0 0 8px; letter-spacing: -0.02em
 .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; }
 .stat-value { font-size: 28px; font-weight: 700; line-height: 1; }
 .stat-label { font-size: 10px; color: var(--text-dim); letter-spacing: 0.1em; text-transform: uppercase; margin-top: 6px; }
+
+/* Controls bar — NEW */
+.controls {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 12px;
+  align-items: center;
+}
+.search-box {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 14px 10px 38px;
+  color: var(--text);
+  font-size: 13px;
+  font-family: inherit;
+  width: 100%;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: 12px center;
+}
+.search-box:focus { outline: none; border-color: var(--accent); }
+.dropdown {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  color: var(--text);
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  min-width: 160px;
+}
+.dropdown:focus { outline: none; border-color: var(--accent); }
+
+/* Filter pills */
 .filters { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
 .filter-btn {
   background: rgba(255,255,255,0.04); border: 1px solid var(--border);
   color: var(--text-dim); padding: 8px 16px; border-radius: 8px;
   font-size: 12px; font-weight: 600; cursor: pointer; font-family: inherit;
-  transition: all 0.2s;
+  transition: all 0.2s; display: inline-flex; align-items: center; gap: 6px;
 }
 .filter-btn.active { background: rgba(74,144,217,0.2); border-color: var(--accent); color: var(--accent); }
-.filter-btn:hover:not(.active) { color: var(--text); }
+.filter-btn:hover:not(.active) { color: var(--text); border-color: var(--border-strong); }
+.filter-btn .count {
+  background: rgba(255,255,255,0.1); padding: 1px 8px; border-radius: 100px;
+  font-size: 10px; font-weight: 700;
+}
+.filter-btn.active .count { background: rgba(74,144,217,0.3); }
+.filter-divider { width: 1px; background: var(--border); margin: 0 4px; }
+
+/* Jobs */
 .job-list { display: grid; gap: 12px; }
 .job {
   background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
   padding: 20px 24px; transition: all 0.2s;
 }
+.job:hover { border-color: var(--border-strong); transform: translateY(-1px); }
 .job.high-match { border-left: 4px solid var(--green); }
 .job.med-match { border-left: 4px solid var(--accent); }
 .job.low-match { border-left: 4px solid var(--amber); }
@@ -83,6 +142,14 @@ h1 { font-size: 32px; font-weight: 800; margin: 0 0 8px; letter-spacing: -0.02em
 }
 .badge.source { background: rgba(50,205,50,0.1); color: var(--green); }
 .badge.posted { background: rgba(74,144,217,0.1); color: var(--accent); }
+.badge.fresh {
+  background: rgba(50,205,50,0.2); color: var(--green);
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
 .job-meta { font-size: 13px; color: var(--text-dim); margin-bottom: 10px; }
 .job-meta strong { color: var(--text); font-weight: 600; }
 .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
@@ -112,16 +179,26 @@ h1 { font-size: 32px; font-weight: 800; margin: 0 0 8px; letter-spacing: -0.02em
   padding: 6px 10px; border-radius: 6px; font-size: 11px; font-weight: 600;
   width: 100%; cursor: pointer; font-family: inherit; border: 1px solid; background: transparent;
 }
+
+/* Empty state */
 .empty {
   text-align: center; padding: 64px 20px; color: var(--text-dim);
   border: 1px dashed var(--border); border-radius: 12px;
 }
 .empty-icon { font-size: 48px; margin-bottom: 16px; }
+.empty h3 { color: var(--text); margin: 0 0 8px; font-size: 18px; }
+.empty p { font-size: 13px; margin: 4px 0; max-width: 480px; margin-left: auto; margin-right: auto; }
+
 .footer-tip {
   margin-top: 32px; padding: 20px 24px; background: var(--surface);
   border: 1px solid var(--border); border-radius: 12px; font-size: 12px; color: var(--text-dim);
 }
 .footer-tip strong { color: var(--text); }
+
+@media (max-width: 768px) {
+  .controls { grid-template-columns: 1fr; }
+  .dropdown { width: 100%; }
+}
 @media (max-width: 640px) {
   .job-actions { min-width: 100%; align-items: stretch; flex-direction: row; }
   .match-score { display: none; }
@@ -143,26 +220,35 @@ h1 { font-size: 32px; font-weight: 800; margin: 0 0 8px; letter-spacing: -0.02em
 
 <div class="header">
   <span class="pill live"><span class="dot"></span> AUTO-FETCH ACTIVE</span>
-  <span class="pill private"><span class="dot"></span> PRIVATE / NOINDEX</span>
+  <span class="pill private"><span class="dot"></span> PRIVATE</span>
+  <span class="pill surgical"><span class="dot"></span> SURGICAL MODE</span>
   <h1>Fresh Roles Pipeline</h1>
-  <p class="subtitle">T1 fintech & AI Senior PM roles posted in the last 7 days. Refreshes every 6 hours.</p>
+  <p class="subtitle">T1 fintech & AI roles posted in the last 4 days, matched ≥80% to your resume. Refreshes every 6 hours.</p>
   <p class="last-updated" id="lastUpdated">Loading…</p>
 </div>
 
 <div class="stats" id="stats"></div>
 
-<div class="filters">
-  <button class="filter-btn active" data-filter="all">All Roles</button>
-  <button class="filter-btn" data-filter="high">90+ Match</button>
-  <button class="filter-btn" data-filter="todo">To Apply</button>
-  <button class="filter-btn" data-filter="applied">Applied</button>
-  <button class="filter-btn" data-filter="callback">Callbacks</button>
+<!-- NEW: Controls bar -->
+<div class="controls">
+  <input type="text" class="search-box" id="searchBox" placeholder="Search title or company..." />
+  <select class="dropdown" id="companyFilter">
+    <option value="all">All Companies</option>
+  </select>
+  <select class="dropdown" id="sortBy">
+    <option value="match">Sort: Best Match</option>
+    <option value="posted">Sort: Newest</option>
+    <option value="company">Sort: Company A-Z</option>
+  </select>
 </div>
+
+<!-- Filter pills -->
+<div class="filters" id="filterPills"></div>
 
 <div id="jobList" class="job-list"></div>
 
 <div class="footer-tip">
-  <strong>How this works:</strong> A GitHub Actions workflow runs every 6 hours, pulling fresh job postings from Greenhouse and Lever public APIs across 21 target companies. Roles are filtered to Senior/Staff/Principal PM in fintech, payments, lending, and AI — posted in the last 7 days. Each role is auto-scored against your resume keywords (TSYS, FDIC, KYC, card origination, payment processing, AI platforms, etc.). Status updates save to your browser locally.
+  <strong>Surgical mode active:</strong> Only T1 companies, only roles posted in the last 4 days, only ≥80% resume match. If you see no results, it means nothing posted recently matched your exact profile — that's the filter working, not a bug. The fetcher runs every 6 hours. Check back later or widen filters in <code>scripts/fetch-jobs.js</code> if needed (change <code>DAYS_BACK</code> or <code>MIN_MATCH</code>).
 </div>
 
 </div>
@@ -170,6 +256,10 @@ h1 { font-size: 32px; font-weight: 800; margin: 0 0 8px; letter-spacing: -0.02em
 <script>
 let allJobs = [];
 let currentFilter = "all";
+let currentTimeFilter = "all";
+let currentCompany = "all";
+let currentSort = "match";
+let searchTerm = "";
 
 const STATUS_COLORS = {
   new:       { bg: "rgba(74,144,217,0.15)",  fg: "#4a90d9", brd: "#4a90d9" },
@@ -179,21 +269,22 @@ const STATUS_COLORS = {
   rejected:  { bg: "rgba(255,107,107,0.15)", fg: "#ff6b6b", brd: "#ff6b6b" }
 };
 
-function loadStatus(id) {
-  return localStorage.getItem(`job-status-${id}`) || "new";
-}
-function saveStatus(id, status) {
-  localStorage.setItem(`job-status-${id}`, status);
-}
+function loadStatus(id) { return localStorage.getItem(`job-status-${id}`) || "new"; }
+function saveStatus(id, status) { localStorage.setItem(`job-status-${id}`, status); }
 
 function timeAgo(iso) {
   const diff = Date.now() - new Date(iso).getTime();
-  const days = Math.floor(diff / 86400000);
+  const mins = Math.floor(diff / 60000);
   const hours = Math.floor(diff / 3600000);
-  if (days === 0 && hours === 0) return "just now";
-  if (days === 0) return `${hours}h ago`;
+  const days = Math.floor(diff / 86400000);
+  if (mins < 60) return mins + "m ago";
+  if (hours < 24) return hours + "h ago";
   if (days === 1) return "1 day ago";
-  return `${days} days ago`;
+  return days + " days ago";
+}
+
+function hoursOld(iso) {
+  return (Date.now() - new Date(iso).getTime()) / 3600000;
 }
 
 function matchClass(score) {
@@ -201,7 +292,6 @@ function matchClass(score) {
   if (score >= 80) return "med";
   return "low";
 }
-
 function jobClass(score) {
   if (score >= 90) return "high-match";
   if (score >= 80) return "med-match";
@@ -212,7 +302,7 @@ function renderStats() {
   const stats = [
     { label: "Total Fresh", value: allJobs.length, color: "var(--accent)" },
     { label: "90%+ Match",  value: allJobs.filter(j => j.match >= 90).length, color: "var(--green)" },
-    { label: "To Apply",    value: allJobs.filter(j => loadStatus(j.id) === "new").length, color: "var(--amber)" },
+    { label: "Last 24h",    value: allJobs.filter(j => hoursOld(j.posted) <= 24).length, color: "var(--amber)" },
     { label: "Applied",     value: allJobs.filter(j => loadStatus(j.id) === "applied").length, color: "var(--accent-2)" },
     { label: "Callbacks",   value: allJobs.filter(j => loadStatus(j.id) === "callback").length, color: "var(--green)" }
   ];
@@ -223,35 +313,111 @@ function renderStats() {
     </div>`).join("");
 }
 
+function renderFilterPills() {
+  const counts = {
+    all: allJobs.length,
+    h24: allJobs.filter(j => hoursOld(j.posted) <= 24).length,
+    h48: allJobs.filter(j => hoursOld(j.posted) <= 48).length,
+    todo: allJobs.filter(j => loadStatus(j.id) === "new").length,
+    applied: allJobs.filter(j => loadStatus(j.id) === "applied").length,
+    callback: allJobs.filter(j => loadStatus(j.id) === "callback").length
+  };
+  const pills = [
+    { id: "all",      label: "All",         time: "all",  count: counts.all },
+    { id: "24h",      label: "Last 24h",    time: "24h",  count: counts.h24 },
+    { id: "48h",      label: "Last 48h",    time: "48h",  count: counts.h48 },
+    { id: "divider" },
+    { id: "todo",     label: "To Apply",    status: "todo",     count: counts.todo },
+    { id: "applied",  label: "Applied",     status: "applied",  count: counts.applied },
+    { id: "callback", label: "Callbacks",   status: "callback", count: counts.callback }
+  ];
+  document.getElementById("filterPills").innerHTML = pills.map(p => {
+    if (p.id === "divider") return `<div class="filter-divider"></div>`;
+    const active = (p.time === currentTimeFilter && p.time) || (p.status === currentFilter && p.status);
+    const dataAttr = p.time ? `data-time="${p.time}"` : `data-filter="${p.status}"`;
+    return `<button class="filter-btn ${active ? 'active' : ''}" ${dataAttr}>
+      ${p.label} <span class="count">${p.count}</span>
+    </button>`;
+  }).join("");
+
+  document.querySelectorAll(".filter-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      if (btn.dataset.time) {
+        currentTimeFilter = btn.dataset.time;
+      } else if (btn.dataset.filter) {
+        currentFilter = btn.dataset.filter === currentFilter ? "all" : btn.dataset.filter;
+      }
+      renderFilterPills();
+      renderJobs();
+    });
+  });
+}
+
+function populateCompanyFilter() {
+  const companies = [...new Set(allJobs.map(j => j.company))].sort();
+  const select = document.getElementById("companyFilter");
+  select.innerHTML = `<option value="all">All Companies (${allJobs.length})</option>` +
+    companies.map(c => {
+      const count = allJobs.filter(j => j.company === c).length;
+      return `<option value="${c}">${c} (${count})</option>`;
+    }).join("");
+}
+
 function renderJobs() {
   const list = document.getElementById("jobList");
   let filtered = [...allJobs];
 
-  if (currentFilter === "high") filtered = filtered.filter(j => j.match >= 90);
+  // Apply filters
+  if (currentTimeFilter === "24h") filtered = filtered.filter(j => hoursOld(j.posted) <= 24);
+  if (currentTimeFilter === "48h") filtered = filtered.filter(j => hoursOld(j.posted) <= 48);
   if (currentFilter === "todo") filtered = filtered.filter(j => loadStatus(j.id) === "new");
   if (currentFilter === "applied") filtered = filtered.filter(j => loadStatus(j.id) === "applied");
   if (currentFilter === "callback") filtered = filtered.filter(j => loadStatus(j.id) === "callback");
+  if (currentCompany !== "all") filtered = filtered.filter(j => j.company === currentCompany);
+  if (searchTerm) {
+    const s = searchTerm.toLowerCase();
+    filtered = filtered.filter(j =>
+      j.title.toLowerCase().includes(s) ||
+      j.company.toLowerCase().includes(s) ||
+      (j.tags || []).some(t => t.toLowerCase().includes(s))
+    );
+  }
+
+  // Sort
+  if (currentSort === "match") filtered.sort((a, b) => b.match - a.match);
+  if (currentSort === "posted") filtered.sort((a, b) => new Date(b.posted) - new Date(a.posted));
+  if (currentSort === "company") filtered.sort((a, b) => a.company.localeCompare(b.company));
 
   if (filtered.length === 0) {
-    list.innerHTML = `<div class="empty">
-      <div class="empty-icon">📭</div>
-      <div>No roles match this filter yet.</div>
-      <div style="margin-top: 8px; font-size: 12px;">The fetcher runs every 6 hours. New roles will appear here.</div>
-    </div>`;
+    if (allJobs.length === 0) {
+      list.innerHTML = `<div class="empty">
+        <div class="empty-icon">🎯</div>
+        <h3>Surgical filter active — no roles match right now</h3>
+        <p>This is normal. T1 + last 4 days + 80%+ match is intentionally narrow.</p>
+        <p>The fetcher runs every 6 hours. Check back tomorrow morning or widen filters in <code>scripts/fetch-jobs.js</code>.</p>
+      </div>`;
+    } else {
+      list.innerHTML = `<div class="empty">
+        <div class="empty-icon">🔍</div>
+        <h3>No matches with current filters</h3>
+        <p>Try clearing search, time filter, or company filter above.</p>
+      </div>`;
+    }
     return;
   }
 
   list.innerHTML = filtered.map(job => {
     const status = loadStatus(job.id);
     const sc = STATUS_COLORS[status];
+    const isFresh = hoursOld(job.posted) <= 24;
     return `
     <div class="job ${jobClass(job.match)}">
       <div class="job-row">
         <div class="job-info">
           <div class="job-title">
             <span class="job-title-text">${escapeHtml(job.title)}</span>
+            <span class="badge ${isFresh ? 'fresh' : 'posted'}">${isFresh ? '🔥 ' : ''}${timeAgo(job.posted)}</span>
             <span class="badge source">${job.source}</span>
-            <span class="badge posted">${timeAgo(job.posted)}</span>
           </div>
           <div class="job-meta">
             🏢 <strong>${escapeHtml(job.company)}</strong> · 📍 ${escapeHtml(job.location)}
@@ -281,11 +447,11 @@ function renderJobs() {
     </div>`;
   }).join("");
 
-  // Wire up status selects
   document.querySelectorAll(".status-select").forEach(sel => {
     sel.addEventListener("change", (e) => {
       saveStatus(e.target.dataset.jobId, e.target.value);
       renderStats();
+      renderFilterPills();
       renderJobs();
     });
   });
@@ -296,31 +462,39 @@ function escapeHtml(s) {
 }
 function escapeAttr(s) { return escapeHtml(s); }
 
-document.querySelectorAll(".filter-btn").forEach(btn => {
-  btn.addEventListener("click", () => {
-    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
-    btn.classList.add("active");
-    currentFilter = btn.dataset.filter;
-    renderJobs();
-  });
+// Wire up controls
+document.getElementById("searchBox").addEventListener("input", (e) => {
+  searchTerm = e.target.value;
+  renderJobs();
+});
+document.getElementById("companyFilter").addEventListener("change", (e) => {
+  currentCompany = e.target.value;
+  renderJobs();
+});
+document.getElementById("sortBy").addEventListener("change", (e) => {
+  currentSort = e.target.value;
+  renderJobs();
 });
 
-// Load jobs.json
+// Load
 fetch("jobs.json?ts=" + Date.now())
   .then(r => r.json())
   .then(data => {
     allJobs = data.jobs || [];
+    const config = data.config || {};
     document.getElementById("lastUpdated").textContent =
-      `Last updated: ${new Date(data.lastUpdated).toLocaleString()} · ${allJobs.length} fresh roles found`;
+      `Updated: ${new Date(data.lastUpdated).toLocaleString()} · ${allJobs.length} roles · ${config.daysBack || 4}d window · ${config.minMatch || 80}%+ match`;
     renderStats();
+    populateCompanyFilter();
+    renderFilterPills();
     renderJobs();
   })
   .catch(err => {
-    document.getElementById("lastUpdated").textContent = "No jobs.json yet — workflow will create it on first run.";
+    document.getElementById("lastUpdated").textContent = "No jobs.json yet — waiting for first workflow run.";
     document.getElementById("jobList").innerHTML = `<div class="empty">
       <div class="empty-icon">⏳</div>
-      <div>Waiting for first job fetch.</div>
-      <div style="margin-top: 8px; font-size: 12px;">Go to GitHub → Actions tab → "Fetch Fresh Jobs" → Run workflow manually to trigger immediately.</div>
+      <h3>Waiting for first job fetch</h3>
+      <p>Go to GitHub → Actions → "Fetch Fresh Jobs" → Run workflow manually.</p>
     </div>`;
   });
 </script>
