@@ -1,238 +1,419 @@
-<!-- Version: pitch.html v2.2 — Magic Mouse Light, Full-Page 3D, Unique Styling -->
+<!-- Version: pitch.html v3.0.0 - Stripe-like dark redesign with updated content -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pitch | Chaitanya Kasani — v2.2</title>
-  <link href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css" />
-  <!-- Vanta.NET for animated background -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js"></script>
+  <title>Pitch — Chaitanya Kasani</title>
+  <meta name="description" content="A focused pitch: what I bring, how I think, and what I build. Senior PM at LPL Financial, founder of TechGenie.ai." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
   <style>
-    html, body { height: 100%; margin: 0; padding: 0; font-family: 'Calibri', Arial, sans-serif; scroll-behavior: smooth;}
-    body { min-height: 100vh; color: #f4f6fa; background: #0a192f; overflow-x: hidden; }
-
-    /* NAVIGATION - World-Class, Consistent with index.html */
-    .main-nav {
-      width: 100vw; min-width: 0; height: 64px;
-      background: rgba(8,13,23,0.99);
-      display: flex; align-items: center; justify-content: center;
-      position: fixed; top: 0; left: 0; z-index: 2000;
-      box-shadow: 0 2px 14px #001a3a22; padding: 0;
-      gap: 0;
-    }
-    .nav-list {
-      display: flex; gap: 20px; align-items: center; justify-content: center;
-      background: none;
-      font-size: 1.13rem;
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
       margin: 0;
-      padding: 0;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0A0A0A; color: #E8E6E1; line-height: 1.6;
+      font-feature-settings: "ss01", "ss02", "cv11";
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
     }
-    .nav-list a {
-      color: #eaf8fa;
-      text-decoration: none;
-      font-weight: 700;
-      letter-spacing: 0.2px;
-      padding: 9px 16px;
-      border-radius: 10px;
-      position: relative;
-      display: flex; align-items: center; gap: 6px;
-      transition: background 0.16s, color 0.18s;
-    }
-    .nav-list a.active,
-    .nav-list a:hover {
-      color: #38bdf8;
-      background: #192f44;
-      box-shadow: 0 2px 14px #38bdf833;
-    }
-    .nav-list a.active::after {
-      content: "";
-      display: block;
-      height: 3px;
-      width: 100%;
-      border-radius: 3px;
-      background: linear-gradient(90deg,#38bdf8 20%,#4dd0e1 80%);
-      position: absolute;
-      left: 0; right: 0; bottom: 3px;
-    }
-    .contact-btn {
-      background: #f54242;
-      color: #fff !important;
-      font-weight: 800;
-      border-radius: 9px;
-      margin-left: 14px;
-      padding: 10px 22px;
-      transition: background 0.18s;
-      box-shadow: 0 2px 14px #b43b3822;
-    }
-    .contact-btn:hover { background: #f87c43; color: #fff !important; }
-    .logo-nav {
-      font-size: 1.27rem;
-      font-weight: 800;
-      letter-spacing: 2px;
-      color: #38bdf8;
-      margin-right: 30px;
-      margin-left: 10px;
+    a { color: inherit; text-decoration: none; }
+    ::selection { background: #D4A24C; color: #0A0A0A; }
+
+    :root {
+      --bg: #0A0A0A; --bg-elev: #141414; --bg-card: #161616;
+      --border: #262626; --border-strong: #333333;
+      --text: #E8E6E1; --text-muted: #9A978F; --text-faint: #5A5A55;
+      --accent: #D4A24C;
+      --mono: 'JetBrains Mono', ui-monospace, monospace;
+      --serif: 'Source Serif 4', Georgia, serif;
     }
 
-    /* CARD/SECTION STYLES - AIRY for Pitch */
-    .section-card {
-      margin: 54px auto 0 auto;
-      max-width: 800px;
-      background: rgba(11,21,34,0.19);  /* much lighter for 3D mesh to show through! */
-      border-radius: 20px;
-      padding: 38px 4vw 30px 4vw;
-      box-shadow: 0 6px 30px #0033660c;
-      backdrop-filter: blur(2px);
+    /* NAV */
+    .nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100; height: 64px;
+      background: rgba(10,10,10,0.85);
+      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-inner {
+      max-width: 1100px; margin: 0 auto; height: 100%; padding: 0 32px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-logo { font-weight: 600; font-size: 15px; letter-spacing: -0.2px; color: var(--text); }
+    .nav-links { display: flex; gap: 4px; align-items: center; }
+    .nav-link {
+      font-size: 14px; font-weight: 500; color: var(--text-muted);
+      padding: 8px 14px; border-radius: 6px;
+      transition: color 0.15s ease, background 0.15s ease;
+    }
+    .nav-link:hover { color: var(--text); background: rgba(255,255,255,0.04); }
+    .nav-link.active { color: var(--accent); }
+    .nav-cta {
+      font-size: 14px; font-weight: 500; color: var(--bg);
+      background: var(--text); padding: 8px 14px; border-radius: 6px; margin-left: 8px;
+    }
+    .nav-cta:hover { background: white; }
+
+    .container { max-width: 900px; margin: 0 auto; padding: 0 32px; }
+
+    /* HERO */
+    .hero { padding: 140px 0 60px; }
+    .hero-eyebrow {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.3px; margin-bottom: 24px;
+    }
+    .hero-eyebrow::before {
+      content: ""; width: 6px; height: 6px; border-radius: 50%;
+      background: var(--accent); box-shadow: 0 0 12px var(--accent);
+    }
+    .hero h1 {
+      font-size: 52px; font-weight: 700; line-height: 1.05;
+      letter-spacing: -1.4px; color: var(--text);
+      margin: 0 0 24px; max-width: 800px;
+    }
+    .hero h1 .em { font-style: italic; font-weight: 500; color: var(--accent); }
+    .hero-quote {
+      font-family: var(--serif);
+      font-size: 22px; line-height: 1.5; color: var(--text-muted);
+      margin: 0 0 36px; max-width: 720px;
+      font-style: italic;
+      padding-left: 20px; border-left: 2px solid var(--accent);
+    }
+    .hero-quote strong { color: var(--text); font-weight: 500; font-style: normal; }
+
+    /* SECTIONS */
+    section { padding: 50px 0; }
+    .section-header {
+      display: flex; align-items: baseline; justify-content: space-between;
+      margin-bottom: 36px; padding-bottom: 18px;
+      border-bottom: 1px solid var(--border);
+    }
+    .section-label {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.5px; text-transform: uppercase;
     }
     .section-title {
-      color: #38bdf8; font-size: 1.21rem; font-weight: 800; letter-spacing: 1.1px; margin-bottom: 24px;
-      text-transform: uppercase; text-align: center;
-      border-bottom: 2.2px solid #1a3250; padding-bottom: 7px;
-      background: none;
+      font-size: 26px; font-weight: 600; color: var(--text);
+      margin: 8px 0 0; letter-spacing: -0.5px; line-height: 1.2;
     }
-    section {margin-bottom: 0;}
 
-    .pitch-header {
-      text-align: center;
-      margin: 0 auto;
-      max-width: 900px;
-      margin-top: 96px;
-      margin-bottom: 38px;
-      background: none;
+    /* PITCH BODY */
+    .pitch-body {
+      font-family: var(--serif);
+      font-size: 19px; line-height: 1.7; color: var(--text);
     }
-    .pitch-header h1 {
-      font-size: 2.18rem;
-      font-weight: 800;
-      color: #f3fafc;
-      letter-spacing: 1.2px;
-      margin: 0 0 8px 0;
-      text-shadow: 0 2px 16px #00102099;
+    .pitch-body p { margin: 0 0 22px; }
+    .pitch-body strong { color: var(--text); font-weight: 600; }
+    .pitch-body em { color: var(--accent); font-style: italic; }
+
+    /* CAPABILITIES GRID */
+    .caps {
+      display: grid; grid-template-columns: repeat(2, 1fr);
+      gap: 1px; background: var(--border);
+      border: 1px solid var(--border); border-radius: 8px;
+      overflow: hidden;
     }
-    .pitch-header p {
-      font-size: 1.11rem;
-      color: #8ecae6;
-      margin: 0 0 12px 0;
+    .cap {
+      background: var(--bg); padding: 28px;
+      transition: background 0.2s ease;
     }
-    ul, .skills-list {margin: 0 0 14px 0; padding: 0 0 0 16px;}
-    .skills-list {display: flex; flex-wrap: wrap; gap: 8px 18px; list-style: none; padding: 0;}
-    .skills-list li {
-      background: #e0f2fe;
-      color: #18516e;
-      font-size: 0.97rem;
-      border-radius: 8px;
-      padding: 5px 13px;
+    .cap:hover { background: var(--bg-card); }
+    .cap-num {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.5px;
+      margin-bottom: 12px;
+    }
+    .cap-title {
+      font-size: 17px; font-weight: 600; color: var(--text);
+      margin: 0 0 10px; letter-spacing: -0.2px;
+    }
+    .cap-desc {
+      font-size: 14px; line-height: 1.6; color: var(--text-muted);
       margin: 0;
-      font-weight: 500;
     }
-    /* CONTACT SECTION */
-    #contact { text-align: center;}
-    #contact .section-title { margin-bottom: 18px;}
-    #contact a { color: #38bdf8; font-weight: bold;}
 
-    /* MAGIC MOUSE LIGHT */
-    #magic-mouse-light {
-      pointer-events: none;
-      position: fixed;
-      left: 0;
-      top: 0;
-      width: 70px;
-      height: 70px;
-      z-index: 1001; /* above Vanta, below nav */
-      border-radius: 50%;
-      background: radial-gradient(circle, #fff 0%, #38bdf8 65%, transparent 100%);
-      opacity: 0.33;
-      box-shadow: 0 0 32px 12px #38bdf855, 0 0 80px 16px #fff2;
-      transform: translate(-50%, -50%);
-      transition: opacity 0.2s;
-      will-change: left, top;
+    /* RESULTS LIST */
+    .results { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    .result {
+      padding: 24px; background: var(--bg-card);
+      border: 1px solid var(--border); border-radius: 8px;
     }
-    @media (max-width: 700px) {
-      .section-card { padding: 18px 2vw 14px 2vw; border-radius: 11px;}
-      .pitch-header h1 { font-size: 1.17rem;}
-      #magic-mouse-light { width: 42px; height: 42px; }
+    .result-number {
+      font-size: 32px; font-weight: 700;
+      color: var(--accent); letter-spacing: -1px;
+      margin-bottom: 8px; line-height: 1;
     }
-    @media (max-width: 500px) {
-      .main-nav { font-size: 0.96rem;}
-      .logo-nav { font-size: 1rem;}
-      .section-title { font-size: 1rem;}
+    .result-label {
+      font-size: 13px; line-height: 1.5; color: var(--text-muted);
+      margin: 0;
+    }
+    .result-label strong { color: var(--text); font-weight: 600; }
+
+    /* OPERATING PRINCIPLES */
+    .principles { display: flex; flex-direction: column; gap: 0; }
+    .principle {
+      display: grid; grid-template-columns: 60px 1fr;
+      gap: 28px; padding: 24px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .principle:last-child { border-bottom: none; }
+    .principle-num {
+      font-family: var(--mono); font-size: 13px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.5px;
+      padding-top: 4px;
+    }
+    .principle-title {
+      font-size: 17px; font-weight: 600; color: var(--text);
+      margin: 0 0 8px; letter-spacing: -0.2px;
+    }
+    .principle-desc {
+      font-size: 15px; line-height: 1.65; color: var(--text-muted);
+      margin: 0; max-width: 660px;
+    }
+
+    /* CONTACT */
+    .contact-box {
+      padding: 50px; background: var(--bg-card);
+      border: 1px solid var(--border); border-radius: 12px;
+      text-align: center;
+    }
+    .contact-box h3 {
+      font-size: 26px; font-weight: 600; letter-spacing: -0.5px;
+      margin: 0 0 12px; color: var(--text);
+    }
+    .contact-box p { font-size: 16px; color: var(--text-muted); margin: 0 0 28px; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 12px 20px; border-radius: 6px;
+      font-size: 14px; font-weight: 500;
+      transition: all 0.15s ease; border: 1px solid transparent;
+    }
+    .btn-primary { background: var(--text); color: var(--bg); }
+    .btn-primary:hover { background: white; }
+    .btn-secondary {
+      background: transparent; color: var(--text);
+      border-color: var(--border-strong);
+    }
+    .btn-secondary:hover { border-color: var(--text-muted); }
+    .contact-links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+    footer {
+      padding: 40px 0; border-top: 1px solid var(--border);
+      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
+      letter-spacing: 0.3px;
+    }
+    footer .container {
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 16px;
+    }
+
+    @media (max-width: 900px) {
+      .hero { padding: 110px 0 40px; }
+      .hero h1 { font-size: 36px; letter-spacing: -1px; }
+      .hero-quote { font-size: 18px; }
+      .pitch-body { font-size: 17px; }
+      .caps { grid-template-columns: 1fr; }
+      .results { grid-template-columns: 1fr; }
+      .principle { grid-template-columns: 1fr; gap: 6px; }
+      .contact-box { padding: 36px 24px; }
+      .nav-inner, .container { padding-left: 20px; padding-right: 20px; }
+    }
+    @media (max-width: 600px) {
+      .hero h1 { font-size: 28px; }
     }
   </style>
 </head>
 <body>
-  <!-- MAGIC MOUSE LIGHT FOLLOWER -->
-  <div id="magic-mouse-light"></div>
-  <!-- NAVIGATION - Consistent with index, Centered -->
-  <nav class="main-nav">
-    <span class="logo-nav">Chaitanya Kasani</span>
-    <div class="nav-list">
-      <a href="index.html">Portfolio</a>
-      <a href="pitch.html" class="active">Pitch</a>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Chaitanya Kasani</a>
+      <div class="nav-links">
+        <a href="index.html" class="nav-link">Profile</a>
+        <a href="pitch.html" class="nav-link active">Pitch</a>
+        <a href="blog.html" class="nav-link">Writing</a>
+        <a href="mailto:ckkasani@gmail.com" class="nav-cta">Contact</a>
+      </div>
     </div>
   </nav>
 
-  <!-- HEADER -->
-  <div class="pitch-header" id="home">
-    <h1>Building Platforms * Driving Innovation * Delivering Value.</h1>
-    <p>"I don’t just build products. I create platforms addressing stakeholders' needs with long-term vision and reusability."</p>
-  </div>
+  <header class="hero">
+    <div class="container">
+      <div class="hero-eyebrow">The Pitch</div>
+      <h1>I turn business chaos into <span class="em">platform clarity</span>.</h1>
+      <p class="hero-quote">
+        I do not just build products. I build platforms that solve compound problems — across <strong>compliance</strong>, <strong>scale</strong>, and <strong>change management</strong> — and survive the next reorg, the next regulator, and the next pivot.
+      </p>
+    </div>
+  </header>
 
-  <!-- ELEVATOR PITCH -->
-  <section class="section-card" id="about">
-    <div class="section-title">Elevator Pitch</div>
-    <div style="font-size:1.09rem; color:#d2edfc;">
-      <strong>"I build digital products that solve complex business problems with ruthless clarity and execution."</strong><br>
-      With over a decade blending business analysis and product management, I’ve led high-impact solutions across fintech, AI platforms, and enterprise tech. My portfolio is not just a showcase — it's proof of momentum, obsession with outcomes, and the grit to build what others delay. If you’re looking for velocity, precision, and a partner who owns outcomes like a founder — you just found him.
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="section-label">01 — The short version</div>
+          <h2 class="section-title">Senior PM. Fintech-deep. Founder-built.</h2>
+        </div>
+      </div>
+      <div class="pitch-body">
+        <p>
+          <strong>I'm a Senior Product Manager with 11 years across consumer fintech, healthcare, and AI platforms — all under hard regulatory constraints</strong> (SEC, FDIC, HIPAA, PCI-DSS, FINRA, SOC2). I currently lead the redesign of LPL Financial's <em>$49B FDIC-insured Bank Sweep</em>, a publicly disclosed strategic program serving 32,000 advisors and 8 million end clients.
+        </p>
+        <p>
+          In parallel, I founded <strong>TechGenie.ai</strong> — an AI member engagement platform processing more than a million monthly interactions. I designed the AI escalation layer that reduced support costs by approximately <em>$3M annually</em> while maintaining SLA compliance and audit defensibility.
+        </p>
+        <p>
+          Earlier I owned card origination, TSYS batch payment processing, and fraud servicing at KeyBank, and credit card product strategy at BBVA. I am comfortable operating across Risk, Legal, Operations, and Engineering — and I ship.
+        </p>
+      </div>
     </div>
   </section>
 
-  <!-- WHAT I BRING TO THE TABLE -->
-  <section class="section-card" id="what">
-    <div class="section-title">What I Bring to the Table</div>
-    <ul>
-      <li>Product Leadership: 9+ years of roadmap ownership and OKR-driven execution</li>
-      <li>AI + NLP Execution: Prompt design, fallback logic, and data-driven optimization</li>
-      <li>GTM Strategy: Voice-of-customer insights, A/B testing, and cross-functional launches</li>
-      <li>Platform Architecture: Secure, scalable multi-tenant systems on AWS & Azure</li>
-      <li>Obsessed with Clarity: Clean user stories, sprint velocity, and stakeholder alignment</li>
-    </ul>
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="section-label">02 — Receipts</div>
+          <h2 class="section-title">The numbers behind the work.</h2>
+        </div>
+      </div>
+      <div class="results">
+        <div class="result">
+          <div class="result-number">$49B</div>
+          <p class="result-label"><strong>FDIC-insured cash sweep</strong> redesign in flight at LPL Financial — ~10% of firm revenue.</p>
+        </div>
+        <div class="result">
+          <div class="result-number">$3M</div>
+          <p class="result-label"><strong>Annual support cost reduction</strong> via the TechGenie AI escalation layer I designed.</p>
+        </div>
+        <div class="result">
+          <div class="result-number">1M+</div>
+          <p class="result-label"><strong>Monthly interactions</strong> processed by the TechGenie member engagement platform.</p>
+        </div>
+        <div class="result">
+          <div class="result-number">5,000+</div>
+          <p class="result-label"><strong>Agents across 3 states</strong> served by the HIPAA Medicare onboarding I shipped at Sentara.</p>
+        </div>
+        <div class="result">
+          <div class="result-number">22%</div>
+          <p class="result-label"><strong>Reduction in onboarding errors</strong> at Sentara through funnel redesign and telemetry.</p>
+        </div>
+        <div class="result">
+          <div class="result-number">30%</div>
+          <p class="result-label"><strong>Faster credit approvals</strong> at BBVA via bureau API integration and origination workflow redesign.</p>
+        </div>
+      </div>
+    </div>
   </section>
 
-  <!-- CONTACT -->
-  <section class="section-card" id="contact" style="margin-bottom:32px;">
-    <div class="section-title">Contact</div>
-    <p style="text-align:center;">
-      If you care about speed, outcomes, and real product impact — let’s connect.<br>
-      <a href="mailto:ckkasani@gmail.com">ckkasani@gmail.com</a><br>
-      <a href="https://www.linkedin.com/in/chaitanyakproductconsultant/" target="_blank">Chaitanya on LinkedIn</a>
-    </p>
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="section-label">03 — What I bring</div>
+          <h2 class="section-title">Six capabilities, one operating model.</h2>
+        </div>
+      </div>
+      <div class="caps">
+        <div class="cap">
+          <div class="cap-num">/ 01</div>
+          <h3 class="cap-title">Regulated platform ownership</h3>
+          <p class="cap-desc">End-to-end product accountability under SEC, FDIC, HIPAA, PCI-DSS, and SOC2. Comfortable defending architecture decisions in audit.</p>
+        </div>
+        <div class="cap">
+          <div class="cap-num">/ 02</div>
+          <h3 class="cap-title">AI escalation & customer experience</h3>
+          <p class="cap-desc">Graded escalation design that balances autonomy, identity strength, and audit cost. Production AI in regulated environments, not demoware.</p>
+        </div>
+        <div class="cap">
+          <div class="cap-num">/ 03</div>
+          <h3 class="cap-title">Identity-first architecture</h3>
+          <p class="cap-desc">CIP-verified party identity, household-aware tiering, KYC/AML defensibility. Building from the constraint inward, not bolting it on.</p>
+        </div>
+        <div class="cap">
+          <div class="cap-num">/ 04</div>
+          <h3 class="cap-title">Payment & loan servicing depth</h3>
+          <p class="cap-desc">TSYS batch processing, card origination, fraud rules, bureau API integration, AUM-based fee engines. The plumbing of consumer finance.</p>
+        </div>
+        <div class="cap">
+          <div class="cap-num">/ 05</div>
+          <h3 class="cap-title">Cross-functional execution</h3>
+          <p class="cap-desc">Single point of accountability across Compliance, Risk, Legal, Operations, and Engineering. SAFe and PI Planning with contract-first API design.</p>
+        </div>
+        <div class="cap">
+          <div class="cap-num">/ 06</div>
+          <h3 class="cap-title">0-to-1 platform builds</h3>
+          <p class="cap-desc">Founded TechGenie.ai end-to-end — Azure architecture, REST microservices, telemetry, compliance logging, and admin tooling.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="section-label">04 — How I operate</div>
+          <h2 class="section-title">Three things I will not compromise.</h2>
+        </div>
+      </div>
+      <div class="principles">
+        <div class="principle">
+          <div class="principle-num">/ 01</div>
+          <div>
+            <h3 class="principle-title">Compliance is architecture, not a layer.</h3>
+            <p class="principle-desc">
+              The chatbots, billing engines, and onboarding flows that fail in production are the ones built without identity, explainability, and audit logging as first-class primitives. I design from the constraint inward.
+            </p>
+          </div>
+        </div>
+        <div class="principle">
+          <div class="principle-num">/ 02</div>
+          <div>
+            <h3 class="principle-title">Survives the next reorg.</h3>
+            <p class="principle-desc">
+              A platform that depends on a specific team, a specific PM, or a specific cloud account is a future migration project. I optimize for ownership clarity, contract-first APIs, and decisions that hold up two years out.
+            </p>
+          </div>
+        </div>
+        <div class="principle">
+          <div class="principle-num">/ 03</div>
+          <div>
+            <h3 class="principle-title">Velocity beats theater.</h3>
+            <p class="principle-desc">
+              Anchored a big-bang cutover for Bank Sweep instead of a phased rollout because dual-state FDIC reporting was a worse risk than coordinated change management. The right answer is rarely the safest-sounding one.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="contact-box">
+        <h3>Want to compare notes?</h3>
+        <p>Always open to talking through regulated fintech, AI in customer experience, or platform design.</p>
+        <div class="contact-links">
+          <a href="mailto:ckkasani@gmail.com" class="btn btn-primary">ckkasani@gmail.com →</a>
+          <a href="Chaitanya_Kasani_PM.pdf" class="btn btn-secondary" download>Download résumé ↓</a>
+        </div>
+      </div>
+    </div>
   </section>
 
   <footer>
-    &copy; 2025 Chaitanya Kasani — Built with RD Mode Level 10 ⚡
+    <div class="container">
+      <div>© 2025 Chaitanya Kasani</div>
+      <div>Crafted in Inter, Source Serif & JetBrains Mono</div>
+    </div>
   </footer>
-  <script>
-    VANTA.NET({
-      el: document.body,
-      backgroundColor: 0x081e36,  // subtle deep blue for more contrast
-      color: 0x38bdf8,
-      maxDistance: 28.0,
-      spacing: 21.0,
-      showDots: true,
-      backgroundAlpha: 0.56
-    });
 
-    // MAGIC MOUSE LIGHT FOLLOWS CURSOR (no trail, just light under mouse)
-    const mouseLight = document.getElementById('magic-mouse-light');
-    document.addEventListener('mousemove', e => {
-      mouseLight.style.left = e.clientX + 'px';
-      mouseLight.style.top = e.clientY + 'px';
-      mouseLight.style.opacity = 0.33;
-    });
-    document.addEventListener('mouseleave', () => { mouseLight.style.opacity = 0; });
-    document.addEventListener('mouseenter', () => { mouseLight.style.opacity = 0.33; });
-  </script>
+<script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
 </body>
 </html>
