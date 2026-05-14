@@ -1,0 +1,322 @@
+<!-- Version: blog.html v2.0.0 - Stripe-like dark redesign -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Writing — Chaitanya Kasani</title>
+  <meta name="description" content="Field notes on fintech platforms, AI member engagement, compliance, and product strategy from a working PM and founder." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0A0A0A; color: #E8E6E1;
+      line-height: 1.6;
+      font-feature-settings: "ss01", "ss02", "cv11";
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    a { color: inherit; text-decoration: none; }
+    ::selection { background: #D4A24C; color: #0A0A0A; }
+
+    :root {
+      --bg: #0A0A0A; --bg-elev: #141414; --bg-card: #161616;
+      --border: #262626; --border-strong: #333333;
+      --text: #E8E6E1; --text-muted: #8A8780; --text-faint: #5A5A55;
+      --accent: #D4A24C;
+      --mono: 'JetBrains Mono', ui-monospace, monospace;
+    }
+
+    /* NAV */
+    .nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100; height: 64px;
+      background: rgba(10,10,10,0.85);
+      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-inner {
+      max-width: 1100px; margin: 0 auto; height: 100%; padding: 0 32px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-logo { font-weight: 600; font-size: 15px; letter-spacing: -0.2px; color: var(--text); }
+    .nav-links { display: flex; gap: 4px; align-items: center; }
+    .nav-link {
+      font-size: 14px; font-weight: 500; color: var(--text-muted);
+      padding: 8px 14px; border-radius: 6px;
+      transition: color 0.15s ease, background 0.15s ease;
+    }
+    .nav-link:hover { color: var(--text); background: rgba(255,255,255,0.04); }
+    .nav-link.active { color: var(--accent); }
+    .nav-cta {
+      font-size: 14px; font-weight: 500; color: var(--bg);
+      background: var(--text); padding: 8px 14px; border-radius: 6px; margin-left: 8px;
+    }
+    .nav-cta:hover { background: white; }
+
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 32px; }
+
+    /* HEADER */
+    .page-header {
+      padding: 140px 0 60px; max-width: 760px;
+      margin: 0 auto; padding-left: 32px; padding-right: 32px;
+    }
+    .page-eyebrow {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.3px; margin-bottom: 24px;
+    }
+    .page-eyebrow::before {
+      content: ""; width: 6px; height: 6px; border-radius: 50%;
+      background: var(--accent); box-shadow: 0 0 12px var(--accent);
+    }
+    .page-header h1 {
+      font-size: 56px; font-weight: 700; line-height: 1.05;
+      letter-spacing: -1.6px; color: var(--text); margin: 0 0 24px;
+    }
+    .page-header h1 .em { font-style: italic; font-weight: 500; color: var(--accent); }
+    .page-subtitle {
+      font-size: 19px; line-height: 1.55; color: var(--text-muted); margin: 0;
+    }
+
+    /* POSTS */
+    section { padding: 60px 0; }
+    .section-header {
+      display: flex; align-items: baseline; justify-content: space-between;
+      margin-bottom: 40px; padding-bottom: 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .section-label {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.5px; text-transform: uppercase;
+    }
+    .section-title {
+      font-size: 24px; font-weight: 600; color: var(--text);
+      margin: 8px 0 0; letter-spacing: -0.4px;
+    }
+    .section-counter {
+      font-family: var(--mono); font-size: 13px; color: var(--text-faint);
+    }
+
+    .post-list { display: flex; flex-direction: column; }
+    .post-row {
+      display: grid; grid-template-columns: 140px 1fr auto;
+      gap: 40px; align-items: start;
+      padding: 32px 0; border-bottom: 1px solid var(--border);
+      transition: background 0.15s ease;
+      cursor: pointer;
+    }
+    .post-row:last-child { border-bottom: none; }
+    .post-row:hover { background: rgba(255,255,255,0.015); }
+    .post-row:hover .post-title { color: var(--accent); }
+    .post-row:hover .post-arrow { transform: translateX(4px); color: var(--accent); }
+
+    .post-date {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.3px;
+      padding-top: 4px;
+    }
+    .post-content {}
+    .post-title {
+      font-size: 22px; font-weight: 600; color: var(--text);
+      letter-spacing: -0.4px; line-height: 1.25; margin: 0 0 10px;
+      transition: color 0.15s ease;
+    }
+    .post-excerpt {
+      font-size: 15px; line-height: 1.6; color: var(--text-muted);
+      margin: 0 0 14px; max-width: 620px;
+    }
+    .post-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+    .post-tag {
+      font-family: var(--mono); font-size: 11px; font-weight: 500;
+      color: var(--text-muted); letter-spacing: 0.3px;
+      padding: 3px 8px; border: 1px solid var(--border);
+      border-radius: 4px;
+    }
+    .post-arrow {
+      font-size: 20px; color: var(--text-faint);
+      padding-top: 4px;
+      transition: transform 0.15s ease, color 0.15s ease;
+    }
+
+    /* COMING SOON */
+    .coming-list { display: flex; flex-direction: column; }
+    .coming-row {
+      display: grid; grid-template-columns: 140px 1fr;
+      gap: 40px; padding: 20px 0;
+      border-bottom: 1px solid var(--border);
+      opacity: 0.55;
+    }
+    .coming-row:last-child { border-bottom: none; }
+    .coming-status {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.3px;
+    }
+    .coming-title {
+      font-size: 16px; color: var(--text-muted); margin: 0;
+    }
+
+    /* CONTACT BOX */
+    .contact-box {
+      padding: 60px; background: var(--bg-card);
+      border: 1px solid var(--border); border-radius: 12px; text-align: center;
+    }
+    .contact-box h3 {
+      font-size: 28px; font-weight: 600; letter-spacing: -0.6px;
+      margin: 0 0 12px; color: var(--text);
+    }
+    .contact-box p { font-size: 16px; color: var(--text-muted); margin: 0 0 28px; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 12px 20px; border-radius: 6px; font-size: 14px; font-weight: 500;
+      transition: all 0.15s ease; border: 1px solid transparent;
+    }
+    .btn-primary { background: var(--text); color: var(--bg); }
+    .btn-primary:hover { background: white; }
+    .btn-secondary {
+      background: transparent; color: var(--text);
+      border-color: var(--border-strong);
+    }
+    .btn-secondary:hover { border-color: var(--text-muted); background: rgba(255,255,255,0.02); }
+    .contact-links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+    /* FOOTER */
+    footer {
+      padding: 40px 0; border-top: 1px solid var(--border);
+      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
+      letter-spacing: 0.3px;
+    }
+    footer .container {
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 16px;
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 900px) {
+      .page-header { padding-top: 110px; }
+      .page-header h1 { font-size: 40px; }
+      .post-row { grid-template-columns: 1fr; gap: 12px; }
+      .post-arrow { display: none; }
+      .post-date { padding-top: 0; }
+      .coming-row { grid-template-columns: 1fr; gap: 8px; }
+      .contact-box { padding: 40px 24px; }
+      .nav-inner, .page-header, .container { padding-left: 20px; padding-right: 20px; }
+    }
+    @media (max-width: 600px) {
+      .page-header h1 { font-size: 32px; letter-spacing: -1px; }
+      .page-subtitle { font-size: 16px; }
+      .post-title { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Chaitanya Kasani</a>
+      <div class="nav-links">
+        <a href="index.html" class="nav-link">Profile</a>
+        <a href="pitch.html" class="nav-link">Pitch</a>
+        <a href="blog.html" class="nav-link active">Writing</a>
+        <a href="mailto:ckkasani@gmail.com" class="nav-cta">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="page-header">
+    <div class="page-eyebrow">Field Notes</div>
+    <h1>Building <span class="em">regulated</span> products in public.</h1>
+    <p class="page-subtitle">
+      Practical lessons from shipping fintech, healthcare, and AI member engagement platforms under SEC, FDIC, HIPAA, and PCI-DSS constraints. Written by a working PM and founder, not a consultant.
+    </p>
+  </header>
+
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="section-label">/ Latest</div>
+          <h2 class="section-title">Recent writing</h2>
+        </div>
+        <div class="section-counter">01 / 01</div>
+      </div>
+
+      <div class="post-list">
+        <a href="blog/2026-05-why-most-healthcare-fintech-chatbots-fail-compliance.html" class="post-row">
+          <div class="post-date">May 2026<br/>8 min read</div>
+          <div class="post-content">
+            <h3 class="post-title">Why most healthcare and fintech chatbots fail compliance review</h3>
+            <p class="post-excerpt">
+              The demo works. The CEO is impressed. Then Risk and Compliance sit at the table — and the deal quietly dies. Four patterns I keep watching kill otherwise impressive AI chatbots, and what to build instead.
+            </p>
+            <div class="post-tags">
+              <span class="post-tag">Compliance</span>
+              <span class="post-tag">AI</span>
+              <span class="post-tag">HIPAA</span>
+              <span class="post-tag">PCI-DSS</span>
+              <span class="post-tag">Fintech</span>
+            </div>
+          </div>
+          <div class="post-arrow">→</div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="section-label">/ Drafting</div>
+          <h2 class="section-title">Coming up</h2>
+        </div>
+      </div>
+
+      <div class="coming-list">
+        <div class="coming-row">
+          <div class="coming-status">In progress</div>
+          <p class="coming-title">Anchoring eligibility on CIP-verified identity, not account keys</p>
+        </div>
+        <div class="coming-row">
+          <div class="coming-status">In progress</div>
+          <p class="coming-title">The AI escalation layer that saved us $3M a year</p>
+        </div>
+        <div class="coming-row">
+          <div class="coming-status">Drafting</div>
+          <p class="coming-title">Big-bang vs phased: choosing your cutover strategy for regulated cutovers</p>
+        </div>
+        <div class="coming-row">
+          <div class="coming-status">Drafting</div>
+          <p class="coming-title">Cutting AWS costs on a non-prod environment: a line-by-line audit playbook</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="contact-box">
+        <h3>Want to compare notes?</h3>
+        <p>Always open to talking through regulated fintech, AI in customer experience, or platform design.</p>
+        <div class="contact-links">
+          <a href="mailto:ckkasani@gmail.com" class="btn btn-primary">ckkasani@gmail.com →</a>
+          <a href="https://www.linkedin.com/in/chaitanyapm" target="_blank" rel="noopener" class="btn btn-secondary">LinkedIn ↗</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <div>© 2025 Chaitanya Kasani</div>
+      <div>Crafted in Inter & JetBrains Mono</div>
+    </div>
+  </footer>
+
+<script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
+</body>
+</html>
