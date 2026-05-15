@@ -1,11 +1,26 @@
 {
-  "lastUpdated": "2026-05-14T22:58:59.775Z",
+  "lastUpdated": "2026-05-15T03:35:32.602Z",
   "config": {
     "daysBack": 4,
-    "minMatch": 80,
-    "tierFilter": "T1 only",
-    "companyCount": 23
+    "minCallbackScore": 70,
+    "industries": [
+      "fintech",
+      "identity",
+      "ai-infra",
+      "healthtech",
+      "regulated-saas",
+      "data-platform"
+    ],
+    "companyCount": 43,
+    "scoringFactors": [
+      "skill match (40)",
+      "company stage (20)",
+      "seniority (15)",
+      "freshness (15)",
+      "domain bonus (10)"
+    ]
   },
+  "industryStats": {},
   "totalJobs": 0,
   "highMatchJobs": 0,
   "jobs": []
