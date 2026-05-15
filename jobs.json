@@ -1,143 +1,22 @@
 {
-  "lastUpdated": "2026-05-15T03:56:09.469Z",
+  "lastUpdated": "2026-05-15T03:59:06.350Z",
   "config": {
     "daysBack": 14,
-    "minCallbackScore": 50,
-    "debugMode": true
+    "minScore": 60,
+    "sources": [
+      "Greenhouse",
+      "Lever",
+      "Workday",
+      "DuckDuckGo"
+    ]
   },
-  "debugLog": {
-    "SoFi": {
-      "totalJobs": 170,
-      "pmRoles": 20,
-      "recentPMRoles": 20,
-      "passingScore": 0
-    },
-    "Robinhood": {
-      "totalJobs": 136,
-      "pmRoles": 4,
-      "recentPMRoles": 3,
-      "passingScore": 0
-    },
-    "Plaid": {
-      "totalJobs": 0,
-      "pmRoles": 0,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Coinbase": {
-      "totalJobs": 0,
-      "pmRoles": 0,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Block (Square)": {
-      "totalJobs": 0,
-      "pmRoles": 0,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Stripe": {
-      "totalJobs": 484,
-      "pmRoles": 3,
-      "recentPMRoles": 3,
-      "passingScore": 3
-    },
-    "Affirm": {
-      "totalJobs": 176,
-      "pmRoles": 8,
-      "recentPMRoles": 4,
-      "passingScore": 0
-    },
-    "Klarna": {
-      "totalJobs": 0,
-      "pmRoles": 0,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Wise": {
-      "totalJobs": 0,
-      "pmRoles": 0,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Chime": {
-      "totalJobs": 67,
-      "pmRoles": 1,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Brex": {
-      "totalJobs": 226,
-      "pmRoles": 16,
-      "recentPMRoles": 8,
-      "passingScore": 8
-    },
-    "Mercury": {
-      "totalJobs": 55,
-      "pmRoles": 2,
-      "recentPMRoles": 1,
-      "passingScore": 1
-    },
-    "Adyen": {
-      "totalJobs": 254,
-      "pmRoles": 4,
-      "recentPMRoles": 2,
-      "passingScore": 0
-    },
-    "Marqeta": {
-      "totalJobs": 41,
-      "pmRoles": 6,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Bilt Rewards": {
-      "totalJobs": 0,
-      "pmRoles": 0,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Anthropic": {
-      "totalJobs": 414,
-      "pmRoles": 1,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Databricks": {
-      "totalJobs": 810,
-      "pmRoles": 11,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Snowflake": {
-      "totalJobs": 0,
-      "pmRoles": 0,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Ramp": {
-      "error": "API failed or 404",
-      "count": 0
-    },
-    "Navan": {
-      "error": "API failed or 404",
-      "count": 0
-    },
-    "Rippling": {
-      "error": "API failed or 404",
-      "count": 0
-    },
-    "Mistral": {
-      "totalJobs": 162,
-      "pmRoles": 0,
-      "recentPMRoles": 0,
-      "passingScore": 0
-    },
-    "Cohere": {
-      "error": "API failed or 404",
-      "count": 0
-    }
+  "sourceStats": {
+    "greenhouse": 15,
+    "lever": 0,
+    "workday": 0,
+    "duckduckgo": 0
   },
-  "totalJobs": 6,
+  "totalJobs": 9,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -148,19 +27,47 @@
       "stage": "C",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "url": "https://job-boards.greenhouse.io/mercury/jobs/5993466004",
-      "description": "<p>Mercury&#39;s ability to operate reliable banking* comes down to the infrastructure we build that ensures money moves correctly - every transaction, across every payment rail, with the precision and accountability that customers, regulators, and the financial system itself require. Banking Foundations is the team that builds and owns the platform that makes that possible — the layer that connects Mercury to the Federal Reserve, the payment networks, and our core banking provider, and gives the rest of the company a reliable surface to build on.</p> <p>We&#39;re looking for a Senior Product Manager to own this platform across Mercury. The Banking Foundations platform sits at the intersection of payment rail mechanics, regulatory accountability, and org-wide platform adoption — and the PM who leads our connectivity infrastructure will need to be as comfortable discussing payment rail behavior with engineers as discussing reporting precision with the Treasury team. This is a load-bearing platform role: the decisions made here flow through every payment Mercury makes as a bank* and shape Mercury&#39;s future.&nbsp;</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. ",
+      "description": "<p>Mercury's ability to operate reliable banking* comes down to the infrastructure we build that ensures money moves correctly - every transaction, across every payment rail, with the precision and accountability that customers, regulators, and the financial system itself require. Banking Foundations is the team that builds and owns the platform that makes that possible — the layer that connects Mercury to the Federal Reserve, the payment networks, and our core banking provider, and gives the rest of the company a reliable surface to build on.</p> <p>We're looking for a Senior Product Manager to own this platform across Mercury. The Banking Foundations platform sits at the intersection of payment rail mechanics, regulatory accountability, and org-wide platform adoption — and the PM who leads our connectivity infrastructure will need to be as comfortable discussing payment rail behavior with engineers as discussing reporting precision with the Treasury team. This is a load-bearing platform role: the decisions made here flow through every payment Mercury makes as a bank* and shape Mercury's future.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services p",
       "posted": "2026-05-11T13:36:48-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 56,
+      "match": 77,
       "reasons": [
-        "C-stage = high callback odds",
-        "Domain perfect-fit signals"
+        "Strong skill alignment",
+        "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
         "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7819059",
+      "title": "Staff Product Manager, Payments",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NYC, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
+      "posted": "2026-05-14T13:08:51-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 75,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
         "Platform"
       ],
       "status": "new"
@@ -173,14 +80,16 @@
       "stage": "Late",
       "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=7913702",
-      "description": "<h1><strong>Who we are</strong></h1> <h2><strong>About Stripe</strong></h2> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h2><strong>About the team</strong></h2> <p>The Stripe Dashboard helps millions of people around the world run their business — from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a “power tool” for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g. navigation, search, settings), governing frameworks (e.g. information architecture), and core experiences that set the standard (e.g. managing your customers, customizing your home page).&nbsp;</p> <p>We’re hiring a product manager to shap",
+      "description": "<h1><strong>Who we are</strong></h1> <h2><strong>About Stripe</strong></h2> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h2><strong>About the team</strong></h2> <p>The Stripe Dashboard helps millions of people around the world run their business — from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a “power tool” for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g. navigation, search, settings), governing frameworks (e.g. information architecture), and core experiences that set the standard (e.g. managing your customers, customizing your home page).</p> <p>We’re hiring a product manager to shape the ",
       "posted": "2026-05-14T13:08:51-04:00",
       "source": "Greenhouse",
       "department": "8569 MerchantXP - PM",
-      "match": 55,
+      "match": 73,
       "reasons": [
-        "Fresh — apply now",
-        "Domain perfect-fit signals"
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
@@ -198,19 +107,99 @@
       "stage": "Late",
       "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=&quot;font-weight: 400;&quot;>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe&#39;s core capabilities and the bespoke needs of the world&#39;s largest organizations. We are hiring PMs who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each PM acting as the &quot;CEO&quot; of their assigned vertical - identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Market",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring PMs who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each PM acting as the \"CEO\" of their assigned vertical - identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across ",
       "posted": "2026-05-14T13:08:51-04:00",
       "source": "Greenhouse",
       "department": "8712 Enterprise Engine",
-      "match": 55,
+      "match": 73,
       "reasons": [
-        "Fresh — apply now",
-        "Domain perfect-fit signals"
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7768821",
+      "title": "Principal Product Manager - Identity",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
+      "posted": "2026-05-06T08:29:02-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 68,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7522608",
+      "title": "Head of Product, Developer Experience",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7522608",
+      "description": "<p><strong>About Adyen</strong></p> <p>Adyen is the financial technology platform of choice for leading companies. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen serves customers including Facebook, Uber, Spotify, and Microsoft.</p> <p></p> <p><strong>The Role</strong></p> <p>Adyen is seeking a visionary product leader to serve as our Head of Product for Developer Experience. Our developer platform is the foundation upon which thousands of businesses build their payment and financial systems. As our customers increasingly use AI-powered development tools to build their integrations, we are looking for an AI-native leader to set the strategy and accelerate the evolution of our platform.</p> <p>You will be responsible for the entire developer journey, from onboarding to the first API call to scaling globally. You will lead a team of talented product managers and tech writers to define and execute the roadmap for our APIs, SDKs, developer tooling, and documentation, ensuring Adyen provides a world-class, intuitive, and po",
+      "posted": "2026-05-12T19:09:29-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-sofi-7697158003",
+      "title": "Principal Product Manager, Real-Time Payments Platform",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "WA - Seattle; CA - San Francisco   ",
+      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
+      "posted": "2026-05-01T14:06:36-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -222,21 +211,22 @@
       "stage": "D",
       "location": "New York, New York, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States / San Francisco, California, United States",
       "url": "https://www.brex.com/careers/8432702002?gh_jid=8432702002",
-      "description": "<div class=&quot;content-intro&quot;><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
       "posted": "2026-05-13T13:00:08-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 55,
+      "match": 63,
       "reasons": [
-        "D-stage = high callback odds",
-        "Fresh — apply now",
-        "Domain perfect-fit signals"
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Cards",
         "AI/ML",
-        "Platform"
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -248,46 +238,22 @@
       "stage": "D",
       "location": "Vancouver, British Columbia, Canada / San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
       "url": "https://www.brex.com/careers/8436531002?gh_jid=8436531002",
-      "description": "<div class=&quot;content-intro&quot;><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
       "posted": "2026-05-13T13:01:58-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 55,
+      "match": 63,
       "reasons": [
-        "D-stage = high callback odds",
-        "Fresh — apply now",
-        "Domain perfect-fit signals"
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Cards",
         "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7819059",
-      "title": "Staff Product Manager, Payments",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, SEA, NYC, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.</p> <h3><strong>About the Organization&nbsp;</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe&#39;s capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for o",
-      "posted": "2026-05-14T13:08:51-04:00",
-      "source": "Greenhouse",
-      "department": "8552 PayIntel - PM",
-      "match": 52,
-      "reasons": [
-        "Fresh — apply now",
-        "Domain perfect-fit signals"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     }
