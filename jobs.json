@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T17:45:42.827Z",
+  "lastUpdated": "2026-05-15T21:09:57.018Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 16,
+    "greenhouse": 15,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 10,
+  "totalJobs": 9,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -200,32 +200,6 @@
         "Cards",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7697158003",
-      "title": "Principal Product Manager, Real-Time Payments Platform",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
-      "posted": "2026-05-01T14:06:36-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 63,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     },
