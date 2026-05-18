@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T20:59:58.339Z",
+  "lastUpdated": "2026-05-18T04:08:54.677Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 7,
+    "greenhouse": 6,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 7,
+  "totalJobs": 6,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -169,31 +169,6 @@
         "Fintech",
         "Payments",
         "Cards",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-7522608",
-      "title": "Head of Product, Developer Experience",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7522608",
-      "description": "<p><strong>About Adyen</strong></p> <p>Adyen is the financial technology platform of choice for leading companies. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen serves customers including Facebook, Uber, Spotify, and Microsoft.</p> <p></p> <p><strong>The Role</strong></p> <p>Adyen is seeking a visionary product leader to serve as our Head of Product for Developer Experience. Our developer platform is the foundation upon which thousands of businesses build their payment and financial systems. As our customers increasingly use AI-powered development tools to build their integrations, we are looking for an AI-native leader to set the strategy and accelerate the evolution of our platform.</p> <p>You will be responsible for the entire developer journey, from onboarding to the first API call to scaling globally. You will lead a team of talented product managers and tech writers to define and execute the roadmap for our APIs, SDKs, developer tooling, and documentation, ensuring Adyen provides a world-class, intuitive, and po",
-      "posted": "2026-05-12T19:09:29-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 62,
-      "reasons": [
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
         "AI/ML",
         "Platform"
       ],
