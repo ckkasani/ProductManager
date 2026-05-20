@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T10:56:56.268Z",
+  "lastUpdated": "2026-05-20T15:35:49.652Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -154,6 +154,33 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7920219",
+      "title": "Staff Product Manager, Support Experience",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, California, United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of business running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for Sup",
+      "posted": "2026-05-20T10:55:38-04:00",
+      "source": "Greenhouse",
+      "department": "4900 Support Eng & PM",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-robinhood-7587151",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -174,32 +201,6 @@
       ],
       "tags": [
         "Fintech",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-7768821",
-      "title": "Principal Product Manager - Identity",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
-      "posted": "2026-05-06T08:29:02-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 68,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
         "Platform",
         "Banking"
       ],
