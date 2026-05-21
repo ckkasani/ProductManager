@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T18:04:16.113Z",
+  "lastUpdated": "2026-05-21T21:40:32.013Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -48,33 +48,6 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7819059",
-      "title": "Staff Product Manager, Payments",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, SEA, NYC, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
-      "posted": "2026-05-20T16:58:18-04:00",
-      "source": "Greenhouse",
-      "department": "8552 PayIntel - PM",
-      "match": 75,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-mercury-5993466004",
       "title": "Senior Product Manager - Banking Foundations",
       "company": "Mercury",
@@ -101,6 +74,33 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7819059",
+      "title": "Staff Product Manager, Payments",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NYC, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
+      "posted": "2026-05-20T16:58:18-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7913702",
       "title": "Staff Product Manager, Dashboard",
       "company": "Stripe",
@@ -112,7 +112,7 @@
       "posted": "2026-05-20T16:58:18-04:00",
       "source": "Greenhouse",
       "department": "8569 MerchantXP - PM",
-      "match": 73,
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -139,7 +139,7 @@
       "posted": "2026-05-20T16:58:18-04:00",
       "source": "Greenhouse",
       "department": "8712 Enterprise Engine",
-      "match": 73,
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -149,33 +149,6 @@
       "tags": [
         "Fintech",
         "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7920219",
-      "title": "Staff Product Manager, Support Experience",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, California, United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of business running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for Sup",
-      "posted": "2026-05-20T16:58:18-04:00",
-      "source": "Greenhouse",
-      "department": "4900 Support Eng & PM",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
         "Platform"
       ],
       "status": "new"
@@ -207,6 +180,33 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7920219",
+      "title": "Staff Product Manager, Support Experience",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, California, United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of business running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for Sup",
+      "posted": "2026-05-20T16:58:18-04:00",
+      "source": "Greenhouse",
+      "department": "4900 Support Eng & PM",
+      "match": 68,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-7522608",
       "title": "Head of Product, Developer Experience",
       "company": "Adyen",
@@ -218,7 +218,7 @@
       "posted": "2026-05-20T16:14:04-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 68,
+      "match": 66,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
