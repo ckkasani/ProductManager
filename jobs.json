@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T14:49:21.828Z",
+  "lastUpdated": "2026-05-22T17:57:40.836Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -236,6 +236,32 @@
       "status": "new"
     },
     {
+      "id": "gh-robinhood-7587151",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-05-22T12:11:47-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7920219",
       "title": "Staff Product Manager, Support Experience",
       "company": "Stripe",
@@ -300,7 +326,7 @@
       "posted": "2026-05-21T13:18:28-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 65,
+      "match": 63,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -327,7 +353,7 @@
       "posted": "2026-05-21T13:26:12-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 65,
+      "match": 63,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -337,31 +363,6 @@
         "Fintech",
         "Cards",
         "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-robinhood-7587151",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Menlo Park, CA; New York, NY; Washington, DC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-05-18T21:22:53-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 64,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
         "Platform",
         "Banking"
       ],
