@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T21:40:32.013Z",
+  "lastUpdated": "2026-05-22T04:07:33.825Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,14 +11,41 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 11,
+    "greenhouse": 12,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 10,
+  "totalJobs": 11,
   "highMatchJobs": 0,
   "jobs": [
+    {
+      "id": "gh-mercury-5993466004",
+      "title": "Senior Product Manager - Banking Foundations",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5993466004",
+      "description": "<p>Mercury's ability to operate reliable banking* comes down to the infrastructure we build that ensures money moves correctly - every transaction, across every payment rail, with the precision and accountability that customers, regulators, and the financial system itself require. Banking Foundations is the team that builds and owns the platform that makes that possible — the layer that connects Mercury to the Federal Reserve, the payment networks, and our core banking provider, and gives the rest of the company a reliable surface to build on.</p> <p>We're looking for a Senior Product Manager to own this platform across Mercury. The Banking Foundations platform sits at the intersection of payment rail mechanics, regulatory accountability, and org-wide platform adoption — and the PM who leads our connectivity infrastructure will need to be as comfortable discussing payment rail behavior with engineers as discussing reporting precision with the Treasury team. This is a load-bearing platform role: the decisions made here flow through every payment Mercury makes as a bank* and shape Mercury's future.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services p",
+      "posted": "2026-05-21T18:39:25-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 83,
+      "reasons": [
+        "Strong skill alignment",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
     {
       "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
@@ -48,32 +75,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-5993466004",
-      "title": "Senior Product Manager - Banking Foundations",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5993466004",
-      "description": "<p>Mercury's ability to operate reliable banking* comes down to the infrastructure we build that ensures money moves correctly - every transaction, across every payment rail, with the precision and accountability that customers, regulators, and the financial system itself require. Banking Foundations is the team that builds and owns the platform that makes that possible — the layer that connects Mercury to the Federal Reserve, the payment networks, and our core banking provider, and gives the rest of the company a reliable surface to build on.</p> <p>We're looking for a Senior Product Manager to own this platform across Mercury. The Banking Foundations platform sits at the intersection of payment rail mechanics, regulatory accountability, and org-wide platform adoption — and the PM who leads our connectivity infrastructure will need to be as comfortable discussing payment rail behavior with engineers as discussing reporting precision with the Treasury team. This is a load-bearing platform role: the decisions made here flow through every payment Mercury makes as a bank* and shape Mercury's future.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services p",
-      "posted": "2026-05-11T13:36:48-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 74,
-      "reasons": [
-        "Strong skill alignment",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7819059",
       "title": "Staff Product Manager, Payments",
       "company": "Stripe",
@@ -97,6 +98,32 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-5867562004",
+      "title": "Senior Product Manager - API & Agentic Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>At Mercury, we are building the banking* stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></st",
+      "posted": "2026-05-21T18:40:53-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -150,32 +177,6 @@
         "Fintech",
         "Payments",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-robinhood-7587151",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Menlo Park, CA; New York, NY; Washington, DC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-05-18T21:22:53-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 68,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     },
@@ -281,6 +282,31 @@
         "Fintech",
         "Cards",
         "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-7587151",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-05-18T21:22:53-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
         "Platform",
         "Banking"
       ],
