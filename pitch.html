@@ -1,4 +1,4 @@
-<!-- Version: pitch.html v3.0.0 - Stripe-like dark redesign with updated content -->
+<!-- Version: pitch.html v4.0.0 - Matches index.html v4 dark aesthetic -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,214 +8,223 @@
   <meta name="description" content="A focused pitch: what I bring, how I think, and what I build. Senior PM at LPL Financial, founder of TechGenie.ai." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; }
     html { scroll-behavior: smooth; }
     body {
       margin: 0;
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-      background: #0A0A0A; color: #E8E6E1; line-height: 1.6;
-      font-feature-settings: "ss01", "ss02", "cv11";
+      font-family: 'DM Sans', -apple-system, sans-serif;
+      background: #080d1a; color: #dce6f7; line-height: 1.6;
       -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
+      overflow-x: hidden;
     }
     a { color: inherit; text-decoration: none; }
-    ::selection { background: #D4A24C; color: #0A0A0A; }
+    ::selection { background: #2962ff; color: #fff; }
 
     :root {
-      --bg: #0A0A0A; --bg-elev: #141414; --bg-card: #161616;
-      --border: #262626; --border-strong: #333333;
-      --text: #E8E6E1; --text-muted: #9A978F; --text-faint: #5A5A55;
-      --accent: #D4A24C;
-      --mono: 'JetBrains Mono', ui-monospace, monospace;
-      --serif: 'Source Serif 4', Georgia, serif;
+      --bg: #080d1a; --bg-elev: #0d1425; --bg-card: #0f1830;
+      --bg-hover: #131e38;
+      --border: rgba(255,255,255,0.07); --border-md: rgba(255,255,255,0.11);
+      --text: #dce6f7; --text-muted: #6b84b8; --text-faint: #344368;
+      --accent: #2962ff; --accent-hi: #5a87ff;
+      --mono: 'DM Mono', ui-monospace, monospace;
+      --serif: 'Instrument Serif', Georgia, serif;
+    }
+
+    body::before {
+      content: ""; position: fixed; inset: 0; z-index: 0; pointer-events: none;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.018) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.018) 1px, transparent 1px);
+      background-size: 48px 48px;
     }
 
     /* NAV */
     .nav {
-      position: fixed; top: 0; left: 0; right: 0; z-index: 100; height: 64px;
-      background: rgba(10,10,10,0.85);
-      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      position: fixed; top: 0; left: 0; right: 0; z-index: 200; height: 64px;
+      background: rgba(8,13,26,0.82); backdrop-filter: blur(16px);
       border-bottom: 1px solid var(--border);
     }
     .nav-inner {
-      max-width: 1100px; margin: 0 auto; height: 100%; padding: 0 32px;
+      max-width: 1120px; margin: 0 auto; height: 100%; padding: 0 32px;
       display: flex; align-items: center; justify-content: space-between;
     }
-    .nav-logo { font-weight: 600; font-size: 15px; letter-spacing: -0.2px; color: var(--text); }
-    .nav-links { display: flex; gap: 4px; align-items: center; }
+    .nav-logo { font-family: var(--serif); font-size: 17px; color: var(--text); }
+    .nav-links { display: flex; gap: 2px; align-items: center; }
     .nav-link {
-      font-size: 14px; font-weight: 500; color: var(--text-muted);
-      padding: 8px 14px; border-radius: 6px;
-      transition: color 0.15s ease, background 0.15s ease;
+      font-size: 13px; font-weight: 500; color: var(--text-muted);
+      padding: 7px 13px; border-radius: 6px; transition: color 0.15s, background 0.15s;
     }
     .nav-link:hover { color: var(--text); background: rgba(255,255,255,0.04); }
-    .nav-link.active { color: var(--accent); }
+    .nav-link.active { color: var(--accent-hi); }
     .nav-cta {
-      font-size: 14px; font-weight: 500; color: var(--bg);
-      background: var(--text); padding: 8px 14px; border-radius: 6px; margin-left: 8px;
+      font-size: 13px; font-weight: 500; color: #fff;
+      background: var(--accent); padding: 7px 16px; border-radius: 6px;
+      margin-left: 10px; border: 1px solid rgba(41,98,255,0.6);
     }
-    .nav-cta:hover { background: white; }
+    .nav-cta:hover { background: var(--accent-hi); }
 
-    .container { max-width: 900px; margin: 0 auto; padding: 0 32px; }
+    .container { max-width: 900px; margin: 0 auto; padding: 0 32px; position: relative; z-index: 1; }
 
     /* HERO */
-    .hero { padding: 140px 0 60px; }
+    .hero { padding: 140px 0 60px; position: relative; overflow: hidden; }
+    .hero::after {
+      content: ""; position: absolute; width: 600px; height: 600px; border-radius: 50%;
+      background: radial-gradient(circle, rgba(41,98,255,0.08) 0%, transparent 65%);
+      top: -100px; right: -160px; pointer-events: none;
+    }
     .hero-eyebrow {
-      display: inline-flex; align-items: center; gap: 8px;
-      font-family: var(--mono); font-size: 12px; font-weight: 500;
-      color: var(--accent); letter-spacing: 0.3px; margin-bottom: 24px;
+      display: inline-flex; align-items: center; gap: 9px;
+      font-family: var(--mono); font-size: 11.5px; font-weight: 500;
+      color: var(--accent-hi); letter-spacing: 0.4px; margin-bottom: 22px;
     }
-    .hero-eyebrow::before {
-      content: ""; width: 6px; height: 6px; border-radius: 50%;
-      background: var(--accent); box-shadow: 0 0 12px var(--accent);
+    .eyebrow-dot {
+      width: 7px; height: 7px; border-radius: 50%; background: var(--accent-hi);
+      box-shadow: 0 0 10px var(--accent); animation: blink 2.4s ease-in-out infinite;
     }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.35} }
     .hero h1 {
-      font-size: 52px; font-weight: 700; line-height: 1.05;
-      letter-spacing: -1.4px; color: var(--text);
+      font-family: var(--serif); font-size: 54px; font-weight: 400;
+      line-height: 1.07; letter-spacing: -1.4px; color: var(--text);
       margin: 0 0 24px; max-width: 800px;
     }
-    .hero h1 .em { font-style: italic; font-weight: 500; color: var(--accent); }
+    .hero h1 .em { font-style: italic; color: var(--accent-hi); }
     .hero-quote {
-      font-family: var(--serif);
-      font-size: 22px; line-height: 1.5; color: var(--text-muted);
-      margin: 0 0 36px; max-width: 720px;
-      font-style: italic;
-      padding-left: 20px; border-left: 2px solid var(--accent);
+      font-family: var(--serif); font-size: 20px; line-height: 1.6;
+      color: var(--text-muted); margin: 0 0 0; max-width: 720px;
+      font-style: italic; padding-left: 20px;
+      border-left: 2px solid var(--accent);
     }
-    .hero-quote strong { color: var(--text); font-weight: 500; font-style: normal; }
+    .hero-quote strong { color: var(--text); font-weight: 400; font-style: normal; }
 
     /* SECTIONS */
-    section { padding: 50px 0; }
+    section { padding: 56px 0; }
     .section-header {
       display: flex; align-items: baseline; justify-content: space-between;
-      margin-bottom: 36px; padding-bottom: 18px;
+      margin-bottom: 40px; padding-bottom: 16px;
       border-bottom: 1px solid var(--border);
     }
     .section-label {
-      font-family: var(--mono); font-size: 12px; font-weight: 500;
-      color: var(--accent); letter-spacing: 0.5px; text-transform: uppercase;
+      font-family: var(--mono); font-size: 11px; font-weight: 500;
+      color: var(--accent-hi); letter-spacing: 0.5px; text-transform: uppercase;
     }
     .section-title {
-      font-size: 26px; font-weight: 600; color: var(--text);
-      margin: 8px 0 0; letter-spacing: -0.5px; line-height: 1.2;
+      font-family: var(--serif); font-size: 28px; font-weight: 400;
+      color: var(--text); margin: 8px 0 0; letter-spacing: -0.4px; line-height: 1.2;
     }
 
     /* PITCH BODY */
-    .pitch-body {
-      font-family: var(--serif);
-      font-size: 19px; line-height: 1.7; color: var(--text);
-    }
+    .pitch-body { font-family: var(--serif); font-size: 19px; line-height: 1.72; color: var(--text-muted); }
     .pitch-body p { margin: 0 0 22px; }
-    .pitch-body strong { color: var(--text); font-weight: 600; }
-    .pitch-body em { color: var(--accent); font-style: italic; }
+    .pitch-body strong { color: var(--text); font-weight: 400; }
+    .pitch-body em { color: var(--accent-hi); font-style: italic; }
 
-    /* CAPABILITIES GRID */
+    /* RESULTS */
+    .results { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+    .result {
+      padding: 24px; background: var(--bg-card);
+      border: 0.5px solid var(--border-md); border-radius: 12px;
+      transition: background 0.15s;
+      position: relative; overflow: hidden;
+    }
+    .result::before {
+      content: ""; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: linear-gradient(90deg, var(--accent), var(--accent-hi));
+      opacity: 0; transition: opacity 0.2s;
+    }
+    .result:hover { background: var(--bg-hover); }
+    .result:hover::before { opacity: 1; }
+    .result-number {
+      font-family: var(--serif); font-size: 36px; font-weight: 400;
+      color: var(--accent-hi); letter-spacing: -1px; margin-bottom: 8px; line-height: 1;
+    }
+    .result-label { font-size: 13px; line-height: 1.55; color: var(--text-muted); margin: 0; font-weight: 300; }
+    .result-label strong { color: var(--text); font-weight: 500; }
+
+    /* CAPABILITIES */
     .caps {
       display: grid; grid-template-columns: repeat(2, 1fr);
       gap: 1px; background: var(--border);
-      border: 1px solid var(--border); border-radius: 8px;
-      overflow: hidden;
+      border: 1px solid var(--border); border-radius: 12px; overflow: hidden;
     }
     .cap {
-      background: var(--bg); padding: 28px;
-      transition: background 0.2s ease;
+      background: var(--bg-card); padding: 28px;
+      transition: background 0.2s; position: relative; overflow: hidden;
     }
-    .cap:hover { background: var(--bg-card); }
+    .cap::before {
+      content: ""; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: linear-gradient(90deg, var(--accent), var(--accent-hi));
+      opacity: 0; transition: opacity 0.2s;
+    }
+    .cap:hover { background: var(--bg-hover); }
+    .cap:hover::before { opacity: 1; }
     .cap-num {
-      font-family: var(--mono); font-size: 12px; font-weight: 500;
-      color: var(--accent); letter-spacing: 0.5px;
-      margin-bottom: 12px;
+      font-family: var(--mono); font-size: 11px; font-weight: 500;
+      color: var(--accent-hi); letter-spacing: 0.4px; margin-bottom: 12px;
     }
     .cap-title {
-      font-size: 17px; font-weight: 600; color: var(--text);
-      margin: 0 0 10px; letter-spacing: -0.2px;
+      font-family: var(--serif); font-size: 18px; font-weight: 400;
+      color: var(--text); margin: 0 0 10px;
     }
-    .cap-desc {
-      font-size: 14px; line-height: 1.6; color: var(--text-muted);
-      margin: 0;
-    }
+    .cap-desc { font-size: 13.5px; line-height: 1.65; color: var(--text-muted); margin: 0; font-weight: 300; }
 
-    /* RESULTS LIST */
-    .results { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
-    .result {
-      padding: 24px; background: var(--bg-card);
-      border: 1px solid var(--border); border-radius: 8px;
-    }
-    .result-number {
-      font-size: 32px; font-weight: 700;
-      color: var(--accent); letter-spacing: -1px;
-      margin-bottom: 8px; line-height: 1;
-    }
-    .result-label {
-      font-size: 13px; line-height: 1.5; color: var(--text-muted);
-      margin: 0;
-    }
-    .result-label strong { color: var(--text); font-weight: 600; }
-
-    /* OPERATING PRINCIPLES */
-    .principles { display: flex; flex-direction: column; gap: 0; }
+    /* PRINCIPLES */
+    .principles { display: flex; flex-direction: column; }
     .principle {
       display: grid; grid-template-columns: 60px 1fr;
-      gap: 28px; padding: 24px 0;
-      border-bottom: 1px solid var(--border);
+      gap: 28px; padding: 26px 0; border-bottom: 1px solid var(--border);
     }
     .principle:last-child { border-bottom: none; }
     .principle-num {
-      font-family: var(--mono); font-size: 13px; font-weight: 500;
-      color: var(--accent); letter-spacing: 0.5px;
-      padding-top: 4px;
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent-hi); letter-spacing: 0.4px; padding-top: 4px;
     }
     .principle-title {
-      font-size: 17px; font-weight: 600; color: var(--text);
-      margin: 0 0 8px; letter-spacing: -0.2px;
+      font-family: var(--serif); font-size: 18px; font-weight: 400;
+      color: var(--text); margin: 0 0 8px;
     }
     .principle-desc {
-      font-size: 15px; line-height: 1.65; color: var(--text-muted);
-      margin: 0; max-width: 660px;
+      font-size: 14.5px; line-height: 1.68; color: var(--text-muted);
+      margin: 0; max-width: 660px; font-weight: 300;
     }
 
     /* CONTACT */
     .contact-box {
-      padding: 50px; background: var(--bg-card);
-      border: 1px solid var(--border); border-radius: 12px;
-      text-align: center;
+      padding: 56px; background: var(--bg-card);
+      border: 1px solid var(--border-md); border-radius: 16px;
+      text-align: center; position: relative; overflow: hidden;
+    }
+    .contact-box::before {
+      content: ""; position: absolute; inset: 0; pointer-events: none;
+      background: radial-gradient(ellipse at 50% 0%, rgba(41,98,255,0.07) 0%, transparent 60%);
     }
     .contact-box h3 {
-      font-size: 26px; font-weight: 600; letter-spacing: -0.5px;
-      margin: 0 0 12px; color: var(--text);
+      font-family: var(--serif); font-size: 30px; font-weight: 400;
+      letter-spacing: -0.4px; margin: 0 0 10px; color: var(--text);
     }
-    .contact-box p { font-size: 16px; color: var(--text-muted); margin: 0 0 28px; }
+    .contact-box p { font-size: 16px; color: var(--text-muted); margin: 0 0 28px; font-weight: 300; }
+    .contact-links { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; position: relative; z-index: 1; }
     .btn {
       display: inline-flex; align-items: center; gap: 8px;
-      padding: 12px 20px; border-radius: 6px;
-      font-size: 14px; font-weight: 500;
-      transition: all 0.15s ease; border: 1px solid transparent;
+      padding: 11px 20px; border-radius: 8px; font-size: 13.5px; font-weight: 500;
+      transition: all 0.15s; border: 1px solid transparent;
     }
-    .btn-primary { background: var(--text); color: var(--bg); }
-    .btn-primary:hover { background: white; }
-    .btn-secondary {
-      background: transparent; color: var(--text);
-      border-color: var(--border-strong);
-    }
-    .btn-secondary:hover { border-color: var(--text-muted); }
-    .contact-links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    .btn-primary { background: var(--accent); color: #fff; border-color: rgba(41,98,255,0.6); }
+    .btn-primary:hover { background: var(--accent-hi); }
+    .btn-secondary { background: transparent; color: var(--text); border-color: var(--border-md); }
+    .btn-secondary:hover { border-color: rgba(255,255,255,0.22); }
 
     footer {
-      padding: 40px 0; border-top: 1px solid var(--border);
-      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
-      letter-spacing: 0.3px;
+      padding: 36px 0; border-top: 1px solid var(--border);
+      font-family: var(--mono); font-size: 11px; color: var(--text-faint);
     }
-    footer .container {
-      display: flex; justify-content: space-between; align-items: center;
-      flex-wrap: wrap; gap: 16px;
-    }
+    footer .container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
 
     @media (max-width: 900px) {
       .hero { padding: 110px 0 40px; }
-      .hero h1 { font-size: 36px; letter-spacing: -1px; }
-      .hero-quote { font-size: 18px; }
+      .hero h1 { font-size: 38px; }
+      .hero-quote { font-size: 17px; }
       .pitch-body { font-size: 17px; }
       .caps { grid-template-columns: 1fr; }
       .results { grid-template-columns: 1fr; }
@@ -224,7 +233,7 @@
       .nav-inner, .container { padding-left: 20px; padding-right: 20px; }
     }
     @media (max-width: 600px) {
-      .hero h1 { font-size: 28px; }
+      .hero h1 { font-size: 30px; letter-spacing: -0.8px; }
     }
   </style>
 </head>
@@ -244,7 +253,7 @@
 
   <header class="hero">
     <div class="container">
-      <div class="hero-eyebrow">The Pitch</div>
+      <div class="hero-eyebrow"><span class="eyebrow-dot"></span>The Pitch</div>
       <h1>I turn business chaos into <span class="em">platform clarity</span>.</h1>
       <p class="hero-quote">
         I do not just build products. I build platforms that solve compound problems — across <strong>compliance</strong>, <strong>scale</strong>, and <strong>change management</strong> — and survive the next reorg, the next regulator, and the next pivot.
@@ -305,7 +314,7 @@
         </div>
         <div class="result">
           <div class="result-number">30%</div>
-          <p class="result-label"><strong>Faster credit approvals</strong> at BBVA via bureau API integration and origination workflow redesign.</p>
+          <p class="result-label"><strong>Faster credit approvals</strong> at BBVA via bureau API integration and origination redesign.</p>
         </div>
       </div>
     </div>
@@ -327,7 +336,7 @@
         </div>
         <div class="cap">
           <div class="cap-num">/ 02</div>
-          <h3 class="cap-title">AI escalation & customer experience</h3>
+          <h3 class="cap-title">AI escalation &amp; customer experience</h3>
           <p class="cap-desc">Graded escalation design that balances autonomy, identity strength, and audit cost. Production AI in regulated environments, not demoware.</p>
         </div>
         <div class="cap">
@@ -337,7 +346,7 @@
         </div>
         <div class="cap">
           <div class="cap-num">/ 04</div>
-          <h3 class="cap-title">Payment & loan servicing depth</h3>
+          <h3 class="cap-title">Payment &amp; loan servicing depth</h3>
           <p class="cap-desc">TSYS batch processing, card origination, fraud rules, bureau API integration, AUM-based fee engines. The plumbing of consumer finance.</p>
         </div>
         <div class="cap">
@@ -348,7 +357,7 @@
         <div class="cap">
           <div class="cap-num">/ 06</div>
           <h3 class="cap-title">0-to-1 platform builds</h3>
-          <p class="cap-desc">Founded TechGenie.ai end-to-end — Azure architecture, REST microservices, telemetry, compliance logging, and admin tooling.</p>
+          <p class="cap-desc">Founded TechGenie.ai end-to-end — AWS architecture, REST microservices, telemetry, compliance logging, and admin tooling.</p>
         </div>
       </div>
     </div>
@@ -367,27 +376,21 @@
           <div class="principle-num">/ 01</div>
           <div>
             <h3 class="principle-title">Compliance is architecture, not a layer.</h3>
-            <p class="principle-desc">
-              The chatbots, billing engines, and onboarding flows that fail in production are the ones built without identity, explainability, and audit logging as first-class primitives. I design from the constraint inward.
-            </p>
+            <p class="principle-desc">The chatbots, billing engines, and onboarding flows that fail in production are the ones built without identity, explainability, and audit logging as first-class primitives. I design from the constraint inward.</p>
           </div>
         </div>
         <div class="principle">
           <div class="principle-num">/ 02</div>
           <div>
             <h3 class="principle-title">Survives the next reorg.</h3>
-            <p class="principle-desc">
-              A platform that depends on a specific team, a specific PM, or a specific cloud account is a future migration project. I optimize for ownership clarity, contract-first APIs, and decisions that hold up two years out.
-            </p>
+            <p class="principle-desc">A platform that depends on a specific team, PM, or cloud account is a future migration project. I optimize for ownership clarity, contract-first APIs, and decisions that hold up two years out.</p>
           </div>
         </div>
         <div class="principle">
           <div class="principle-num">/ 03</div>
           <div>
             <h3 class="principle-title">Velocity beats theater.</h3>
-            <p class="principle-desc">
-              Anchored a big-bang cutover for Bank Sweep instead of a phased rollout because dual-state FDIC reporting was a worse risk than coordinated change management. The right answer is rarely the safest-sounding one.
-            </p>
+            <p class="principle-desc">Anchored a big-bang cutover for Bank Sweep instead of a phased rollout because dual-state FDIC reporting was a worse risk than coordinated change management. The right answer is rarely the safest-sounding one.</p>
           </div>
         </div>
       </div>
@@ -410,10 +413,10 @@
   <footer>
     <div class="container">
       <div>© 2025 Chaitanya Kasani</div>
-      <div>Crafted in Inter, Source Serif & JetBrains Mono</div>
+      <div>Crafted in Instrument Serif &amp; DM Mono</div>
     </div>
   </footer>
 
-<script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
+  <script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
 </body>
 </html>
