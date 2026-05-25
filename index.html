@@ -209,19 +209,19 @@
       position: relative;
       border-radius: 16px;
       padding: 2px;
-      background: conic-gradient(from 0deg, #2962ff, #7c3aed, #06b6d4, #2962ff);
-      animation: spin-ring 10s linear infinite;
-      box-shadow: 0 0 60px rgba(41,98,255,0.2), 0 40px 80px rgba(0,0,0,0.6);
+      background: linear-gradient(145deg, #2962ff 0%, #7c3aed 50%, #06b6d4 100%);
+      box-shadow: 0 0 48px rgba(41,98,255,0.15), 0 40px 80px rgba(0,0,0,0.6);
     }
-    @keyframes spin-ring { to { filter: hue-rotate(360deg); } }
     .photo-inner-frame {
       background: var(--bg); border-radius: 14px; overflow: hidden;
       aspect-ratio: 4/5;
+      isolation: isolate;
     }
     .photo-inner-frame img {
       width: 100%; height: 100%; object-fit: cover; display: block;
       object-position: center top;
-      filter: contrast(1.04) brightness(0.97);
+      filter: contrast(1.04) brightness(0.98);
+      mix-blend-mode: normal;
     }
     .avail-pill {
       position: absolute; bottom: -14px; left: 50%; transform: translateX(-50%);
