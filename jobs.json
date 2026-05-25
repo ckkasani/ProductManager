@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T21:02:38.574Z",
+  "lastUpdated": "2026-05-25T04:18:11.650Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,33 +19,6 @@
   "totalJobs": 11,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-mercury-5993466004",
-      "title": "Senior Product Manager - Banking Foundations",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5993466004",
-      "description": "<p>Mercury's ability to operate reliable banking* comes down to the infrastructure we build that ensures money moves correctly - every transaction, across every payment rail, with the precision and accountability that customers, regulators, and the financial system itself require. Banking Foundations is the team that builds and owns the platform that makes that possible — the layer that connects Mercury to the Federal Reserve, the payment networks, and our core banking provider, and gives the rest of the company a reliable surface to build on.</p> <p>We're looking for a Senior Product Manager to own this platform across Mercury. The Banking Foundations platform sits at the intersection of payment rail mechanics, regulatory accountability, and org-wide platform adoption — and the PM who leads our connectivity infrastructure will need to be as comfortable discussing payment rail behavior with engineers as discussing reporting precision with the Treasury team. This is a load-bearing platform role: the decisions made here flow through every payment Mercury makes as a bank* and shape Mercury's future.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services p",
-      "posted": "2026-05-21T18:39:25-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 81,
-      "reasons": [
-        "Strong skill alignment",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-7953691",
       "title": "Staff Product Manager, Local Processor Acquiring",
@@ -68,6 +41,32 @@
       "tags": [
         "Fintech",
         "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-5993466004",
+      "title": "Senior Product Manager - Banking Foundations",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5993466004",
+      "description": "<p>Mercury's ability to operate reliable banking* comes down to the infrastructure we build that ensures money moves correctly - every transaction, across every payment rail, with the precision and accountability that customers, regulators, and the financial system itself require. Banking Foundations is the team that builds and owns the platform that makes that possible — the layer that connects Mercury to the Federal Reserve, the payment networks, and our core banking provider, and gives the rest of the company a reliable surface to build on.</p> <p>We're looking for a Senior Product Manager to own this platform across Mercury. The Banking Foundations platform sits at the intersection of payment rail mechanics, regulatory accountability, and org-wide platform adoption — and the PM who leads our connectivity infrastructure will need to be as comfortable discussing payment rail behavior with engineers as discussing reporting precision with the Treasury team. This is a load-bearing platform role: the decisions made here flow through every payment Mercury makes as a bank* and shape Mercury's future.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services p",
+      "posted": "2026-05-21T18:39:25-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 77,
+      "reasons": [
+        "Strong skill alignment",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
         "Platform",
         "Banking"
       ],
@@ -123,32 +122,6 @@
         "Fintech",
         "Lending",
         "Compliance",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-5867562004",
-      "title": "Senior Product Manager - API & Agentic Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>At Mercury, we are building the banking* stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></st",
-      "posted": "2026-05-21T18:40:53-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
         "Platform",
         "Banking"
       ],
@@ -254,6 +227,31 @@
         "Fintech",
         "Payments",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-5867562004",
+      "title": "Senior Product Manager - API & Agentic Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>At Mercury, we are building the banking* stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></st",
+      "posted": "2026-05-21T18:40:53-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
