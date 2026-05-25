@@ -1,4 +1,4 @@
-<!-- Version: 2026-05-why-most-healthcare-fintech-chatbots-fail-compliance.html v2.0.0 -->
+<!-- Version: blog-post v4.0.0 - Matches site v4 dark aesthetic -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,213 +8,217 @@
   <meta name="description" content="Four patterns I keep watching kill AI chatbots in regulated environments — and what to build instead. Lessons from HIPAA, PCI-DSS, and FDIC platforms." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; }
     html { scroll-behavior: smooth; }
     body {
       margin: 0;
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-      background: #0A0A0A; color: #E8E6E1; line-height: 1.6;
-      font-feature-settings: "ss01", "ss02", "cv11";
+      font-family: 'DM Sans', -apple-system, sans-serif;
+      background: #080d1a; color: #dce6f7; line-height: 1.6;
       -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
+      overflow-x: hidden;
     }
     a { color: inherit; text-decoration: none; }
-    ::selection { background: #D4A24C; color: #0A0A0A; }
+    ::selection { background: #2962ff; color: #fff; }
 
     :root {
-      --bg: #0A0A0A; --bg-elev: #141414; --bg-card: #161616;
-      --border: #262626; --border-strong: #333333;
-      --text: #E8E6E1; --text-muted: #9A978F; --text-faint: #5A5A55;
-      --accent: #D4A24C;
-      --mono: 'JetBrains Mono', ui-monospace, monospace;
-      --serif: 'Source Serif 4', Georgia, serif;
+      --bg: #080d1a; --bg-elev: #0d1425; --bg-card: #0f1830;
+      --border: rgba(255,255,255,0.07); --border-md: rgba(255,255,255,0.11);
+      --text: #dce6f7; --text-muted: #6b84b8; --text-faint: #344368;
+      --accent: #2962ff; --accent-hi: #5a87ff;
+      --mono: 'DM Mono', ui-monospace, monospace;
+      --serif: 'Instrument Serif', Georgia, serif;
+    }
+
+    body::before {
+      content: ""; position: fixed; inset: 0; z-index: 0; pointer-events: none;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.018) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.018) 1px, transparent 1px);
+      background-size: 48px 48px;
     }
 
     /* NAV */
     .nav {
-      position: fixed; top: 0; left: 0; right: 0; z-index: 100; height: 64px;
-      background: rgba(10,10,10,0.85);
-      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      position: fixed; top: 0; left: 0; right: 0; z-index: 200; height: 64px;
+      background: rgba(8,13,26,0.82); backdrop-filter: blur(16px);
       border-bottom: 1px solid var(--border);
     }
     .nav-inner {
-      max-width: 1100px; margin: 0 auto; height: 100%; padding: 0 32px;
+      max-width: 1120px; margin: 0 auto; height: 100%; padding: 0 32px;
       display: flex; align-items: center; justify-content: space-between;
     }
-    .nav-logo { font-weight: 600; font-size: 15px; letter-spacing: -0.2px; color: var(--text); }
-    .nav-links { display: flex; gap: 4px; align-items: center; }
+    .nav-logo { font-family: var(--serif); font-size: 17px; color: var(--text); }
+    .nav-links { display: flex; gap: 2px; align-items: center; }
     .nav-link {
-      font-size: 14px; font-weight: 500; color: var(--text-muted);
-      padding: 8px 14px; border-radius: 6px;
-      transition: color 0.15s ease, background 0.15s ease;
+      font-size: 13px; font-weight: 500; color: var(--text-muted);
+      padding: 7px 13px; border-radius: 6px; transition: color 0.15s, background 0.15s;
     }
     .nav-link:hover { color: var(--text); background: rgba(255,255,255,0.04); }
-    .nav-link.active { color: var(--accent); }
+    .nav-link.active { color: var(--accent-hi); }
     .nav-cta {
-      font-size: 14px; font-weight: 500; color: var(--bg);
-      background: var(--text); padding: 8px 14px; border-radius: 6px; margin-left: 8px;
+      font-size: 13px; font-weight: 500; color: #fff;
+      background: var(--accent); padding: 7px 16px; border-radius: 6px;
+      margin-left: 10px; border: 1px solid rgba(41,98,255,0.6);
     }
-    .nav-cta:hover { background: white; }
+    .nav-cta:hover { background: var(--accent-hi); }
 
-    /* ARTICLE */
-    .article { max-width: 720px; margin: 0 auto; padding: 120px 32px 80px; }
+    /* ARTICLE LAYOUT */
+    .article {
+      max-width: 740px; margin: 0 auto;
+      padding: 112px 32px 80px;
+      position: relative; z-index: 1;
+    }
 
     .breadcrumb {
       font-family: var(--mono); font-size: 12px; font-weight: 500;
-      color: var(--text-faint); letter-spacing: 0.3px; margin-bottom: 32px;
+      color: var(--text-faint); letter-spacing: 0.3px; margin-bottom: 28px;
     }
-    .breadcrumb a { color: var(--accent); }
-    .breadcrumb a:hover { color: white; }
+    .breadcrumb a { color: var(--accent-hi); transition: color 0.15s; }
+    .breadcrumb a:hover { color: #fff; }
 
     .article-meta {
-      display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
-      font-family: var(--mono); font-size: 12px; font-weight: 500;
-      color: var(--text-faint); letter-spacing: 0.3px;
-      margin-bottom: 24px;
+      display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+      font-family: var(--mono); font-size: 11.5px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.3px; margin-bottom: 20px;
     }
-    .article-meta .dot {
-      width: 3px; height: 3px; border-radius: 50%; background: var(--text-faint);
+    .article-meta .dot { width: 3px; height: 3px; border-radius: 50%; background: var(--text-faint); }
+    .article-meta .accent { color: var(--accent-hi); }
+
+    /* visitor counter */
+    .view-count {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-family: var(--mono); font-size: 11px; color: var(--text-faint);
+      background: var(--bg-card); border: 0.5px solid var(--border-md);
+      padding: 3px 10px; border-radius: 20px; margin-bottom: 20px;
     }
-    .article-meta .accent { color: var(--accent); }
+    .view-count-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent-hi); }
 
     .article-title {
-      font-size: 48px; font-weight: 700; line-height: 1.08;
-      letter-spacing: -1.4px; color: var(--text);
-      margin: 0 0 28px;
+      font-family: var(--serif); font-size: 46px; font-weight: 400;
+      line-height: 1.1; letter-spacing: -1px; color: var(--text);
+      margin: 0 0 24px;
     }
     .article-lede {
-      font-family: var(--serif);
-      font-size: 22px; line-height: 1.5; color: var(--text-muted);
-      margin: 0 0 40px; font-weight: 400;
-      padding-bottom: 32px; border-bottom: 1px solid var(--border);
+      font-family: var(--serif); font-size: 21px; line-height: 1.6;
+      color: var(--text-muted); margin: 0 0 32px; font-weight: 400;
+      padding-bottom: 28px; border-bottom: 1px solid var(--border);
+      font-style: italic;
     }
-    .article-lede em { font-style: italic; color: var(--accent); }
+    .article-lede em { font-style: normal; color: var(--accent-hi); }
 
     .article-tags {
-      display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 48px;
+      display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 44px;
     }
     .article-tag {
       font-family: var(--mono); font-size: 11px; font-weight: 500;
-      color: var(--text-muted); letter-spacing: 0.3px;
-      padding: 3px 8px; border: 1px solid var(--border); border-radius: 4px;
+      color: var(--text-muted); letter-spacing: 0.2px;
+      padding: 4px 10px; border: 0.5px solid var(--border-md);
+      border-radius: 5px; background: var(--bg-card);
     }
 
     /* BODY */
-    .body {
-      font-family: var(--serif);
-      font-size: 19px; line-height: 1.7; color: var(--text);
-    }
-    .body p { margin: 0 0 24px; }
+    .body { font-family: var(--serif); font-size: 19px; line-height: 1.75; color: var(--text); }
+    .body p { margin: 0 0 22px; }
     .body h2 {
-      font-family: 'Inter', sans-serif;
-      font-size: 28px; font-weight: 600; line-height: 1.2;
-      letter-spacing: -0.6px; color: var(--text);
-      margin: 56px 0 20px;
-      padding-top: 28px; border-top: 1px solid var(--border);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 26px; font-weight: 500; line-height: 1.2;
+      letter-spacing: -0.5px; color: var(--text);
+      margin: 52px 0 18px;
+      padding-top: 24px; border-top: 1px solid var(--border);
+      display: flex; align-items: baseline; gap: 12px;
     }
     .body h2 .num {
-      display: inline-block;
-      font-family: var(--mono); font-size: 14px; font-weight: 500;
-      color: var(--accent); letter-spacing: 0.5px;
-      margin-right: 12px; vertical-align: 2px;
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent-hi); letter-spacing: 0.5px; flex-shrink: 0;
     }
     .body h3 {
-      font-family: 'Inter', sans-serif;
-      font-size: 18px; font-weight: 600; color: var(--text);
-      margin: 36px 0 14px; letter-spacing: -0.2px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 17px; font-weight: 500; color: var(--text);
+      margin: 32px 0 12px; letter-spacing: -0.2px;
     }
-    .body strong { color: var(--text); font-weight: 600; }
+    .body strong { color: var(--text); font-weight: 500; }
     .body em { font-style: italic; }
-    .body ul, .body ol { margin: 0 0 24px; padding-left: 20px; }
-    .body li {
-      margin-bottom: 10px; line-height: 1.65;
-    }
-    .body a {
-      color: var(--accent); border-bottom: 1px solid var(--border-strong);
-      transition: border-color 0.15s ease;
-    }
-    .body a:hover { border-color: var(--accent); }
+    .body ul, .body ol { margin: 0 0 22px; padding-left: 22px; }
+    .body li { margin-bottom: 10px; line-height: 1.7; }
+    .body a { color: var(--accent-hi); border-bottom: 1px solid rgba(90,135,255,0.3); transition: border-color 0.15s; }
+    .body a:hover { border-color: var(--accent-hi); }
 
     /* CALLOUT */
     .callout {
-      background: var(--bg-card); border: 1px solid var(--border);
+      background: var(--bg-card); border: 0.5px solid var(--border-md);
       border-left: 3px solid var(--accent);
-      border-radius: 6px;
-      padding: 24px 28px;
-      margin: 32px 0;
-      font-family: 'Inter', sans-serif;
-      font-size: 15px; line-height: 1.65; color: var(--text-muted);
+      border-radius: 8px; padding: 22px 26px; margin: 28px 0;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 14.5px; line-height: 1.68; color: var(--text-muted);
+      font-weight: 300;
     }
     .callout-label {
-      font-family: var(--mono); font-size: 11px; font-weight: 600;
-      color: var(--accent); letter-spacing: 0.7px;
-      text-transform: uppercase;
+      font-family: var(--mono); font-size: 10px; font-weight: 500;
+      color: var(--accent-hi); letter-spacing: 0.8px; text-transform: uppercase;
       margin-bottom: 10px; display: block;
     }
     .callout p:last-child { margin-bottom: 0; }
-    .callout strong { color: var(--text); }
+    .callout strong { color: var(--text); font-weight: 500; }
 
     /* PULL QUOTE */
     blockquote {
-      margin: 40px 0; padding: 0 0 0 32px;
+      margin: 36px 0; padding: 0 0 0 28px;
       border-left: 2px solid var(--accent);
       font-family: var(--serif);
-      font-size: 22px; line-height: 1.5; font-style: italic;
-      color: var(--text);
+      font-size: 20px; line-height: 1.55; font-style: italic;
+      color: var(--text-muted);
     }
     blockquote p { margin: 0; }
 
     /* END CTA */
     .end-cta {
-      margin-top: 64px; padding: 40px;
-      background: var(--bg-card); border: 1px solid var(--border);
-      border-radius: 12px; text-align: center;
+      margin-top: 56px; padding: 40px;
+      background: var(--bg-card); border: 1px solid var(--border-md);
+      border-radius: 14px; text-align: center;
+      position: relative; overflow: hidden;
+    }
+    .end-cta::before {
+      content: ""; position: absolute; inset: 0; pointer-events: none;
+      background: radial-gradient(ellipse at 50% 0%, rgba(41,98,255,0.07) 0%, transparent 60%);
     }
     .end-cta h3 {
-      font-family: 'Inter', sans-serif;
-      font-size: 22px; font-weight: 600; color: var(--text);
-      margin: 0 0 10px; letter-spacing: -0.4px;
+      font-family: var(--serif); font-size: 26px; font-weight: 400;
+      color: var(--text); margin: 0 0 8px; letter-spacing: -0.3px;
+      position: relative;
     }
     .end-cta p {
-      font-family: 'Inter', sans-serif;
       font-size: 15px; color: var(--text-muted); margin: 0 0 24px;
+      font-weight: 300; position: relative;
     }
-    .end-cta-links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    .end-cta-links { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; position: relative; }
     .btn {
       display: inline-flex; align-items: center; gap: 8px;
-      padding: 10px 18px; border-radius: 6px;
-      font-family: 'Inter', sans-serif;
-      font-size: 14px; font-weight: 500;
-      transition: all 0.15s ease; border: 1px solid transparent;
+      padding: 10px 18px; border-radius: 8px; font-size: 13.5px; font-weight: 500;
+      transition: all 0.15s; border: 1px solid transparent;
     }
-    .btn-primary { background: var(--text); color: var(--bg); }
-    .btn-primary:hover { background: white; }
-    .btn-secondary {
-      background: transparent; color: var(--text);
-      border-color: var(--border-strong);
-    }
-    .btn-secondary:hover { border-color: var(--text-muted); }
+    .btn-primary { background: var(--accent); color: #fff; border-color: rgba(41,98,255,0.6); }
+    .btn-primary:hover { background: var(--accent-hi); }
+    .btn-secondary { background: transparent; color: var(--text); border-color: var(--border-md); }
+    .btn-secondary:hover { border-color: rgba(255,255,255,0.22); }
 
     /* FOOTER */
     footer {
-      padding: 40px 0; border-top: 1px solid var(--border);
-      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
-      letter-spacing: 0.3px;
+      padding: 36px 0; border-top: 1px solid var(--border);
+      font-family: var(--mono); font-size: 11px; color: var(--text-faint);
     }
     footer .container {
-      max-width: 1100px; margin: 0 auto; padding: 0 32px;
-      display: flex; justify-content: space-between; align-items: center;
-      flex-wrap: wrap; gap: 16px;
+      max-width: 1120px; margin: 0 auto; padding: 0 32px;
+      display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px;
     }
 
     @media (max-width: 700px) {
-      .article { padding: 100px 20px 60px; }
-      .article-title { font-size: 32px; letter-spacing: -0.8px; }
+      .article { padding: 96px 20px 56px; }
+      .article-title { font-size: 32px; letter-spacing: -0.5px; }
       .article-lede { font-size: 18px; }
       .body { font-size: 17px; }
-      .body h2 { font-size: 22px; }
+      .body h2 { font-size: 21px; }
       .end-cta { padding: 28px 20px; }
       .nav-inner { padding: 0 20px; }
       footer .container { padding: 0 20px; }
@@ -245,6 +249,12 @@
       <span>May 2026</span>
       <span class="dot"></span>
       <span>8 min read</span>
+    </div>
+
+    <!-- VISITOR COUNTER — powered by countapi.xyz (free, no signup) -->
+    <div class="view-count" id="view-count" style="display:none;">
+      <span class="view-count-dot"></span>
+      <span id="view-num">—</span> views
     </div>
 
     <h1 class="article-title">Why most healthcare and fintech chatbots fail compliance review</h1>
@@ -295,9 +305,7 @@
 
       <h3>What to build instead</h3>
 
-      <p>
-        Identity has to come <em>before</em> retrieval, not after generation. In practice that means:
-      </p>
+      <p>Identity has to come <em>before</em> retrieval, not after generation. In practice that means:</p>
 
       <ul>
         <li><strong>Verify the requester first.</strong> CIP-verified identity in financial services. Authenticated member context in healthcare. Anonymous sessions get a sandboxed retriever with zero access to member data — period.</li>
@@ -353,9 +361,7 @@
         This is the one that most often kills deals at the final stage. The InfoSec questionnaire arrives. The vendor responds with a SOC2 report, a HIPAA "we are compliant" attestation, and a marketing PDF.
       </p>
 
-      <p>
-        That is no longer enough. Modern compliance teams want to see:
-      </p>
+      <p>That is no longer enough. Modern compliance teams want to see:</p>
 
       <ul>
         <li><strong>Data residency controls</strong> — where exactly does PHI or PCI data live, and how is that enforced in infrastructure-as-code?</li>
@@ -402,10 +408,26 @@
   <footer>
     <div class="container">
       <div>© 2025 Chaitanya Kasani</div>
-      <div>Crafted in Inter, Source Serif & JetBrains Mono</div>
+      <div>Crafted in Instrument Serif &amp; DM Mono</div>
     </div>
   </footer>
 
-<script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
+  <!-- VISITOR COUNTER — countapi.xyz, free, no signup, no tracking -->
+  <script>
+    (async () => {
+      try {
+        // "hit" increments by 1 each page load and returns new total
+        const slug = '2026-05-chatbots-fail-compliance';
+        const res = await fetch(`https://api.countapi.xyz/hit/chaitanya-product.com/${slug}`);
+        const data = await res.json();
+        if (data && data.value) {
+          document.getElementById('view-num').textContent = data.value.toLocaleString();
+          document.getElementById('view-count').style.display = 'inline-flex';
+        }
+      } catch(e) { /* silently fail — counter is a nice-to-have */ }
+    })();
+  </script>
+
+  <script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
 </body>
 </html>
