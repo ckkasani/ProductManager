@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T18:31:51.191Z",
+  "lastUpdated": "2026-05-26T21:49:30.144Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -20,6 +20,33 @@
   "highMatchJobs": 0,
   "jobs": [
     {
+      "id": "gh-stripe-7953691",
+      "title": "Staff Product Manager, Local Processor Acquiring",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Local Processor Acquiring team</h3> <p>Stripe is building a global payments and treasury network-and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.<br>The problem we're solving is fundamental: the most important payment methods in emerging markets-Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia-require local acquiring capabilities that historically took years of work and infrastru",
+      "posted": "2026-05-26T15:42:39-04:00",
+      "source": "Greenhouse",
+      "department": "8503 Global Selling - PM",
+      "match": 79,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-5993466004",
       "title": "Senior Product Manager - Banking Foundations",
       "company": "Mercury",
@@ -34,6 +61,34 @@
       "match": 77,
       "reasons": [
         "Strong skill alignment",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7912407",
+      "title": "Staff Product Manager, Adaptive Pricing",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7912407",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Adaptive Pricing team</h3> <p>Stripe is building a global payments and treasury network, and the Adaptive Pricing team sits at the heart of Global Selling-focused on helping businesses optimize how they sell across borders.<br>One of the hardest problems in global commerce is pricing. Businesses must navigate different currencies, foreign exchange dynamics, setting proper price points, aligning prices with local standards, and unlocking local payment methods-all while maintaining a seamless buyer experience. Getting this wrong means lost revenue, abandoned carts, and failed payments.<br>To solve this, we built Adaptive Pricing-one of",
+      "posted": "2026-05-26T15:42:14-04:00",
+      "source": "Greenhouse",
+      "department": "8503 Global Selling - PM",
+      "match": 76,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -73,59 +128,6 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7953691",
-      "title": "Staff Product Manager, Local Processor Acquiring",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Local Processor Acquiring team</h3> <p>Stripe is building a global payments and treasury network-and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.<br>The problem we're solving is fundamental: the most important payment methods in emerging markets-Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia-require local acquiring capabilities that historically took years of work and infrastru",
-      "posted": "2026-05-22T07:24:04-04:00",
-      "source": "Greenhouse",
-      "department": "8503 Global Selling - PM",
-      "match": 73,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7912407",
-      "title": "Staff Product Manager, Adaptive Pricing",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=7912407",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Adaptive Pricing team</h3> <p>Stripe is building a global payments and treasury network, and the Adaptive Pricing team sits at the heart of Global Selling-focused on helping businesses optimize how they sell across borders.<br>One of the hardest problems in global commerce is pricing. Businesses must navigate different currencies, foreign exchange dynamics, setting proper price points, aligning prices with local standards, and unlocking local payment methods-all while maintaining a seamless buyer experience. Getting this wrong means lost revenue, abandoned carts, and failed payments.<br>To solve this, we built Adaptive Pricing-one of",
-      "posted": "2026-05-22T07:20:35-04:00",
-      "source": "Greenhouse",
-      "department": "8503 Global Selling - PM",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7819059",
       "title": "Staff Product Manager, Payments",
       "company": "Stripe",
@@ -152,13 +154,13 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8433470002",
+      "id": "gh-brex-8432707002",
       "title": "Director of Product, Growth/AI",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Seattle, Washington, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada / New York, New York, United States",
-      "url": "https://www.brex.com/careers/8433470002?gh_jid=8433470002",
+      "location": "San Francisco, California, United States / New York, New York, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8432707002?gh_jid=8432707002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
       "posted": "2026-05-26T08:12:53-04:00",
       "source": "Greenhouse",
@@ -255,15 +257,15 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8432702002",
+      "id": "gh-brex-8433764002",
       "title": "Staff Product Manager",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8432702002?gh_jid=8432702002",
+      "location": "Vancouver, British Columbia, Canada / San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8433764002?gh_jid=8433764002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
-      "posted": "2026-05-26T08:12:53-04:00",
+      "posted": "2026-05-26T08:12:52-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 65,
@@ -287,7 +289,7 @@
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada",
+      "location": "San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States / New York, New York, United States",
       "url": "https://www.brex.com/careers/8436527002?gh_jid=8436527002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
       "posted": "2026-05-26T08:12:52-04:00",
@@ -360,13 +362,13 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8438582002",
+      "id": "gh-brex-8438584002",
       "title": "Group Product Manager",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Seattle, Washington, United States / Vancouver, British Columbia, Canada / San Francisco, California, United States / New York, New York, United States",
-      "url": "https://www.brex.com/careers/8438582002?gh_jid=8438582002",
+      "location": "Vancouver, British Columbia, Canada / San Francisco, California, United States / Seattle, Washington, United States / New York, New York, United States",
+      "url": "https://www.brex.com/careers/8438584002?gh_jid=8438584002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
       "posted": "2026-05-26T08:12:53-04:00",
       "source": "Greenhouse",
