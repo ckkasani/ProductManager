@@ -1,0 +1,255 @@
+<!-- Version: 2026-05-dynamodb-aws-bill.html v1.0.0 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My database costs more than everything else combined. Here's what I found. — Chaitanya Kasani</title>
+  <meta name="description" content="A founder's honest look at why DynamoDB became 70% of my AWS bill, and why the easy fixes won't work." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0A0A0A; color: #E8E6E1; line-height: 1.6;
+      font-feature-settings: "ss01", "ss02", "cv11";
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    a { color: inherit; text-decoration: none; }
+    ::selection { background: #D4A24C; color: #0A0A0A; }
+
+    :root {
+      --bg: #0A0A0A; --bg-elev: #141414; --bg-card: #161616;
+      --border: #262626; --border-strong: #333333;
+      --text: #E8E6E1; --text-muted: #9A978F; --text-faint: #5A5A55;
+      --accent: #D4A24C;
+      --mono: 'JetBrains Mono', ui-monospace, monospace;
+      --serif: 'Source Serif 4', Georgia, serif;
+    }
+
+    .nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100; height: 64px;
+      background: rgba(10,10,10,0.85);
+      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-inner {
+      max-width: 1100px; margin: 0 auto; height: 100%; padding: 0 32px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-logo { font-weight: 600; font-size: 15px; letter-spacing: -0.2px; color: var(--text); }
+    .nav-links { display: flex; gap: 4px; align-items: center; }
+    .nav-link {
+      font-size: 14px; font-weight: 500; color: var(--text-muted);
+      padding: 8px 14px; border-radius: 6px;
+      transition: color 0.15s ease, background 0.15s ease;
+    }
+    .nav-link:hover { color: var(--text); background: rgba(255,255,255,0.04); }
+    .nav-link.active { color: var(--accent); }
+    .nav-cta {
+      font-size: 14px; font-weight: 500; color: var(--bg);
+      background: var(--text); padding: 8px 14px; border-radius: 6px; margin-left: 8px;
+    }
+    .nav-cta:hover { background: white; }
+
+    .article { max-width: 720px; margin: 0 auto; padding: 120px 32px 80px; }
+
+    .breadcrumb {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.3px; margin-bottom: 32px;
+    }
+    .breadcrumb a { color: var(--accent); }
+    .breadcrumb a:hover { color: white; }
+
+    .article-meta {
+      display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.3px;
+      margin-bottom: 24px;
+    }
+    .article-meta .dot {
+      width: 3px; height: 3px; border-radius: 50%; background: var(--text-faint);
+    }
+    .article-meta .accent { color: var(--accent); }
+
+    .article-title {
+      font-size: 44px; font-weight: 700; line-height: 1.1;
+      letter-spacing: -1.3px; color: var(--text);
+      margin: 0 0 28px;
+    }
+
+    .article-tags {
+      display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 40px;
+    }
+    .article-tag {
+      font-family: var(--mono); font-size: 11px; font-weight: 500;
+      color: var(--text-muted); letter-spacing: 0.3px;
+      padding: 3px 8px; border: 1px solid var(--border); border-radius: 4px;
+    }
+
+    .body {
+      font-family: var(--serif);
+      font-size: 19px; line-height: 1.75; color: var(--text);
+    }
+    .body p { margin: 0 0 24px; }
+    .body strong { color: var(--text); font-weight: 600; }
+    .body em { font-style: italic; color: var(--accent); }
+    .body a {
+      color: var(--accent); border-bottom: 1px solid var(--border-strong);
+      transition: border-color 0.15s ease;
+    }
+    .body a:hover { border-color: var(--accent); }
+
+    .end-cta {
+      margin-top: 56px; padding: 36px;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; text-align: center;
+    }
+    .end-cta h3 {
+      font-family: 'Inter', sans-serif;
+      font-size: 22px; font-weight: 600; color: var(--text);
+      margin: 0 0 10px; letter-spacing: -0.4px;
+    }
+    .end-cta p {
+      font-family: 'Inter', sans-serif;
+      font-size: 15px; color: var(--text-muted); margin: 0 0 22px;
+    }
+    .end-cta-links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 10px 18px; border-radius: 6px;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px; font-weight: 500;
+      transition: all 0.15s ease; border: 1px solid transparent;
+    }
+    .btn-primary { background: var(--text); color: var(--bg); }
+    .btn-primary:hover { background: white; }
+    .btn-secondary {
+      background: transparent; color: var(--text);
+      border-color: var(--border-strong);
+    }
+    .btn-secondary:hover { border-color: var(--text-muted); }
+
+    footer {
+      padding: 40px 0; border-top: 1px solid var(--border);
+      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
+      letter-spacing: 0.3px;
+    }
+    footer .container {
+      max-width: 1100px; margin: 0 auto; padding: 0 32px;
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 16px;
+    }
+
+    @media (max-width: 700px) {
+      .article { padding: 100px 20px 60px; }
+      .article-title { font-size: 28px; letter-spacing: -0.6px; }
+      .body { font-size: 17px; }
+      .end-cta { padding: 28px 20px; }
+      .nav-inner { padding: 0 20px; }
+      footer .container { padding: 0 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="../index.html" class="nav-logo">Chaitanya Kasani</a>
+      <div class="nav-links">
+        <a href="../index.html" class="nav-link">Profile</a>
+        <a href="../pitch.html" class="nav-link">Pitch</a>
+        <a href="../blog.html" class="nav-link active">Writing</a>
+        <a href="mailto:ckkasani@gmail.com" class="nav-cta">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <article class="article">
+
+    <div class="breadcrumb"><a href="../blog.html">← All writing</a></div>
+
+    <div class="article-meta">
+      <span class="accent">Field Notes</span>
+      <span class="dot"></span>
+      <span>May 2026</span>
+      <span class="dot"></span>
+      <span>5 min read</span>
+    </div>
+
+    <h1 class="article-title">My database costs more than everything else combined. Here's what I found.</h1>
+
+    <div class="article-tags">
+      <span class="article-tag">AWS</span>
+      <span class="article-tag">DynamoDB</span>
+      <span class="article-tag">Multi-tenant</span>
+      <span class="article-tag">Founder Notes</span>
+    </div>
+
+    <div class="body">
+
+      <p>Last week I sat down to cut my AWS bill. I was sure I'd find something dumb. A server left running over a weekend. Some orphaned storage I forgot to delete. Everybody has one of those stories.</p>
+
+      <p>I opened the cost breakdown, and there it was. One line, towering over the rest. DynamoDB, my database, was about 70% of the whole bill. Compute, the thing I'd always assumed was the expensive part, sat near the bottom like an afterthought.</p>
+
+      <p>I'd been worrying about the wrong thing for months.</p>
+
+      <p>So I went hunting for the mistake. And this is the part that got under my skin: there wasn't one.</p>
+
+      <p>Let me explain how TechGenie is built, because the cost lives inside the design.</p>
+
+      <p>It's multi-tenant. A bunch of businesses use it, and their data has to stay completely separate. In healthcare and finance that isn't a preference, it's the law. So I built it carefully. I have separate tables for each part of the product. Client profiles in one. Users in another. Employees, conversation data, chat logs, callback requests, live agent sessions, each in their own table. Inside every table, every single record carries a client ID, and nothing gets read or written without it. One customer can never see another's data. Ever.</p>
+
+      <p>If you know DynamoDB, you know this is the textbook approach. You don't give every customer their own tables. You separate by feature, isolate by key. I followed the playbook.</p>
+
+      <p>And the playbook is what's costing me money.</p>
+
+      <p>I stopped looking for a villain and started reading the bill like a story. It told me three things.</p>
+
+      <p>The data keeps growing because the business keeps growing. Every new customer adds records to every table. That cost climbs as I sign people up, which honestly is the kind of problem I want to have.</p>
+
+      <p>But the real weight is the calls. We handle over a million interactions a month, and not one of them is a single database hit. A person sends one message and behind it the system reads their profile, checks the user, writes to the log, maybe files a callback, updates the session. One message becomes five or six trips to the database. Multiply that by a million. The data sitting still is cheap. It's the data moving that bleeds me dry.</p>
+
+      <p>And because everything is split by feature, one click can touch four tables at once. That's the price of keeping it clean and auditable. I'd make the same call again. But clean isn't free.</p>
+
+      <p>Here's where I actually am: I haven't fixed it.</p>
+
+      <p>Not because I'm lazy. Because every easy answer is a door I won't walk through. Delete the unused stuff? It's all in use. Merge the tables? The whole point is that they're separate. Loosen the isolation between customers to save a few dollars? Not a chance. That's the one line the entire product is built on.</p>
+
+      <p>So I'm stuck with a real bill and no obvious mistake to blame, and I've decided to just say that out loud instead of pretending I have it solved.</p>
+
+      <p>I have ideas. Maybe my billing mode doesn't match my traffic. Maybe I'm making calls I could cache. Maybe eight-month-old chat logs don't need to live in an expensive database that answers in milliseconds when nobody's reading them anyway.</p>
+
+      <p>But ideas aren't a fix, and I'm not going to dress them up as one.</p>
+
+      <p>So I'll ask instead. If you've run a multi-tenant system where the database became the whole bill, and the architecture was actually correct, where did you start? Access patterns? Storage tiers? Something I haven't thought of?</p>
+
+      <p>I'll write the follow-up when I've done the work and have real numbers. For now I'm in the messy middle, and I'd rather tell you the truth from here.</p>
+
+      <div class="end-cta">
+        <h3>Have you solved a version of this?</h3>
+        <p>I'd genuinely like to compare notes if you've worked through the same tradeoff.</p>
+        <div class="end-cta-links">
+          <a href="mailto:ckkasani@gmail.com" class="btn btn-primary">ckkasani@gmail.com →</a>
+          <a href="https://www.linkedin.com/in/chaitanyapm" target="_blank" rel="noopener" class="btn btn-secondary">LinkedIn ↗</a>
+        </div>
+      </div>
+
+    </div>
+  </article>
+
+  <footer>
+    <div class="container">
+      <div>© 2025 Chaitanya Kasani</div>
+      <div>Crafted in Inter, Source Serif & JetBrains Mono</div>
+    </div>
+  </footer>
+
+<script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
+</body>
+</html>
