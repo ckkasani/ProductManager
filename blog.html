@@ -1,4 +1,4 @@
-<!-- Version: blog.html v4.0.0 - Matches site v4 dark aesthetic -->
+<!-- Version: blog.html v2.1.0 - Two posts -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,229 +8,200 @@
   <meta name="description" content="Field notes on fintech platforms, AI member engagement, compliance, and product strategy from a working PM and founder." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; }
     html { scroll-behavior: smooth; }
     body {
       margin: 0;
-      font-family: 'DM Sans', -apple-system, sans-serif;
-      background: #080d1a; color: #dce6f7; line-height: 1.6;
-      -webkit-font-smoothing: antialiased; overflow-x: hidden;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0A0A0A; color: #E8E6E1;
+      line-height: 1.6;
+      font-feature-settings: "ss01", "ss02", "cv11";
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
     }
     a { color: inherit; text-decoration: none; }
-    ::selection { background: #2962ff; color: #fff; }
+    ::selection { background: #D4A24C; color: #0A0A0A; }
 
     :root {
-      --bg: #080d1a; --bg-elev: #0d1425; --bg-card: #0f1830; --bg-hover: #131e38;
-      --border: rgba(255,255,255,0.07); --border-md: rgba(255,255,255,0.11);
-      --text: #dce6f7; --text-muted: #6b84b8; --text-faint: #344368;
-      --accent: #2962ff; --accent-hi: #5a87ff;
-      --mono: 'DM Mono', ui-monospace, monospace;
-      --serif: 'Instrument Serif', Georgia, serif;
+      --bg: #0A0A0A; --bg-elev: #141414; --bg-card: #161616;
+      --border: #262626; --border-strong: #333333;
+      --text: #E8E6E1; --text-muted: #8A8780; --text-faint: #5A5A55;
+      --accent: #D4A24C;
+      --mono: 'JetBrains Mono', ui-monospace, monospace;
     }
 
-    body::before {
-      content: ""; position: fixed; inset: 0; z-index: 0; pointer-events: none;
-      background-image:
-        linear-gradient(rgba(255,255,255,0.018) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(255,255,255,0.018) 1px, transparent 1px);
-      background-size: 48px 48px;
-    }
-
-    /* NAV */
     .nav {
-      position: fixed; top: 0; left: 0; right: 0; z-index: 200; height: 64px;
-      background: rgba(8,13,26,0.82); backdrop-filter: blur(16px);
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100; height: 64px;
+      background: rgba(10,10,10,0.85);
+      backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
       border-bottom: 1px solid var(--border);
     }
     .nav-inner {
-      max-width: 1120px; margin: 0 auto; height: 100%; padding: 0 32px;
+      max-width: 1100px; margin: 0 auto; height: 100%; padding: 0 32px;
       display: flex; align-items: center; justify-content: space-between;
     }
-    .nav-logo { font-family: var(--serif); font-size: 17px; color: var(--text); }
-    .nav-links { display: flex; gap: 2px; align-items: center; }
+    .nav-logo { font-weight: 600; font-size: 15px; letter-spacing: -0.2px; color: var(--text); }
+    .nav-links { display: flex; gap: 4px; align-items: center; }
     .nav-link {
-      font-size: 13px; font-weight: 500; color: var(--text-muted);
-      padding: 7px 13px; border-radius: 6px; transition: color 0.15s, background 0.15s;
+      font-size: 14px; font-weight: 500; color: var(--text-muted);
+      padding: 8px 14px; border-radius: 6px;
+      transition: color 0.15s ease, background 0.15s ease;
     }
     .nav-link:hover { color: var(--text); background: rgba(255,255,255,0.04); }
-    .nav-link.active { color: var(--accent-hi); }
+    .nav-link.active { color: var(--accent); }
     .nav-cta {
-      font-size: 13px; font-weight: 500; color: #fff;
-      background: var(--accent); padding: 7px 16px; border-radius: 6px;
-      margin-left: 10px; border: 1px solid rgba(41,98,255,0.6);
+      font-size: 14px; font-weight: 500; color: var(--bg);
+      background: var(--text); padding: 8px 14px; border-radius: 6px; margin-left: 8px;
     }
-    .nav-cta:hover { background: var(--accent-hi); }
+    .nav-cta:hover { background: white; }
 
-    .container { max-width: 860px; margin: 0 auto; padding: 0 32px; position: relative; z-index: 1; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 32px; }
 
-    /* HERO */
-    .hero { padding: 128px 0 52px; }
-    .hero-eyebrow {
-      display: inline-flex; align-items: center; gap: 9px;
-      font-family: var(--mono); font-size: 11.5px; font-weight: 500;
-      color: var(--accent-hi); letter-spacing: 0.4px; margin-bottom: 20px;
+    .page-header {
+      padding: 140px 0 60px; max-width: 760px;
+      margin: 0 auto; padding-left: 32px; padding-right: 32px;
     }
-    .eyebrow-dot {
-      width: 7px; height: 7px; border-radius: 50%; background: var(--accent-hi);
-      box-shadow: 0 0 10px var(--accent); animation: blink 2.4s ease-in-out infinite;
+    .page-eyebrow {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.3px; margin-bottom: 24px;
     }
-    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.35} }
-    .hero h1 {
-      font-family: var(--serif); font-size: 46px; font-weight: 400;
-      line-height: 1.1; letter-spacing: -1px; color: var(--text);
-      margin: 0 0 18px;
+    .page-eyebrow::before {
+      content: ""; width: 6px; height: 6px; border-radius: 50%;
+      background: var(--accent); box-shadow: 0 0 12px var(--accent);
     }
-    .hero-sub {
-      font-size: 17px; color: var(--text-muted); max-width: 580px;
-      line-height: 1.65; font-weight: 300; margin: 0;
+    .page-header h1 {
+      font-size: 56px; font-weight: 700; line-height: 1.05;
+      letter-spacing: -1.6px; color: var(--text); margin: 0 0 24px;
     }
-    .hero-sub strong { color: var(--text); font-weight: 500; }
+    .page-header h1 .em { font-style: italic; font-weight: 500; color: var(--accent); }
+    .page-subtitle {
+      font-size: 19px; line-height: 1.55; color: var(--text-muted); margin: 0;
+    }
 
-    /* SECTION HEADER */
+    section { padding: 60px 0; }
     .section-header {
       display: flex; align-items: baseline; justify-content: space-between;
-      margin-bottom: 24px; padding-bottom: 14px;
+      margin-bottom: 40px; padding-bottom: 20px;
       border-bottom: 1px solid var(--border);
     }
     .section-label {
-      font-family: var(--mono); font-size: 11px; font-weight: 500;
-      color: var(--accent-hi); letter-spacing: 0.5px; text-transform: uppercase;
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--accent); letter-spacing: 0.5px; text-transform: uppercase;
     }
     .section-title {
-      font-family: var(--serif); font-size: 26px; font-weight: 400;
-      color: var(--text); margin: 6px 0 0; letter-spacing: -0.4px;
+      font-size: 24px; font-weight: 600; color: var(--text);
+      margin: 8px 0 0; letter-spacing: -0.4px;
     }
-    .post-count {
-      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
+    .section-counter {
+      font-family: var(--mono); font-size: 13px; color: var(--text-faint);
     }
-
-    /* POSTS */
-    section { padding: 40px 0; }
 
     .post-list { display: flex; flex-direction: column; }
-    .post-item {
-      display: grid; grid-template-columns: 140px 1fr;
-      gap: 32px; padding: 28px 0;
-      border-bottom: 1px solid var(--border);
-      transition: background 0.15s;
-      text-decoration: none; color: inherit;
-      position: relative;
+    .post-row {
+      display: grid; grid-template-columns: 140px 1fr auto;
+      gap: 40px; align-items: start;
+      padding: 32px 0; border-bottom: 1px solid var(--border);
+      transition: background 0.15s ease;
+      cursor: pointer;
     }
-    .post-item:last-child { border-bottom: none; }
-    .post-item::before {
-      content: ""; position: absolute; left: -16px; top: 0; bottom: 0; width: 2px;
-      background: linear-gradient(180deg, var(--accent), var(--accent-hi));
-      opacity: 0; transition: opacity 0.2s;
-    }
-    .post-item:hover { background: rgba(255,255,255,0.01); }
-    .post-item:hover::before { opacity: 1; }
+    .post-row:last-child { border-bottom: none; }
+    .post-row:hover { background: rgba(255,255,255,0.015); }
+    .post-row:hover .post-title { color: var(--accent); }
+    .post-row:hover .post-arrow { transform: translateX(4px); color: var(--accent); }
 
-    .post-meta {
+    .post-date {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.3px;
       padding-top: 4px;
     }
-    .post-date {
-      font-family: var(--mono); font-size: 11px; color: var(--text-faint);
-      letter-spacing: 0.3px; display: block; margin-bottom: 6px;
-    }
-    .post-read {
-      font-family: var(--mono); font-size: 10px; color: var(--text-faint);
-      letter-spacing: 0.3px; display: block;
-    }
-    .post-category {
-      font-family: var(--mono); font-size: 10px; color: var(--accent-hi);
-      letter-spacing: 0.4px; display: block; margin-bottom: 4px;
-      text-transform: uppercase;
-    }
-
-    .post-body { }
     .post-title {
-      font-family: var(--serif); font-size: 22px; font-weight: 400;
-      color: var(--text); margin: 0 0 8px; letter-spacing: -0.2px;
-      line-height: 1.25;
-      transition: color 0.15s;
+      font-size: 22px; font-weight: 600; color: var(--text);
+      letter-spacing: -0.4px; line-height: 1.25; margin: 0 0 10px;
+      transition: color 0.15s ease;
     }
-    .post-item:hover .post-title { color: #fff; }
     .post-excerpt {
-      font-size: 14px; line-height: 1.65; color: var(--text-muted);
-      margin: 0 0 12px; font-weight: 300; max-width: 580px;
+      font-size: 15px; line-height: 1.6; color: var(--text-muted);
+      margin: 0 0 14px; max-width: 620px;
     }
     .post-tags { display: flex; flex-wrap: wrap; gap: 6px; }
     .post-tag {
-      font-family: var(--mono); font-size: 10px; font-weight: 500;
-      color: var(--text-faint); padding: 3px 8px;
-      border: 0.5px solid var(--border-md); border-radius: 4px;
-      background: var(--bg-card);
+      font-family: var(--mono); font-size: 11px; font-weight: 500;
+      color: var(--text-muted); letter-spacing: 0.3px;
+      padding: 3px 8px; border: 1px solid var(--border);
+      border-radius: 4px;
     }
     .post-arrow {
-      font-family: var(--mono); font-size: 12px; color: var(--accent-hi);
-      margin-left: auto; opacity: 0; transition: opacity 0.15s;
+      font-size: 20px; color: var(--text-faint);
       padding-top: 4px;
+      transition: transform 0.15s ease, color 0.15s ease;
     }
-    .post-item:hover .post-arrow { opacity: 1; }
 
-    /* COMING UP */
-    .draft-list { display: flex; flex-direction: column; }
-    .draft-item {
+    .coming-list { display: flex; flex-direction: column; }
+    .coming-row {
       display: grid; grid-template-columns: 140px 1fr;
-      gap: 32px; padding: 20px 0;
+      gap: 40px; padding: 20px 0;
       border-bottom: 1px solid var(--border);
+      opacity: 0.55;
     }
-    .draft-item:last-child { border-bottom: none; }
-    .draft-status {
-      font-family: var(--mono); font-size: 10px; font-weight: 500;
-      letter-spacing: 0.5px; text-transform: uppercase; padding-top: 4px;
+    .coming-row:last-child { border-bottom: none; }
+    .coming-status {
+      font-family: var(--mono); font-size: 12px; font-weight: 500;
+      color: var(--text-faint); letter-spacing: 0.3px;
     }
-    .draft-status.in-progress { color: var(--accent-hi); }
-    .draft-status.drafting { color: var(--text-faint); }
-    .draft-title {
-      font-size: 15px; font-weight: 400; color: var(--text-muted);
-      margin: 0; line-height: 1.5;
+    .coming-title {
+      font-size: 16px; color: var(--text-muted); margin: 0;
     }
 
-    /* CONTACT */
     .contact-box {
-      padding: 44px; background: var(--bg-card);
-      border: 1px solid var(--border-md); border-radius: 14px;
-      text-align: center; position: relative; overflow: hidden;
-      margin-top: 0;
-    }
-    .contact-box::before {
-      content: ""; position: absolute; inset: 0; pointer-events: none;
-      background: radial-gradient(ellipse at 50% 0%, rgba(41,98,255,0.07) 0%, transparent 60%);
+      padding: 60px; background: var(--bg-card);
+      border: 1px solid var(--border); border-radius: 12px; text-align: center;
     }
     .contact-box h3 {
-      font-family: var(--serif); font-size: 26px; font-weight: 400;
-      letter-spacing: -0.3px; margin: 0 0 8px; color: var(--text); position: relative;
+      font-size: 28px; font-weight: 600; letter-spacing: -0.6px;
+      margin: 0 0 12px; color: var(--text);
     }
-    .contact-box p { font-size: 15px; color: var(--text-muted); margin: 0 0 24px; font-weight: 300; position: relative; }
-    .contact-links { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; position: relative; }
+    .contact-box p { font-size: 16px; color: var(--text-muted); margin: 0 0 28px; }
     .btn {
       display: inline-flex; align-items: center; gap: 8px;
-      padding: 10px 18px; border-radius: 8px; font-size: 13.5px; font-weight: 500;
-      transition: all 0.15s; border: 1px solid transparent;
+      padding: 12px 20px; border-radius: 6px; font-size: 14px; font-weight: 500;
+      transition: all 0.15s ease; border: 1px solid transparent;
     }
-    .btn-primary { background: var(--accent); color: #fff; border-color: rgba(41,98,255,0.6); }
-    .btn-primary:hover { background: var(--accent-hi); }
-    .btn-secondary { background: transparent; color: var(--text); border-color: var(--border-md); }
-    .btn-secondary:hover { border-color: rgba(255,255,255,0.22); }
+    .btn-primary { background: var(--text); color: var(--bg); }
+    .btn-primary:hover { background: white; }
+    .btn-secondary {
+      background: transparent; color: var(--text);
+      border-color: var(--border-strong);
+    }
+    .btn-secondary:hover { border-color: var(--text-muted); background: rgba(255,255,255,0.02); }
+    .contact-links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
 
     footer {
-      padding: 36px 0; border-top: 1px solid var(--border);
-      font-family: var(--mono); font-size: 11px; color: var(--text-faint);
+      padding: 40px 0; border-top: 1px solid var(--border);
+      font-family: var(--mono); font-size: 12px; color: var(--text-faint);
+      letter-spacing: 0.3px;
     }
     footer .container {
-      max-width: 1120px; margin: 0 auto; padding: 0 32px;
-      display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px;
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 16px;
     }
 
-    @media (max-width: 700px) {
-      .hero { padding: 100px 0 36px; }
-      .hero h1 { font-size: 32px; }
-      .post-item, .draft-item { grid-template-columns: 1fr; gap: 8px; }
-      .post-meta { padding-top: 0; }
-      .nav-inner, .container { padding-left: 20px; padding-right: 20px; }
+    @media (max-width: 900px) {
+      .page-header { padding-top: 110px; }
+      .page-header h1 { font-size: 40px; }
+      .post-row { grid-template-columns: 1fr; gap: 12px; }
+      .post-arrow { display: none; }
+      .post-date { padding-top: 0; }
+      .coming-row { grid-template-columns: 1fr; gap: 8px; }
+      .contact-box { padding: 40px 24px; }
+      .nav-inner, .page-header, .container { padding-left: 20px; padding-right: 20px; }
+    }
+    @media (max-width: 600px) {
+      .page-header h1 { font-size: 32px; letter-spacing: -1px; }
+      .page-subtitle { font-size: 16px; }
+      .post-title { font-size: 18px; }
     }
   </style>
 </head>
@@ -248,19 +219,14 @@
     </div>
   </nav>
 
-  <header class="hero">
-    <div class="container">
-      <div class="hero-eyebrow"><span class="eyebrow-dot"></span>Field Notes</div>
-      <h1>Building regulated products in public.</h1>
-      <p class="hero-sub">
-        Practical lessons from shipping fintech, healthcare, and AI platforms under
-        <strong>SEC, FDIC, HIPAA, and PCI-DSS</strong> constraints.
-        Written by a working PM and founder, not a consultant.
-      </p>
-    </div>
+  <header class="page-header">
+    <div class="page-eyebrow">Field Notes</div>
+    <h1>Building <span class="em">regulated</span> products in public.</h1>
+    <p class="page-subtitle">
+      Practical lessons from shipping fintech, healthcare, and AI member engagement platforms under SEC, FDIC, HIPAA, and PCI-DSS constraints. Written by a working PM and founder, not a consultant.
+    </p>
   </header>
 
-  <!-- PUBLISHED POSTS -->
   <section>
     <div class="container">
       <div class="section-header">
@@ -268,19 +234,35 @@
           <div class="section-label">/ Latest</div>
           <h2 class="section-title">Recent writing</h2>
         </div>
-        <div class="post-count">01 / 01</div>
+        <div class="section-counter">02 / 02</div>
       </div>
 
       <div class="post-list">
-        <a href="blog/2026-05-why-most-healthcare-fintech-chatbots-fail-compliance.html" class="post-item">
-          <div class="post-meta">
-            <span class="post-category">Field Notes</span>
-            <span class="post-date">May 2026</span>
-            <span class="post-read">8 min read</span>
+
+        <a href="blog/2026-05-dynamodb-aws-bill.html" class="post-row">
+          <div class="post-date">May 2026<br/>5 min read</div>
+          <div class="post-content">
+            <h3 class="post-title">My database costs more than everything else combined. Here's what I found.</h3>
+            <p class="post-excerpt">
+              I went into my AWS bill expecting to find a dumb mistake. What I found instead was that DynamoDB was eating 70% of everything, the architecture was correct, and none of the easy fixes would work.
+            </p>
+            <div class="post-tags">
+              <span class="post-tag">AWS</span>
+              <span class="post-tag">DynamoDB</span>
+              <span class="post-tag">Multi-tenant</span>
+              <span class="post-tag">Founder Notes</span>
+            </div>
           </div>
-          <div class="post-body">
-            <h2 class="post-title">Why most healthcare and fintech chatbots fail compliance review</h2>
-            <p class="post-excerpt">The demo works. The CEO is impressed. Then Risk and Compliance sit at the table — and the deal quietly dies. Four patterns I keep watching kill AI chatbots in regulated environments, and what to build instead.</p>
+          <div class="post-arrow">→</div>
+        </a>
+
+        <a href="blog/2026-05-why-most-healthcare-fintech-chatbots-fail-compliance.html" class="post-row">
+          <div class="post-date">May 2026<br/>8 min read</div>
+          <div class="post-content">
+            <h3 class="post-title">Why most healthcare and fintech chatbots fail compliance review</h3>
+            <p class="post-excerpt">
+              The demo works. The CEO is impressed. Then Risk and Compliance sit at the table — and the deal quietly dies. Four patterns I keep watching kill otherwise impressive AI chatbots, and what to build instead.
+            </p>
             <div class="post-tags">
               <span class="post-tag">Compliance</span>
               <span class="post-tag">AI</span>
@@ -291,12 +273,12 @@
           </div>
           <div class="post-arrow">→</div>
         </a>
+
       </div>
     </div>
   </section>
 
-  <!-- COMING UP -->
-  <section style="padding: 0 0 40px;">
+  <section>
     <div class="container">
       <div class="section-header">
         <div>
@@ -304,29 +286,25 @@
           <h2 class="section-title">Coming up</h2>
         </div>
       </div>
-      <div class="draft-list">
-        <div class="draft-item">
-          <div class="draft-status in-progress">In progress</div>
-          <p class="draft-title">Anchoring eligibility on CIP-verified identity, not account keys</p>
+
+      <div class="coming-list">
+        <div class="coming-row">
+          <div class="coming-status">In progress</div>
+          <p class="coming-title">Anchoring eligibility on CIP-verified identity, not account keys</p>
         </div>
-        <div class="draft-item">
-          <div class="draft-status in-progress">In progress</div>
-          <p class="draft-title">The AI escalation layer that saved us $3M a year</p>
+        <div class="coming-row">
+          <div class="coming-status">In progress</div>
+          <p class="coming-title">The AI escalation layer that saved us $3M a year</p>
         </div>
-        <div class="draft-item">
-          <div class="draft-status drafting">Drafting</div>
-          <p class="draft-title">Big-bang vs phased: choosing your cutover strategy for regulated releases</p>
-        </div>
-        <div class="draft-item">
-          <div class="draft-status drafting">Drafting</div>
-          <p class="draft-title">Cutting AWS costs on a non-prod environment: a line-by-line audit playbook</p>
+        <div class="coming-row">
+          <div class="coming-status">Drafting</div>
+          <p class="coming-title">Big-bang vs phased: choosing your cutover strategy for regulated systems</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- CONTACT -->
-  <section style="padding: 0 0 56px;">
+  <section>
     <div class="container">
       <div class="contact-box">
         <h3>Want to compare notes?</h3>
@@ -342,10 +320,10 @@
   <footer>
     <div class="container">
       <div>© 2025 Chaitanya Kasani</div>
-      <div>Crafted in Instrument Serif &amp; DM Mono</div>
+      <div>Crafted in Inter & JetBrains Mono</div>
     </div>
   </footer>
 
-  <script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
+<script src="https://chatbot.mytechgenie.ai/embed.js?client_id=CHAIPF11"></script>
 </body>
 </html>
