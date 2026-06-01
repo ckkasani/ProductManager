@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T13:42:23.724Z",
+  "lastUpdated": "2026-06-01T20:20:55.994Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,14 +11,41 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 30,
+    "greenhouse": 26,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 20,
+  "totalJobs": 21,
   "highMatchJobs": 0,
   "jobs": [
+    {
+      "id": "gh-marqeta-7743077",
+      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
+      "company": "Marqeta",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Toronto, Canada",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
+      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
+      "posted": "2026-06-01T13:40:55-04:00",
+      "source": "Greenhouse",
+      "department": "Customer and Developer Experience Product",
+      "match": 74,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "Fraud",
+        "AI/ML",
+        "Compliance"
+      ],
+      "status": "new"
+    },
     {
       "id": "gh-stripe-7953691",
       "title": "Staff Product Manager, Local Processor Acquiring",
@@ -54,9 +81,9 @@
       "location": "WA - Seattle; CA - San Francisco   ",
       "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
       "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
-      "posted": "2026-06-01T08:10:18-04:00",
+      "posted": "2026-06-01T16:00:43-04:00",
       "source": "Greenhouse",
-      "department": "Product Management",
+      "department": "SIPS EPD",
       "match": 72,
       "reasons": [
         "Good skill match",
@@ -96,6 +123,32 @@
         "Compliance",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-marqeta-7743057",
+      "title": "Senior Product Manager, Stablecoins",
+      "company": "Marqeta",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743057",
+      "description": "<p>As a <strong>Senior Product Manager</strong> on the Flexible Credentials team, we are looking for you to help drive the next generation of fintech products around Stablecoin payments, and Card Issuing in the embedded finance space. You will own the strategy, execution, and go-to-market for our emerging product lines, working cross-functionally to launch and scale innovative financial solutions.</p> <p>We're looking for a product leader who excels in a fast-paced, high-growth environment and highly collaborative environment between customers and partners. If you are passionate about creating customer-centric, next-gen financial products, and are eager to build from the ground up and beyond, we’d love to chat!</p> <p>The Flexible Credentials team is revolutionizing global embedded finance, enabling seamless integration of financial products into business platforms. We provide instant card issuance, commercialization of flexible credentials technology, and incubate new solutions based on Stablecoin payments, making financial services more accessible and scalable. As builders and innovators, we thrive on making an impact and pushing fintech boundaries.</p> <p>We work <a href=\"https:",
+      "posted": "2026-06-01T13:40:55-04:00",
+      "source": "Greenhouse",
+      "department": "Credit/Lending Product",
+      "match": 71,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
       ],
       "status": "new"
     },
@@ -161,9 +214,9 @@
       "location": "WA - Seattle; CA - San Francisco   ",
       "url": "https://sofi.com/careers/job/7697154003?gh_jid=7697154003",
       "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. We're seeking a Senior Product Manager to own the payments product experience and API/developer platform for Big Business Banking (BBB) - SoFi's zero-to-one ",
-      "posted": "2026-06-01T08:10:16-04:00",
+      "posted": "2026-06-01T16:00:43-04:00",
       "source": "Greenhouse",
-      "department": "Product Management",
+      "department": "SIPS EPD",
       "match": 68,
       "reasons": [
         "Good skill match",
@@ -179,32 +232,6 @@
       "status": "new"
     },
     {
-      "id": "gh-robinhood-7587151",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-05-29T14:08:05-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 68,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-sofi-7720245003",
       "title": "Senior Product Manager, Servicing",
       "company": "SoFi",
@@ -213,9 +240,9 @@
       "location": "CA - San Francisco, WA - Seattle",
       "url": "https://sofi.com/careers/job/7720245003?gh_jid=7720245003",
       "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role</strong></h2> <p>SoFi's Loan Servicing team owns the post-loan funding experience for millions of members across SoFi's lending products. We are looking for a Senior Product Manager to build and scale our multi-product servicing platform to meet the needs of our members and business.<",
-      "posted": "2026-06-01T08:12:09-04:00",
+      "posted": "2026-06-01T16:00:43-04:00",
       "source": "Greenhouse",
-      "department": "Product",
+      "department": "Member EPD",
       "match": 66,
       "reasons": [
         "Good skill match",
@@ -239,10 +266,10 @@
       "location": "CA - San Francisco; WA - Seattle; MT - Helena",
       "url": "https://sofi.com/careers/job/7616225003?gh_jid=7616225003",
       "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The role:</strong></p> <p>As a Senior Product Manager for Underwriting, you will be at the heart of SoFi’s lending engine. You will own the product lifecycle for the platforms and services that determine how we evaluate risk and qualify members for our lending products.</p> <p>Your mission is t",
-      "posted": "2026-05-29T11:36:02-04:00",
+      "posted": "2026-06-01T16:00:43-04:00",
       "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 64,
+      "department": "SIPS EPD",
+      "match": 66,
       "reasons": [
         "Good skill match",
         "Fresh posting",
@@ -252,6 +279,56 @@
         "Fintech",
         "Lending",
         "Fraud",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-sofi-7639014003",
+      "title": "Director of Product Management, Commercial Banking",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "WA - Seattle; CA - San Francisco   ",
+      "url": "https://sofi.com/careers/job/7639014003?gh_jid=7639014003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>We’re building Commercial Banking from the ground up and are looking for a <strong>Director Product Management </strong>to lead the strategy, architecture, and delivery of our next-generation business banking platform.</p> <p>This is a <strong>0→1, company-level role</s",
+      "posted": "2026-06-01T16:00:43-04:00",
+      "source": "Greenhouse",
+      "department": "SIPS EPD",
+      "match": 65,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-7587151",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-05-29T14:08:05-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
         "Platform",
         "Banking"
       ],
@@ -342,9 +419,9 @@
       "location": "WA - Seattle; CA - San Francisco   ",
       "url": "https://sofi.com/careers/job/7720241003?gh_jid=7720241003",
       "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>SoFi is looking for a data-driven and user-centric Senior Product Manager to help shape the future of digital home lending. In this role, you will own and evolve the end-to-end home loan experience across our digital funnel, defining product strategy and delivering diff",
-      "posted": "2026-06-01T08:12:04-04:00",
+      "posted": "2026-06-01T16:00:43-04:00",
       "source": "Greenhouse",
-      "department": "Product Management",
+      "department": "SIPS EPD",
       "match": 63,
       "reasons": [
         "Fresh posting",
@@ -353,60 +430,6 @@
       "tags": [
         "Fintech",
         "Lending",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8432703002",
-      "title": "Staff Product Manager",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Seattle, Washington, United States / Vancouver, British Columbia, Canada",
-      "url": "https://www.brex.com/careers/8432703002?gh_jid=8432703002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-05-29T14:58:19-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8436530002",
-      "title": "Staff Product Manager, Growth",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Seattle, Washington, United States / Vancouver, British Columbia, Canada / New York, New York, United States",
-      "url": "https://www.brex.com/careers/8436530002?gh_jid=8436530002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-05-29T15:01:12-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
         "Banking"
       ],
       "status": "new"
@@ -426,32 +449,6 @@
       "match": 62,
       "reasons": [
         "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8438582002",
-      "title": "Group Product Manager",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada",
-      "url": "https://www.brex.com/careers/8438582002?gh_jid=8438582002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-05-29T14:53:57-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 62,
-      "reasons": [
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -484,6 +481,32 @@
         "Fintech",
         "Payments",
         "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-marqeta-7711098",
+      "title": "Senior Product Manager, Tokenization",
+      "company": "Marqeta",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote, USA / Toronto, Canada; Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7711098",
+      "description": "<p>As <strong>Senior Product Manager for Tokenization</strong>, you will own the product strategy and roadmap for Marqeta's tokenization platform - the foundation that powers digital wallet provisioning and network token transactions, and a central pillar of Marqeta's business. You'll shape the strategic direction of the platform, drive innovation that delivers industry-first capabilities, and manage relationships with key partners including Visa, Mastercard, Apple, and Google.</p> <p>From launching new products and expanding into emerging use cases to ensuring compliance with network and wallet mandates, you'll deliver impactful capabilities across provisioning, transaction processing, and token lifecycle management. Your passion and attention to detail will help keep a mission-critical platform reliable and compliant - while pushing the boundaries of what's possible in tokenization to create lasting value for customers and Marqeta.</p> <p>We work <a href=\"https://www.marqeta.com/blog/flexible-first\">Flexible First</a>. This role can be performed remote within the United States or from our Oakland, CA headquarters. We’d love for you to join us.</p> <p><strong>The Impact You’ll Hav",
+      "posted": "2026-06-01T13:40:55-04:00",
+      "source": "Greenhouse",
+      "department": "Core Product",
+      "match": 62,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Compliance",
         "Platform"
       ],
       "status": "new"
