@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T04:48:00.887Z",
+  "lastUpdated": "2026-06-01T13:42:23.724Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 27,
+    "greenhouse": 30,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 17,
+  "totalJobs": 20,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -35,6 +35,33 @@
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-sofi-7697158003",
+      "title": "Principal Product Manager, Real-Time Payments Platform",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "WA - Seattle; CA - San Francisco   ",
+      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
+      "posted": "2026-06-01T08:10:18-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 72,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -126,6 +153,32 @@
       "status": "new"
     },
     {
+      "id": "gh-sofi-7697154003",
+      "title": "Senior Product Manager, Commercial Banking",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "WA - Seattle; CA - San Francisco   ",
+      "url": "https://sofi.com/careers/job/7697154003?gh_jid=7697154003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. We're seeking a Senior Product Manager to own the payments product experience and API/developer platform for Big Business Banking (BBB) - SoFi's zero-to-one ",
+      "posted": "2026-06-01T08:10:16-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 68,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-robinhood-7587151",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -160,10 +213,10 @@
       "location": "CA - San Francisco, WA - Seattle",
       "url": "https://sofi.com/careers/job/7720245003?gh_jid=7720245003",
       "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role</strong></h2> <p>SoFi's Loan Servicing team owns the post-loan funding experience for millions of members across SoFi's lending products. We are looking for a Senior Product Manager to build and scale our multi-product servicing platform to meet the needs of our members and business.<",
-      "posted": "2026-05-29T11:57:45-04:00",
+      "posted": "2026-06-01T08:12:09-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 64,
+      "match": 66,
       "reasons": [
         "Good skill match",
         "Fresh posting",
@@ -276,6 +329,30 @@
         "Fintech",
         "AI/ML",
         "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-sofi-7720241003",
+      "title": "Senior Product Manager, Home Loans Consumer Experience",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "WA - Seattle; CA - San Francisco   ",
+      "url": "https://sofi.com/careers/job/7720241003?gh_jid=7720241003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>SoFi is looking for a data-driven and user-centric Senior Product Manager to help shape the future of digital home lending. In this role, you will own and evolve the end-to-end home loan experience across our digital funnel, defining product strategy and delivering diff",
+      "posted": "2026-06-01T08:12:04-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
         "Banking"
       ],
       "status": "new"
