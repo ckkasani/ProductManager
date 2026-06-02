@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T12:10:14.679Z",
+  "lastUpdated": "2026-06-02T19:45:35.355Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 26,
+    "greenhouse": 22,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 21,
+  "totalJobs": 20,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -36,59 +36,6 @@
         "Good skill match",
         "Senior-level title",
         "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-marqeta-7743077",
-      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
-      "company": "Marqeta",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Toronto, Canada",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
-      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
-      "posted": "2026-06-01T13:40:55-04:00",
-      "source": "Greenhouse",
-      "department": "Customer and Developer Experience Product",
-      "match": 74,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "Fraud",
-        "AI/ML",
-        "Compliance"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7953691",
-      "title": "Staff Product Manager, Local Processor Acquiring",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Local Processor Acquiring team</h3> <p>Stripe is building a global payments and treasury network-and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.<br>The problem we're solving is fundamental: the most important payment methods in emerging markets-Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia-require local acquiring capabilities that historically took years of work and infrastru",
-      "posted": "2026-05-26T15:42:39-04:00",
-      "source": "Greenhouse",
-      "department": "8503 Global Selling - PM",
-      "match": 73,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
@@ -127,15 +74,42 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7694938003",
+      "id": "gh-marqeta-7743077",
+      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
+      "company": "Marqeta",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Toronto, Canada",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
+      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
+      "posted": "2026-06-01T13:40:55-04:00",
+      "source": "Greenhouse",
+      "department": "Customer and Developer Experience Product",
+      "match": 72,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "Fraud",
+        "AI/ML",
+        "Compliance"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
-      "posted": "2026-05-19T18:04:52-04:00",
+      "posted": "2026-05-19T18:04:53-04:00",
       "source": "Greenhouse",
       "department": "Financial Platforms Product",
       "match": 71,
@@ -154,53 +128,26 @@
       "status": "new"
     },
     {
-      "id": "gh-marqeta-7743057",
-      "title": "Senior Product Manager, Stablecoins",
-      "company": "Marqeta",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743057",
-      "description": "<p>As a <strong>Senior Product Manager</strong> on the Flexible Credentials team, we are looking for you to help drive the next generation of fintech products around Stablecoin payments, and Card Issuing in the embedded finance space. You will own the strategy, execution, and go-to-market for our emerging product lines, working cross-functionally to launch and scale innovative financial solutions.</p> <p>We're looking for a product leader who excels in a fast-paced, high-growth environment and highly collaborative environment between customers and partners. If you are passionate about creating customer-centric, next-gen financial products, and are eager to build from the ground up and beyond, we’d love to chat!</p> <p>The Flexible Credentials team is revolutionizing global embedded finance, enabling seamless integration of financial products into business platforms. We provide instant card issuance, commercialization of flexible credentials technology, and incubate new solutions based on Stablecoin payments, making financial services more accessible and scalable. As builders and innovators, we thrive on making an impact and pushing fintech boundaries.</p> <p>We work <a href=\"https:",
-      "posted": "2026-06-01T13:40:55-04:00",
-      "source": "Greenhouse",
-      "department": "Credit/Lending Product",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7912407",
-      "title": "Staff Product Manager, Adaptive Pricing",
+      "id": "gh-stripe-7953691",
+      "title": "Staff Product Manager, Local Processor Acquiring",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
       "location": "Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=7912407",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Adaptive Pricing team</h3> <p>Stripe is building a global payments and treasury network, and the Adaptive Pricing team sits at the heart of Global Selling-focused on helping businesses optimize how they sell across borders.<br>One of the hardest problems in global commerce is pricing. Businesses must navigate different currencies, foreign exchange dynamics, setting proper price points, aligning prices with local standards, and unlocking local payment methods-all while maintaining a seamless buyer experience. Getting this wrong means lost revenue, abandoned carts, and failed payments.<br>To solve this, we built Adaptive Pricing-one of",
-      "posted": "2026-05-26T15:42:14-04:00",
+      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Local Processor Acquiring team</h3> <p>Stripe is building a global payments and treasury network-and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.<br>The problem we're solving is fundamental: the most important payment methods in emerging markets-Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia-require local acquiring capabilities that historically took years of work and infrastru",
+      "posted": "2026-05-26T15:42:39-04:00",
       "source": "Greenhouse",
       "department": "8503 Global Selling - PM",
       "match": 70,
       "reasons": [
-        "Good skill match",
+        "Strong skill alignment",
         "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
-        "AI/ML",
         "Platform",
         "Banking"
       ],
@@ -233,6 +180,32 @@
       "status": "new"
     },
     {
+      "id": "gh-marqeta-7743057",
+      "title": "Senior Product Manager, Stablecoins",
+      "company": "Marqeta",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743057",
+      "description": "<p>As a <strong>Senior Product Manager</strong> on the Flexible Credentials team, we are looking for you to help drive the next generation of fintech products around Stablecoin payments, and Card Issuing in the embedded finance space. You will own the strategy, execution, and go-to-market for our emerging product lines, working cross-functionally to launch and scale innovative financial solutions.</p> <p>We're looking for a product leader who excels in a fast-paced, high-growth environment and highly collaborative environment between customers and partners. If you are passionate about creating customer-centric, next-gen financial products, and are eager to build from the ground up and beyond, we’d love to chat!</p> <p>The Flexible Credentials team is revolutionizing global embedded finance, enabling seamless integration of financial products into business platforms. We provide instant card issuance, commercialization of flexible credentials technology, and incubate new solutions based on Stablecoin payments, making financial services more accessible and scalable. As builders and innovators, we thrive on making an impact and pushing fintech boundaries.</p> <p>We work <a href=\"https:",
+      "posted": "2026-06-01T13:40:55-04:00",
+      "source": "Greenhouse",
+      "department": "Credit/Lending Product",
+      "match": 69,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-sofi-7697154003",
       "title": "Senior Product Manager, Commercial Banking",
       "company": "SoFi",
@@ -253,6 +226,33 @@
       "tags": [
         "Fintech",
         "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7912407",
+      "title": "Staff Product Manager, Adaptive Pricing",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7912407",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Adaptive Pricing team</h3> <p>Stripe is building a global payments and treasury network, and the Adaptive Pricing team sits at the heart of Global Selling-focused on helping businesses optimize how they sell across borders.<br>One of the hardest problems in global commerce is pricing. Businesses must navigate different currencies, foreign exchange dynamics, setting proper price points, aligning prices with local standards, and unlocking local payment methods-all while maintaining a seamless buyer experience. Getting this wrong means lost revenue, abandoned carts, and failed payments.<br>To solve this, we built Adaptive Pricing-one of",
+      "posted": "2026-05-26T15:42:14-04:00",
+      "source": "Greenhouse",
+      "department": "8503 Global Selling - PM",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
         "Platform",
         "Banking"
       ],
@@ -462,32 +462,6 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8433470002",
-      "title": "Director of Product, Growth/AI",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Seattle, Washington, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada / New York, New York, United States",
-      "url": "https://www.brex.com/careers/8433470002?gh_jid=8433470002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-05-26T08:12:53-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 62,
-      "reasons": [
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-7522608",
       "title": "Head of Product, Developer Experience",
       "company": "Adyen",
@@ -508,32 +482,6 @@
         "Fintech",
         "Payments",
         "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-marqeta-7711098",
-      "title": "Senior Product Manager, Tokenization",
-      "company": "Marqeta",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote, USA / Toronto, Canada; Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7711098",
-      "description": "<p>As <strong>Senior Product Manager for Tokenization</strong>, you will own the product strategy and roadmap for Marqeta's tokenization platform - the foundation that powers digital wallet provisioning and network token transactions, and a central pillar of Marqeta's business. You'll shape the strategic direction of the platform, drive innovation that delivers industry-first capabilities, and manage relationships with key partners including Visa, Mastercard, Apple, and Google.</p> <p>From launching new products and expanding into emerging use cases to ensuring compliance with network and wallet mandates, you'll deliver impactful capabilities across provisioning, transaction processing, and token lifecycle management. Your passion and attention to detail will help keep a mission-critical platform reliable and compliant - while pushing the boundaries of what's possible in tokenization to create lasting value for customers and Marqeta.</p> <p>We work <a href=\"https://www.marqeta.com/blog/flexible-first\">Flexible First</a>. This role can be performed remote within the United States or from our Oakland, CA headquarters. We’d love for you to join us.</p> <p><strong>The Impact You’ll Hav",
-      "posted": "2026-06-01T13:40:55-04:00",
-      "source": "Greenhouse",
-      "department": "Core Product",
-      "match": 62,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Compliance",
         "Platform"
       ],
       "status": "new"
@@ -560,6 +508,32 @@
         "Fintech",
         "Payments",
         "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-marqeta-7711098",
+      "title": "Senior Product Manager, Tokenization",
+      "company": "Marqeta",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote, USA / Toronto, Canada; Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7711098",
+      "description": "<p>As <strong>Senior Product Manager for Tokenization</strong>, you will own the product strategy and roadmap for Marqeta's tokenization platform - the foundation that powers digital wallet provisioning and network token transactions, and a central pillar of Marqeta's business. You'll shape the strategic direction of the platform, drive innovation that delivers industry-first capabilities, and manage relationships with key partners including Visa, Mastercard, Apple, and Google.</p> <p>From launching new products and expanding into emerging use cases to ensuring compliance with network and wallet mandates, you'll deliver impactful capabilities across provisioning, transaction processing, and token lifecycle management. Your passion and attention to detail will help keep a mission-critical platform reliable and compliant - while pushing the boundaries of what's possible in tokenization to create lasting value for customers and Marqeta.</p> <p>We work <a href=\"https://www.marqeta.com/blog/flexible-first\">Flexible First</a>. This role can be performed remote within the United States or from our Oakland, CA headquarters. We’d love for you to join us.</p> <p><strong>The Impact You’ll Hav",
+      "posted": "2026-06-01T13:40:55-04:00",
+      "source": "Greenhouse",
+      "department": "Core Product",
+      "match": 60,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Compliance",
         "Platform"
       ],
       "status": "new"
