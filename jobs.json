@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T12:46:44.004Z",
+  "lastUpdated": "2026-06-03T19:53:08.333Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -20,6 +20,33 @@
   "highMatchJobs": 0,
   "jobs": [
     {
+      "id": "gh-stripe-7977719",
+      "title": "Staff Product Manager, Local Processor Acquiring",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Barcelona / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7977719",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Local Processor Acquiring team</h3> <p>Stripe is building a global payments and treasury network-and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.<br>The problem we're solving is fundamental: the most important payment methods in emerging markets-Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia-require local acquiring capabilities that historically took years of work and infrastru",
+      "posted": "2026-06-02T17:19:42-04:00",
+      "source": "Greenhouse",
+      "department": "8503 Global Selling - PM",
+      "match": 79,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-7768821",
       "title": "Principal Product Manager - Identity",
       "company": "Adyen",
@@ -28,10 +55,10 @@
       "location": "Amsterdam",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
       "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
-      "posted": "2026-06-02T03:58:47-04:00",
+      "posted": "2026-06-03T15:09:31-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 75,
+      "match": 77,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -90,32 +117,6 @@
         "Good skill match",
         "Senior-level title",
         "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7953691",
-      "title": "Staff Product Manager, Local Processor Acquiring",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Dublin / Barcelona",
-      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Local Processor Acquiring team</h3> <p>Stripe is building a global payments and treasury network-and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.<br>The problem we're solving is fundamental: the most important payment methods in emerging markets-Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia-require local acquiring capabilities that historically took years of work and infrastru",
-      "posted": "2026-05-26T15:42:39-04:00",
-      "source": "Greenhouse",
-      "department": "8503 Global Selling - PM",
-      "match": 70,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
@@ -228,6 +229,31 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7571698",
+      "title": "Senior Product Manager - Payments",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7571698",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager - Payment Methods</strong></p> <p>Adyen is looking for a passionate Senior Product Manager to scale our Payments proposition that includes alternative payments such as wallets and banking payment methods across our fast growing suite of payments products in North America. As a Senior Product Manager in this team you will be given considerable freedom to advocate for the building the best emerging payment technol",
+      "posted": "2026-06-03T14:58:41-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 65,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -407,31 +433,6 @@
         "Fintech",
         "Platform",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-7522608",
-      "title": "Head of Product, Developer Experience",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7522608",
-      "description": "<p><strong>About Adyen</strong></p> <p>Adyen is the financial technology platform of choice for leading companies. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen serves customers including Facebook, Uber, Spotify, and Microsoft.</p> <p></p> <p><strong>The Role</strong></p> <p>Adyen is seeking a visionary product leader to serve as our Head of Product for Developer Experience. Our developer platform is the foundation upon which thousands of businesses build their payment and financial systems. As our customers increasingly use AI-powered development tools to build their integrations, we are looking for an AI-native leader to set the strategy and accelerate the evolution of our platform.</p> <p>You will be responsible for the entire developer journey, from onboarding to the first API call to scaling globally. You will lead a team of talented product managers and tech writers to define and execute the roadmap for our APIs, SDKs, developer tooling, and documentation, ensuring Adyen provides a world-class, intuitive, and po",
-      "posted": "2026-05-28T09:32:25-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 62,
-      "reasons": [
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
       ],
       "status": "new"
     },
