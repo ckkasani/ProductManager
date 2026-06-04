@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T15:26:49.573Z",
+  "lastUpdated": "2026-06-04T18:23:30.710Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 21,
+    "greenhouse": 35,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 18,
+  "totalJobs": 21,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -76,6 +76,33 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7977719",
+      "title": "Staff Product Manager, Local Processor Acquiring",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Barcelona / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7977719",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Local Processor Acquiring team</h3> <p>Stripe is building a global payments and treasury network-and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.<br>The problem we're solving is fundamental: the most important payment methods in emerging markets-Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia-require local acquiring capabilities that historically took years of work and infrastru",
+      "posted": "2026-06-02T17:19:42-04:00",
+      "source": "Greenhouse",
+      "department": "8503 Global Selling - PM",
+      "match": 77,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-7768821",
       "title": "Principal Product Manager - Identity",
       "company": "Adyen",
@@ -84,7 +111,7 @@
       "location": "Amsterdam",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
       "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
-      "posted": "2026-06-03T15:09:31-04:00",
+      "posted": "2026-06-04T13:02:21-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
       "match": 77,
@@ -99,33 +126,6 @@
         "Payments",
         "Platform",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-marqeta-7743077",
-      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
-      "company": "Marqeta",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Toronto, Canada",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
-      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
-      "posted": "2026-06-01T13:40:55-04:00",
-      "source": "Greenhouse",
-      "department": "Customer and Developer Experience Product",
-      "match": 72,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "Fraud",
-        "AI/ML",
-        "Compliance"
       ],
       "status": "new"
     },
@@ -157,54 +157,55 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7953691",
-      "title": "Staff Product Manager, Local Processor Acquiring",
-      "company": "Stripe",
+      "id": "gh-brex-8433461002",
+      "title": "Director of Product, Growth/AI",
+      "company": "Brex",
       "industry": "fintech",
-      "stage": "Late",
-      "location": "Dublin / Barcelona",
-      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies-from the world's largest enterprises to the most ambitious startups-use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the Local Processor Acquiring team</h3> <p>Stripe is building a global payments and treasury network-and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.<br>The problem we're solving is fundamental: the most important payment methods in emerging markets-Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia-require local acquiring capabilities that historically took years of work and infrastru",
-      "posted": "2026-05-26T15:42:39-04:00",
+      "stage": "D",
+      "location": "New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8433461002?gh_jid=8433461002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
+      "posted": "2026-06-04T13:15:22-04:00",
       "source": "Greenhouse",
-      "department": "8503 Global Selling - PM",
-      "match": 70,
+      "department": "Product",
+      "match": 68,
       "reasons": [
-        "Strong skill alignment",
         "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Payments",
+        "Cards",
+        "AI/ML",
         "Platform",
         "Banking"
       ],
       "status": "new"
     },
     {
-      "id": "gh-marqeta-7743057",
-      "title": "Senior Product Manager, Stablecoins",
+      "id": "gh-marqeta-7743077",
+      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
       "company": "Marqeta",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743057",
-      "description": "<p>As a <strong>Senior Product Manager</strong> on the Flexible Credentials team, we are looking for you to help drive the next generation of fintech products around Stablecoin payments, and Card Issuing in the embedded finance space. You will own the strategy, execution, and go-to-market for our emerging product lines, working cross-functionally to launch and scale innovative financial solutions.</p> <p>We're looking for a product leader who excels in a fast-paced, high-growth environment and highly collaborative environment between customers and partners. If you are passionate about creating customer-centric, next-gen financial products, and are eager to build from the ground up and beyond, we’d love to chat!</p> <p>The Flexible Credentials team is revolutionizing global embedded finance, enabling seamless integration of financial products into business platforms. We provide instant card issuance, commercialization of flexible credentials technology, and incubate new solutions based on Stablecoin payments, making financial services more accessible and scalable. As builders and innovators, we thrive on making an impact and pushing fintech boundaries.</p> <p>We work <a href=\"https:",
+      "location": "Toronto, Canada",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
+      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
       "posted": "2026-06-01T13:40:55-04:00",
       "source": "Greenhouse",
-      "department": "Credit/Lending Product",
-      "match": 69,
+      "department": "Customer and Developer Experience Product",
+      "match": 68,
       "reasons": [
         "Good skill match",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Payments",
         "Cards",
-        "Platform"
+        "Fraud",
+        "AI/ML",
+        "Compliance"
       ],
       "status": "new"
     },
@@ -288,6 +289,60 @@
       "status": "new"
     },
     {
+      "id": "gh-brex-8432702002",
+      "title": "Staff Product Manager",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8432702002?gh_jid=8432702002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
+      "posted": "2026-06-04T13:15:22-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 65,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8436530002",
+      "title": "Staff Product Manager, Growth",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "Seattle, Washington, United States / Vancouver, British Columbia, Canada / New York, New York, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8436530002?gh_jid=8436530002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
+      "posted": "2026-06-04T13:15:22-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 65,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-7571698",
       "title": "Senior Product Manager - Payments",
       "company": "Adyen",
@@ -296,7 +351,7 @@
       "location": "Chicago",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/7571698",
       "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager - Payment Methods</strong></p> <p>Adyen is looking for a passionate Senior Product Manager to scale our Payments proposition that includes alternative payments such as wallets and banking payment methods across our fast growing suite of payments products in North America. As a Senior Product Manager in this team you will be given considerable freedom to advocate for the building the best emerging payment technol",
-      "posted": "2026-06-03T14:58:41-04:00",
+      "posted": "2026-06-04T12:50:09-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
       "match": 65,
@@ -309,6 +364,31 @@
         "Payments",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-marqeta-7743057",
+      "title": "Senior Product Manager, Stablecoins",
+      "company": "Marqeta",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743057",
+      "description": "<p>As a <strong>Senior Product Manager</strong> on the Flexible Credentials team, we are looking for you to help drive the next generation of fintech products around Stablecoin payments, and Card Issuing in the embedded finance space. You will own the strategy, execution, and go-to-market for our emerging product lines, working cross-functionally to launch and scale innovative financial solutions.</p> <p>We're looking for a product leader who excels in a fast-paced, high-growth environment and highly collaborative environment between customers and partners. If you are passionate about creating customer-centric, next-gen financial products, and are eager to build from the ground up and beyond, we’d love to chat!</p> <p>The Flexible Credentials team is revolutionizing global embedded finance, enabling seamless integration of financial products into business platforms. We provide instant card issuance, commercialization of flexible credentials technology, and incubate new solutions based on Stablecoin payments, making financial services more accessible and scalable. As builders and innovators, we thrive on making an impact and pushing fintech boundaries.</p> <p>We work <a href=\"https:",
+      "posted": "2026-06-01T13:40:55-04:00",
+      "source": "Greenhouse",
+      "department": "Credit/Lending Product",
+      "match": 65,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
       ],
       "status": "new"
     },
@@ -391,6 +471,32 @@
       "status": "new"
     },
     {
+      "id": "gh-brex-8438582002",
+      "title": "Group Product Manager",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada",
+      "url": "https://www.brex.com/careers/8438582002?gh_jid=8438582002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
+      "posted": "2026-06-04T13:15:22-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 64,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-5867562004",
       "title": "Senior Product Manager - API & Agentic Banking",
       "company": "Mercury",
@@ -461,32 +567,6 @@
         "Fintech",
         "Lending",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-marqeta-7711098",
-      "title": "Senior Product Manager, Tokenization",
-      "company": "Marqeta",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote, USA / Toronto, Canada; Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7711098",
-      "description": "<p>As <strong>Senior Product Manager for Tokenization</strong>, you will own the product strategy and roadmap for Marqeta's tokenization platform - the foundation that powers digital wallet provisioning and network token transactions, and a central pillar of Marqeta's business. You'll shape the strategic direction of the platform, drive innovation that delivers industry-first capabilities, and manage relationships with key partners including Visa, Mastercard, Apple, and Google.</p> <p>From launching new products and expanding into emerging use cases to ensuring compliance with network and wallet mandates, you'll deliver impactful capabilities across provisioning, transaction processing, and token lifecycle management. Your passion and attention to detail will help keep a mission-critical platform reliable and compliant - while pushing the boundaries of what's possible in tokenization to create lasting value for customers and Marqeta.</p> <p>We work <a href=\"https://www.marqeta.com/blog/flexible-first\">Flexible First</a>. This role can be performed remote within the United States or from our Oakland, CA headquarters. We’d love for you to join us.</p> <p><strong>The Impact You’ll Hav",
-      "posted": "2026-06-01T13:40:55-04:00",
-      "source": "Greenhouse",
-      "department": "Core Product",
-      "match": 60,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Compliance",
-        "Platform"
       ],
       "status": "new"
     }
