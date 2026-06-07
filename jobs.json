@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T14:05:05.936Z",
+  "lastUpdated": "2026-06-07T17:23:36.196Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 34,
+    "greenhouse": 22,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 20,
+  "totalJobs": 17,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -286,33 +286,6 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8433546002",
-      "title": "Director of Product, Growth/AI",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Vancouver, British Columbia, Canada / New York, New York, United States / San Francisco, California, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8433546002?gh_jid=8433546002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-06-04T13:15:22-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 66,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-marqeta-7743057",
       "title": "Senior Product Manager, Stablecoins",
       "company": "Marqeta",
@@ -334,60 +307,6 @@
         "Payments",
         "Cards",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8432698002",
-      "title": "Staff Product Manager",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada",
-      "url": "https://www.brex.com/careers/8432698002?gh_jid=8432698002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p style=\"line-height: 1.2;\"><strong>Product at Brex</strong></p> <p>The Produ",
-      "posted": "2026-06-04T13:15:22-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8436527002",
-      "title": "Staff Product Manager, Growth",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada",
-      "url": "https://www.brex.com/careers/8436527002?gh_jid=8436527002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-06-04T13:15:22-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     },
@@ -442,20 +361,20 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8438582002",
-      "title": "Group Product Manager",
+      "id": "gh-brex-8433546002",
+      "title": "Director of Product, Growth/AI",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada",
-      "url": "https://www.brex.com/careers/8438582002?gh_jid=8438582002",
+      "location": "Vancouver, British Columbia, Canada / New York, New York, United States / San Francisco, California, United States / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8433546002?gh_jid=8433546002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
       "posted": "2026-06-04T13:15:22-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 62,
       "reasons": [
-        "Fresh posting",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
