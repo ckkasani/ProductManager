@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T12:38:24.098Z",
+  "lastUpdated": "2026-06-08T18:28:56.949Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,24 +11,24 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 23,
+    "greenhouse": 22,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 18,
+  "totalJobs": 17,
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-stripe-7953691",
+      "id": "gh-stripe-7977719",
       "title": "Staff Product Manager, Local Processor Acquiring",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / Barcelona",
-      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
+      "location": "Barcelona / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7977719",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>Stripe is building a global payments and treasury network—and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.</p> <p>The problem we're solving is fundamental—the most important payment methods in emerging markets—Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia—require local acquiring capabilities that historically took years of work and infrastructure investment to bui",
-      "posted": "2026-06-05T14:42:57-04:00",
+      "posted": "2026-06-05T14:42:59-04:00",
       "source": "Greenhouse",
       "department": "8503 Global Selling - PM",
       "match": 77,
@@ -73,42 +73,15 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7768821",
-      "title": "Principal Product Manager - Identity",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
-      "posted": "2026-06-05T13:59:16-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 75,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-7694938003",
+      "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
-      "posted": "2026-06-03T17:32:20-04:00",
+      "posted": "2026-06-03T17:33:36-04:00",
       "source": "Greenhouse",
       "department": "Financial Platforms Product",
       "match": 74,
@@ -154,33 +127,6 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7913702",
-      "title": "Staff Product Manager, Dashboard",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Dashboard helps millions of people around the world run their business—from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a \"power tool\" for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g., navigation, search, settings), governing frameworks (e.g., information architecture), and core experiences that set the standard (e.g., managing your customers, customizing your home page).</p> <p>We're hiring a product manager to shape the Dashboard strategy, amplify its impact across the ",
-      "posted": "2026-06-05T12:44:59-04:00",
-      "source": "Greenhouse",
-      "department": "8569 MerchantXP - PM",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7812856",
       "title": "Staff Product Manager, Enterprise (Industries) ",
       "company": "Stripe",
@@ -203,6 +149,58 @@
         "Fintech",
         "Payments",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7768821",
+      "title": "Principal Product Manager - Identity",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
+      "posted": "2026-06-05T13:59:16-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 71,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-7587151",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-06-08T12:44:27-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -234,28 +232,28 @@
       "status": "new"
     },
     {
-      "id": "gh-marqeta-7743077",
-      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
-      "company": "Marqeta",
+      "id": "gh-stripe-7913702",
+      "title": "Staff Product Manager, Dashboard",
+      "company": "Stripe",
       "industry": "fintech",
-      "stage": "Public",
-      "location": "Toronto, Canada",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
-      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
-      "posted": "2026-06-01T13:40:55-04:00",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Dashboard helps millions of people around the world run their business—from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a \"power tool\" for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g., navigation, search, settings), governing frameworks (e.g., information architecture), and core experiences that set the standard (e.g., managing your customers, customizing your home page).</p> <p>We're hiring a product manager to shape the Dashboard strategy, amplify its impact across the ",
+      "posted": "2026-06-05T12:44:59-04:00",
       "source": "Greenhouse",
-      "department": "Customer and Developer Experience Product",
-      "match": 68,
+      "department": "8569 MerchantXP - PM",
+      "match": 67,
       "reasons": [
         "Good skill match",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Cards",
+        "Payments",
         "Fraud",
-        "AI/ML",
-        "Compliance"
+        "Platform"
       ],
       "status": "new"
     },
@@ -312,17 +310,17 @@
       "status": "new"
     },
     {
-      "id": "gh-marqeta-7743057",
-      "title": "Senior Product Manager, Stablecoins",
+      "id": "gh-marqeta-7743077",
+      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
       "company": "Marqeta",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743057",
-      "description": "<p>As a <strong>Senior Product Manager</strong> on the Flexible Credentials team, we are looking for you to help drive the next generation of fintech products around Stablecoin payments, and Card Issuing in the embedded finance space. You will own the strategy, execution, and go-to-market for our emerging product lines, working cross-functionally to launch and scale innovative financial solutions.</p> <p>We're looking for a product leader who excels in a fast-paced, high-growth environment and highly collaborative environment between customers and partners. If you are passionate about creating customer-centric, next-gen financial products, and are eager to build from the ground up and beyond, we’d love to chat!</p> <p>The Flexible Credentials team is revolutionizing global embedded finance, enabling seamless integration of financial products into business platforms. We provide instant card issuance, commercialization of flexible credentials technology, and incubate new solutions based on Stablecoin payments, making financial services more accessible and scalable. As builders and innovators, we thrive on making an impact and pushing fintech boundaries.</p> <p>We work <a href=\"https:",
+      "location": "Toronto, Canada",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
+      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
       "posted": "2026-06-01T13:40:55-04:00",
       "source": "Greenhouse",
-      "department": "Credit/Lending Product",
+      "department": "Customer and Developer Experience Product",
       "match": 65,
       "reasons": [
         "Good skill match",
@@ -330,34 +328,10 @@
       ],
       "tags": [
         "Fintech",
-        "Payments",
         "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-7571698",
-      "title": "Senior Product Manager - Payments",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7571698",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager - Payment Methods</strong></p> <p>Adyen is looking for a passionate Senior Product Manager to scale our Payments proposition that includes alternative payments such as wallets and banking payment methods across our fast growing suite of payments products in North America. As a Senior Product Manager in this team you will be given considerable freedom to advocate for the building the best emerging payment technol",
-      "posted": "2026-06-05T13:48:33-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 63,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
+        "Fraud",
+        "AI/ML",
+        "Compliance"
       ],
       "status": "new"
     },
@@ -413,27 +387,27 @@
       "status": "new"
     },
     {
-      "id": "gh-robinhood-7587151",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
+      "id": "gh-marqeta-7743057",
+      "title": "Senior Product Manager, Stablecoins",
+      "company": "Marqeta",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-05-29T14:08:05-04:00",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743057",
+      "description": "<p>As a <strong>Senior Product Manager</strong> on the Flexible Credentials team, we are looking for you to help drive the next generation of fintech products around Stablecoin payments, and Card Issuing in the embedded finance space. You will own the strategy, execution, and go-to-market for our emerging product lines, working cross-functionally to launch and scale innovative financial solutions.</p> <p>We're looking for a product leader who excels in a fast-paced, high-growth environment and highly collaborative environment between customers and partners. If you are passionate about creating customer-centric, next-gen financial products, and are eager to build from the ground up and beyond, we’d love to chat!</p> <p>The Flexible Credentials team is revolutionizing global embedded finance, enabling seamless integration of financial products into business platforms. We provide instant card issuance, commercialization of flexible credentials technology, and incubate new solutions based on Stablecoin payments, making financial services more accessible and scalable. As builders and innovators, we thrive on making an impact and pushing fintech boundaries.</p> <p>We work <a href=\"https:",
+      "posted": "2026-06-01T13:40:55-04:00",
       "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 61,
+      "department": "Credit/Lending Product",
+      "match": 62,
       "reasons": [
         "Good skill match",
-        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Platform",
-        "Banking"
+        "Payments",
+        "Cards",
+        "Platform"
       ],
       "status": "new"
     },
