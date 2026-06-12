@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T04:27:10.821Z",
+  "lastUpdated": "2026-06-12T11:47:50.965Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 31,
+    "greenhouse": 30,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 17,
+  "totalJobs": 16,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -43,32 +43,6 @@
         "Payments",
         "Platform",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7570242",
-      "title": "Staff Product Manager, Global Expansion",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=7570242",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
-      "posted": "2026-06-09T05:24:02-04:00",
-      "source": "Greenhouse",
-      "department": "8262 APAC - PM",
-      "match": 74,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
       ],
       "status": "new"
     },
@@ -149,6 +123,31 @@
         "Lending",
         "Cards",
         "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7570242",
+      "title": "Staff Product Manager, Global Expansion",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7570242",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
+      "posted": "2026-06-09T05:24:02-04:00",
+      "source": "Greenhouse",
+      "department": "8262 APAC - PM",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
       ],
       "status": "new"
     },
@@ -253,31 +252,6 @@
         "AI/ML",
         "Platform",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-7739832",
-      "title": "Group Product Manager - Payments | India [Head of Product, India]",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7739832",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Group Product Manager, Adyen India</strong></p> <p>As the Group Product Manager for India, you will be a pivotal member of the Adyen India Leadership Team. You will define and execute the product strategy for one of Adyen’s highest-growth regions, ensuring our merchants can expand their reach through locally preferred and innovative payment methods.</p> <p>This role sits within the global Payments Group. You will collaborate closely w",
-      "posted": "2026-06-11T23:28:42-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
       ],
       "status": "new"
     },
