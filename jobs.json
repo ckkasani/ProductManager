@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T19:51:23.588Z",
+  "lastUpdated": "2026-06-15T22:22:51.564Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 18,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 13,
+  "totalJobs": 12,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -41,32 +41,6 @@
         "Fintech",
         "Lending",
         "Compliance",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-5867562004",
-      "title": "Senior Product Manager - API & Agentic Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>At Mercury, we are building the banking* stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></st",
-      "posted": "2026-06-12T16:03:39-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
         "Platform",
         "Banking"
       ],
@@ -177,6 +151,31 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-5867562004",
+      "title": "Senior Product Manager - API & Agentic Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>At Mercury, we are building the banking* stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></st",
+      "posted": "2026-06-12T16:03:39-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-robinhood-7587151",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -253,32 +252,6 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7697158003",
-      "title": "Principal Product Manager, Real-Time Payments Platform",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
-      "posted": "2026-06-01T16:00:43-04:00",
-      "source": "Greenhouse",
-      "department": "SIPS EPD",
-      "match": 63,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-7739832",
       "title": "Group Product Manager - Payments | India [Head of Product, India]",
       "company": "Adyen",
@@ -309,7 +282,7 @@
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / New York, New York, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States",
+      "location": "San Francisco, California, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada / New York, New York, United States",
       "url": "https://www.brex.com/careers/8432707002?gh_jid=8432707002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
       "posted": "2026-06-10T13:59:16-04:00",
