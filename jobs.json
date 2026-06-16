@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T19:41:15.931Z",
+  "lastUpdated": "2026-06-16T22:18:28.092Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,14 +11,175 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 16,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 11,
+  "totalJobs": 12,
   "highMatchJobs": 0,
   "jobs": [
+    {
+      "id": "gh-stripe-7980498",
+      "title": "Staff Product Manager, Cards Monetization",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7980498",
+      "description": "<p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Cards team at Stripe is responsible for the infrastructure, user facing features, and business of accepting credit, debit, and pre-paid card payments. Delivering the best offering for processing credit, debit, and prepaid cards is critical to Stripe’s mission, given the central role card payments play in internet commerce.</p> <h3><strong>What you’ll do</strong></h3> <p>As a Staff Product Manager for Cards Monetization at Stripe, you’ll be responsible for pricing Card payment products worldwide. Everyday - You’ll balance the needs of our customers and competitive landscape, while helping Stripe maintain i",
+      "posted": "2026-06-16T18:15:38-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 79,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "Cards",
+        "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7953691",
+      "title": "Staff Product Manager, Local Processor Acquiring",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Dublin / Barcelona",
+      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>Stripe is building a global payments and treasury network—and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.</p> <p>The problem we're solving is fundamental—the most important payment methods in emerging markets—Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia—require local acquiring capabilities that historically took years of work and infrastructure investment to bui",
+      "posted": "2026-06-16T18:15:50-04:00",
+      "source": "Greenhouse",
+      "department": "8503 Global Selling - PM",
+      "match": 79,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7570242",
+      "title": "Staff Product Manager, Global Expansion",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7570242",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
+      "posted": "2026-06-16T18:15:42-04:00",
+      "source": "Greenhouse",
+      "department": "8262 APAC - PM",
+      "match": 76,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7819059",
+      "title": "Staff Product Manager, Payments",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NYC, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
+      "posted": "2026-06-16T18:15:38-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 75,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7913702",
+      "title": "Staff Product Manager, Dashboard",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Dashboard helps millions of people around the world run their business—from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a \"power tool\" for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g., navigation, search, settings), governing frameworks (e.g., information architecture), and core experiences that set the standard (e.g., managing your customers, customizing your home page).</p> <p>We're hiring a product manager to shape the Dashboard strategy, amplify its impact across the ",
+      "posted": "2026-06-16T18:15:50-04:00",
+      "source": "Greenhouse",
+      "department": "8569 MerchantXP - PM",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7812856",
+      "title": "Staff Product Manager, Enterprise (Industries) ",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
+      "posted": "2026-06-16T18:15:46-04:00",
+      "source": "Greenhouse",
+      "department": "8712 Enterprise Engine",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
     {
       "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
@@ -99,79 +260,28 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7980498",
-      "title": "Staff Product Manager, Cards Monetization",
+      "id": "gh-stripe-7920219",
+      "title": "Staff Product Manager, Support Experience",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Seattle, San Francisco, New York, US - Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7980498",
-      "description": "<p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Cards team at Stripe is responsible for the infrastructure, user facing features, and business of accepting credit, debit, and pre-paid card payments. Delivering the best offering for processing credit, debit, and prepaid cards is critical to Stripe’s mission, given the central role card payments play in internet commerce.</p> <h3><strong>What you’ll do</strong></h3> <p>As a Staff Product Manager for Cards Monetization at Stripe, you’ll be responsible for pricing Card payment products worldwide. Everyday - You’ll balance the needs of our customers and competitive landscape, while helping Stripe maintain i",
-      "posted": "2026-06-03T16:56:23-04:00",
+      "location": "San Francisco, California, United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of businesses running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for S",
+      "posted": "2026-06-16T18:15:51-04:00",
       "source": "Greenhouse",
-      "department": "8552 PayIntel - PM",
+      "department": "4900 Support Eng & PM",
       "match": 70,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "Cards",
-        "AI/ML"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7977719",
-      "title": "Staff Product Manager, Local Processor Acquiring",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Barcelona / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=7977719",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>Stripe is building a global payments and treasury network—and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.</p> <p>The problem we're solving is fundamental—the most important payment methods in emerging markets—Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia—require local acquiring capabilities that historically took years of work and infrastructure investment to bui",
-      "posted": "2026-06-05T14:42:59-04:00",
-      "source": "Greenhouse",
-      "department": "8503 Global Selling - PM",
-      "match": 70,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7570242",
-      "title": "Staff Product Manager, Global Expansion",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=7570242",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
-      "posted": "2026-06-09T05:24:02-04:00",
-      "source": "Greenhouse",
-      "department": "8262 APAC - PM",
-      "match": 67,
       "reasons": [
         "Good skill match",
         "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
+        "AI/ML",
         "Platform"
       ],
       "status": "new"
@@ -202,57 +312,6 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7913702",
-      "title": "Staff Product Manager, Dashboard",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Dashboard helps millions of people around the world run their business—from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a \"power tool\" for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g., navigation, search, settings), governing frameworks (e.g., information architecture), and core experiences that set the standard (e.g., managing your customers, customizing your home page).</p> <p>We're hiring a product manager to shape the Dashboard strategy, amplify its impact across the ",
-      "posted": "2026-06-05T12:44:59-04:00",
-      "source": "Greenhouse",
-      "department": "8569 MerchantXP - PM",
-      "match": 64,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7812856",
-      "title": "Staff Product Manager, Enterprise (Industries) ",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
-      "posted": "2026-06-05T16:06:08-04:00",
-      "source": "Greenhouse",
-      "department": "8712 Enterprise Engine",
-      "match": 64,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-brex-8432707002",
       "title": "Director of Product, Growth/AI",
       "company": "Brex",
@@ -275,32 +334,6 @@
         "AI/ML",
         "Platform",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7920219",
-      "title": "Staff Product Manager, Support Experience",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, California, United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of businesses running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for S",
-      "posted": "2026-06-05T15:06:20-04:00",
-      "source": "Greenhouse",
-      "department": "4900 Support Eng & PM",
-      "match": 61,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
       ],
       "status": "new"
     }
