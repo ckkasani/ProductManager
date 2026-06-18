@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T18:28:49.201Z",
+  "lastUpdated": "2026-06-18T22:18:28.380Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -76,13 +76,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7953691",
+      "id": "gh-stripe-7977719",
       "title": "Staff Product Manager, Local Processor Acquiring",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / Barcelona",
-      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
+      "location": "Barcelona / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7977719",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>Stripe is building a global payments and treasury network—and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.</p> <p>The problem we're solving is fundamental—the most important payment methods in emerging markets—Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia—require local acquiring capabilities that historically took years of work and infrastructure investment to bui",
       "posted": "2026-06-16T18:15:50-04:00",
       "source": "Greenhouse",
@@ -470,14 +470,14 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7718661003",
+      "id": "gh-affirm-7718659003",
       "title": "Director of Product Management, Financial Platforms",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7718661003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Financial Platform sits at the heart of every loan Affirm makes and every dollar we move. We're looking for a Director of Product Management to lead and scale the teams behind two of our most critical and complex domains: Loans Lifecycle and Money Movement. This is a role for a seasoned product leader who thrives in the intersection of financial systems, platform engineering, and organizational scale.</p> <p><strong>What you’ll do</strong></p> <ul> <li><strong><strong>Lead and grow a high-performing PM team.</strong> </strong>Build, mentor, and manage a team of 6–10 product managers, including people managers. You'll set the bar for craft, create development paths, and cultivate a culture of ownership, rigor, and candor.</li> <li><strong><strong>Own the vision and strategy for Loans Lifecycle and Money Movement.</strong> </strong>Define the multi-year product strategy for Affirm's foundational loan systems and global money movement infrastructure — ensuring they are ",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7718659003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Financial Platform sits at the heart of every loan Affirm makes and every dollar we move. We're looking for a Director of Product Management to lead and scale the teams behind two of our most critical and complex domains: Loans Lifecycle and Money Movement. This is a role for a seasoned product leader who thrives in the intersection of financial systems, platform engineering, and organizational scale.</p> <p><br><strong>What you’ll do</strong></p> <ul> <li><strong><strong>Lead and grow a high-performing PM team.</strong> </strong>Build, mentor, and manage a team of 6–10 product managers, including people managers. You'll set the bar for craft, create development paths, and cultivate a culture of ownership, rigor, and candor.</li> <li><strong><strong>Own the vision and strategy for Loans Lifecycle and Money Movement.</strong> </strong>Define the multi-year product strategy for Affirm's foundational loan systems and global money movement infrastructure — ensuring they ",
       "posted": "2026-06-18T11:27:47-04:00",
       "source": "Greenhouse",
       "department": "Financial Platforms Product",
