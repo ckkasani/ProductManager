@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T12:12:45.246Z",
+  "lastUpdated": "2026-06-19T18:02:48.134Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,42 +11,14 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 21,
+    "greenhouse": 19,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 18,
+  "totalJobs": 17,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-affirm-7694940003",
-      "title": "Staff Product Manager, Affirm Bank",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
-      "posted": "2026-06-18T11:27:47-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 80,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Compliance",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-7980498",
       "title": "Staff Product Manager, Cards Monetization",
@@ -56,10 +28,10 @@
       "location": "Seattle, San Francisco, New York, US - Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=7980498",
       "description": "<p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Cards team at Stripe is responsible for the infrastructure, user facing features, and business of accepting credit, debit, and pre-paid card payments. Delivering the best offering for processing credit, debit, and prepaid cards is critical to Stripe’s mission, given the central role card payments play in internet commerce.</p> <h3><strong>What you’ll do</strong></h3> <p>As a Staff Product Manager for Cards Monetization at Stripe, you’ll be responsible for pricing Card payment products worldwide. Everyday - You’ll balance the needs of our customers and competitive landscape, while helping Stripe maintain i",
-      "posted": "2026-06-16T18:15:38-04:00",
+      "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 77,
+      "match": 79,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -84,10 +56,10 @@
       "location": "Barcelona / Dublin",
       "url": "https://stripe.com/jobs/search?gh_jid=7977719",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>Stripe is building a global payments and treasury network—and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.</p> <p>The problem we're solving is fundamental—the most important payment methods in emerging markets—Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia—require local acquiring capabilities that historically took years of work and infrastructure investment to bui",
-      "posted": "2026-06-16T18:15:50-04:00",
+      "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
       "department": "8503 Global Selling - PM",
-      "match": 77,
+      "match": 79,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -103,27 +75,28 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7768821",
-      "title": "Principal Product Manager - Identity",
-      "company": "Adyen",
+      "id": "gh-affirm-7694940003",
+      "title": "Staff Product Manager, Affirm Bank",
+      "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
-      "posted": "2026-06-18T10:29:08-04:00",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
+      "posted": "2026-06-18T11:27:47-04:00",
       "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 77,
+      "department": "Financial Platforms Product",
+      "match": 78,
       "reasons": [
-        "Good skill match",
+        "Strong skill alignment",
         "Senior-level title",
         "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Payments",
+        "Lending",
+        "Compliance",
         "Platform",
         "Banking"
       ],
@@ -138,10 +111,10 @@
       "location": "Bengaluru",
       "url": "https://stripe.com/jobs/search?gh_jid=7570242",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
-      "posted": "2026-06-16T18:15:42-04:00",
+      "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
       "department": "8262 APAC - PM",
-      "match": 74,
+      "match": 76,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -164,10 +137,10 @@
       "location": "SF, SEA, NYC, Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=7819059",
       "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
-      "posted": "2026-06-16T18:15:38-04:00",
+      "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 73,
+      "match": 75,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -183,18 +156,18 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7697158003",
-      "title": "Principal Product Manager, Real-Time Payments Platform",
-      "company": "SoFi",
+      "id": "gh-adyen-7768821",
+      "title": "Principal Product Manager - Identity",
+      "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
-      "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
-      "posted": "2026-06-18T13:16:44-04:00",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
+      "posted": "2026-06-18T10:29:08-04:00",
       "source": "Greenhouse",
-      "department": "SIPS EPD",
-      "match": 72,
+      "department": "Product Management",
+      "match": 75,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -218,10 +191,10 @@
       "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=7913702",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Dashboard helps millions of people around the world run their business—from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a \"power tool\" for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g., navigation, search, settings), governing frameworks (e.g., information architecture), and core experiences that set the standard (e.g., managing your customers, customizing your home page).</p> <p>We're hiring a product manager to shape the Dashboard strategy, amplify its impact across the ",
-      "posted": "2026-06-16T18:15:50-04:00",
+      "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
       "department": "8569 MerchantXP - PM",
-      "match": 71,
+      "match": 73,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -245,10 +218,10 @@
       "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=7812856",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
-      "posted": "2026-06-16T18:15:46-04:00",
+      "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
       "department": "8712 Enterprise Engine",
-      "match": 71,
+      "match": 73,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -289,44 +262,18 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7697154003",
-      "title": "Senior Product Manager, Commercial Banking",
+      "id": "gh-sofi-7697158003",
+      "title": "Principal Product Manager, Real-Time Payments Platform",
       "company": "SoFi",
       "industry": "fintech",
       "stage": "Public",
       "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697154003?gh_jid=7697154003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. We're seeking a Senior Product Manager to own the payments product experience and API/developer platform for Big Business Banking (BBB) - SoFi's zero-to-one ",
-      "posted": "2026-06-18T13:16:41-04:00",
+      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
+      "posted": "2026-06-18T13:16:44-04:00",
       "source": "Greenhouse",
       "department": "SIPS EPD",
-      "match": 68,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-robinhood-7587151",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-06-16T13:07:19-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 68,
+      "match": 70,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -335,6 +282,7 @@
       ],
       "tags": [
         "Fintech",
+        "Payments",
         "Platform",
         "Banking"
       ],
@@ -349,10 +297,10 @@
       "location": "San Francisco, California, United States",
       "url": "https://stripe.com/jobs/search?gh_jid=7920219",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of businesses running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for S",
-      "posted": "2026-06-16T18:15:51-04:00",
+      "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
       "department": "4900 Support Eng & PM",
-      "match": 68,
+      "match": 70,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -368,6 +316,32 @@
       "status": "new"
     },
     {
+      "id": "gh-sofi-7697154003",
+      "title": "Senior Product Manager, Commercial Banking",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "WA - Seattle; CA - San Francisco   ",
+      "url": "https://sofi.com/careers/job/7697154003?gh_jid=7697154003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. We're seeking a Senior Product Manager to own the payments product experience and API/developer platform for Big Business Banking (BBB) - SoFi's zero-to-one ",
+      "posted": "2026-06-18T13:16:41-04:00",
+      "source": "Greenhouse",
+      "department": "SIPS EPD",
+      "match": 66,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-sofi-7720245003",
       "title": "Senior Product Manager, Servicing",
       "company": "SoFi",
@@ -379,7 +353,7 @@
       "posted": "2026-06-18T13:18:59-04:00",
       "source": "Greenhouse",
       "department": "Member EPD",
-      "match": 66,
+      "match": 64,
       "reasons": [
         "Good skill match",
         "Fresh posting",
@@ -405,7 +379,7 @@
       "posted": "2026-06-18T13:12:39-04:00",
       "source": "Greenhouse",
       "department": "SIPS EPD",
-      "match": 66,
+      "match": 64,
       "reasons": [
         "Good skill match",
         "Fresh posting",
@@ -415,6 +389,31 @@
         "Fintech",
         "Lending",
         "Fraud",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-7587151",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-06-16T13:07:19-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
         "Platform",
         "Banking"
       ],
@@ -432,7 +431,7 @@
       "posted": "2026-06-18T13:13:26-04:00",
       "source": "Greenhouse",
       "department": "SIPS EPD",
-      "match": 65,
+      "match": 63,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -457,7 +456,7 @@
       "posted": "2026-06-18T13:18:57-04:00",
       "source": "Greenhouse",
       "department": "SIPS EPD",
-      "match": 63,
+      "match": 61,
       "reasons": [
         "Fresh posting",
         "Perfect domain fit"
@@ -466,31 +465,6 @@
         "Fintech",
         "Lending",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-7718659003",
-      "title": "Director of Product Management, Financial Platforms",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7718659003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Financial Platform sits at the heart of every loan Affirm makes and every dollar we move. We're looking for a Director of Product Management to lead and scale the teams behind two of our most critical and complex domains: Loans Lifecycle and Money Movement. This is a role for a seasoned product leader who thrives in the intersection of financial systems, platform engineering, and organizational scale.</p> <p><br><strong>What you’ll do</strong></p> <ul> <li><strong><strong>Lead and grow a high-performing PM team.</strong> </strong>Build, mentor, and manage a team of 6–10 product managers, including people managers. You'll set the bar for craft, create development paths, and cultivate a culture of ownership, rigor, and candor.</li> <li><strong><strong>Own the vision and strategy for Loans Lifecycle and Money Movement.</strong> </strong>Define the multi-year product strategy for Affirm's foundational loan systems and global money movement infrastructure — ensuring they ",
-      "posted": "2026-06-18T11:27:47-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 60,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "AI/ML",
-        "Platform"
       ],
       "status": "new"
     }
