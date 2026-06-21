@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T14:21:43.852Z",
+  "lastUpdated": "2026-06-21T17:43:45.299Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,42 +11,14 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 19,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 17,
+  "totalJobs": 15,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-affirm-7694940003",
-      "title": "Staff Product Manager, Affirm Bank",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
-      "posted": "2026-06-18T11:27:47-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 78,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Compliance",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-7980498",
       "title": "Staff Product Manager, Cards Monetization",
@@ -76,13 +48,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7977719",
+      "id": "gh-stripe-7953691",
       "title": "Staff Product Manager, Local Processor Acquiring",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Barcelona / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=7977719",
+      "location": "Dublin / Barcelona",
+      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>Stripe is building a global payments and treasury network—and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.</p> <p>The problem we're solving is fundamental—the most important payment methods in emerging markets—Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia—require local acquiring capabilities that historically took years of work and infrastructure investment to bui",
       "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
@@ -90,33 +62,6 @@
       "match": 77,
       "reasons": [
         "Strong skill alignment",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-7768821",
-      "title": "Principal Product Manager - Identity",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
-      "posted": "2026-06-18T10:29:08-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 75,
-      "reasons": [
-        "Good skill match",
         "Senior-level title",
         "Fresh posting",
         "Perfect domain fit"
@@ -152,6 +97,33 @@
         "Fintech",
         "Payments",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7694940003",
+      "title": "Staff Product Manager, Affirm Bank",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
+      "posted": "2026-06-18T11:27:47-04:00",
+      "source": "Greenhouse",
+      "department": "Financial Platforms Product",
+      "match": 74,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Compliance",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -236,22 +208,21 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7697158003",
-      "title": "Principal Product Manager, Real-Time Payments Platform",
-      "company": "SoFi",
+      "id": "gh-adyen-7768821",
+      "title": "Principal Product Manager - Identity",
+      "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
-      "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
-      "posted": "2026-06-18T13:16:44-04:00",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
+      "posted": "2026-06-18T10:29:08-04:00",
       "source": "Greenhouse",
-      "department": "SIPS EPD",
-      "match": 70,
+      "department": "Product Management",
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -315,79 +286,26 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7697154003",
-      "title": "Senior Product Manager, Commercial Banking",
+      "id": "gh-sofi-7697158003",
+      "title": "Principal Product Manager, Real-Time Payments Platform",
       "company": "SoFi",
       "industry": "fintech",
       "stage": "Public",
       "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697154003?gh_jid=7697154003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. We're seeking a Senior Product Manager to own the payments product experience and API/developer platform for Big Business Banking (BBB) - SoFi's zero-to-one ",
-      "posted": "2026-06-18T13:16:41-04:00",
+      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
+      "posted": "2026-06-18T13:16:44-04:00",
       "source": "Greenhouse",
       "department": "SIPS EPD",
       "match": 66,
       "reasons": [
         "Good skill match",
-        "Fresh posting",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7720245003",
-      "title": "Senior Product Manager, Servicing",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "CA - San Francisco, WA - Seattle",
-      "url": "https://sofi.com/careers/job/7720245003?gh_jid=7720245003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role</strong></h2> <p>SoFi's Loan Servicing team owns the post-loan funding experience for millions of members across SoFi's lending products. We are looking for a Senior Product Manager to build and scale our multi-product servicing platform to meet the needs of our members and business.<",
-      "posted": "2026-06-18T13:18:59-04:00",
-      "source": "Greenhouse",
-      "department": "Member EPD",
-      "match": 64,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7616225003",
-      "title": "Senior Product Manager, Underwriting",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "CA - San Francisco; WA - Seattle; MT - Helena",
-      "url": "https://sofi.com/careers/job/7616225003?gh_jid=7616225003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The role:</strong></p> <p>As a Senior Product Manager for Underwriting, you will be at the heart of SoFi’s lending engine. You will own the product lifecycle for the platforms and services that determine how we evaluate risk and qualify members for our lending products.</p> <p>Your mission is t",
-      "posted": "2026-06-18T13:12:39-04:00",
-      "source": "Greenhouse",
-      "department": "SIPS EPD",
-      "match": 64,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Fraud",
         "Platform",
         "Banking"
       ],
@@ -419,50 +337,77 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7639014003",
-      "title": "Director of Product Management, Commercial Banking",
+      "id": "gh-sofi-7697154003",
+      "title": "Senior Product Manager, Commercial Banking",
       "company": "SoFi",
       "industry": "fintech",
       "stage": "Public",
       "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7639014003?gh_jid=7639014003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>We’re building Commercial Banking from the ground up and are looking for a <strong>Director Product Management </strong>to lead the strategy, architecture, and delivery of our next-generation business banking platform.</p> <p>This is a <strong>0→1, company-level role</s",
-      "posted": "2026-06-18T13:13:26-04:00",
+      "url": "https://sofi.com/careers/job/7697154003?gh_jid=7697154003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. We're seeking a Senior Product Manager to own the payments product experience and API/developer platform for Big Business Banking (BBB) - SoFi's zero-to-one ",
+      "posted": "2026-06-18T13:16:41-04:00",
       "source": "Greenhouse",
       "department": "SIPS EPD",
-      "match": 63,
+      "match": 62,
       "reasons": [
-        "Senior-level title",
-        "Fresh posting",
+        "Good skill match",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
+        "Payments",
         "Platform",
         "Banking"
       ],
       "status": "new"
     },
     {
-      "id": "gh-sofi-7720241003",
-      "title": "Senior Product Manager, Home Loans Consumer Experience",
+      "id": "gh-sofi-7720245003",
+      "title": "Senior Product Manager, Servicing",
       "company": "SoFi",
       "industry": "fintech",
       "stage": "Public",
-      "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7720241003?gh_jid=7720241003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>SoFi is looking for a data-driven and user-centric Senior Product Manager to help shape the future of digital home lending. In this role, you will own and evolve the end-to-end home loan experience across our digital funnel, defining product strategy and delivering diff",
-      "posted": "2026-06-18T13:18:57-04:00",
+      "location": "CA - San Francisco, WA - Seattle",
+      "url": "https://sofi.com/careers/job/7720245003?gh_jid=7720245003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role</strong></h2> <p>SoFi's Loan Servicing team owns the post-loan funding experience for millions of members across SoFi's lending products. We are looking for a Senior Product Manager to build and scale our multi-product servicing platform to meet the needs of our members and business.<",
+      "posted": "2026-06-18T13:18:59-04:00",
       "source": "Greenhouse",
-      "department": "SIPS EPD",
-      "match": 61,
+      "department": "Member EPD",
+      "match": 60,
       "reasons": [
-        "Fresh posting",
+        "Good skill match",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Lending",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-sofi-7616225003",
+      "title": "Senior Product Manager, Underwriting",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "CA - San Francisco; WA - Seattle; MT - Helena",
+      "url": "https://sofi.com/careers/job/7616225003?gh_jid=7616225003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The role:</strong></p> <p>As a Senior Product Manager for Underwriting, you will be at the heart of SoFi’s lending engine. You will own the product lifecycle for the platforms and services that determine how we evaluate risk and qualify members for our lending products.</p> <p>Your mission is t",
+      "posted": "2026-06-18T13:12:39-04:00",
+      "source": "Greenhouse",
+      "department": "SIPS EPD",
+      "match": 60,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Fraud",
+        "Platform",
         "Banking"
       ],
       "status": "new"
