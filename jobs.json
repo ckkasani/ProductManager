@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T18:03:15.115Z",
+  "lastUpdated": "2026-06-23T21:45:38.010Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -47,13 +47,13 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7694940003",
+      "id": "gh-affirm-7694938003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
       "posted": "2026-06-18T11:27:47-04:00",
       "source": "Greenhouse",
@@ -101,13 +101,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7977719",
+      "id": "gh-stripe-7953691",
       "title": "Staff Product Manager, Local Processor Acquiring",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Barcelona / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=7977719",
+      "location": "Dublin / Barcelona",
+      "url": "https://stripe.com/jobs/search?gh_jid=7953691",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>Stripe is building a global payments and treasury network—and Local Processor Acquiring (LPA) is how we're rapidly extending that network into the world's fastest-growing markets. The LPA team sits within Global Selling, focused on enabling businesses to accept payments from billions of consumers worldwide without needing to set up local operations.</p> <p>The problem we're solving is fundamental—the most important payment methods in emerging markets—Korean wallets, PIX in Brazil, UPI in India, QRIS in Indonesia—require local acquiring capabilities that historically took years of work and infrastructure investment to bui",
       "posted": "2026-06-19T12:11:02-04:00",
       "source": "Greenhouse",
@@ -306,31 +306,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6098827004",
-      "title": "Senior Product Manager - Business Lending",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6098827004",
-      "description": "<p>In the days after the 1906 earthquake and fire destroyed most of San Francisco, the city's banks stayed shut, their vaults too hot to open for weeks. Amadeo Giannini, who ran the small Bank of Italy, did the opposite. He set up a makeshift desk on the wharf, a plank laid across two barrels, and began lending. Most of his customers were shopkeepers, fishermen, and tradespeople who had lost everything, including any papers proving who they were. So Giannini lent on a signature and a handshake, betting on the people in front of him. Those loans helped rebuild the city block by block, and, the story goes, every one of them was paid back.</p> <p>That's the promise of a business loan: capital, offered fairly and fast, to people with the will and the plan to build something. More than a century later, too many growing businesses still hit a version of the closed vault: slow processes, opaque decisions, and paperwork that arrives too late to matter.</p> <p>At Mercury, we're building lending products that give growing businesses fast, fair, transparent access to the capital that lets them say yes when it counts. We're looking for a Senior PM to own this product end-to-end. You'll blend s",
-      "posted": "2026-06-22T14:49:37-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 64,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-7571698",
       "title": "Senior Product Manager - Payments",
       "company": "Adyen",
@@ -376,6 +351,31 @@
         "Fintech",
         "Payments",
         "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6098827004",
+      "title": "Senior Product Manager - Business Lending",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6098827004",
+      "description": "<p>In the days after the 1906 earthquake and fire destroyed most of San Francisco, the city's banks stayed shut, their vaults too hot to open for weeks. Amadeo Giannini, who ran the small Bank of Italy, did the opposite. He set up a makeshift desk on the wharf, a plank laid across two barrels, and began lending. Most of his customers were shopkeepers, fishermen, and tradespeople who had lost everything, including any papers proving who they were. So Giannini lent on a signature and a handshake, betting on the people in front of him. Those loans helped rebuild the city block by block, and, the story goes, every one of them was paid back.</p> <p>That's the promise of a business loan: capital, offered fairly and fast, to people with the will and the plan to build something. More than a century later, too many growing businesses still hit a version of the closed vault: slow processes, opaque decisions, and paperwork that arrives too late to matter.</p> <p>At Mercury, we're building lending products that give growing businesses fast, fair, transparent access to the capital that lets them say yes when it counts. We're looking for a Senior PM to own this product end-to-end. You'll blend s",
+      "posted": "2026-06-22T14:49:37-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 62,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI/ML",
         "Banking"
       ],
       "status": "new"
