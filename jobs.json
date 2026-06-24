@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T14:41:50.014Z",
+  "lastUpdated": "2026-06-24T18:00:14.046Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -47,13 +47,13 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7694938003",
+      "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
       "posted": "2026-06-18T11:27:47-04:00",
       "source": "Greenhouse",
@@ -229,31 +229,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-5867562004",
-      "title": "Senior Product Manager - API & Agentic Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>At Mercury, we are building the banking* stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></st",
-      "posted": "2026-06-17T11:56:16-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 67,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-sofi-7697158003",
       "title": "Principal Product Manager, Real-Time Payments Platform",
       "company": "SoFi",
@@ -302,6 +277,31 @@
         "Payments",
         "AI/ML",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-5867562004",
+      "title": "Senior Product Manager - API & Agentic Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>At Mercury, we are building the banking* stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></st",
+      "posted": "2026-06-17T11:56:16-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
