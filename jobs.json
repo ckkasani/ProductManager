@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T18:14:43.526Z",
+  "lastUpdated": "2026-06-25T21:47:56.515Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -43,6 +43,33 @@
         "Payments",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-marqeta-7743077",
+      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
+      "company": "Marqeta",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Toronto, Canada",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
+      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
+      "posted": "2026-06-25T15:29:40-04:00",
+      "source": "Greenhouse",
+      "department": "Customer and Developer Experience Product",
+      "match": 74,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "Fraud",
+        "AI/ML",
+        "Compliance"
       ],
       "status": "new"
     },
@@ -101,32 +128,6 @@
       "status": "new"
     },
     {
-      "id": "gh-robinhood-7587151",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-06-24T16:17:10-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7570242",
       "title": "Staff Product Manager, Global Expansion",
       "company": "Stripe",
@@ -174,6 +175,32 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-7587151",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-06-24T16:17:10-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 68,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -301,31 +328,6 @@
         "Fintech",
         "Payments",
         "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6098827004",
-      "title": "Senior Product Manager - Business Lending",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6098827004",
-      "description": "<p>In the days after the 1906 earthquake and fire destroyed most of San Francisco, the city's banks stayed shut, their vaults too hot to open for weeks. Amadeo Giannini, who ran the small Bank of Italy, did the opposite. He set up a makeshift desk on the wharf, a plank laid across two barrels, and began lending. Most of his customers were shopkeepers, fishermen, and tradespeople who had lost everything, including any papers proving who they were. So Giannini lent on a signature and a handshake, betting on the people in front of him. Those loans helped rebuild the city block by block, and, the story goes, every one of them was paid back.</p> <p>That's the promise of a business loan: capital, offered fairly and fast, to people with the will and the plan to build something. More than a century later, too many growing businesses still hit a version of the closed vault: slow processes, opaque decisions, and paperwork that arrives too late to matter.</p> <p>At Mercury, we're building lending products that give growing businesses fast, fair, transparent access to the capital that lets them say yes when it counts. We're looking for a Senior PM to own this product end-to-end. You'll blend s",
-      "posted": "2026-06-22T14:49:37-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 62,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "AI/ML",
         "Banking"
       ],
       "status": "new"
