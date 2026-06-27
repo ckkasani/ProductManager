@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T21:23:26.305Z",
+  "lastUpdated": "2026-06-27T03:55:23.555Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -208,13 +208,13 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7694940003",
+      "id": "gh-affirm-7694938003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
       "posted": "2026-06-18T11:27:47-04:00",
       "source": "Greenhouse",
@@ -288,33 +288,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7780490003",
-      "title": "Director, Product Management (Shopping & Offers)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7780490003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p><strong>Director of Product Management, Shopping Offers</strong></p> <p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without hidden fees or compounding interest. Our Shopping Offers program is a fast-growing platform that operates with the agility of a startup while leveraging the scale of an industry leader, delivering Shopping and Offers experiences directly to our Consumers and Conversion for our Merchant partners alike</p> <p>You will be a pivotal strategic leader responsible for defining the next chapter of Affirm's DTC shopping and offers experience. You will lead a portfolio of high-impact consumer journeys—including Agentic Search, Home, and Profile experiences—that directly influence conversion, engagement, and revenue. This is a role for a seasoned product leader obsessed with consumer experiences, two sided marketplaces, and disrupting the payments credit landscape</p> <p>What you'l",
-      "posted": "2026-06-25T20:48:37-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-mercury-5867562004",
       "title": "Senior Product Manager - API & Agentic Banking",
       "company": "Mercury",
@@ -362,6 +335,33 @@
         "Payments",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7780490003",
+      "title": "Director, Product Management (Shopping & Offers)",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7780490003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p><strong>Director of Product Management, Shopping Offers</strong></p> <p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without hidden fees or compounding interest. Our Shopping Offers program is a fast-growing platform that operates with the agility of a startup while leveraging the scale of an industry leader, delivering Shopping and Offers experiences directly to our Consumers and Conversion for our Merchant partners alike</p> <p>You will be a pivotal strategic leader responsible for defining the next chapter of Affirm's DTC shopping and offers experience. You will lead a portfolio of high-impact consumer journeys—including Agentic Search, Home, and Profile experiences—that directly influence conversion, engagement, and revenue. This is a role for a seasoned product leader obsessed with consumer experiences, two sided marketplaces, and disrupting the payments credit landscape</p> <p>What you'l",
+      "posted": "2026-06-25T20:48:37-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     }
