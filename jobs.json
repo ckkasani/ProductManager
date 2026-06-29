@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T21:08:02.081Z",
+  "lastUpdated": "2026-06-29T04:24:46.180Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 14,
+    "greenhouse": 13,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 13,
+  "totalJobs": 12,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -332,33 +332,6 @@
         "Payments",
         "Platform",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-7780490003",
-      "title": "Director, Product Management (Shopping & Offers)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7780490003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p><strong>Director of Product Management, Shopping Offers</strong></p> <p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without hidden fees or compounding interest. Our Shopping Offers program is a fast-growing platform that operates with the agility of a startup while leveraging the scale of an industry leader, delivering Shopping and Offers experiences directly to our Consumers and Conversion for our Merchant partners alike</p> <p>You will be a pivotal strategic leader responsible for defining the next chapter of Affirm's DTC shopping and offers experience. You will lead a portfolio of high-impact consumer journeys—including Agentic Search, Home, and Profile experiences—that directly influence conversion, engagement, and revenue. This is a role for a seasoned product leader obsessed with consumer experiences, two sided marketplaces, and disrupting the payments credit landscape</p> <p>What you'l",
-      "posted": "2026-06-25T20:48:37-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML",
-        "Platform"
       ],
       "status": "new"
     }
