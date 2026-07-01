@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T04:20:30.309Z",
+  "lastUpdated": "2026-07-01T11:28:23.733Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -47,33 +47,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7768821",
-      "title": "Principal Product Manager - Identity",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
-      "posted": "2026-06-30T04:31:54-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 77,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-mercury-5867562004",
       "title": "Staff Product Manager - API & Agentic Banking",
       "company": "Mercury",
@@ -95,6 +68,33 @@
       "tags": [
         "Fintech",
         "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7768821",
+      "title": "Principal Product Manager - Identity",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
+      "posted": "2026-06-30T04:31:54-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 75,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
         "Platform",
         "Banking"
       ],
@@ -128,39 +128,13 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7899156",
-      "title": "Senior Product Manager - Cards Acquiring",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7899156",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Global Acquiring</strong><br>Adyen's Global Acquiring team powers the core card payment infrastructure behind billions of transactions worldwide. Through our direct connections with Visa, Mastercard, American Express, Discover, Diners Club, JCB, and China UnionPay, we enable merchants to accept payments globally with industry-leading reliability, performance, and innovation.<br>As a Senior Product Manager, you ",
-      "posted": "2026-06-30T05:37:01-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 72,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-7694940003",
+      "id": "gh-affirm-7694938003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
       "posted": "2026-06-18T11:27:47-04:00",
       "source": "Greenhouse",
@@ -228,6 +202,32 @@
       "tags": [
         "Fintech",
         "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7899156",
+      "title": "Senior Product Manager - Cards Acquiring",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7899156",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Global Acquiring</strong><br>Adyen's Global Acquiring team powers the core card payment infrastructure behind billions of transactions worldwide. Through our direct connections with Visa, Mastercard, American Express, Discover, Diners Club, JCB, and China UnionPay, we enable merchants to accept payments globally with industry-leading reliability, performance, and innovation.<br>As a Senior Product Manager, you ",
+      "posted": "2026-06-30T05:37:01-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
         "Platform"
       ],
       "status": "new"
@@ -362,31 +362,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7739832",
-      "title": "Group Product Manager - Payments | India [Head of Product, India]",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7739832",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Group Product Manager, Adyen India</strong></p> <p>As the Group Product Manager for India, you will be a pivotal member of the Adyen India Leadership Team. You will define and execute the product strategy for one of Adyen’s highest-growth regions, ensuring our merchants can expand their reach through locally preferred and innovative payment methods.</p> <p>This role sits within the global Payments Group. You will collaborate closely w",
-      "posted": "2026-06-30T04:31:54-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-robinhood-7587151",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -438,32 +413,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7077880",
-      "title": "Head of Product, North America Payments",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7077880",
-      "description": "<p></p> <p><span style=\"font-size: 12pt;\"><strong>This is Adyen</strong></span></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3></h3> <h3><strong>The Role</strong></h3> <p>We are looking for a highly strategic, visionary, and technically adept <strong>Head of Product, North America Payments</strong>. In this executive-level role, you will be the driving force behind our regional payments strategy, leveraging advanced technologies like AI and ML to shape the future of our product offerings.</p> <p>You will lead a high-perf",
-      "posted": "2026-06-30T04:31:54-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 64,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-sofi-7639014003",
       "title": "Director of Product Management, Commercial Banking",
       "company": "SoFi",
@@ -489,6 +438,31 @@
       "status": "new"
     },
     {
+      "id": "gh-adyen-7739832",
+      "title": "Group Product Manager - Payments | India [Head of Product, India]",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7739832",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Group Product Manager, Adyen India</strong></p> <p>As the Group Product Manager for India, you will be a pivotal member of the Adyen India Leadership Team. You will define and execute the product strategy for one of Adyen’s highest-growth regions, ensuring our merchants can expand their reach through locally preferred and innovative payment methods.</p> <p>This role sits within the global Payments Group. You will collaborate closely w",
+      "posted": "2026-06-30T04:31:54-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-6098827004",
       "title": "Senior Product Manager - Business Lending",
       "company": "Mercury",
@@ -510,6 +484,32 @@
         "Lending",
         "AI/ML",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7077880",
+      "title": "Head of Product, North America Payments",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7077880",
+      "description": "<p></p> <p><span style=\"font-size: 12pt;\"><strong>This is Adyen</strong></span></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3></h3> <h3><strong>The Role</strong></h3> <p>We are looking for a highly strategic, visionary, and technically adept <strong>Head of Product, North America Payments</strong>. In this executive-level role, you will be the driving force behind our regional payments strategy, leveraging advanced technologies like AI and ML to shape the future of our product offerings.</p> <p>You will lead a high-perf",
+      "posted": "2026-06-30T04:31:54-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 62,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     }
