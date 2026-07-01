@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T14:47:16.467Z",
+  "lastUpdated": "2026-07-01T18:02:19.869Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 20,
+    "greenhouse": 23,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 19,
+  "totalJobs": 21,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -28,10 +28,10 @@
       "location": "Amsterdam",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/7862254",
       "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>The Opportunity</strong></p> <p><span style=\"font-weight: 400;\">Adyen operates as a full-stack payment processor and licensed global banking institution, capturing the behavior and complex interactions of billions of shoppers and millions of businesses worldwide. As we scale our footprint in banking, card issuing, and embedded financial products, the financial risk profiles we manage are significantly higher than traditional p",
-      "posted": "2026-06-30T07:28:50-04:00",
+      "posted": "2026-07-01T12:05:20-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 76,
+      "match": 78,
       "reasons": [
         "Strong skill alignment",
         "Fresh posting",
@@ -47,33 +47,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-5867562004",
-      "title": "Staff Product Manager - API & Agentic Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>At Mercury, we are building the banking stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><em><strong>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</strong><",
-      "posted": "2026-06-30T12:40:41-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 75,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-7768821",
       "title": "Principal Product Manager - Identity",
       "company": "Adyen",
@@ -82,10 +55,10 @@
       "location": "Amsterdam",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
       "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
-      "posted": "2026-06-30T04:31:54-04:00",
+      "posted": "2026-07-01T12:21:17-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 75,
+      "match": 77,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -128,13 +101,40 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7694938003",
+      "id": "gh-mercury-5867562004",
+      "title": "Staff Product Manager - API & Agentic Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>At Mercury, we are building the banking stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><em><strong>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</strong><",
+      "posted": "2026-06-30T12:40:41-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the end-to-end bank product: operationalizing a new bank charter within Affirm's ecosystem, launching the deposit product, driving loan originations through the bank entity, and ensuring seamless integration across Affirm's platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You'll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm's bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Own the end-to-end bank product. Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of how the bank works within Affirm's ecosystem — and you d",
       "posted": "2026-06-18T11:27:47-04:00",
       "source": "Greenhouse",
@@ -362,6 +362,33 @@
       "status": "new"
     },
     {
+      "id": "gh-brex-8616324002",
+      "title": "Staff Product Manager, AI",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "New York, New York, United States",
+      "url": "https://www.brex.com/careers/8616324002?gh_jid=8616324002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2>Why join us</h2> <p>Brex is the intelligent finance platform that enables ",
+      "posted": "2026-07-01T13:52:14-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 65,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-robinhood-7587151",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -432,6 +459,32 @@
       ],
       "tags": [
         "Fintech",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8616327002",
+      "title": "Senior Product Manager, AI",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "Seattle, Washington, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8616327002?gh_jid=8616327002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2>Why join us</h2> <p>Brex is the intelligent finance platform that enables ",
+      "posted": "2026-07-01T13:52:13-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
         "Platform",
         "Banking"
       ],
