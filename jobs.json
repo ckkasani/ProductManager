@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T11:28:23.733Z",
+  "lastUpdated": "2026-07-01T14:47:16.467Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -31,7 +31,7 @@
       "posted": "2026-06-30T07:28:50-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 78,
+      "match": 76,
       "reasons": [
         "Strong skill alignment",
         "Fresh posting",
