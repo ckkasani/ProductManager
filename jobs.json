@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T17:54:31.150Z",
+  "lastUpdated": "2026-07-02T21:13:48.500Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 22,
+    "greenhouse": 21,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 21,
+  "totalJobs": 20,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -154,33 +154,6 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7697158003",
-      "title": "Principal Product Manager, Real-Time Payments Platform",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
-      "posted": "2026-06-29T14:47:34-04:00",
-      "source": "Greenhouse",
-      "department": "SIPS EPD",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7570242",
       "title": "Staff Product Manager, Global Expansion",
       "company": "Stripe",
@@ -202,32 +175,6 @@
         "Fintech",
         "Payments",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6106974004",
-      "title": "Head of Product - Business Lending",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
-      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
-      "posted": "2026-07-01T14:19:14-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 70,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "AI/ML",
-        "Banking"
       ],
       "status": "new"
     },
@@ -284,28 +231,28 @@
       "status": "new"
     },
     {
-      "id": "gh-marqeta-7743077",
-      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
-      "company": "Marqeta",
+      "id": "gh-mercury-6106974004",
+      "title": "Head of Product - Business Lending",
+      "company": "Mercury",
       "industry": "fintech",
-      "stage": "Public",
-      "location": "Toronto, Canada",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
-      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
-      "posted": "2026-06-25T15:29:40-04:00",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
+      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
+      "posted": "2026-07-01T14:19:14-04:00",
       "source": "Greenhouse",
-      "department": "Customer and Developer Experience Product",
+      "department": "Product Management",
       "match": 68,
       "reasons": [
-        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Cards",
-        "Fraud",
+        "Lending",
         "AI/ML",
-        "Compliance"
+        "Banking"
       ],
       "status": "new"
     },
@@ -336,21 +283,21 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7697154003",
-      "title": "Senior Product Manager, Commercial Banking",
+      "id": "gh-sofi-7697158003",
+      "title": "Principal Product Manager, Real-Time Payments Platform",
       "company": "SoFi",
       "industry": "fintech",
       "stage": "Public",
       "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697154003?gh_jid=7697154003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. We're seeking a Senior Product Manager to own the payments product experience and API/developer platform for Big Business Banking (BBB) - SoFi's zero-to-one ",
-      "posted": "2026-06-29T14:47:31-04:00",
+      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
+      "posted": "2026-06-29T14:47:34-04:00",
       "source": "Greenhouse",
       "department": "SIPS EPD",
       "match": 66,
       "reasons": [
         "Good skill match",
-        "Fresh posting",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
@@ -362,27 +309,28 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7571698",
-      "title": "Senior Product Manager - Payments",
-      "company": "Adyen",
+      "id": "gh-marqeta-7743077",
+      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
+      "company": "Marqeta",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7571698",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager - Payment Methods</strong></p> <p>Adyen is looking for a passionate Senior Product Manager to scale our Payments proposition that includes alternative payments such as wallets and banking payment methods across our fast growing suite of payments products in North America. As a Senior Product Manager in this team you will be given considerable freedom to advocate for the building the best emerging payment technol",
-      "posted": "2026-07-01T14:08:02-04:00",
+      "location": "Toronto, Canada",
+      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
+      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
+      "posted": "2026-06-25T15:29:40-04:00",
       "source": "Greenhouse",
-      "department": "Product Management",
+      "department": "Customer and Developer Experience Product",
       "match": 65,
       "reasons": [
-        "Fresh posting",
+        "Good skill match",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
+        "Cards",
+        "Fraud",
+        "AI/ML",
+        "Compliance"
       ],
       "status": "new"
     },
@@ -409,31 +357,6 @@
         "Payments",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7639014003",
-      "title": "Director of Product Management, Commercial Banking",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7639014003?gh_jid=7639014003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>We’re building Commercial Banking from the ground up and are looking for a <strong>Director Product Management </strong>to lead the strategy, architecture, and delivery of our next-generation business banking platform.</p> <p>This is a <strong>0→1, company-level role</s",
-      "posted": "2026-06-29T14:47:19-04:00",
-      "source": "Greenhouse",
-      "department": "SIPS EPD",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     },
@@ -490,6 +413,56 @@
       "status": "new"
     },
     {
+      "id": "gh-adyen-7571698",
+      "title": "Senior Product Manager - Payments",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7571698",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager - Payment Methods</strong></p> <p>Adyen is looking for a passionate Senior Product Manager to scale our Payments proposition that includes alternative payments such as wallets and banking payment methods across our fast growing suite of payments products in North America. As a Senior Product Manager in this team you will be given considerable freedom to advocate for the building the best emerging payment technol",
+      "posted": "2026-07-01T14:08:02-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-sofi-7697154003",
+      "title": "Senior Product Manager, Commercial Banking",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "WA - Seattle; CA - San Francisco   ",
+      "url": "https://sofi.com/careers/job/7697154003?gh_jid=7697154003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong>The Role</strong></p> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. We're seeking a Senior Product Manager to own the payments product experience and API/developer platform for Big Business Banking (BBB) - SoFi's zero-to-one ",
+      "posted": "2026-06-29T14:47:31-04:00",
+      "source": "Greenhouse",
+      "department": "SIPS EPD",
+      "match": 62,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-7077880",
       "title": "Head of Product, North America Payments",
       "company": "Adyen",
@@ -541,15 +514,15 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8614858002",
+      "id": "gh-brex-8616327002",
       "title": "Senior Product Manager, AI",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8614858002?gh_jid=8614858002",
+      "location": "Seattle, Washington, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8616327002?gh_jid=8616327002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2>Why join us</h2> <p>Brex is the intelligent finance platform that enables ",
-      "posted": "2026-07-01T13:52:12-04:00",
+      "posted": "2026-07-01T13:52:13-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 61,
