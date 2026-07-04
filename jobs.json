@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T10:16:05.303Z",
+  "lastUpdated": "2026-07-04T13:44:22.076Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -281,32 +281,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7610701",
-      "title": "Senior Product Manager - Authentication",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7610701",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h4><strong>The Role</strong></h4> <p>Every time someone pays online, there's a moment that determines whether the transaction succeeds or fails, not because the card was declined, but because the experience got in the way.That moment is authentication. And getting it right is one of the highest-leverage problems in payments.</p> <p>As a <strong>Senior</strong> <strong>Product Manager for Uplift Shopper Authentication</strong>, you'll own how Ad",
-      "posted": "2026-07-03T07:03:50-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 65,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-marqeta-7743077",
       "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
       "company": "Marqeta",
@@ -382,6 +356,32 @@
         "AI/ML",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7610701",
+      "title": "Senior Product Manager - Authentication",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7610701",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h4><strong>The Role</strong></h4> <p>Every time someone pays online, there's a moment that determines whether the transaction succeeds or fails, not because the card was declined, but because the experience got in the way.That moment is authentication. And getting it right is one of the highest-leverage problems in payments.</p> <p>As a <strong>Senior</strong> <strong>Product Manager for Uplift Shopper Authentication</strong>, you'll own how Ad",
+      "posted": "2026-07-03T07:03:50-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
