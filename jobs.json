@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T18:04:31.605Z",
+  "lastUpdated": "2026-07-07T21:28:36.296Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 16,
+    "greenhouse": 18,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 16,
+  "totalJobs": 18,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -31,7 +31,7 @@
       "posted": "2026-07-06T15:19:19-04:00",
       "source": "Greenhouse",
       "department": "8260 Risk and Compliance Platform PM",
-      "match": 82,
+      "match": 80,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -122,6 +122,32 @@
         "Lending",
         "Cards",
         "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7522608",
+      "title": "Head of Product, Developer Experience",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7522608",
+      "description": "<p><strong>About Adyen</strong></p> <p>Adyen is the financial technology platform of choice for leading companies. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen serves customers including Facebook, Uber, Spotify, and Microsoft.</p> <p></p> <p><strong>The Role</strong></p> <p>Adyen is seeking a visionary product leader to serve as our Head of Product for Developer Experience. Our developer platform is the foundation upon which thousands of businesses build their payment and financial systems. As our customers increasingly use AI-powered development tools to build their integrations, we are looking for an AI-native leader to set the strategy and accelerate the evolution of our platform.</p> <p>You will be responsible for the entire developer journey, from onboarding to the first API call to scaling globally. You will lead a team of talented product managers and tech writers to define and execute the roadmap for our APIs, SDKs, developer tooling, and documentation, ensuring Adyen provides a world-class, intuitive, and po",
+      "posted": "2026-07-07T16:50:47-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 68,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
@@ -327,6 +353,32 @@
         "Lending",
         "AI/ML",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7077880",
+      "title": "Head of Product, North America Payments",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7077880",
+      "description": "<p></p> <p><span style=\"font-size: 12pt;\"><strong>This is Adyen</strong></span></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3></h3> <h3><strong>The Role</strong></h3> <p>We are looking for a highly strategic, visionary, and technically adept <strong>Head of Product, North America Payments</strong>. In this executive-level role, you will be the driving force behind our regional payments strategy, leveraging advanced technologies like AI and ML to shape the future of our product offerings.</p> <p>You will lead a high-perf",
+      "posted": "2026-07-07T17:01:03-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 64,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
