@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T17:42:13.622Z",
+  "lastUpdated": "2026-07-08T21:13:27.694Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 18,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 18,
+  "totalJobs": 17,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -126,32 +126,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7522608",
-      "title": "Head of Product, Developer Experience",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7522608",
-      "description": "<p><strong>About Adyen</strong></p> <p>Adyen is the financial technology platform of choice for leading companies. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen serves customers including Facebook, Uber, Spotify, and Microsoft.</p> <p></p> <p><strong>The Role</strong></p> <p>Adyen is seeking a visionary product leader to serve as our Head of Product for Developer Experience. Our developer platform is the foundation upon which thousands of businesses build their payment and financial systems. As our customers increasingly use AI-powered development tools to build their integrations, we are looking for an AI-native leader to set the strategy and accelerate the evolution of our platform.</p> <p>You will be responsible for the entire developer journey, from onboarding to the first API call to scaling globally. You will lead a team of talented product managers and tech writers to define and execute the roadmap for our APIs, SDKs, developer tooling, and documentation, ensuring Adyen provides a world-class, intuitive, and po",
-      "posted": "2026-07-07T16:50:47-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 68,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7812856",
       "title": "Staff Product Manager, Enterprise",
       "company": "Stripe",
@@ -254,6 +228,32 @@
       "status": "new"
     },
     {
+      "id": "gh-adyen-7522608",
+      "title": "Head of Product, Developer Experience",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7522608",
+      "description": "<p><strong>About Adyen</strong></p> <p>Adyen is the financial technology platform of choice for leading companies. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen serves customers including Facebook, Uber, Spotify, and Microsoft.</p> <p></p> <p><strong>The Role</strong></p> <p>Adyen is seeking a visionary product leader to serve as our Head of Product for Developer Experience. Our developer platform is the foundation upon which thousands of businesses build their payment and financial systems. As our customers increasingly use AI-powered development tools to build their integrations, we are looking for an AI-native leader to set the strategy and accelerate the evolution of our platform.</p> <p>You will be responsible for the entire developer journey, from onboarding to the first API call to scaling globally. You will lead a team of talented product managers and tech writers to define and execute the roadmap for our APIs, SDKs, developer tooling, and documentation, ensuring Adyen provides a world-class, intuitive, and po",
+      "posted": "2026-07-07T16:50:47-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-marqeta-7743077",
       "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
       "company": "Marqeta",
@@ -301,57 +301,6 @@
         "Fintech",
         "Payments",
         "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6106974004",
-      "title": "Head of Product - Business Lending",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
-      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
-      "posted": "2026-07-01T14:19:14-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 64,
-      "reasons": [
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-7077880",
-      "title": "Head of Product, North America Payments",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7077880",
-      "description": "<p></p> <p><span style=\"font-size: 12pt;\"><strong>This is Adyen</strong></span></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3></h3> <h3><strong>The Role</strong></h3> <p>We are looking for a highly strategic, visionary, and technically adept <strong>Head of Product, North America Payments</strong>. In this executive-level role, you will be the driving force behind our regional payments strategy, leveraging advanced technologies like AI and ML to shape the future of our product offerings.</p> <p>You will lead a high-perf",
-      "posted": "2026-07-07T17:01:03-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 64,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
         "Platform"
       ],
       "status": "new"
@@ -434,27 +383,28 @@
       "status": "new"
     },
     {
-      "id": "gh-robinhood-7587151",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
+      "id": "gh-adyen-7077880",
+      "title": "Head of Product, North America Payments",
+      "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-06-24T16:17:10-04:00",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7077880",
+      "description": "<p></p> <p><span style=\"font-size: 12pt;\"><strong>This is Adyen</strong></span></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3></h3> <h3><strong>The Role</strong></h3> <p>We are looking for a highly strategic, visionary, and technically adept <strong>Head of Product, North America Payments</strong>. In this executive-level role, you will be the driving force behind our regional payments strategy, leveraging advanced technologies like AI and ML to shape the future of our product offerings.</p> <p>You will lead a high-perf",
+      "posted": "2026-07-07T17:01:03-04:00",
       "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 61,
+      "department": "Product Management",
+      "match": 62,
       "reasons": [
-        "Good skill match",
         "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Platform",
-        "Banking"
+        "Payments",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
@@ -481,6 +431,31 @@
         "Payments",
         "AI/ML",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6106974004",
+      "title": "Head of Product - Business Lending",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
+      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
+      "posted": "2026-07-01T14:19:14-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 61,
+      "reasons": [
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI/ML",
+        "Banking"
       ],
       "status": "new"
     }
