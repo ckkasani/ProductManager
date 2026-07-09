@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T18:00:26.860Z",
+  "lastUpdated": "2026-07-09T21:26:07.270Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -31,9 +31,35 @@
       "posted": "2026-07-06T15:19:19-04:00",
       "source": "Greenhouse",
       "department": "8260 Risk and Compliance Platform PM",
-      "match": 80,
+      "match": 76,
       "reasons": [
         "Strong skill alignment",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7517535",
+      "title": "Staff Product Manager, ML Foundations and GenAI",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>You will be joining Stripe’s ML Foundations and Gen AI team to incubate new ML applications and improve our ML capabilities across Stripe. Our team is responsible for unlocking novel ML and LLM techniques and applications across Stripe’s product suite to drive business outcomes, as well as providing infrastructure, tooling and support for ML teams.</p> <h2><strong>What you’ll do</strong></h2> <p>As a senior product leader, you will lead a cross-functional team to define, incubate and scale new ML/AI applications across Stripe’s product suite, and drive our strategy and r",
+      "posted": "2026-07-09T16:16:43-04:00",
+      "source": "Greenhouse",
+      "department": "8212 ML Foundations",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
         "Senior-level title",
         "Fresh posting",
         "Perfect domain fit"
@@ -41,7 +67,7 @@
       "tags": [
         "Fintech",
         "Payments",
-        "Fraud",
+        "AI/ML",
         "Platform"
       ],
       "status": "new"
@@ -225,32 +251,6 @@
         "Payments",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-marqeta-7743077",
-      "title": "Senior Product Manager - Dashboard & Enterprise Operational Platforms",
-      "company": "Marqeta",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Toronto, Canada",
-      "url": "https://job-boards.greenhouse.io/marqeta/jobs/7743077",
-      "description": "<p>Marqeta is seeking a <strong>Senior Product Manager for Marqeta Dashboard Enterprise Operational Platforms</strong> to lead the strategy, development, and evolution of the systems that power financial operations at scale.This role owns the Marqeta Dashboard, the core operational interface used by customers, bank partners, and internal teams to manage card programs, investigate transactions, handle disputes, and monitor performance.</p> <p>You will build the tooling that enables operations teams to run financial products efficiently and securely, transforming complex workflows into intuitive, scalable systems. This includes opportunities to introduce AI-driven automation, improve operational visibility, and reduce manual effort across the platform.You’ll work cross-functionally with Engineering, Design, Risk, Compliance, CX, and Data teams to deliver high-impact solutions that sit at the center of how Marqeta operates.</p> <p>The Marqeta Dashboard is where operations happen. It is how customers run their programs, resolve issues, and gain control over their financial products.This role defines how that experience evolves — turning operational complexity into scalable, intelligent",
-      "posted": "2026-06-25T15:29:40-04:00",
-      "source": "Greenhouse",
-      "department": "Customer and Developer Experience Product",
-      "match": 65,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "Fraud",
-        "AI/ML",
-        "Compliance"
       ],
       "status": "new"
     },
