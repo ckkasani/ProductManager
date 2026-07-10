@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T14:38:37.624Z",
+  "lastUpdated": "2026-07-10T17:50:13.262Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,14 +11,41 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 18,
+    "greenhouse": 19,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 18,
+  "totalJobs": 19,
   "highMatchJobs": 0,
   "jobs": [
+    {
+      "id": "gh-stripe-8043083",
+      "title": "Staff Product Manager, Issuing",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
+      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
+      "posted": "2026-07-10T11:42:29-04:00",
+      "source": "Greenhouse",
+      "department": "8256 BaaS - PM",
+      "match": 81,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
     {
       "id": "gh-stripe-8040052",
       "title": "Staff Product Manager, Risk Product Experience",
