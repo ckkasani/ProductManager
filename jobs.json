@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T17:58:27.758Z",
+  "lastUpdated": "2026-07-13T21:01:23.219Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,40 +11,14 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 15,
+    "greenhouse": 14,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 15,
+  "totalJobs": 14,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-stripe-8040052",
-      "title": "Staff Product Manager, Risk Product Experience",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Seattle, New-York, San Francisco, Atlanta",
-      "url": "https://stripe.com/jobs/search?gh_jid=8040052",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Risk Product Experience team develops products for users to understand, manage, and improve their risk standing on Stripe. We craft outstanding product experiences to help users navigate all of Stripe's risk journeys (i.e. information collection to meet partner and regulatory commitments). These risk experiences are some of Stripe's most critical user journeys—allowing us to seamlessly onboard users to the global financial ecosystem and apply targeted actions to stop fraud and financial crime. The Risk Product Experience team delivers these journeys at scale (i.e. millions of us",
-      "posted": "2026-07-06T15:19:19-04:00",
-      "source": "Greenhouse",
-      "department": "8260 Risk and Compliance Platform PM",
-      "match": 76,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-8043083",
       "title": "Staff Product Manager, Issuing",
@@ -67,6 +41,32 @@
         "Fintech",
         "Payments",
         "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8040052",
+      "title": "Staff Product Manager, Risk Product Experience",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Seattle, New-York, San Francisco, Atlanta",
+      "url": "https://stripe.com/jobs/search?gh_jid=8040052",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Risk Product Experience team develops products for users to understand, manage, and improve their risk standing on Stripe. We craft outstanding product experiences to help users navigate all of Stripe's risk journeys (i.e. information collection to meet partner and regulatory commitments). These risk experiences are some of Stripe's most critical user journeys—allowing us to seamlessly onboard users to the global financial ecosystem and apply targeted actions to stop fraud and financial crime. The Risk Product Experience team delivers these journeys at scale (i.e. millions of us",
+      "posted": "2026-07-06T15:19:19-04:00",
+      "source": "Greenhouse",
+      "department": "8260 Risk and Compliance Platform PM",
+      "match": 73,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
         "Platform"
       ],
       "status": "new"
@@ -275,32 +275,6 @@
         "Fintech",
         "Payments",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7697158003",
-      "title": "Principal Product Manager, Real-Time Payments Platform",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "WA - Seattle; CA - San Francisco   ",
-      "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h2><strong>The Role:</strong></h2> <p>At SoFi, we're on a mission to help our members get their money right and become a Top 10 Financial Institution. Beyond that, we're building the \"AWS of Banking\" — modern, scalable platforms that power financial services across every SoFi product.</p> <p>We're lookin",
-      "posted": "2026-06-29T14:47:34-04:00",
-      "source": "Greenhouse",
-      "department": "SIPS EPD",
-      "match": 63,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     },
