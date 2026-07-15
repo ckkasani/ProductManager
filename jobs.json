@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T21:04:20.565Z",
+  "lastUpdated": "2026-07-15T02:49:54.778Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 11,
+    "greenhouse": 19,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 11,
+  "totalJobs": 13,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -46,34 +46,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7801336003",
-      "title": "Senior Director, Product Management",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><h3><strong><strong>About the role</strong></strong></h3> <p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platform that powers card issuance, authorization, servicing, and partner integrations.</p> <p>This is a pillar-level leadership role responsible for defining strategy, building a high-performing team, and delivering durable business outcomes across one of Affirm’s most strategic product areas.</p> <h3><strong><strong>What you’ll do</strong></strong></h3> <p><strong><strong>Own the Card domain end-to-end</strong></strong></p> <ul> <li> <p>Define and drive the multi-year vision for Affirm Card across consumer experience, growth, and ",
-      "posted": "2026-07-14T16:11:31-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 74,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Cards",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-8040052",
       "title": "Staff Product Manager, Risk Product Experience",
       "company": "Stripe",
@@ -95,6 +67,33 @@
         "Fintech",
         "Payments",
         "Fraud",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7801336003",
+      "title": "Senior Director, Product Management",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><h3><strong>About the Product team</strong></h3> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <h3><strong><strong>About the role</strong></strong></h3> <p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platfo",
+      "posted": "2026-07-14T19:34:06-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 71,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Cards",
         "Platform"
       ],
       "status": "new"
@@ -224,6 +223,60 @@
         "Fintech",
         "Payments",
         "Cards",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8432698002",
+      "title": "Staff Product Manager",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States / New York, New York, United States",
+      "url": "https://www.brex.com/careers/8432698002?gh_jid=8432698002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p style=\"line-height: 1.2;\"><strong>Product at Brex</strong></p> <p>The Produ",
+      "posted": "2026-07-14T17:42:51-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 65,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8436527002",
+      "title": "Staff Product Manager, Growth",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States / New York, New York, United States",
+      "url": "https://www.brex.com/careers/8436527002?gh_jid=8436527002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
+      "posted": "2026-07-14T17:42:51-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 65,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
         "Platform",
         "Banking"
       ],
