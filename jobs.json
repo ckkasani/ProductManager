@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T10:02:56.080Z",
+  "lastUpdated": "2026-07-17T13:48:21.959Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -152,32 +152,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8045868",
-      "title": "Senior Product Manager - Split Payments",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8045868",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Split Payments</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen’s value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts and capital; facilitated by Adyen’s global Banking licenses. Behind every platform transaction is a critical need to dynamically automate fund distribut",
-      "posted": "2026-07-10T08:38:10-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 66,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-affirm-7780490003",
       "title": "Director, Product Management (Shopping & Offers)",
       "company": "Affirm",
@@ -304,6 +278,32 @@
         "Fintech",
         "Cards",
         "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8045868",
+      "title": "Senior Product Manager - Split Payments",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8045868",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Split Payments</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen’s value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts and capital; facilitated by Adyen’s global Banking licenses. Behind every platform transaction is a critical need to dynamically automate fund distribut",
+      "posted": "2026-07-10T08:38:10-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
         "Platform",
         "Banking"
       ],
