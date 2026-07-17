@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T21:06:52.004Z",
+  "lastUpdated": "2026-07-17T03:13:38.744Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 17,
+    "greenhouse": 19,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 11,
+  "totalJobs": 12,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -178,27 +178,29 @@
       "status": "new"
     },
     {
-      "id": "gh-robinhood-7587151",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
+      "id": "gh-affirm-7780492003",
+      "title": "Director, Product Management (Shopping & Offers)",
+      "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-07-09T19:02:18-04:00",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7780492003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Shopping Offers program is a fast-growing platform that operates with the agility of a startup while leveraging the scale of an industry leader, delivering Shopping and Offers experiences directly to our Consumers and Conversion for our Merchant partners alike. You will be a pivotal strategic leader responsible for defining the next chapter of Affirm's DTC shopping and offers experience. You will lead a portfolio of high-impact consumer journeys—including Agentic Search, Home, and Profile experiences—that directly influence conversion, engagement, and revenue. This is a role for a seasoned product leader obsessed with consumer experiences, two sided marketplaces, and disrupting the payments credit landscape.</p> <p>What you'll do</p> <ul> <li>Strategic Leadership: Define and socialize a long-term Shopping Offers vision and strategy, and translate that vision into clear roadmaps and decisions that teams can execute against</li> <li>Portfolio Oversight: Manage and scal",
+      "posted": "2026-07-16T21:51:30-04:00",
       "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 64,
+      "department": "Product Management",
+      "match": 65,
       "reasons": [
-        "Good skill match",
         "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Platform",
-        "Banking"
+        "Payments",
+        "Lending",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
@@ -259,7 +261,7 @@
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / Vancouver, British Columbia, Canada / New York, New York, United States / Seattle, Washington, United States",
+      "location": "San Francisco, California, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada / New York, New York, United States",
       "url": "https://www.brex.com/careers/8432698002?gh_jid=8432698002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p style=\"line-height: 1.2;\"><strong>Product at Brex</strong></p> <p>The Produ",
       "posted": "2026-07-14T17:42:51-04:00",
@@ -281,13 +283,13 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8436531002",
+      "id": "gh-brex-8436530002",
       "title": "Staff Product Manager, Growth",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Vancouver, British Columbia, Canada / Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8436531002?gh_jid=8436531002",
+      "location": "Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada",
+      "url": "https://www.brex.com/careers/8436530002?gh_jid=8436530002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
       "posted": "2026-07-14T17:42:52-04:00",
       "source": "Greenhouse",
@@ -302,6 +304,31 @@
         "Fintech",
         "Cards",
         "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-7587151",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Bellevue, WA; Chicago, IL; Denver, CO; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-07-09T19:02:18-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 61,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
         "Platform",
         "Banking"
       ],
