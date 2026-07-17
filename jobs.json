@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T13:48:21.959Z",
+  "lastUpdated": "2026-07-17T17:16:38.784Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,32 +19,6 @@
   "totalJobs": 12,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-stripe-8043083",
-      "title": "Staff Product Manager, Issuing",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
-      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
-      "posted": "2026-07-10T11:42:29-04:00",
-      "source": "Greenhouse",
-      "department": "8256 BaaS - PM",
-      "match": 75,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-8040052",
       "title": "Staff Product Manager, Risk Product Experience",
@@ -67,6 +41,32 @@
         "Fintech",
         "Payments",
         "Fraud",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8043083",
+      "title": "Staff Product Manager, Issuing",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
+      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
+      "posted": "2026-07-10T11:42:29-04:00",
+      "source": "Greenhouse",
+      "department": "8256 BaaS - PM",
+      "match": 72,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
         "Platform"
       ],
       "status": "new"
@@ -136,7 +136,7 @@
       "posted": "2026-07-16T10:30:14-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 69,
+      "match": 67,
       "reasons": [
         "Good skill match",
         "Fresh posting",
@@ -152,15 +152,15 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7780490003",
+      "id": "gh-affirm-7780492003",
       "title": "Director, Product Management (Shopping & Offers)",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7780490003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7780492003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Shopping Offers program is a fast-growing platform that operates with the agility of a startup while leveraging the scale of an industry leader, delivering Shopping and Offers experiences directly to our Consumers and Conversion for our Merchant partners alike. You will be a pivotal strategic leader responsible for defining the next chapter of Affirm's DTC shopping and offers experience. You will lead a portfolio of high-impact consumer journeys—including Agentic Search, Home, and Profile experiences—that directly influence conversion, engagement, and revenue. This is a role for a seasoned product leader obsessed with consumer experiences, two sided marketplaces, and disrupting the payments credit landscape.</p> <p>What you'll do</p> <ul> <li>Strategic Leadership: Define and socialize a long-term Shopping Offers vision and strategy, and translate that vision into clear roadmaps and decisions that teams can execute against</li> <li>Portfolio Oversight: Manage and scal",
-      "posted": "2026-07-16T21:47:35-04:00",
+      "posted": "2026-07-16T21:51:30-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
       "match": 65,
@@ -230,14 +230,14 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8433764002",
+      "id": "gh-brex-8432698002",
       "title": "Staff Product Manager",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Vancouver, British Columbia, Canada / Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8433764002?gh_jid=8433764002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
+      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada",
+      "url": "https://www.brex.com/careers/8432698002?gh_jid=8432698002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p style=\"line-height: 1.2;\"><strong>Product at Brex</strong></p> <p>The Produ",
       "posted": "2026-07-14T17:42:51-04:00",
       "source": "Greenhouse",
       "department": "Product",
@@ -257,15 +257,15 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8436531002",
+      "id": "gh-brex-8436527002",
       "title": "Staff Product Manager, Growth",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Vancouver, British Columbia, Canada / San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8436531002?gh_jid=8436531002",
+      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada",
+      "url": "https://www.brex.com/careers/8436527002?gh_jid=8436527002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-07-14T17:42:52-04:00",
+      "posted": "2026-07-14T17:42:51-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 63,
