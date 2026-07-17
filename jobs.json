@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T17:16:38.784Z",
+  "lastUpdated": "2026-07-17T21:00:57.835Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 19,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 12,
+  "totalJobs": 11,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -152,33 +152,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7780492003",
-      "title": "Director, Product Management (Shopping & Offers)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7780492003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Shopping Offers program is a fast-growing platform that operates with the agility of a startup while leveraging the scale of an industry leader, delivering Shopping and Offers experiences directly to our Consumers and Conversion for our Merchant partners alike. You will be a pivotal strategic leader responsible for defining the next chapter of Affirm's DTC shopping and offers experience. You will lead a portfolio of high-impact consumer journeys—including Agentic Search, Home, and Profile experiences—that directly influence conversion, engagement, and revenue. This is a role for a seasoned product leader obsessed with consumer experiences, two sided marketplaces, and disrupting the payments credit landscape.</p> <p>What you'll do</p> <ul> <li>Strategic Leadership: Define and socialize a long-term Shopping Offers vision and strategy, and translate that vision into clear roadmaps and decisions that teams can execute against</li> <li>Portfolio Oversight: Manage and scal",
-      "posted": "2026-07-16T21:51:30-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7517535",
       "title": "Staff Product Manager, ML Foundations and GenAI",
       "company": "Stripe",
@@ -230,14 +203,14 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8432698002",
+      "id": "gh-brex-8432702002",
       "title": "Staff Product Manager",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada",
-      "url": "https://www.brex.com/careers/8432698002?gh_jid=8432698002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p style=\"line-height: 1.2;\"><strong>Product at Brex</strong></p> <p>The Produ",
+      "location": "New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8432702002?gh_jid=8432702002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
       "posted": "2026-07-14T17:42:51-04:00",
       "source": "Greenhouse",
       "department": "Product",
@@ -257,13 +230,13 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8436527002",
+      "id": "gh-brex-8436528002",
       "title": "Staff Product Manager, Growth",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada",
-      "url": "https://www.brex.com/careers/8436527002?gh_jid=8436527002",
+      "location": "New York, New York, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8436528002?gh_jid=8436528002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
       "posted": "2026-07-14T17:42:51-04:00",
       "source": "Greenhouse",
