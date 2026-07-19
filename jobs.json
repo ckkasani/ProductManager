@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T20:55:42.560Z",
+  "lastUpdated": "2026-07-19T03:22:21.328Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -151,6 +151,32 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7517535",
+      "title": "Staff Product Manager, ML Foundations and GenAI",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>You will be joining Stripe’s ML Foundations and Gen AI team to incubate new ML applications and improve our ML capabilities across Stripe. Our team is responsible for unlocking novel ML and LLM techniques and applications across Stripe’s product suite to drive business outcomes, as well as providing infrastructure, tooling and support for ML teams.</p> <h2><strong>What you’ll do</strong></h2> <p>As a senior product leader, you will lead a cross-functional team to define, incubate and scale new ML/AI applications across Stripe’s product suite, and drive our strategy and r",
+      "posted": "2026-07-09T16:16:43-04:00",
+      "source": "Greenhouse",
+      "department": "8212 ML Foundations",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-brex-8433764002",
       "title": "Staff Product Manager",
       "company": "Brex",
@@ -162,7 +188,7 @@
       "posted": "2026-07-17T17:17:54-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 65,
+      "match": 63,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -189,7 +215,7 @@
       "posted": "2026-07-17T17:17:54-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 65,
+      "match": 63,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -201,32 +227,6 @@
         "AI/ML",
         "Platform",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7517535",
-      "title": "Staff Product Manager, ML Foundations and GenAI",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Seattle, San Francisco, New York, US - Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7517535",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>You will be joining Stripe’s ML Foundations and Gen AI team to incubate new ML applications and improve our ML capabilities across Stripe. Our team is responsible for unlocking novel ML and LLM techniques and applications across Stripe’s product suite to drive business outcomes, as well as providing infrastructure, tooling and support for ML teams.</p> <h2><strong>What you’ll do</strong></h2> <p>As a senior product leader, you will lead a cross-functional team to define, incubate and scale new ML/AI applications across Stripe’s product suite, and drive our strategy and r",
-      "posted": "2026-07-09T16:16:43-04:00",
-      "source": "Greenhouse",
-      "department": "8212 ML Foundations",
-      "match": 64,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
       ],
       "status": "new"
     },
