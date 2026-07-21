@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T17:25:47.237Z",
+  "lastUpdated": "2026-07-21T21:14:50.218Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -20,15 +20,15 @@
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-affirm-7694940003",
+      "id": "gh-affirm-7694938003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
-      "posted": "2026-07-20T08:44:49-04:00",
+      "posted": "2026-07-20T08:43:45-04:00",
       "source": "Greenhouse",
       "department": "Financial Platforms Product",
       "match": 81,
@@ -79,13 +79,13 @@
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / Vancouver, British Columbia, Canada / Seattle, Washington, United States / New York, New York, United States",
+      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States / Vancouver, British Columbia, Canada",
       "url": "https://www.brex.com/careers/8432707002?gh_jid=8432707002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
       "posted": "2026-07-20T16:17:43-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 68,
+      "match": 66,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -153,60 +153,6 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8433764002",
-      "title": "Staff Product Manager",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Vancouver, British Columbia, Canada / San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8433764002?gh_jid=8433764002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-07-20T16:15:33-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8436531002",
-      "title": "Staff Product Manager, Growth",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Vancouver, British Columbia, Canada / Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8436531002?gh_jid=8436531002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-07-20T16:16:28-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7517535",
       "title": "Staff Product Manager, ML Foundations and GenAI",
       "company": "Stripe",
@@ -233,19 +179,47 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8438582002",
-      "title": "Group Product Manager",
+      "id": "gh-brex-8432703002",
+      "title": "Staff Product Manager",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Seattle, Washington, United States / San Francisco, California, United States / Vancouver, British Columbia, Canada / New York, New York, United States",
-      "url": "https://www.brex.com/careers/8438582002?gh_jid=8438582002",
+      "location": "Seattle, Washington, United States / Vancouver, British Columbia, Canada / New York, New York, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8432703002?gh_jid=8432703002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-07-20T16:19:03-04:00",
+      "posted": "2026-07-20T16:15:21-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 64,
+      "match": 63,
       "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8436531002",
+      "title": "Staff Product Manager, Growth",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "Vancouver, British Columbia, Canada / Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8436531002?gh_jid=8436531002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
+      "posted": "2026-07-20T16:16:28-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Senior-level title",
         "Fresh posting",
         "Perfect domain fit"
       ],
@@ -305,6 +279,32 @@
         "Fintech",
         "Payments",
         "Cards",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8438580002",
+      "title": "Group Product Manager",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "San Francisco, California, United States / Vancouver, British Columbia, Canada / New York, New York, United States / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8438580002?gh_jid=8438580002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
+      "posted": "2026-07-20T16:18:26-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 62,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
         "Platform",
         "Banking"
       ],
