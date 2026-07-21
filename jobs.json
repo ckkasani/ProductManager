@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T21:15:22.555Z",
+  "lastUpdated": "2026-07-21T03:16:47.692Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -20,15 +20,15 @@
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-affirm-7694938003",
+      "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
-      "posted": "2026-07-20T08:43:45-04:00",
+      "posted": "2026-07-20T08:44:49-04:00",
       "source": "Greenhouse",
       "department": "Financial Platforms Product",
       "match": 83,
