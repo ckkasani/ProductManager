@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T17:41:18.805Z",
+  "lastUpdated": "2026-07-24T21:08:43.746Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 19,
+    "greenhouse": 23,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 15,
+  "totalJobs": 18,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -102,15 +102,15 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7694940003",
+      "id": "gh-affirm-7694938003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
-      "posted": "2026-07-20T08:44:49-04:00",
+      "posted": "2026-07-20T08:43:45-04:00",
       "source": "Greenhouse",
       "department": "Financial Platforms Product",
       "match": 77,
@@ -151,6 +151,33 @@
         "Fintech",
         "Payments",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-5867562004",
+      "title": "Staff Product Manager - API & Agentic Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>At Mercury, we are building the banking stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><em><strong>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</strong><",
+      "posted": "2026-07-24T14:24:53-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 75,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -242,7 +269,7 @@
       "stage": "Late",
       "location": "Seattle, San Francisco, New York, US - Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=7517535",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies��from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>You will be joining Stripe’s ML Foundations and Gen AI team to incubate new ML applications and improve our ML capabilities across Stripe. Our team is responsible for unlocking novel ML and LLM techniques and applications across Stripe’s product suite to drive business outcomes, as well as providing infrastructure, tooling and support for ML teams.</p> <h2><strong>What you’ll do</strong></h2> <p>As a senior product leader, you will lead a cross-functional team to define, incubate and scale new ML/AI applications across Stripe’s product suite, and drive our strategy and ",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>You will be joining Stripe’s ML Foundations and Gen AI team to incubate new ML applications and improve our ML capabilities across Stripe. Our team is responsible for unlocking novel ML and LLM techniques and applications across Stripe’s product suite to drive business outcomes, as well as providing infrastructure, tooling and support for ML teams.</p> <h2><strong>What you’ll do</strong></h2> <p>As a senior product leader, you will lead a cross-functional team to define, incubate and scale new ML/AI applications across Stripe’s product suite, and drive our strategy and r",
       "posted": "2026-07-22T13:25:41-04:00",
       "source": "Greenhouse",
       "department": "8212 ML Foundations",
@@ -258,6 +285,32 @@
         "Payments",
         "AI/ML",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6106974004",
+      "title": "Head of Product - Business Lending",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
+      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
+      "posted": "2026-07-24T14:24:53-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 70,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI/ML",
+        "Banking"
       ],
       "status": "new"
     },
@@ -289,25 +342,77 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-5867562004",
-      "title": "Staff Product Manager - API & Agentic Banking",
-      "company": "Mercury",
+      "id": "gh-brex-8616324002",
+      "title": "Staff Product Manager, AI",
+      "company": "Brex",
       "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>At Mercury, we are building the banking stack for startups and doing so with a focus on building a high-craft, simple, and powerful product experience.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. Mercury's API is how our most ambitious customers interact with us programmatically: pulling transaction data, managing accounts, and increasingly, connecting Mercury to AI-powered workflows through integrations like MCP. We're building toward a Mercury that customers and AI agents can talk to, ask questions of, and take action through.</p> <p>We're looking for a product manager to own Mercury's API, our integrations with the broader AI and developer tool ecosystem, and the AI-powered product experiences we're building to make Mercury programmable and intelligent. This is a role for someone who's been building in the API and AI space already and who sees the opportunity to make a bank programmable as one of the most interesting product problems available right now.</p> <p><em><strong>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</strong><",
-      "posted": "2026-07-10T20:13:00-04:00",
+      "stage": "D",
+      "location": "New York, New York, United States",
+      "url": "https://www.brex.com/careers/8616324002?gh_jid=8616324002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platfor",
+      "posted": "2026-07-24T15:47:42-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 66,
+      "match": 65,
       "reasons": [
-        "Good skill match",
         "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6098827004",
+      "title": "Senior Product Manager - Business Lending",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6098827004",
+      "description": "<p>In the days after the 1906 earthquake and fire destroyed most of San Francisco, the city's banks stayed shut, their vaults too hot to open for weeks. Amadeo Giannini, who ran the small Bank of Italy, did the opposite. He set up a makeshift desk on the wharf, a plank laid across two barrels, and began lending. Most of his customers were shopkeepers, fishermen, and tradespeople who had lost everything, including any papers proving who they were. So Giannini lent on a signature and a handshake, betting on the people in front of him. Those loans helped rebuild the city block by block, and, the story goes, every one of them was paid back.</p> <p>That's the promise of a business loan: capital, offered fairly and fast, to people with the will and the plan to build something. More than a century later, too many growing businesses still hit a version of the closed vault: slow processes, opaque decisions, and paperwork that arrives too late to matter.</p> <p>At Mercury, we're building lending products that give growing businesses fast, fair, transparent access to the capital that lets them say yes when it counts. We're looking for a Senior PM to own this product end-to-end. You'll blend s",
+      "posted": "2026-07-24T14:24:53-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 64,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8616327002",
+      "title": "Senior Product Manager, AI",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "Seattle, Washington, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8616327002?gh_jid=8616327002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platfor",
+      "posted": "2026-07-24T15:46:29-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
         "AI/ML",
         "Platform",
         "Banking"
@@ -362,31 +467,6 @@
         "Cards",
         "AI/ML",
         "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6106974004",
-      "title": "Head of Product - Business Lending",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
-      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
-      "posted": "2026-07-10T20:13:00-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 61,
-      "reasons": [
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "AI/ML",
         "Banking"
       ],
       "status": "new"
