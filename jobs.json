@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T09:53:18.664Z",
+  "lastUpdated": "2026-07-25T13:44:51.900Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -129,32 +129,6 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7570242",
-      "title": "Staff Product Manager, Global Expansion",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=7570242",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
-      "posted": "2026-07-24T07:34:58-04:00",
-      "source": "Greenhouse",
-      "department": "8262 APAC - PM",
-      "match": 76,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-mercury-5867562004",
       "title": "Staff Product Manager - API & Agentic Banking",
       "company": "Mercury",
@@ -178,6 +152,32 @@
         "AI/ML",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7570242",
+      "title": "Staff Product Manager, Global Expansion",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7570242",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
+      "posted": "2026-07-24T07:34:58-04:00",
+      "source": "Greenhouse",
+      "department": "8262 APAC - PM",
+      "match": 74,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
       ],
       "status": "new"
     },
