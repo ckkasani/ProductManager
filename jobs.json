@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T21:15:40.716Z",
+  "lastUpdated": "2026-07-28T02:52:24.016Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 16,
+    "greenhouse": 15,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 15,
+  "totalJobs": 14,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -332,30 +332,6 @@
       "tags": [
         "Fintech",
         "Lending",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6126980004",
-      "title": "Senior Product Manager - Dashboard Experience",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6126980004",
-      "description": "<p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>Dashboard is the home base of Mercury and the connective tissue between everything you need: home, search, tasks, notifications, and the moment-to-moment sense of place and priority. When it's done right, it feels like a thousand tiny things working invisibly in your favor.</p> <p>As Mercury grows more capable, it also grows more complex. Our job is to make sure customers only ever feel the first part: to take an increasingly powerful product and keep it legible, no matter how much is happening underneath it.</p> <p>Our product should meet customers where they are: every task closed, every intent read correctly, every alert landing before it's needed. We aim to make our customers feel that their ambition is inevitable.</p> <p><strong><em>*</em></strong><em> Mercury is a fintech company, not an FDIC-insured bank. Banking services provid",
-      "posted": "2026-07-24T18:29:47-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
         "AI/ML",
         "Banking"
       ],
