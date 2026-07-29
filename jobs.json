@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T17:19:32.852Z",
+  "lastUpdated": "2026-07-29T21:01:07.922Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 15,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 13,
+  "totalJobs": 15,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -75,6 +75,34 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7655023",
+      "title": "Staff Product Manager, AI",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, New York, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7655023",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Payments Intelligence organization optimizes each of the billions of dollars of transactions processed by Stripe annually on behalf of our users, maximizing successful transactions while minimizing payment costs and fraud. We own products like Radar, Authorization Boost, and Disputes, building fast and scalable services and creating intuitive user experiences. We serve real-time predictions as part of Stripe’s payment infrastructure and architect controls that leverage ML to optimally manage users’ business.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Produc",
+      "posted": "2026-07-29T14:40:14-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 79,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-8043083",
       "title": "Staff Product Manager, Issuing",
       "company": "Stripe",
@@ -128,29 +156,28 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7980498",
-      "title": "Staff Product Manager, Cards Monetization",
+      "id": "gh-stripe-7812856",
+      "title": "Staff Product Manager, Enterprise",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Seattle, San Francisco, New York, US - Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7980498",
-      "description": "<p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Cards team at Stripe is responsible for the infrastructure, user facing features, and business of accepting credit, debit, and pre-paid card payments. Delivering the best offering for processing credit, debit, and prepaid cards is critical to Stripe’s mission, given the central role card payments play in internet commerce.</p> <h3><strong>What you’ll do</strong></h3> <p>As a Staff Product Manager for Cards Monetization at Stripe, you’ll be responsible for pricing Card payment products worldwide. Everyday - You’ll balance the needs of our customers and competitive landscape, while helping Stripe maintain i",
-      "posted": "2026-07-22T13:25:41-04:00",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
+      "posted": "2026-07-29T14:07:29-04:00",
       "source": "Greenhouse",
-      "department": "8552 PayIntel - PM",
+      "department": "8712 Enterprise Engine",
       "match": 73,
       "reasons": [
-        "Strong skill alignment",
+        "Good skill match",
         "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
-        "Lending",
-        "Cards",
-        "AI/ML"
+        "Platform"
       ],
       "status": "new"
     },
@@ -209,28 +236,29 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7819059",
-      "title": "Staff Product Manager, Payments",
+      "id": "gh-stripe-7980498",
+      "title": "Staff Product Manager, Cards Monetization",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "SF, SEA, NYC, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7980498",
+      "description": "<p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Cards team at Stripe is responsible for the infrastructure, user facing features, and business of accepting credit, debit, and pre-paid card payments. Delivering the best offering for processing credit, debit, and prepaid cards is critical to Stripe’s mission, given the central role card payments play in internet commerce.</p> <h3><strong>What you’ll do</strong></h3> <p>As a Staff Product Manager for Cards Monetization at Stripe, you’ll be responsible for pricing Card payment products worldwide. Everyday - You’ll balance the needs of our customers and competitive landscape, while helping Stripe maintain i",
       "posted": "2026-07-22T13:25:41-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 69,
+      "match": 70,
       "reasons": [
-        "Good skill match",
+        "Strong skill alignment",
         "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
+        "Lending",
         "Cards",
-        "Platform"
+        "AI/ML"
       ],
       "status": "new"
     },
@@ -315,6 +343,32 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7819059",
+      "title": "Staff Product Manager, Payments",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NYC, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
+      "posted": "2026-07-22T13:25:41-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 66,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-6106974004",
       "title": "Head of Product - Business Lending",
       "company": "Mercury",
@@ -340,14 +394,14 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7718661003",
+      "id": "gh-affirm-7718659003",
       "title": "Director of Product Management, Financial Platforms",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7718661003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Financial Platform sits at the heart of every loan Affirm makes and every dollar we move. We're looking for a Director of Product Management to lead and scale the teams behind two of our most critical and complex domains: Loans Lifecycle and Money Movement. This is a role for a seasoned product leader who thrives in the intersection of financial systems, platform engineering, and organizational scale.</p> <p><strong>What you’ll do</strong></p> <ul> <li><strong><strong>Lead and grow a high-performing PM team.</strong> </strong>Build, mentor, and manage a team of 6–10 product managers, including people managers. You'll set the bar for craft, create development paths, and cultivate a culture of ownership, rigor, and candor.</li> <li><strong><strong>Own the vision and strategy for Loans Lifecycle and Money Movement.</strong> </strong>Define the multi-year product strategy for Affirm's foundational loan systems and global money movement infrastructure — ensuring they are ",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7718659003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Financial Platform sits at the heart of every loan Affirm makes and every dollar we move. We're looking for a Director of Product Management to lead and scale the teams behind two of our most critical and complex domains: Loans Lifecycle and Money Movement. This is a role for a seasoned product leader who thrives in the intersection of financial systems, platform engineering, and organizational scale.</p> <p><br><strong>What you’ll do</strong></p> <ul> <li><strong><strong>Lead and grow a high-performing PM team.</strong> </strong>Build, mentor, and manage a team of 6–10 product managers, including people managers. You'll set the bar for craft, create development paths, and cultivate a culture of ownership, rigor, and candor.</li> <li><strong><strong>Own the vision and strategy for Loans Lifecycle and Money Movement.</strong> </strong>Define the multi-year product strategy for Affirm's foundational loan systems and global money movement infrastructure — ensuring they ",
       "posted": "2026-07-29T11:04:28-04:00",
       "source": "Greenhouse",
       "department": "Financial Platforms Product",
