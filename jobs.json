@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T14:20:57.331Z",
+  "lastUpdated": "2026-07-29T17:19:32.852Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,14 +11,42 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 13,
+    "greenhouse": 15,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 12,
+  "totalJobs": 13,
   "highMatchJobs": 0,
   "jobs": [
+    {
+      "id": "gh-affirm-7694938003",
+      "title": "Staff Product Manager, Affirm Bank",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
+      "posted": "2026-07-29T11:04:25-04:00",
+      "source": "Greenhouse",
+      "department": "Financial Platforms Product",
+      "match": 83,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Compliance",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
     {
       "id": "gh-stripe-8040052",
       "title": "Staff Product Manager, Risk Product Experience",
@@ -96,33 +124,6 @@
         "Fintech",
         "Payments",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-7694938003",
-      "title": "Staff Product Manager, Affirm Bank",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
-      "posted": "2026-07-20T08:43:45-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 74,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Compliance",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     },
@@ -208,33 +209,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7801336003",
-      "title": "Senior Director, Product Management",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><h3><strong>About the Product team</strong></h3> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <h3><strong><strong>About the role</strong></strong></h3> <p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying",
-      "posted": "2026-07-28T12:30:17-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7819059",
       "title": "Staff Product Manager, Payments",
       "company": "Stripe",
@@ -255,6 +229,33 @@
       "tags": [
         "Fintech",
         "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7801336003",
+      "title": "Senior Director, Product Management",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><h3><strong>About the Product team</strong></h3> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <h3><strong><strong>About the role</strong></strong></h3> <p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying",
+      "posted": "2026-07-28T12:30:17-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 69,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
         "Cards",
         "Platform"
       ],
@@ -335,6 +336,31 @@
         "Lending",
         "AI/ML",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7718661003",
+      "title": "Director of Product Management, Financial Platforms",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7718661003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Our Financial Platform sits at the heart of every loan Affirm makes and every dollar we move. We're looking for a Director of Product Management to lead and scale the teams behind two of our most critical and complex domains: Loans Lifecycle and Money Movement. This is a role for a seasoned product leader who thrives in the intersection of financial systems, platform engineering, and organizational scale.</p> <p><strong>What you’ll do</strong></p> <ul> <li><strong><strong>Lead and grow a high-performing PM team.</strong> </strong>Build, mentor, and manage a team of 6–10 product managers, including people managers. You'll set the bar for craft, create development paths, and cultivate a culture of ownership, rigor, and candor.</li> <li><strong><strong>Own the vision and strategy for Loans Lifecycle and Money Movement.</strong> </strong>Define the multi-year product strategy for Affirm's foundational loan systems and global money movement infrastructure — ensuring they are ",
+      "posted": "2026-07-29T11:04:28-04:00",
+      "source": "Greenhouse",
+      "department": "Financial Platforms Product",
+      "match": 60,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     }
