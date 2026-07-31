@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T21:15:41.900Z",
+  "lastUpdated": "2026-07-31T03:26:56.413Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -338,40 +338,15 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7819817003",
-      "title": "Principal Product Manager, Core Banking",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "NY - New York City   ",
-      "url": "https://sofi.com/careers/job/7819817003?gh_jid=7819817003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h3>The Role</h3> <p>We are looking for a Principal Product Manager to drive product strategy and product management across the Core Banking domain and to own the most complex, cross-functional core related initiatives. This is a senior individual-contributor role: you set direction, connect product strat",
-      "posted": "2026-07-29T17:52:10-04:00",
-      "source": "Greenhouse",
-      "department": "Product - Financial Technology Platform",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8659221002",
+      "id": "gh-brex-8659220002",
       "title": "Staff Product Manager, Card",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8659221002?gh_jid=8659221002",
+      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8659220002?gh_jid=8659220002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:03:43-04:00",
+      "posted": "2026-07-30T14:02:40-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 65,
@@ -390,15 +365,15 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8659204002",
+      "id": "gh-brex-8659210002",
       "title": "Staff Product Manager, Embedded",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8659204002?gh_jid=8659204002",
+      "location": "Seattle, Washington, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8659210002?gh_jid=8659210002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:04:30-04:00",
+      "posted": "2026-07-30T14:04:49-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 65,
@@ -444,15 +419,15 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8659241002",
+      "id": "gh-brex-8659239002",
       "title": "Staff Product Manager, Expenses",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8659241002?gh_jid=8659241002",
+      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8659239002?gh_jid=8659239002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h3><strong>Product at Brex</strong></h3> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:05:57-04:00",
+      "posted": "2026-07-30T14:05:32-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 65,
@@ -547,15 +522,40 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8659251002",
+      "id": "gh-sofi-7819817003",
+      "title": "Principal Product Manager, Core Banking",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "NY - New York City   ",
+      "url": "https://sofi.com/careers/job/7819817003?gh_jid=7819817003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h3>The Role</h3> <p>We are looking for a Principal Product Manager to drive product strategy and product management across the Core Banking domain and to own the most complex, cross-functional core related initiatives. This is a senior individual-contributor role: you set direction, connect product strat",
+      "posted": "2026-07-29T17:52:10-04:00",
+      "source": "Greenhouse",
+      "department": "Product - Financial Technology Platform",
+      "match": 63,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8659250002",
       "title": "Senior Product Manager, Travel",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "New York, New York, United States / San Francisco, California, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8659251002?gh_jid=8659251002",
+      "location": "Seattle, Washington, United States / San Francisco, California, United States / New York, New York, United States",
+      "url": "https://www.brex.com/careers/8659250002?gh_jid=8659250002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h3><strong>Product at Brex</strong></h3> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:03:15-04:00",
+      "posted": "2026-07-30T14:03:04-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 63,
