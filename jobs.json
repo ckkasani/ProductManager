@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T20:59:26.720Z",
+  "lastUpdated": "2026-08-02T03:26:48.906Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 32,
+    "greenhouse": 31,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 24,
+  "totalJobs": 23,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -410,31 +410,6 @@
         "Payments",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7819817003",
-      "title": "Principal Product Manager, Core Banking",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "NY - New York City   ",
-      "url": "https://sofi.com/careers/job/7819817003?gh_jid=7819817003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h3>The Role</h3> <p>We are looking for a Principal Product Manager to drive product strategy and product management across the Core Banking domain and to own the most complex, cross-functional core related initiatives. This is a senior individual-contributor role: you set direction, connect product strat",
-      "posted": "2026-07-29T17:52:10-04:00",
-      "source": "Greenhouse",
-      "department": "Product - Financial Technology Platform",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
       ],
       "status": "new"
     },
