@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T17:05:14.158Z",
+  "lastUpdated": "2026-08-02T21:00:26.049Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 30,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 22,
+  "totalJobs": 16,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -122,33 +122,6 @@
         "Fraud",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-5867562004",
-      "title": "Staff Product Manager - Mercury Command",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we’re building for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team<strong>. </strong>Whether that's a side project or a scaling unicorn. We build the financial stack for them.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services pro",
-      "posted": "2026-07-30T16:47:04-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     },
@@ -309,6 +282,32 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-5867562004",
+      "title": "Staff Product Manager - Mercury Command",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we’re building for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team<strong>. </strong>Whether that's a side project or a scaling unicorn. We build the financial stack for them.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services pro",
+      "posted": "2026-07-30T16:47:04-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-8060230",
       "title": "Senior Product Manager - Banking Networks Global",
       "company": "Adyen",
@@ -414,140 +413,6 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8659237002",
-      "title": "Staff Product Manager, Card",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "New York, New York, United States / San Francisco, California, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8659237002?gh_jid=8659237002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:03:57-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8659210002",
-      "title": "Staff Product Manager, Embedded",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Seattle, Washington, United States / San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8659210002?gh_jid=8659210002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:04:49-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8659211002",
-      "title": "Staff Product Manager,  Embedded",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "New York, New York, United States",
-      "url": "https://www.brex.com/careers/8659211002?gh_jid=8659211002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h2><strong>Product at Brex</strong></h2> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:05:09-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8659239002",
-      "title": "Staff Product Manager, Expenses",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8659239002?gh_jid=8659239002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h3><strong>Product at Brex</strong></h3> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:05:32-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8659250002",
-      "title": "Senior Product Manager, Travel",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "Seattle, Washington, United States / New York, New York, United States / San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8659250002?gh_jid=8659250002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h3><strong>Product at Brex</strong></h3> <p>The Product team is at the forefr",
-      "posted": "2026-07-30T14:03:04-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 61,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-mercury-6106974004",
       "title": "Head of Product - Business Lending",
       "company": "Mercury",
@@ -569,31 +434,6 @@
         "Lending",
         "AI/ML",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-6630580",
-      "title": "Group Product Manager, Credit and Data Platform",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago; San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/6630580",
-      "description": "<h1><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\"><strong>This is Adyen</strong></span></h1> <p><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">Adyen provides payments, data, and financial products in a single solution for customers like Facebook, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h1><span style=\"font-size: 10pt;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Group Product Manager, Credit and Data Platform</strong></span></span></h1> <p><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">We have a massive opportu",
-      "posted": "2026-07-30T16:28:11-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 61,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "Platform"
       ],
       "status": "new"
     }
