@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T21:15:45.456Z",
+  "lastUpdated": "2026-08-05T02:52:02.313Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,22 +11,22 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 17,
+    "greenhouse": 18,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 16,
+  "totalJobs": 17,
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-affirm-7694940003",
+      "id": "gh-affirm-7694938003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
       "posted": "2026-07-29T11:04:25-04:00",
       "source": "Greenhouse",
@@ -43,6 +43,33 @@
         "Compliance",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8065034",
+      "title": "Staff Product Manager, Connect",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "N/A",
+      "url": "https://stripe.com/jobs/search?gh_jid=8065034",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the Product - Connect Platform</strong></h3> <p>Connect is Stripe’s platform for businesses that serve other businesses. It gives platforms the infrastructure to represent the people and companies in their ecosystem, onboard and verify them, manage their accounts, accept payments, and pay them out - without building payments, compliance, or financial-services systems themselves. This is how businesses like Shopify can help entrepreneurs run and grow their businesses. It is also the kind of infrastructure that marketplaces such as DoorDash need to coordinate money movement across large networ",
+      "posted": "2026-08-04T17:40:27-04:00",
+      "source": "Greenhouse",
+      "department": "8250 Connect - PM",
+      "match": 76,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Compliance",
+        "Platform"
       ],
       "status": "new"
     },
