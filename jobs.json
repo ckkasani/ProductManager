@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T13:14:12.785Z",
+  "lastUpdated": "2026-08-07T16:57:23.016Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -31,7 +31,7 @@
       "posted": "2026-08-06T12:10:13-04:00",
       "source": "Greenhouse",
       "department": "8260 Risk and Compliance Platform PM",
-      "match": 82,
+      "match": 80,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -58,7 +58,7 @@
       "posted": "2026-08-06T12:10:14-04:00",
       "source": "Greenhouse",
       "department": "8256 Issuing - PM",
-      "match": 81,
+      "match": 79,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -85,7 +85,7 @@
       "posted": "2026-08-06T12:09:55-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 79,
+      "match": 77,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -113,7 +113,7 @@
       "posted": "2026-08-06T12:09:55-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 79,
+      "match": 77,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -141,7 +141,7 @@
       "posted": "2026-08-06T12:35:11-04:00",
       "source": "Greenhouse",
       "department": "8250 Connect - PM",
-      "match": 76,
+      "match": 74,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -168,7 +168,7 @@
       "posted": "2026-08-06T12:09:59-04:00",
       "source": "Greenhouse",
       "department": "8262 APAC - PM",
-      "match": 76,
+      "match": 74,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -183,40 +183,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7819059",
-      "title": "Staff Product Manager, Payments",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, SEA, NYC, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
-      "posted": "2026-08-06T12:09:55-04:00",
-      "source": "Greenhouse",
-      "department": "8552 PayIntel - PM",
-      "match": 75,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-7694938003",
+      "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
       "posted": "2026-07-29T11:04:25-04:00",
       "source": "Greenhouse",
@@ -237,6 +210,33 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7819059",
+      "title": "Staff Product Manager, Payments",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NYC, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
+      "posted": "2026-08-06T12:09:55-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7913702",
       "title": "Staff Product Manager, Dashboard",
       "company": "Stripe",
@@ -248,7 +248,7 @@
       "posted": "2026-08-06T12:10:06-04:00",
       "source": "Greenhouse",
       "department": "8569 MerchantXP - PM",
-      "match": 73,
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -275,7 +275,7 @@
       "posted": "2026-08-06T12:10:02-04:00",
       "source": "Greenhouse",
       "department": "8712 Enterprise Engine",
-      "match": 73,
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -301,7 +301,7 @@
       "posted": "2026-08-06T12:09:57-04:00",
       "source": "Greenhouse",
       "department": "8212 ML Foundations",
-      "match": 73,
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -328,7 +328,7 @@
       "posted": "2026-08-06T12:10:06-04:00",
       "source": "Greenhouse",
       "department": "4900 Support Eng & PM",
-      "match": 70,
+      "match": 68,
       "reasons": [
         "Good skill match",
         "Senior-level title",
