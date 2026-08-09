@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T13:00:04.865Z",
+  "lastUpdated": "2026-08-09T16:40:45.177Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,60 +19,6 @@
   "totalJobs": 15,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-stripe-8040052",
-      "title": "Staff Product Manager, Risk Product Experience",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Seattle, New-York, San Francisco, Atlanta",
-      "url": "https://stripe.com/jobs/search?gh_jid=8040052",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Risk Product Experience team develops products for users to understand, manage, and improve their risk standing on Stripe. We craft outstanding product experiences to help users navigate all of Stripe's risk journeys (i.e. information collection to meet partner and regulatory commitments). These risk experiences are some of Stripe's most critical user journeys—allowing us to seamlessly onboard users to the global financial ecosystem and apply targeted actions to stop fraud and financial crime. The Risk Product Experience team delivers these journeys at scale (i.e. millions of us",
-      "posted": "2026-08-06T12:10:13-04:00",
-      "source": "Greenhouse",
-      "department": "8260 Risk and Compliance Platform PM",
-      "match": 80,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8043083",
-      "title": "Staff Product Manager, Issuing",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
-      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
-      "posted": "2026-08-06T12:10:14-04:00",
-      "source": "Greenhouse",
-      "department": "8256 Issuing - PM",
-      "match": 79,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-7655023",
       "title": "Staff Product Manager, AI",
@@ -102,54 +48,53 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8065034",
-      "title": "Staff Product Manager, Connect",
+      "id": "gh-stripe-8040052",
+      "title": "Staff Product Manager, Risk Product Experience",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "N/A",
-      "url": "https://stripe.com/jobs/search?gh_jid=8065034",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the Product - Connect Platform</strong></h3> <p>Connect is Stripe’s platform for businesses that serve other businesses. It gives platforms the infrastructure to represent the people and companies in their ecosystem, onboard and verify them, manage their accounts, accept payments, and pay them out - without building payments, compliance, or financial-services systems themselves. This is how businesses like Shopify can help entrepreneurs run and grow their businesses. It is also the kind of infrastructure that marketplaces such as DoorDash need to coordinate money movement across large networ",
-      "posted": "2026-08-06T12:35:11-04:00",
+      "location": "Seattle, New-York, San Francisco, Atlanta",
+      "url": "https://stripe.com/jobs/search?gh_jid=8040052",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Risk Product Experience team develops products for users to understand, manage, and improve their risk standing on Stripe. We craft outstanding product experiences to help users navigate all of Stripe's risk journeys (i.e. information collection to meet partner and regulatory commitments). These risk experiences are some of Stripe's most critical user journeys—allowing us to seamlessly onboard users to the global financial ecosystem and apply targeted actions to stop fraud and financial crime. The Risk Product Experience team delivers these journeys at scale (i.e. millions of us",
+      "posted": "2026-08-06T12:10:13-04:00",
       "source": "Greenhouse",
-      "department": "8250 Connect - PM",
-      "match": 74,
+      "department": "8260 Risk and Compliance Platform PM",
+      "match": 76,
       "reasons": [
-        "Good skill match",
+        "Strong skill alignment",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
-        "Compliance",
+        "Fraud",
         "Platform"
       ],
       "status": "new"
     },
     {
-      "id": "gh-stripe-7570242",
-      "title": "Staff Product Manager, Global Expansion",
+      "id": "gh-stripe-8043083",
+      "title": "Staff Product Manager, Issuing",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=7570242",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
-      "posted": "2026-08-06T12:09:59-04:00",
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
+      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
+      "posted": "2026-08-06T12:10:14-04:00",
       "source": "Greenhouse",
-      "department": "8262 APAC - PM",
-      "match": 74,
+      "department": "8256 Issuing - PM",
+      "match": 75,
       "reasons": [
-        "Good skill match",
+        "Strong skill alignment",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
+        "Cards",
         "Platform"
       ],
       "status": "new"
@@ -182,6 +127,57 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-8065034",
+      "title": "Staff Product Manager, Connect",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "N/A",
+      "url": "https://stripe.com/jobs/search?gh_jid=8065034",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the Product - Connect Platform</strong></h3> <p>Connect is Stripe’s platform for businesses that serve other businesses. It gives platforms the infrastructure to represent the people and companies in their ecosystem, onboard and verify them, manage their accounts, accept payments, and pay them out - without building payments, compliance, or financial-services systems themselves. This is how businesses like Shopify can help entrepreneurs run and grow their businesses. It is also the kind of infrastructure that marketplaces such as DoorDash need to coordinate money movement across large networ",
+      "posted": "2026-08-06T12:35:11-04:00",
+      "source": "Greenhouse",
+      "department": "8250 Connect - PM",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Compliance",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7570242",
+      "title": "Staff Product Manager, Global Expansion",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7570242",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h2>What you’ll do</h2> <p>We’re hiring a Product Manager to lead Stripe’s India business strategy and product roadmap. We are seeking a highly entrepreneurial, data-driven product leader who will own growth, go-to-market, and product execution for India. You will shape how Stripe serves India’s rapidly evolving digital economy - from domestic merchants and platforms to ambitious Indian companies scaling globally - and move quickly to capture significant market opportunities.</p> <p>India is one of the fastest-growing markets in the world: vast consumer demand, rapid merchant digitization, and a vibrant start",
+      "posted": "2026-08-06T12:09:59-04:00",
+      "source": "Greenhouse",
+      "department": "8262 APAC - PM",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7819059",
       "title": "Staff Product Manager, Payments",
       "company": "Stripe",
@@ -193,11 +189,10 @@
       "posted": "2026-08-06T12:09:55-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 73,
+      "match": 69,
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -220,11 +215,10 @@
       "posted": "2026-08-06T12:10:06-04:00",
       "source": "Greenhouse",
       "department": "8569 MerchantXP - PM",
-      "match": 71,
+      "match": 67,
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -247,11 +241,10 @@
       "posted": "2026-08-06T12:10:02-04:00",
       "source": "Greenhouse",
       "department": "8712 Enterprise Engine",
-      "match": 71,
+      "match": 67,
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -273,11 +266,10 @@
       "posted": "2026-08-06T12:09:57-04:00",
       "source": "Greenhouse",
       "department": "8212 ML Foundations",
-      "match": 71,
+      "match": 67,
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -300,11 +292,10 @@
       "posted": "2026-08-06T12:10:06-04:00",
       "source": "Greenhouse",
       "department": "4900 Support Eng & PM",
-      "match": 68,
+      "match": 64,
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
