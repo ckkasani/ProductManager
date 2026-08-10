@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T16:57:29.392Z",
+  "lastUpdated": "2026-08-10T20:48:59.515Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,34 +19,6 @@
   "totalJobs": 16,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-stripe-7655023",
-      "title": "Staff Product Manager, AI",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, Seattle, New York, Chicago",
-      "url": "https://stripe.com/jobs/search?gh_jid=7655023",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Payments Intelligence organization optimizes each of the billions of dollars of transactions processed by Stripe annually on behalf of our users, maximizing successful transactions while minimizing payment costs and fraud. We own products like Radar, Authorization Boost, and Disputes, building fast and scalable services and creating intuitive user experiences. We serve real-time predictions as part of Stripe’s payment infrastructure and architect controls that leverage ML to optimally manage users’ business.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Produc",
-      "posted": "2026-08-07T15:15:15-04:00",
-      "source": "Greenhouse",
-      "department": "8552 PayIntel - PM",
-      "match": 77,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-8040052",
       "title": "Staff Product Manager, Risk Product Experience",
@@ -123,6 +95,33 @@
         "Compliance",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7655023",
+      "title": "Staff Product Manager, AI",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, New York, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7655023",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Payments Intelligence organization optimizes each of the billions of dollars of transactions processed by Stripe annually on behalf of our users, maximizing successful transactions while minimizing payment costs and fraud. We own products like Radar, Authorization Boost, and Disputes, building fast and scalable services and creating intuitive user experiences. We serve real-time predictions as part of Stripe’s payment infrastructure and architect controls that leverage ML to optimally manage users’ business.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Produc",
+      "posted": "2026-08-07T15:15:15-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 73,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
@@ -385,15 +384,15 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7818068003",
+      "id": "gh-affirm-7818070003",
       "title": "Senior Product Manager, 1: Many Merchant Growth",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7818068003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><div> <p>Consumers across the globe need safe, transparent financing while merchants want to provide users with their preferred way to pay and convert more buyers. To help achieve this vision, we are hiring a Senior Product Manager for our 1:Many Growth team.</p> <p>Affirm's Distribution Partnerships program - internally called \"<strong>1:Many</strong>\" - is one of the highest-leverage growth levers at the company. Instead of integrating merchant by merchant, we integrate once into a platform merchants already use, and every merchant on that platform becomes reachable through that single integration. This role is responsible for:</p> </div> <div> <ul> <li> <p><strong>Own and grow Affirm's partner portfolio</strong>- making it easier and more frictionless for merchants to onboard and offer Affirm as a payment method to their customers. This includes taking product ownership of Affirm's existing vertical software partnerships, and growing the broader portfolio of platform par",
-      "posted": "2026-08-10T01:00:32-04:00",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7818070003",
+      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><div> <p>Consumers across the globe need safe, transparent financing while merchants want to provide users with their preferred way to pay and convert more buyers. To help achieve this vision, we are hiring a Senior Product Manager for our 1:Many Growth team.</p> </div> <div> <p>Affirm's Distribution Partnerships program - internally called \"<strong>1:Many</strong>\" - is one of the highest-leverage growth levers at the company. Instead of integrating merchant by merchant, we integrate once into a platform merchants already use, and every merchant on that platform becomes reachable through that single integration. This role is responsible for:</p> <ul> <li> <p><strong>Own and grow Affirm's partner portfolio</strong>- making it easier and more frictionless for merchants to onboard and offer Affirm as a payment method to their customers. This includes taking product ownership of Affirm's existing vertical software partnerships, and growing the broader portfolio of platform par",
+      "posted": "2026-08-10T01:00:34-04:00",
       "source": "Greenhouse",
       "department": "Product Marketing",
       "match": 60,
