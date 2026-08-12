@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T13:19:22.991Z",
+  "lastUpdated": "2026-08-12T17:00:12.221Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,7 +11,7 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 17,
+    "greenhouse": 16,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
@@ -72,29 +72,29 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7694938003",
-      "title": "Staff Product Manager, Affirm Bank",
-      "company": "Affirm",
+      "id": "gh-adyen-8018202",
+      "title": "Senior Product Manager - Credit and Data Platform",
+      "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
-      "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
-      "posted": "2026-07-29T11:04:25-04:00",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior product manager, Credit and Data Platform</strong></p> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x using our rich data, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Banking, Issuing, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data. We are looking for a Senior Product Manager to help bui",
+      "posted": "2026-08-12T11:36:18-04:00",
       "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 74,
+      "department": "Product Management",
+      "match": 75,
       "reasons": [
         "Strong skill alignment",
-        "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
+        "Payments",
         "Lending",
-        "Compliance",
-        "Platform",
-        "Banking"
+        "Cards",
+        "Platform"
       ],
       "status": "new"
     },
