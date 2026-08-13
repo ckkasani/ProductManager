@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T13:21:36.264Z",
+  "lastUpdated": "2026-08-13T17:00:01.279Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -48,85 +48,6 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8040052",
-      "title": "Staff Product Manager, Risk Product Experience",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Seattle, New-York, San Francisco, Atlanta",
-      "url": "https://stripe.com/jobs/search?gh_jid=8040052",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Risk Product Experience team develops products for users to understand, manage, and improve their risk standing on Stripe. We craft outstanding product experiences to help users navigate all of Stripe's risk journeys (i.e. information collection to meet partner and regulatory commitments). These risk experiences are some of Stripe's most critical user journeys—allowing us to seamlessly onboard users to the global financial ecosystem and apply targeted actions to stop fraud and financial crime. The Risk Product Experience team delivers these journeys at scale (i.e. millions of us",
-      "posted": "2026-08-06T12:10:13-04:00",
-      "source": "Greenhouse",
-      "department": "8260 Risk and Compliance Platform PM",
-      "match": 76,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8043083",
-      "title": "Staff Product Manager, Issuing",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
-      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
-      "posted": "2026-08-06T12:10:14-04:00",
-      "source": "Greenhouse",
-      "department": "8256 Issuing - PM",
-      "match": 75,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8018202",
-      "title": "Senior Product Manager - Credit and Data Platform",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior product manager, Credit and Data Platform</strong></p> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x using our rich data, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Banking, Issuing, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data. We are looking for a Senior Product Manager to help bui",
-      "posted": "2026-08-12T11:36:18-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 75,
-      "reasons": [
-        "Strong skill alignment",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7655023",
       "title": "Staff Product Manager, AI",
       "company": "Stripe",
@@ -149,6 +70,32 @@
         "Payments",
         "Fraud",
         "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8040052",
+      "title": "Staff Product Manager, Risk Product Experience",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Seattle, New-York, San Francisco, Atlanta",
+      "url": "https://stripe.com/jobs/search?gh_jid=8040052",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Risk Product Experience team develops products for users to understand, manage, and improve their risk standing on Stripe. We craft outstanding product experiences to help users navigate all of Stripe's risk journeys (i.e. information collection to meet partner and regulatory commitments). These risk experiences are some of Stripe's most critical user journeys—allowing us to seamlessly onboard users to the global financial ecosystem and apply targeted actions to stop fraud and financial crime. The Risk Product Experience team delivers these journeys at scale (i.e. millions of us",
+      "posted": "2026-08-06T12:10:13-04:00",
+      "source": "Greenhouse",
+      "department": "8260 Risk and Compliance Platform PM",
+      "match": 73,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
         "Platform"
       ],
       "status": "new"
@@ -177,6 +124,59 @@
         "AI/ML",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8018202",
+      "title": "Senior Product Manager - Credit and Data Platform",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior product manager, Credit and Data Platform</strong></p> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x using our rich data, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Banking, Issuing, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data. We are looking for a Senior Product Manager to help bui",
+      "posted": "2026-08-12T11:36:18-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 73,
+      "reasons": [
+        "Strong skill alignment",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8043083",
+      "title": "Staff Product Manager, Issuing",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
+      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
+      "posted": "2026-08-06T12:10:14-04:00",
+      "source": "Greenhouse",
+      "department": "8256 Issuing - PM",
+      "match": 72,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
       ],
       "status": "new"
     },
@@ -219,7 +219,7 @@
       "posted": "2026-08-06T12:35:11-04:00",
       "source": "Greenhouse",
       "department": "8250 Connect - PM",
-      "match": 70,
+      "match": 67,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -245,7 +245,7 @@
       "posted": "2026-08-06T12:09:59-04:00",
       "source": "Greenhouse",
       "department": "8262 APAC - PM",
-      "match": 70,
+      "match": 67,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -270,7 +270,7 @@
       "posted": "2026-08-06T12:09:55-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 69,
+      "match": 66,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -296,7 +296,7 @@
       "posted": "2026-08-06T12:10:06-04:00",
       "source": "Greenhouse",
       "department": "8569 MerchantXP - PM",
-      "match": 67,
+      "match": 64,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -322,7 +322,7 @@
       "posted": "2026-08-06T12:10:02-04:00",
       "source": "Greenhouse",
       "department": "8712 Enterprise Engine",
-      "match": 67,
+      "match": 64,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -347,32 +347,6 @@
       "posted": "2026-08-06T12:09:57-04:00",
       "source": "Greenhouse",
       "department": "8212 ML Foundations",
-      "match": 67,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7920219",
-      "title": "Staff Product Manager, Support Experience",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, California, United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of businesses running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for S",
-      "posted": "2026-08-06T12:10:06-04:00",
-      "source": "Greenhouse",
-      "department": "4900 Support Eng & PM",
       "match": 64,
       "reasons": [
         "Good skill match",
@@ -454,6 +428,32 @@
       "reasons": [
         "Senior-level title",
         "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7920219",
+      "title": "Staff Product Manager, Support Experience",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, California, United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of businesses running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for S",
+      "posted": "2026-08-06T12:10:06-04:00",
+      "source": "Greenhouse",
+      "department": "4900 Support Eng & PM",
+      "match": 61,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
