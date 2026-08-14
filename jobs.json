@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T20:48:52.862Z",
+  "lastUpdated": "2026-08-14T02:20:03.511Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -20,13 +20,13 @@
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-affirm-7694938003",
+      "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
       "description": "<div class=\"content-intro\"><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full picture of ",
       "posted": "2026-08-12T15:12:11-04:00",
       "source": "Greenhouse",
@@ -101,33 +101,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-5867562004",
-      "title": "Staff Product Manager - Mercury Command",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we build for the building class: the people who see something that doesn't exist and decide to make it real — with their time, their money, their team. Whether that's a side project or a scaling unicorn, we build the financial stack that gets them there.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Fi",
-      "posted": "2026-08-12T20:36:55-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 73,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-8018202",
       "title": "Senior Product Manager - Credit and Data Platform",
       "company": "Adyen",
@@ -177,6 +150,33 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-5867562004",
+      "title": "Staff Product Manager - Mercury Command",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we build for the building class: the people who see something that doesn't exist and decide to make it real — with their time, their money, their team. Whether that's a side project or a scaling unicorn, we build the financial stack that gets them there.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Fi",
+      "posted": "2026-08-12T20:36:55-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 71,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
