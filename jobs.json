@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T04:35:39.190Z",
+  "lastUpdated": "2026-08-15T08:34:22.505Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 16,
+    "greenhouse": 15,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 15,
+  "totalJobs": 14,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -355,31 +355,6 @@
         "Fintech",
         "Payments",
         "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8124304",
-      "title": "Staff Product Manager, Stripe Tax",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Dublin, Ireland",
-      "url": "https://stripe.com/jobs/search?gh_jid=8124304",
-      "description": "<p>Stripe is building the economic infrastructure for the internet. Millions of businesses use Stripe to accept payments, manage revenue, and grow globally. Stripe Tax helps businesses calculate, collect, and manage indirect taxes as they sell across products, markets, and business models.</p> <p>We’re hiring a Staff Product Manager to help shape the future of Stripe Tax. In this role, you will lead high-impact product strategy and execution across a broad portfolio, making it easier for businesses to understand, calculate, collect, and manage tax as they grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Staff Product Manager on Stripe Tax, you will identify the most important opportunities to improve our tax products and turn them into focused strategies, durable platforms, and exceptional user experiences.</p> <p>You will work closely with Engineering, Design, Tax, Partnerships, Go-to-Market, and other product teams to:</p> <ul> <li>Set strategy and lead product initiatives that help more businesses successfully adopt and use Stripe Tax.</li> <li>Improve the speed, accuracy, reliability, and usability of Stripe Tax calculations and related workflows.</li> <li>Expand supp",
-      "posted": "2026-08-12T03:14:56-04:00",
-      "source": "Greenhouse",
-      "department": "8415 Revenue and Finance Automation",
-      "match": 62,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
         "Platform"
       ],
       "status": "new"
