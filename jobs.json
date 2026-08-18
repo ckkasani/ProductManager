@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T16:36:19.472Z",
+  "lastUpdated": "2026-08-18T20:28:54.408Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -73,33 +73,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-5867562004",
-      "title": "Staff Product Manager - Mercury Command",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we build for the building class: the people who see something that doesn't exist and decide to make it real — with their time, their money, their team. Whether that's a side project or a scaling unicorn, we build the financial stack that gets them there.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Fi",
-      "posted": "2026-08-17T13:11:09-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 73,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-8043083",
       "title": "Staff Product Manager, Issuing",
       "company": "Stripe",
@@ -122,6 +95,33 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-5867562004",
+      "title": "Staff Product Manager - Mercury Command",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we build for the building class: the people who see something that doesn't exist and decide to make it real — with their time, their money, their team. Whether that's a side project or a scaling unicorn, we build the financial stack that gets them there.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Fi",
+      "posted": "2026-08-17T13:11:09-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 71,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -164,7 +164,7 @@
       "posted": "2026-08-17T13:11:09-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 70,
+      "match": 68,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -282,30 +282,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6126980004",
-      "title": "Senior Product Manager - Dashboard Experience",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6126980004",
-      "description": "<p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>Dashboard is the home base of Mercury and the connective tissue between everything you need: home, search, tasks, notifications, and the moment-to-moment sense of place and priority. When it's done right, it feels like a thousand tiny things working invisibly in your favor.</p> <p>As Mercury grows more capable, it also grows more complex. Our job is to make sure customers only ever feel the first part: to take an increasingly powerful product and keep it legible, no matter how much is happening underneath it.</p> <p>Our product should meet customers where they are: every task closed, every intent read correctly, every alert landing before it's needed. We aim to make our customers feel that their ambition is inevitable.</p> <p><strong><em>*</em></strong><em> Mercury is a fintech company, not an FDIC-insured bank. Banking services provid",
-      "posted": "2026-08-17T13:11:09-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 65,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7812856",
       "title": "Staff Product Manager, Enterprise",
       "company": "Stripe",
@@ -357,6 +333,30 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6126980004",
+      "title": "Senior Product Manager - Dashboard Experience",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6126980004",
+      "description": "<p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>Dashboard is the home base of Mercury and the connective tissue between everything you need: home, search, tasks, notifications, and the moment-to-moment sense of place and priority. When it's done right, it feels like a thousand tiny things working invisibly in your favor.</p> <p>As Mercury grows more capable, it also grows more complex. Our job is to make sure customers only ever feel the first part: to take an increasingly powerful product and keep it legible, no matter how much is happening underneath it.</p> <p>Our product should meet customers where they are: every task closed, every intent read correctly, every alert landing before it's needed. We aim to make our customers feel that their ambition is inevitable.</p> <p><strong><em>*</em></strong><em> Mercury is a fintech company, not an FDIC-insured bank. Banking services provid",
+      "posted": "2026-08-17T13:11:09-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-6098827004",
       "title": "Senior Product Manager - Business Lending",
       "company": "Mercury",
@@ -368,7 +368,7 @@
       "posted": "2026-08-17T13:11:09-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 64,
+      "match": 62,
       "reasons": [
         "Fresh posting",
         "Perfect domain fit"
