@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T20:32:59.210Z",
+  "lastUpdated": "2026-08-20T01:27:49.633Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,60 +19,6 @@
   "totalJobs": 21,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-stripe-8040052",
-      "title": "Staff Product Manager, Risk Product Experience",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Seattle, New-York, San Francisco, Atlanta",
-      "url": "https://stripe.com/jobs/search?gh_jid=8040052",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Risk Product Experience team develops products for users to understand, manage, and improve their risk standing on Stripe. We craft outstanding product experiences to help users navigate all of Stripe's risk journeys (i.e. information collection to meet partner and regulatory commitments). These risk experiences are some of Stripe's most critical user journeys—allowing us to seamlessly onboard users to the global financial ecosystem and apply targeted actions to stop fraud and financial crime. The Risk Product Experience team delivers these journeys at scale (i.e. millions of us",
-      "posted": "2026-08-18T17:38:46-04:00",
-      "source": "Greenhouse",
-      "department": "8260 Risk and Compliance Platform PM",
-      "match": 82,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8043083",
-      "title": "Staff Product Manager, Issuing",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
-      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
-      "posted": "2026-08-18T17:57:25-04:00",
-      "source": "Greenhouse",
-      "department": "8256 Issuing - PM",
-      "match": 81,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
@@ -102,6 +48,60 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-8040052",
+      "title": "Staff Product Manager, Risk Product Experience",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Seattle, New-York, San Francisco, Atlanta",
+      "url": "https://stripe.com/jobs/search?gh_jid=8040052",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Risk Product Experience team develops products for users to understand, manage, and improve their risk standing on Stripe. We craft outstanding product experiences to help users navigate all of Stripe's risk journeys (i.e. information collection to meet partner and regulatory commitments). These risk experiences are some of Stripe's most critical user journeys—allowing us to seamlessly onboard users to the global financial ecosystem and apply targeted actions to stop fraud and financial crime. The Risk Product Experience team delivers these journeys at scale (i.e. millions of us",
+      "posted": "2026-08-18T17:38:46-04:00",
+      "source": "Greenhouse",
+      "department": "8260 Risk and Compliance Platform PM",
+      "match": 80,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8043083",
+      "title": "Staff Product Manager, Issuing",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8043083",
+      "description": "<h1>Who we are</h1> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Issuing team enables users–from the most promising startups and largest platforms in the world to Stripe itself—to build and launch successful card programs and financial features into their product using powerful programmatic APIs and intuitive UIs. The team creates the infrastructure, user facing experiences, and partner integrations needed to manage the lifecycle of a card and enable efficient money movement. This is a great opportunity to help build one of Stripe’s fastest growing businesses. Our top users span fintechs to large enterprises cover a range of verticals including Buy Now Pay Later, vertical S",
+      "posted": "2026-08-18T17:57:25-04:00",
+      "source": "Greenhouse",
+      "department": "8256 Issuing - PM",
+      "match": 79,
+      "reasons": [
+        "Strong skill alignment",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7655023",
       "title": "Staff Product Manager, AI",
       "company": "Stripe",
@@ -113,7 +113,7 @@
       "posted": "2026-08-18T17:38:39-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 79,
+      "match": 77,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -141,7 +141,7 @@
       "posted": "2026-08-18T17:38:46-04:00",
       "source": "Greenhouse",
       "department": "8250 Connect - PM",
-      "match": 76,
+      "match": 74,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -168,7 +168,7 @@
       "posted": "2026-08-18T17:37:19-04:00",
       "source": "Greenhouse",
       "department": "8262 APAC - PM",
-      "match": 76,
+      "match": 74,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -178,33 +178,6 @@
       "tags": [
         "Fintech",
         "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7819059",
-      "title": "Staff Product Manager, Payments",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, SEA, NYC, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
-      "posted": "2026-08-18T17:38:39-04:00",
-      "source": "Greenhouse",
-      "department": "8552 PayIntel - PM",
-      "match": 75,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
         "Platform"
       ],
       "status": "new"
@@ -264,6 +237,33 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7819059",
+      "title": "Staff Product Manager, Payments",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NYC, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
+      "posted": "2026-08-18T17:38:39-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7812856",
       "title": "Staff Product Manager, Enterprise",
       "company": "Stripe",
@@ -275,7 +275,7 @@
       "posted": "2026-08-18T17:38:42-04:00",
       "source": "Greenhouse",
       "department": "8712 Enterprise Engine",
-      "match": 73,
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -301,7 +301,7 @@
       "posted": "2026-08-18T17:38:40-04:00",
       "source": "Greenhouse",
       "department": "8212 ML Foundations",
-      "match": 73,
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -355,7 +355,7 @@
       "posted": "2026-08-18T17:38:43-04:00",
       "source": "Greenhouse",
       "department": "4900 Support Eng & PM",
-      "match": 70,
+      "match": 68,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -408,7 +408,7 @@
       "posted": "2026-08-18T17:38:48-04:00",
       "source": "Greenhouse",
       "department": "8803 Partner Products",
-      "match": 67,
+      "match": 65,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -433,7 +433,7 @@
       "posted": "2026-08-18T19:29:18-04:00",
       "source": "Greenhouse",
       "department": "Product - Financial Technology Platform",
-      "match": 65,
+      "match": 63,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
@@ -443,31 +443,6 @@
         "Fintech",
         "AI/ML",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8124304",
-      "title": "Staff Product Manager, Stripe Tax",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Dublin, Ireland",
-      "url": "https://stripe.com/jobs/search?gh_jid=8124304",
-      "description": "<p>Stripe is building the economic infrastructure for the internet. Millions of businesses use Stripe to accept payments, manage revenue, and grow globally. Stripe Tax helps businesses calculate, collect, and manage indirect taxes as they sell across products, markets, and business models.</p> <p>We’re hiring a Staff Product Manager to help shape the future of Stripe Tax. In this role, you will lead high-impact product strategy and execution across a broad portfolio, making it easier for businesses to understand, calculate, collect, and manage tax as they grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Staff Product Manager on Stripe Tax, you will identify the most important opportunities to improve our tax products and turn them into focused strategies, durable platforms, and exceptional user experiences.</p> <p>You will work closely with Engineering, Design, Tax, Partnerships, Go-to-Market, and other product teams to:</p> <ul> <li>Set strategy and lead product initiatives that help more businesses successfully adopt and use Stripe Tax.</li> <li>Improve the speed, accuracy, reliability, and usability of Stripe Tax calculations and related workflows.</li> <li>Expand supp",
-      "posted": "2026-08-18T17:57:25-04:00",
-      "source": "Greenhouse",
-      "department": "8415 Revenue and Finance Automation",
-      "match": 64,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
       ],
       "status": "new"
     },
@@ -496,17 +471,17 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7894776003",
-      "title": "Principal Product Manager, Commercial Banking",
-      "company": "SoFi",
+      "id": "gh-stripe-8124304",
+      "title": "Staff Product Manager, Stripe Tax",
+      "company": "Stripe",
       "industry": "fintech",
-      "stage": "Public",
-      "location": "CA - San Francisco; NY - New York City; WA - Seattle",
-      "url": "https://sofi.com/careers/job/7894776003?gh_jid=7894776003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The Role:</span></strong></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">We’re building Commercial Banking from the ground up and are looking for a Principal Product Manager to lead the s",
-      "posted": "2026-08-18T19:29:18-04:00",
+      "stage": "Late",
+      "location": "Dublin, Ireland",
+      "url": "https://stripe.com/jobs/search?gh_jid=8124304",
+      "description": "<p>Stripe is building the economic infrastructure for the internet. Millions of businesses use Stripe to accept payments, manage revenue, and grow globally. Stripe Tax helps businesses calculate, collect, and manage indirect taxes as they sell across products, markets, and business models.</p> <p>We’re hiring a Staff Product Manager to help shape the future of Stripe Tax. In this role, you will lead high-impact product strategy and execution across a broad portfolio, making it easier for businesses to understand, calculate, collect, and manage tax as they grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Staff Product Manager on Stripe Tax, you will identify the most important opportunities to improve our tax products and turn them into focused strategies, durable platforms, and exceptional user experiences.</p> <p>You will work closely with Engineering, Design, Tax, Partnerships, Go-to-Market, and other product teams to:</p> <ul> <li>Set strategy and lead product initiatives that help more businesses successfully adopt and use Stripe Tax.</li> <li>Improve the speed, accuracy, reliability, and usability of Stripe Tax calculations and related workflows.</li> <li>Expand supp",
+      "posted": "2026-08-18T17:57:25-04:00",
       "source": "Greenhouse",
-      "department": "SIPS PM and PALS EPD",
+      "department": "8415 Revenue and Finance Automation",
       "match": 62,
       "reasons": [
         "Senior-level title",
@@ -515,7 +490,8 @@
       ],
       "tags": [
         "Fintech",
-        "Banking"
+        "Payments",
+        "Platform"
       ],
       "status": "new"
     },
@@ -566,6 +542,30 @@
         "Fintech",
         "Lending",
         "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-sofi-7894776003",
+      "title": "Principal Product Manager, Commercial Banking",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "CA - San Francisco; NY - New York City; WA - Seattle",
+      "url": "https://sofi.com/careers/job/7894776003?gh_jid=7894776003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The Role:</span></strong></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">We’re building Commercial Banking from the ground up and are looking for a Principal Product Manager to lead the s",
+      "posted": "2026-08-18T19:29:18-04:00",
+      "source": "Greenhouse",
+      "department": "SIPS PM and PALS EPD",
+      "match": 60,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
         "Banking"
       ],
       "status": "new"
