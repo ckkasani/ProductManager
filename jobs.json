@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T12:54:47.834Z",
+  "lastUpdated": "2026-08-25T16:41:39.664Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 25,
+    "greenhouse": 26,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 23,
+  "totalJobs": 24,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -179,6 +179,32 @@
       "status": "new"
     },
     {
+      "id": "gh-adyen-8147288",
+      "title": "Senior Product Manager, Banking",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8147288",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Banking</h3> <p>We are seeking a Senior Product Manager, Banking (US) to define and scale the next phase of Adyen’s banking strategy in North America. This role owns the end-to-end product vision, strategy, and execution for Adyen’s US banking capabilities, sitting at the intersection of payments, money movement, platform services, and embedded finance.</p> <p>Adyen has already built the foundational banking infrastructure — licenses, regulatory approvals, integrations into local clearing systems like ACH, RT",
+      "posted": "2026-08-25T11:16:10-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 72,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-8065034",
       "title": "Staff Product Manager, Connect",
       "company": "Stripe",
@@ -263,7 +289,7 @@
       "stage": "Public",
       "location": "Amsterdam",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior product manager, Credit and Data Platform</strong></p> <p>We have a massive opportunity ahead of us ��� to scale Adyen’s financial products by 10x using our rich data, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Banking, Issuing, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data. We are looking for a Senior Product Manager to help b",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior product manager, Credit and Data Platform</strong></p> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x using our rich data, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Banking, Issuing, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data. We are looking for a Senior Product Manager to help bui",
       "posted": "2026-08-21T10:53:59-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
