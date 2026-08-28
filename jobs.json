@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T10:44:34.871Z",
+  "lastUpdated": "2026-08-28T22:00:15.304Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 24,
+    "greenhouse": 23,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 23,
+  "totalJobs": 22,
   "highMatchJobs": 1,
   "jobs": [
     {
@@ -44,6 +44,33 @@
         "Cards",
         "Fraud",
         "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7768821",
+      "title": "Principal Product Manager - Identity",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7768821",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Principal Product Manager - Identity</strong></p> <p><span style=\"font-weight: 400;\">Adyen, as a full-stack payment processor and licensed global banking institution, gathers data on shoppers, enterprises, and small businesses. We see the behavior of billions of shoppers and millions of small businesses globally, while capturing the complex interactions between them. This data forms the foundation of our Dynamic Identification",
+      "posted": "2026-08-28T11:34:14-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 77,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -154,32 +181,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8147288",
-      "title": "Senior Product Manager, Banking",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8147288",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Banking</h3> <p>We are seeking a Senior Product Manager, Banking (US) to define and scale the next phase of Adyen’s banking strategy in North America. This role owns the end-to-end product vision, strategy, and execution for Adyen’s US banking capabilities, sitting at the intersection of payments, money movement, platform services, and embedded finance.</p> <p>Adyen has already built the foundational banking infrastructure — licenses, regulatory approvals, integrations into local clearing systems like ACH, RT",
-      "posted": "2026-08-25T11:16:10-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-7862254",
       "title": "Group Product Manager - Commercial Risk & Platform Fraud",
       "company": "Adyen",
@@ -201,83 +202,6 @@
         "Payments",
         "Cards",
         "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8018202",
-      "title": "Senior Product Manager - Credit and Data Platform",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior product manager, Credit and Data Platform</strong></p> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x using our rich data, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Banking, Issuing, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data. We are looking for a Senior Product Manager to help bui",
-      "posted": "2026-08-21T10:53:59-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 69,
-      "reasons": [
-        "Strong skill alignment",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-robinhood-8044746",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Menlo Park, CA; New York, NY; Washington, DC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-08-25T14:36:41-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 68,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7983725",
-      "title": "Staff Product Manager, Billing ",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, NY, SEA, Remote-US",
-      "url": "https://stripe.com/jobs/search?gh_jid=7983725",
-      "description": "<h2><span style=\"font-weight: 400;\"><strong>Who we are</strong></span></h2> <h3><span style=\"font-weight: 400;\"><strong>About Stripe</strong></span></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Stripe Billing team builds software tools that accelerate the economic and technological growth of global businesses by helping them operationalize their commercial relationship with their customers. Our product offering is a robust set of building blocks which our customers combine in creative ways to support their ever-evolving business. Our Billing platform serves as the strong foundation to support different billing models, customer acquisition cha",
-      "posted": "2026-08-21T13:39:57-04:00",
-      "source": "Greenhouse",
-      "department": "8412 Billing Products",
-      "match": 67,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
         "Platform"
       ],
       "status": "new"
@@ -309,31 +233,6 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7812856",
-      "title": "Staff Product Manager, Enterprise",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
-      "posted": "2026-08-21T11:26:43-04:00",
-      "source": "Greenhouse",
-      "department": "8712 Enterprise Engine",
-      "match": 67,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7570242",
       "title": "Staff Product Manager, Global Expansion",
       "company": "Stripe",
@@ -359,32 +258,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-5867562004",
-      "title": "Staff Product Manager - Mercury Command",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
-      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we build for the building class: the people who see something that doesn't exist and decide to make it real — with their time, their money, their team. Whether that's a side project or a scaling unicorn, we build the financial stack that gets them there.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Fi",
-      "posted": "2026-08-21T14:47:49-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 67,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7819059",
       "title": "Staff Product Manager, Payments",
       "company": "Stripe",
@@ -406,6 +279,107 @@
         "Fintech",
         "Payments",
         "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8147288",
+      "title": "Senior Product Manager, Banking",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8147288",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Banking</h3> <p>We are seeking a Senior Product Manager, Banking (US) to define and scale the next phase of Adyen’s banking strategy in North America. This role owns the end-to-end product vision, strategy, and execution for Adyen’s US banking capabilities, sitting at the intersection of payments, money movement, platform services, and embedded finance.</p> <p>Adyen has already built the foundational banking infrastructure — licenses, regulatory approvals, integrations into local clearing systems like ACH, RT",
+      "posted": "2026-08-25T11:16:10-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8018202",
+      "title": "Senior Product Manager - Credit and Data Platform",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior product manager, Credit and Data Platform</strong></p> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x using our rich data, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Banking, Issuing, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data. We are looking for a Senior Product Manager to help bui",
+      "posted": "2026-08-21T10:53:59-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Strong skill alignment",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-8044746",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-08-25T14:36:41-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7983725",
+      "title": "Staff Product Manager, Billing ",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, NY, SEA, Remote-US",
+      "url": "https://stripe.com/jobs/search?gh_jid=7983725",
+      "description": "<h2><span style=\"font-weight: 400;\"><strong>Who we are</strong></span></h2> <h3><span style=\"font-weight: 400;\"><strong>About Stripe</strong></span></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Stripe Billing team builds software tools that accelerate the economic and technological growth of global businesses by helping them operationalize their commercial relationship with their customers. Our product offering is a robust set of building blocks which our customers combine in creative ways to support their ever-evolving business. Our Billing platform serves as the strong foundation to support different billing models, customer acquisition cha",
+      "posted": "2026-08-21T13:39:57-04:00",
+      "source": "Greenhouse",
+      "department": "8412 Billing Products",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
         "Platform"
       ],
       "status": "new"
@@ -437,6 +411,31 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7812856",
+      "title": "Staff Product Manager, Enterprise",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
+      "posted": "2026-08-21T11:26:43-04:00",
+      "source": "Greenhouse",
+      "department": "8712 Enterprise Engine",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7517535",
       "title": "Staff Product Manager, ML Foundations and GenAI",
       "company": "Stripe",
@@ -463,26 +462,27 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6106974004",
-      "title": "Head of Product - Business Lending",
+      "id": "gh-mercury-5867562004",
+      "title": "Staff Product Manager - Mercury Command",
       "company": "Mercury",
       "industry": "fintech",
       "stage": "C",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
-      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
-      "posted": "2026-08-21T16:05:15-04:00",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we build for the building class: the people who see something that doesn't exist and decide to make it real — with their time, their money, their team. Whether that's a side project or a scaling unicorn, we build the financial stack that gets them there.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Fi",
+      "posted": "2026-08-21T14:47:49-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 64,
       "reasons": [
+        "Good skill match",
         "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Lending",
         "AI/ML",
+        "Platform",
         "Banking"
       ],
       "status": "new"
@@ -514,29 +514,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6148371004",
-      "title": "Senior Product Manager - Users",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6148371004",
-      "description": "<p>Linus Yale patented the modern pin tumbler lock in 1861, and hotels took to it immediately. The clever part was never the lock; it was master keying. The same door opens for a guest with one key and the manager with another, each cut to a different depth of authority. It solved the problem every growing building has, and introduced a new one, because now a single key opens everything.</p> <p>The hard part was never the lock. It's deciding who gets which key<em>.</em></p> <p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>The Users team owns who is allowed to do what: roles, permissions, invitations, and the authorization layer every other product team builds on. From a solo founder working with agents to an enterprise onboarding employees for spend without exposing banking* details, our job is to support that range while keeping the core product simple.</p> <p>Every product Mercury ",
-      "posted": "2026-08-21T14:07:58-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 62,
-      "reasons": [
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7920219",
       "title": "Staff Product Manager, Support Experience",
       "company": "Stripe",
@@ -563,27 +540,27 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-6630580",
-      "title": "Group Product Manager, Credit and Data Platform",
-      "company": "Adyen",
+      "id": "gh-mercury-6106974004",
+      "title": "Head of Product - Business Lending",
+      "company": "Mercury",
       "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago; San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/6630580",
-      "description": "<h1><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\"><strong>This is Adyen</strong></span></h1> <p><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">Adyen provides payments, data, and financial products in a single solution for customers like Facebook, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h1><span style=\"font-size: 10pt;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Group Product Manager, Credit and Data Platform</strong></span></span></h1> <p><span style=\"font-size: 10pt; font-family: helvetica, arial, sans-serif;\">We have a massive opportu",
-      "posted": "2026-08-25T16:08:27-04:00",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
+      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
+      "posted": "2026-08-21T16:05:15-04:00",
       "source": "Greenhouse",
-      "department": "Product Management",
+      "department": "Product",
       "match": 61,
       "reasons": [
-        "Fresh posting",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Payments",
         "Lending",
-        "Platform"
+        "AI/ML",
+        "Banking"
       ],
       "status": "new"
     },
