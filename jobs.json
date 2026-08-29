@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T13:44:00.996Z",
+  "lastUpdated": "2026-08-29T19:18:55.606Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -17,7 +17,7 @@
     "duckduckgo": 0
   },
   "totalJobs": 22,
-  "highMatchJobs": 1,
+  "highMatchJobs": 0,
   "jobs": [
     {
       "id": "gh-chime-8751073002",
@@ -31,11 +31,10 @@
       "posted": "2026-08-26T13:53:34-04:00",
       "source": "Greenhouse",
       "department": "Lending Product",
-      "match": 86,
+      "match": 82,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -59,7 +58,7 @@
       "posted": "2026-08-28T11:34:14-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 77,
+      "match": 75,
       "reasons": [
         "Good skill match",
         "Senior-level title",
