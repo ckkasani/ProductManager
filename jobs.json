@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T13:19:27.511Z",
+  "lastUpdated": "2026-09-01T19:17:49.273Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -127,15 +127,15 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8142649",
+      "id": "gh-stripe-7737526",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
-      "posted": "2026-08-19T15:50:49-04:00",
+      "posted": "2026-08-19T15:50:48-04:00",
       "source": "Greenhouse",
       "department": "8555 Payments Globalization - PM",
       "match": 72,
@@ -258,31 +258,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8147288",
-      "title": "Senior Product Manager, Banking",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8147288",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Banking</h3> <p>We are seeking a Senior Product Manager, Banking (US) to define and scale the next phase of Adyen’s banking strategy in North America. This role owns the end-to-end product vision, strategy, and execution for Adyen’s US banking capabilities, sitting at the intersection of payments, money movement, platform services, and embedded finance.</p> <p>Adyen has already built the foundational banking infrastructure — licenses, regulatory approvals, integrations into local clearing systems like ACH, RT",
-      "posted": "2026-08-25T11:16:10-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 66,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-8018202",
       "title": "Senior Product Manager - Credit and Data Platform",
       "company": "Adyen",
@@ -329,31 +304,6 @@
       "tags": [
         "Fintech",
         "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-robinhood-8044746",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Menlo Park, CA; New York, NY; Washington, DC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-08-25T14:36:41-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 64,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Platform",
         "Banking"
       ],
       "status": "new"
@@ -487,6 +437,31 @@
       "status": "new"
     },
     {
+      "id": "gh-adyen-8147288",
+      "title": "Senior Product Manager, Banking",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8147288",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Banking</h3> <p>We are seeking a Senior Product Manager, Banking (US) to define and scale the next phase of Adyen’s banking strategy in North America. This role owns the end-to-end product vision, strategy, and execution for Adyen’s US banking capabilities, sitting at the intersection of payments, money movement, platform services, and embedded finance.</p> <p>Adyen has already built the foundational banking infrastructure — licenses, regulatory approvals, integrations into local clearing systems like ACH, RT",
+      "posted": "2026-08-25T11:16:10-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-8045868",
       "title": "Senior Product Manager - Split Payments",
       "company": "Adyen",
@@ -532,6 +507,31 @@
       ],
       "tags": [
         "Fintech",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-8044746",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-08-25T14:36:41-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 61,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
         "Banking"
       ],
       "status": "new"
