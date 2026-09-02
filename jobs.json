@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T03:51:02.812Z",
+  "lastUpdated": "2026-09-02T08:38:26.248Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -58,7 +58,7 @@
       "posted": "2026-09-01T03:44:46-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 78,
+      "match": 76,
       "reasons": [
         "Strong skill alignment",
         "Fresh posting",
@@ -85,7 +85,7 @@
       "posted": "2026-09-01T03:44:46-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 77,
+      "match": 75,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -101,15 +101,15 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8142649",
+      "id": "gh-stripe-7737526",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
-      "posted": "2026-08-19T15:50:49-04:00",
+      "posted": "2026-08-19T15:50:48-04:00",
       "source": "Greenhouse",
       "department": "8555 Payments Globalization - PM",
       "match": 72,
@@ -150,31 +150,6 @@
         "Lending",
         "Cards",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7819817003",
-      "title": "Principal Product Manager, Core Banking",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "NY - New York City   ",
-      "url": "https://sofi.com/careers/job/7819817003?gh_jid=7819817003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h3>The Role</h3> <p>We are looking for a Principal Product Manager to drive product strategy and product management across the Core Banking domain and to own the most complex, cross-functional core related initiatives. This is a senior individual-contributor role: you set direction, connect product strat",
-      "posted": "2026-09-01T03:10:07-04:00",
-      "source": "Greenhouse",
-      "department": "STS Product",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
       ],
       "status": "new"
     },
@@ -281,6 +256,31 @@
       "status": "new"
     },
     {
+      "id": "gh-sofi-7819817003",
+      "title": "Principal Product Manager, Core Banking",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "NY - New York City   ",
+      "url": "https://sofi.com/careers/job/7819817003?gh_jid=7819817003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h3>The Role</h3> <p>We are looking for a Principal Product Manager to drive product strategy and product management across the Core Banking domain and to own the most complex, cross-functional core related initiatives. This is a senior individual-contributor role: you set direction, connect product strat",
+      "posted": "2026-09-01T03:10:07-04:00",
+      "source": "Greenhouse",
+      "department": "STS Product",
+      "match": 63,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-8147288",
       "title": "Senior Product Manager, Banking",
       "company": "Adyen",
@@ -332,30 +332,6 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7894776003",
-      "title": "Principal Product Manager, Commercial Banking",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "CA - San Francisco; NY - New York City; WA - Seattle",
-      "url": "https://sofi.com/careers/job/7894776003?gh_jid=7894776003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The Role:</span></strong></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">We’re building Commercial Banking from the ground up and are looking for a Principal Product Manager to lead the s",
-      "posted": "2026-09-01T03:10:27-04:00",
-      "source": "Greenhouse",
-      "department": "SFT Financial Services Product",
-      "match": 62,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-robinhood-8044746",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -401,6 +377,30 @@
         "Fintech",
         "Lending",
         "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-sofi-7894776003",
+      "title": "Principal Product Manager, Commercial Banking",
+      "company": "SoFi",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "CA - San Francisco; NY - New York City; WA - Seattle",
+      "url": "https://sofi.com/careers/job/7894776003?gh_jid=7894776003",
+      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The Role:</span></strong></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">We’re building Commercial Banking from the ground up and are looking for a Principal Product Manager to lead the s",
+      "posted": "2026-09-01T03:10:27-04:00",
+      "source": "Greenhouse",
+      "department": "SFT Financial Services Product",
+      "match": 60,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
         "Banking"
       ],
       "status": "new"
