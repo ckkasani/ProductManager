@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T03:51:21.890Z",
+  "lastUpdated": "2026-09-04T08:42:33.587Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 17,
+    "greenhouse": 16,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 16,
+  "totalJobs": 15,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -74,18 +74,18 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7862254",
-      "title": "Group Product Manager - Commercial Risk & Platform Fraud",
+      "id": "gh-adyen-8158550",
+      "title": "Senior Product Manager - Cards and Wallets",
       "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
       "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7862254",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>The Opportunity</strong></p> <p><span style=\"font-weight: 400;\">Adyen operates as a full-stack payment processor and licensed global banking institution, capturing the behavior and complex interactions of billions of shoppers and millions of businesses worldwide. As we scale our footprint in banking, card issuing, and embedded financial products, the financial risk profiles we manage are significantly higher than traditional p",
-      "posted": "2026-09-01T03:44:46-04:00",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8158550",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3><strong>The opportunity</strong></h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Issuing, Banking, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Issuing</em>, which will be ",
+      "posted": "2026-09-04T03:55:16-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 76,
+      "match": 75,
       "reasons": [
         "Strong skill alignment",
         "Fresh posting",
@@ -95,8 +95,8 @@
         "Fintech",
         "Payments",
         "Cards",
-        "Fraud",
-        "Platform"
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -122,6 +122,32 @@
         "Fintech",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-7862254",
+      "title": "Group Product Manager - Commercial Risk & Platform Fraud",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7862254",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>The Opportunity</strong></p> <p><span style=\"font-weight: 400;\">Adyen operates as a full-stack payment processor and licensed global banking institution, capturing the behavior and complex interactions of billions of shoppers and millions of businesses worldwide. As we scale our footprint in banking, card issuing, and embedded financial products, the financial risk profiles we manage are significantly higher than traditional p",
+      "posted": "2026-09-01T03:44:46-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 72,
+      "reasons": [
+        "Strong skill alignment",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Fraud",
+        "Platform"
       ],
       "status": "new"
     },
@@ -174,33 +200,6 @@
         "Fintech",
         "Payments",
         "Cards",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8780829002",
-      "title": "Staff Product Manager, AI",
-      "company": "Brex",
-      "industry": "fintech",
-      "stage": "D",
-      "location": "New York, New York, United States",
-      "url": "https://www.brex.com/careers/8780829002?gh_jid=8780829002",
-      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platfor",
-      "posted": "2026-09-03T00:10:26-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
         "Platform",
         "Banking"
       ],
@@ -283,44 +282,20 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7819817003",
-      "title": "Principal Product Manager, Core Banking",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "NY - New York City   ",
-      "url": "https://sofi.com/careers/job/7819817003?gh_jid=7819817003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><h3>The Role</h3> <p>We are looking for a Principal Product Manager to drive product strategy and product management across the Core Banking domain and to own the most complex, cross-functional core related initiatives. This is a senior individual-contributor role: you set direction, connect product strat",
-      "posted": "2026-09-01T03:10:07-04:00",
-      "source": "Greenhouse",
-      "department": "STS Product",
-      "match": 63,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8780828002",
-      "title": "Senior Product Manager, AI",
+      "id": "gh-brex-8780829002",
+      "title": "Staff Product Manager, AI",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "Seattle, Washington, United States / San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8780828002?gh_jid=8780828002",
+      "location": "New York, New York, United States",
+      "url": "https://www.brex.com/careers/8780829002?gh_jid=8780829002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platfor",
-      "posted": "2026-09-03T00:09:29-04:00",
+      "posted": "2026-09-03T00:10:26-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 63,
       "reasons": [
+        "Senior-level title",
         "Fresh posting",
         "Perfect domain fit"
       ],
@@ -384,6 +359,32 @@
       "status": "new"
     },
     {
+      "id": "gh-brex-8780828002",
+      "title": "Senior Product Manager, AI",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "Seattle, Washington, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8780828002?gh_jid=8780828002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platfor",
+      "posted": "2026-09-03T00:09:29-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 61,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-6106974004",
       "title": "Head of Product - Business Lending",
       "company": "Mercury",
@@ -404,30 +405,6 @@
         "Fintech",
         "Lending",
         "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7894776003",
-      "title": "Principal Product Manager, Commercial Banking",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "CA - San Francisco; NY - New York City; WA - Seattle",
-      "url": "https://sofi.com/careers/job/7894776003?gh_jid=7894776003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The Role:</span></strong></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">We’re building Commercial Banking from the ground up and are looking for a Principal Product Manager to lead the s",
-      "posted": "2026-09-01T03:10:27-04:00",
-      "source": "Greenhouse",
-      "department": "SFT Financial Services Product",
-      "match": 60,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
         "Banking"
       ],
       "status": "new"
