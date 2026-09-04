@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T22:26:08.369Z",
+  "lastUpdated": "2026-09-04T03:51:21.890Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 14,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 13,
+  "totalJobs": 16,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -97,6 +97,31 @@
         "Cards",
         "Fraud",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6181121004",
+      "title": "Senior Product Manager - Reconciliation",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6181121004",
+      "description": "<h3><strong>About the role</strong></h3> <p>At Mercury, we believe financial operations should be seamless, scalable, and built on a foundation of trust. The Reconciliation team develops the products, processes, and controls that protect the accuracy and integrity of Mercury’s core financial systems and money movement.</p> <p>In this role, you will lead the evolution of reconciliation at Mercury, including the key financial controls that enable operational excellence, strong governance, and end-to-end auditability. You’ll partner closely with Product, Engineering, Finance, Operations, and Accounting to automate complex workflows, strengthen control coverage, and ensure issues are detected, investigated, and resolved quickly.</p> <p>Our goal is to make financial accuracy a given. You’ll help build a reconciliation platform that is reliable, transparent, and scalable—giving Mercury confidence in every transaction and enabling us to grow without compromising financial integrity.<br><br><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></p> <h3><strong>What you’ll do</strong></h3> <ul",
+      "posted": "2026-09-03T13:49:23-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 74,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -232,6 +257,32 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-5867562004",
+      "title": "Staff Product Manager - Mercury Command",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/5867562004",
+      "description": "<p>In 1945, elevator operators walked out of New York's office buildings. The city ground to a halt with millions of workers stuck on the street and a hundred million in losses. Automatic elevators had existed since the 1890s. Nobody would ride one without a person at the controls. It took the strike, and the decade after it, building trust car by car, building by building, before people would step into a box and press a button themselves.</p> <p>At Mercury, we build for the building class: the people who see something that doesn't exist and decide to make it real — with their time, their money, their team. Whether that's a side project or a scaling unicorn, we build the financial stack that gets them there.</p> <p>We believe the future of financial software is infrastructure that works on your behalf. We’re looking for a product leader to accelerate our AI bets – Command, CLI, MCP – and our API as we build towards a Mercury that is programmable and intelligent. This is a role for a builder who is capable across the stack with hands-on experience building with AI.</p> <p><strong><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Fi",
+      "posted": "2026-08-21T14:47:49-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-sofi-7819817003",
       "title": "Principal Product Manager, Core Banking",
       "company": "SoFi",
@@ -257,15 +308,15 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8780827002",
+      "id": "gh-brex-8780828002",
       "title": "Senior Product Manager, AI",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8780827002?gh_jid=8780827002",
+      "location": "Seattle, Washington, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8780828002?gh_jid=8780828002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platfor",
-      "posted": "2026-09-03T00:13:11-04:00",
+      "posted": "2026-09-03T00:09:29-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 63,
@@ -328,6 +379,31 @@
       "tags": [
         "Fintech",
         "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6106974004",
+      "title": "Head of Product - Business Lending",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
+      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
+      "posted": "2026-08-21T16:05:15-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 61,
+      "reasons": [
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI/ML",
         "Banking"
       ],
       "status": "new"
