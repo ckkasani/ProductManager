@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T22:04:15.973Z",
+  "lastUpdated": "2026-09-14T04:09:11.655Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 25,
+    "greenhouse": 24,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 23,
+  "totalJobs": 22,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -58,11 +58,10 @@
       "posted": "2026-09-10T13:11:58-04:00",
       "source": "Greenhouse",
       "department": "8256 Issuing - PM",
-      "match": 79,
+      "match": 75,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -74,22 +73,21 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7737526",
+      "id": "gh-stripe-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
       "posted": "2026-09-10T13:11:58-04:00",
       "source": "Greenhouse",
       "department": "8555 Payments Globalization - PM",
-      "match": 79,
+      "match": 75,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -113,11 +111,10 @@
       "posted": "2026-09-10T13:11:58-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 77,
+      "match": 73,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -125,88 +122,6 @@
         "Payments",
         "Fraud",
         "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6187763004",
-      "title": "Head of Product - Business Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
-      "description": "<p>In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and settle the net. On October 11, 1853, in the basement of 14 Wall Street, 52 banks cleared $22.6 million in a single sitting. Money between banks had stopped being an event and became seamless infrastructure.</p> <p>A century and a half later, the hard part is unchanged: moving money once is easy; making it work every time, for hundreds of thousands of businesses, across every rail, is hard. The bank account is where a company's financial life happens - payroll clears or it doesn't; a wire lands or a deal slips; the month closes clean, or someone loses a weekend to it. Mercury is building a business banking* product at a scale better than anything else in the market.</p> <p>Business Banking is the heart of Mercury. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving deposit and payment growth, and owning busines",
-      "posted": "2026-09-10T13:37:29-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 76,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8065034",
-      "title": "Staff Product Manager, Connect",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "N/A",
-      "url": "https://stripe.com/jobs/search?gh_jid=8065034",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the Product - Connect Platform</strong></h3> <p>Connect is Stripe’s platform for businesses that serve other businesses. It gives platforms the infrastructure to represent the people and companies in their ecosystem, onboard and verify them, manage their accounts, accept payments, and pay them out - without building payments, compliance, or financial-services systems themselves. This is how businesses like Shopify can help entrepreneurs run and grow their businesses. It is also the kind of infrastructure that marketplaces such as DoorDash need to coordinate money movement across large networ",
-      "posted": "2026-09-10T13:11:58-04:00",
-      "source": "Greenhouse",
-      "department": "8250 Connect - PM",
-      "match": 74,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Compliance",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7819059",
-      "title": "Staff Product Manager, Payments",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, SEA, NYC, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
-      "posted": "2026-09-10T13:11:58-04:00",
-      "source": "Greenhouse",
-      "department": "8552 PayIntel - PM",
-      "match": 73,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
         "Platform"
       ],
       "status": "new"
@@ -239,185 +154,55 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7983725",
-      "title": "Staff Product Manager, Billing ",
-      "company": "Stripe",
+      "id": "gh-mercury-6187763004",
+      "title": "Head of Product - Business Banking",
+      "company": "Mercury",
       "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, NY, SEA, Remote-US",
-      "url": "https://stripe.com/jobs/search?gh_jid=7983725",
-      "description": "<h2><span style=\"font-weight: 400;\"><strong>Who we are</strong></span></h2> <h3><span style=\"font-weight: 400;\"><strong>About Stripe</strong></span></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Stripe Billing team builds software tools that accelerate the economic and technological growth of global businesses by helping them operationalize their commercial relationship with their customers. Our product offering is a robust set of building blocks which our customers combine in creative ways to support their ever-evolving business. Our Billing platform serves as the strong foundation to support different billing models, customer acquisition cha",
-      "posted": "2026-09-10T13:11:58-04:00",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
+      "description": "<p>In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and settle the net. On October 11, 1853, in the basement of 14 Wall Street, 52 banks cleared $22.6 million in a single sitting. Money between banks had stopped being an event and became seamless infrastructure.</p> <p>A century and a half later, the hard part is unchanged: moving money once is easy; making it work every time, for hundreds of thousands of businesses, across every rail, is hard. The bank account is where a company's financial life happens - payroll clears or it doesn't; a wire lands or a deal slips; the month closes clean, or someone loses a weekend to it. Mercury is building a business banking* product at a scale better than anything else in the market.</p> <p>Business Banking is the heart of Mercury. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving deposit and payment growth, and owning busines",
+      "posted": "2026-09-10T13:37:29-04:00",
       "source": "Greenhouse",
-      "department": "8412 Billing Products",
-      "match": 71,
+      "department": "Product",
+      "match": 72,
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7913702",
-      "title": "Staff Product Manager, Dashboard",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Dashboard helps millions of people around the world run their business—from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a \"power tool\" for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g., navigation, search, settings), governing frameworks (e.g., information architecture), and core experiences that set the standard (e.g., managing your customers, customizing your home page).</p> <p>We're hiring a product manager to shape the Dashboard strategy, amplify its impact across the ",
-      "posted": "2026-09-10T13:11:58-04:00",
-      "source": "Greenhouse",
-      "department": "8569 MerchantXP - PM",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7812856",
-      "title": "Staff Product Manager, Enterprise",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
-      "posted": "2026-09-10T13:11:58-04:00",
-      "source": "Greenhouse",
-      "department": "8712 Enterprise Engine",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7517535",
-      "title": "Staff Product Manager, ML Foundations and GenAI",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Seattle, San Francisco, New York, US - Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7517535",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>You will be joining Stripe’s ML Foundations and Gen AI team to incubate new ML applications and improve our ML capabilities across Stripe. Our team is responsible for unlocking novel ML and LLM techniques and applications across Stripe’s product suite to drive business outcomes, as well as providing infrastructure, tooling and support for ML teams.</p> <h2><strong>What you’ll do</strong></h2> <p>As a senior product leader, you will lead a cross-functional team to define, incubate and scale new ML/AI applications across Stripe’s product suite, and drive our strategy and r",
-      "posted": "2026-09-10T13:11:58-04:00",
-      "source": "Greenhouse",
-      "department": "8212 ML Foundations",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
         "AI/ML",
-        "Platform"
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
     {
-      "id": "gh-mercury-6187759004",
-      "title": "Head of Product - Personal Banking",
-      "company": "Mercury",
+      "id": "gh-stripe-8065034",
+      "title": "Staff Product Manager, Connect",
+      "company": "Stripe",
       "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
-      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving g",
-      "posted": "2026-09-10T11:45:14-04:00",
+      "stage": "Late",
+      "location": "N/A",
+      "url": "https://stripe.com/jobs/search?gh_jid=8065034",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the Product - Connect Platform</strong></h3> <p>Connect is Stripe’s platform for businesses that serve other businesses. It gives platforms the infrastructure to represent the people and companies in their ecosystem, onboard and verify them, manage their accounts, accept payments, and pay them out - without building payments, compliance, or financial-services systems themselves. This is how businesses like Shopify can help entrepreneurs run and grow their businesses. It is also the kind of infrastructure that marketplaces such as DoorDash need to coordinate money movement across large networ",
+      "posted": "2026-09-10T13:11:58-04:00",
       "source": "Greenhouse",
-      "department": "Product",
+      "department": "8250 Connect - PM",
       "match": 70,
       "reasons": [
+        "Good skill match",
         "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8147288",
-      "title": "Senior Product Manager, Banking",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8147288",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Banking</h3> <p>We are seeking a Senior Product Manager, Banking (US) to define and scale the next phase of Adyen’s banking strategy in North America. This role owns the end-to-end product vision, strategy, and execution for Adyen’s US banking capabilities, sitting at the intersection of payments, money movement, platform services, and embedded finance.</p> <p>Adyen has already built the foundational banking infrastructure — licenses, regulatory approvals, integrations into local clearing systems like ACH, RT",
-      "posted": "2026-09-10T00:03:50-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8158552",
-      "title": "Senior Product Manager, Capital",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8158552",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Capital</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Capital, Banking, and Issuing, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Capital</em>, which will be foundational for Adyen’s next generation Financial Products. The Capital team is on a mission ",
-      "posted": "2026-09-10T00:27:29-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
+        "Compliance",
+        "Platform"
       ],
       "status": "new"
     },
@@ -449,6 +234,32 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-7819059",
+      "title": "Staff Product Manager, Payments",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NYC, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the Organization</strong></h3> <p>The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe's capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates.</p> <p><strong>Team Matching:</strong> exact team matching for one of the subt",
+      "posted": "2026-09-10T13:11:58-04:00",
+      "source": "Greenhouse",
+      "department": "8552 PayIntel - PM",
+      "match": 69,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-7862254",
       "title": "Group Product Manager - Commercial Risk & Platform Fraud",
       "company": "Adyen",
@@ -475,22 +286,97 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7920219",
-      "title": "Staff Product Manager, Support Experience",
+      "id": "gh-stripe-7983725",
+      "title": "Staff Product Manager, Billing ",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "San Francisco, California, United States",
-      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of businesses running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for S",
+      "location": "SF, NY, SEA, Remote-US",
+      "url": "https://stripe.com/jobs/search?gh_jid=7983725",
+      "description": "<h2><span style=\"font-weight: 400;\"><strong>Who we are</strong></span></h2> <h3><span style=\"font-weight: 400;\"><strong>About Stripe</strong></span></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Stripe Billing team builds software tools that accelerate the economic and technological growth of global businesses by helping them operationalize their commercial relationship with their customers. Our product offering is a robust set of building blocks which our customers combine in creative ways to support their ever-evolving business. Our Billing platform serves as the strong foundation to support different billing models, customer acquisition cha",
       "posted": "2026-09-10T13:11:58-04:00",
       "source": "Greenhouse",
-      "department": "4900 Support Eng & PM",
-      "match": 68,
+      "department": "8412 Billing Products",
+      "match": 67,
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7913702",
+      "title": "Staff Product Manager, Dashboard",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Stripe Dashboard helps millions of people around the world run their business—from managing integrations and analyzing fraud to resolving customer issues. The next chapter is about transforming the Dashboard into a \"power tool\" for payment professionals. The Dashboard team is responsible for the scaffolding of the Dashboard (e.g., navigation, search, settings), governing frameworks (e.g., information architecture), and core experiences that set the standard (e.g., managing your customers, customizing your home page).</p> <p>We're hiring a product manager to shape the Dashboard strategy, amplify its impact across the ",
+      "posted": "2026-09-10T13:11:58-04:00",
+      "source": "Greenhouse",
+      "department": "8569 MerchantXP - PM",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7812856",
+      "title": "Staff Product Manager, Enterprise",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
+      "posted": "2026-09-10T13:11:58-04:00",
+      "source": "Greenhouse",
+      "department": "8712 Enterprise Engine",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7517535",
+      "title": "Staff Product Manager, ML Foundations and GenAI",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>You will be joining Stripe’s ML Foundations and Gen AI team to incubate new ML applications and improve our ML capabilities across Stripe. Our team is responsible for unlocking novel ML and LLM techniques and applications across Stripe’s product suite to drive business outcomes, as well as providing infrastructure, tooling and support for ML teams.</p> <h2><strong>What you’ll do</strong></h2> <p>As a senior product leader, you will lead a cross-functional team to define, incubate and scale new ML/AI applications across Stripe’s product suite, and drive our strategy and r",
+      "posted": "2026-09-10T13:11:58-04:00",
+      "source": "Greenhouse",
+      "department": "8212 ML Foundations",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
@@ -529,6 +415,80 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6187759004",
+      "title": "Head of Product - Personal Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving g",
+      "posted": "2026-09-10T11:45:14-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 66,
+      "reasons": [
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8147288",
+      "title": "Senior Product Manager, Banking",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8147288",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Banking</h3> <p>We are seeking a Senior Product Manager, Banking (US) to define and scale the next phase of Adyen’s banking strategy in North America. This role owns the end-to-end product vision, strategy, and execution for Adyen’s US banking capabilities, sitting at the intersection of payments, money movement, platform services, and embedded finance.</p> <p>Adyen has already built the foundational banking infrastructure — licenses, regulatory approvals, integrations into local clearing systems like ACH, RT",
+      "posted": "2026-09-10T00:03:50-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8158552",
+      "title": "Senior Product Manager, Capital",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8158552",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Capital</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Capital, Banking, and Issuing, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Capital</em>, which will be foundational for Adyen’s next generation Financial Products. The Capital team is on a mission ",
+      "posted": "2026-09-10T00:27:29-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-6181121004",
       "title": "Senior Product Manager - Reconciliation",
       "company": "Mercury",
@@ -549,6 +509,32 @@
         "Fintech",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7920219",
+      "title": "Staff Product Manager, Support Experience",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, California, United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=7920219",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The Support Experience group develops and applies technology at all points of the user support journey to solve customer problems at scale, keeping millions of businesses running and unlocking growth across Stripe’s product suite.</p> <h2>What you’ll do</h2> <p>The rise of AI agents has fundamentally changed how users interact with Stripe, with a supermajority of conversations with Stripe now occurring via AI across various surfaces including third-party platforms. These conversations now blend planning, building, configuration, and troubleshooting.</p> <p>As a Product Manager for S",
+      "posted": "2026-09-10T13:11:58-04:00",
+      "source": "Greenhouse",
+      "department": "4900 Support Eng & PM",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
@@ -580,40 +566,15 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8124304",
-      "title": "Staff Product Manager, Stripe Tax",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "Dublin, Ireland",
-      "url": "https://stripe.com/jobs/search?gh_jid=8124304",
-      "description": "<p>Stripe is building the economic infrastructure for the internet. Millions of businesses use Stripe to accept payments, manage revenue, and grow globally. Stripe Tax helps businesses calculate, collect, and manage indirect taxes as they sell across products, markets, and business models.</p> <p>We’re hiring a Staff Product Manager to help shape the future of Stripe Tax. In this role, you will lead high-impact product strategy and execution across a broad portfolio, making it easier for businesses to understand, calculate, collect, and manage tax as they grow.</p> <h2><strong>What you’ll do</strong></h2> <p>As a Staff Product Manager on Stripe Tax, you will identify the most important opportunities to improve our tax products and turn them into focused strategies, durable platforms, and exceptional user experiences.</p> <p>You will work closely with Engineering, Design, Tax, Partnerships, Go-to-Market, and other product teams to:</p> <ul> <li>Set strategy and lead product initiatives that help more businesses successfully adopt and use Stripe Tax.</li> <li>Improve the speed, accuracy, reliability, and usability of Stripe Tax calculations and related workflows.</li> <li>Expand supp",
-      "posted": "2026-09-10T13:11:58-04:00",
-      "source": "Greenhouse",
-      "department": "8415 Revenue and Finance Automation",
-      "match": 62,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-brex-8780827002",
+      "id": "gh-brex-8780828002",
       "title": "Senior Product Manager, AI",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8780827002?gh_jid=8780827002",
+      "location": "Seattle, Washington, United States / San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8780828002?gh_jid=8780828002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-09-11T17:13:26-04:00",
+      "posted": "2026-09-11T17:13:54-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 61,
