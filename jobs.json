@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T19:38:09.103Z",
+  "lastUpdated": "2026-09-17T22:45:01.782Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,41 +11,14 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 20,
+    "greenhouse": 19,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 19,
+  "totalJobs": 18,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-chime-8751073002",
-      "title": "Principal Product Manager ",
-      "company": "Chime",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, CA, USA",
-      "url": "https://boards.greenhouse.io/chime/jobs/8751073002?gh_jid=8751073002",
-      "description": "<h2><strong>About the role</strong></h2> <p>We’re hiring a Principal Product Manager to lead Top of Funnel Lending at Chime. This is a platform role, not a single-product role: it spans every credit product we take top of the funnel for — loans, credit cards, lines of credit, and the products that come next. You’ll own how members discover, register for, and get approved for credit at Chime, setting acquisition and conversion strategy across the full lending portfolio and building the platform that every current and future lending product grows on top of. The opportunity here is enormous for Chime’s growth. It is bigger still for the millions of Americans looking for a fair source of liquidity — a little help getting past an unexpected expense, or a way out of bad debt.</p> <p>As our Principal Product Manager for Lending Top of Funnel, you’ll own the product end-to-end — from defining strategy and prioritizing investments to partnering across Engineering, Design, Data Science, Risk, Operations, Legal, Compliance, Marketing, and Finance to bring your vision to life. You’ll lead company-program-sized cross-functional efforts: building new registration flows into Chime; growing the fu",
-      "posted": "2026-09-09T17:08:33-04:00",
-      "source": "Greenhouse",
-      "department": "Lending Product",
-      "match": 79,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Cards",
-        "Fraud",
-        "AI/ML"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-8043083",
       "title": "Staff Product Manager, Issuing",
@@ -73,13 +46,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8142649",
+      "id": "gh-stripe-7737526",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
       "posted": "2026-09-10T13:11:58-04:00",
       "source": "Greenhouse",
@@ -96,6 +69,30 @@
         "Lending",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6187759004",
+      "title": "Head of Product - Personal Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
+      "posted": "2026-09-17T17:59:39-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 72,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Banking"
       ],
       "status": "new"
     },
@@ -314,30 +311,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6126980004",
-      "title": "Senior Product Manager - Core Interfaces",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6126980004",
-      "description": "<p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>Dashboard is the home base of Mercury and the connective tissue between everything you need: home, search, tasks, notifications, and the moment-to-moment sense of place and priority. When it's done right, it feels like a thousand tiny things working invisibly in your favor.</p> <p>As Mercury grows more capable, it also grows more complex. Our job is to make sure customers only ever feel the first part: to take an increasingly powerful product and keep it legible, no matter how much is happening underneath it.</p> <p>Our product should meet customers where they are: every task closed, every intent read correctly, every alert landing before it's needed. We aim to make our customers feel that their ambition is inevitable.</p> <p><strong><em>*</em></strong><em> Mercury is a fintech company, not an FDIC-insured bank. Banking services provid",
-      "posted": "2026-09-16T18:36:01-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 65,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7983725",
       "title": "Staff Product Manager, Billing ",
       "company": "Stripe",
@@ -414,24 +387,25 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6187759004",
-      "title": "Head of Product - Personal Banking",
+      "id": "gh-mercury-6126980004",
+      "title": "Senior Product Manager - Core Interfaces",
       "company": "Mercury",
       "industry": "fintech",
       "stage": "C",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
-      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving g",
-      "posted": "2026-09-10T11:45:14-04:00",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6126980004",
+      "description": "<p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>Dashboard is the home base of Mercury and the connective tissue between everything you need: home, search, tasks, notifications, and the moment-to-moment sense of place and priority. When it's done right, it feels like a thousand tiny things working invisibly in your favor.</p> <p>As Mercury grows more capable, it also grows more complex. Our job is to make sure customers only ever feel the first part: to take an increasingly powerful product and keep it legible, no matter how much is happening underneath it.</p> <p>Our product should meet customers where they are: every task closed, every intent read correctly, every alert landing before it's needed. We aim to make our customers feel that their ambition is inevitable.</p> <p><strong><em>*</em></strong><em> Mercury is a fintech company, not an FDIC-insured bank. Banking services provid",
+      "posted": "2026-09-16T18:36:01-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 63,
       "reasons": [
-        "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
+        "AI/ML",
         "Banking"
       ],
       "status": "new"
