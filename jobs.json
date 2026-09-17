@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T04:18:58.640Z",
+  "lastUpdated": "2026-09-17T13:14:29.143Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -181,6 +181,34 @@
       "status": "new"
     },
     {
+      "id": "gh-affirm-7801336003",
+      "title": "Senior Director, Product Management",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platform that powers card issuance, authorization, servicing, and partner integrations.</p> <p>This is a pillar-level leadership role responsible for defining strategy, building a high-performing team, and delivering durable business outcomes across one of Affirm’s most strategic product areas.</p> <h3><strong><strong>What you’ll do</strong></strong></h3> <p><strong><strong>Own the Card domain end-to-end</strong></strong></p> <ul> <li>Define and drive the multi-year vision for Affirm Card across consumer experience, growth, and economics, inclusive of new card products that co",
+      "posted": "2026-09-17T00:31:03-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 71,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Cards",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-8158552",
       "title": "Senior Product Manager, Capital",
       "company": "Adyen",
@@ -192,7 +220,7 @@
       "posted": "2026-09-16T01:57:11-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 72,
+      "match": 70,
       "reasons": [
         "Good skill match",
         "Fresh posting",
@@ -230,32 +258,6 @@
         "Payments",
         "Cards",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8158550",
-      "title": "Senior Product Manager - Cards and Wallets",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8158550",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3><strong>The opportunity</strong></h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Issuing, Banking, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Issuing</em>, which will be ",
-      "posted": "2026-09-11T11:03:53-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 69,
-      "reasons": [
-        "Strong skill alignment",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     },
@@ -521,7 +523,7 @@
       "posted": "2026-09-16T03:49:37-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 62,
+      "match": 60,
       "reasons": [
         "Fresh posting",
         "Perfect domain fit"
