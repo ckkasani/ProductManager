@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T18:56:56.594Z",
+  "lastUpdated": "2026-09-18T22:25:01.397Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 20,
+    "greenhouse": 21,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 19,
+  "totalJobs": 20,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -46,13 +46,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7737526",
+      "id": "gh-stripe-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
       "posted": "2026-09-10T13:11:58-04:00",
       "source": "Greenhouse",
@@ -69,30 +69,6 @@
         "Lending",
         "Cards",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6187759004",
-      "title": "Head of Product - Personal Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
-      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
-      "posted": "2026-09-17T17:59:39-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 72,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Banking"
       ],
       "status": "new"
     },
@@ -177,6 +153,30 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6187759004",
+      "title": "Head of Product - Personal Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
+      "posted": "2026-09-17T17:59:39-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 70,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-8158552",
       "title": "Senior Product Manager, Capital",
       "company": "Adyen",
@@ -200,6 +200,34 @@
         "Cards",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7801336003",
+      "title": "Senior Director, Product Management",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platform that powers card issuance, authorization, servicing, and partner integrations.</p> <p>This is a pillar-level leadership role responsible for defining strategy, building a high-performing team, and delivering durable business outcomes across one of Affirm’s most strategic product areas.</p> <h3><strong><strong>What you’ll do</strong></strong></h3> <p><strong><strong>Own the Card domain end-to-end</strong></strong></p> <ul> <li>Define and drive the multi-year vision for Affirm Card across consumer experience, growth, and economics, inclusive of new card products that co",
+      "posted": "2026-09-17T00:31:03-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 69,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Cards",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
@@ -368,7 +396,7 @@
       "location": "Seattle, Washington, United States",
       "url": "https://www.brex.com/careers/8780828002?gh_jid=8780828002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><p><strong>Product at Brex</strong></p> <p>The Product team is at the forefron",
-      "posted": "2026-09-18T14:56:17-04:00",
+      "posted": "2026-09-18T14:59:28-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 63,
