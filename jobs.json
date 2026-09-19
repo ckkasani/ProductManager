@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T03:59:52.624Z",
+  "lastUpdated": "2026-09-19T08:44:56.134Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 22,
+    "greenhouse": 21,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 21,
+  "totalJobs": 20,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -177,33 +177,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8158552",
-      "title": "Senior Product Manager, Capital",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8158552",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Capital</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Capital, Banking, and Issuing, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Capital</em>, which will be foundational for Adyen’s next generation Financial Products. The Capital team is on a mission ",
-      "posted": "2026-09-16T01:57:11-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-affirm-7801336003",
       "title": "Senior Director, Product Management",
       "company": "Affirm",
@@ -308,6 +281,32 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8158552",
+      "title": "Senior Product Manager, Capital",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8158552",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Capital</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Capital, Banking, and Issuing, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Capital</em>, which will be foundational for Adyen’s next generation Financial Products. The Capital team is on a mission ",
+      "posted": "2026-09-16T01:57:11-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -530,31 +529,6 @@
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8161148",
-      "title": "Senior Product Manager, AI-Native Merchant Experiences",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8161148",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, AI-Native Merchant Experiences</h3> <p>The world's largest businesses run on Adyen. Payments, financial products, and increasingly the commerce workflows around them — money movement, billing, loyalty — flow through a single platform, across dozens of markets and hundreds of payment methods, at a scale most companies never encounter.</p> <p>That scale comes with complexity, and handling it on our merchants' behalf has always been our mission. But the way people expect to work is changing in real time. The pay",
-      "posted": "2026-09-16T03:49:37-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 60,
-      "reasons": [
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
