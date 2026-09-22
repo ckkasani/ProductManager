@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T04:12:20.668Z",
+  "lastUpdated": "2026-09-22T13:15:17.383Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 20,
+    "greenhouse": 21,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 19,
+  "totalJobs": 20,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -31,7 +31,7 @@
       "posted": "2026-09-21T08:39:58-04:00",
       "source": "Greenhouse",
       "department": "8552 PayIntel - PM",
-      "match": 79,
+      "match": 77,
       "reasons": [
         "Strong skill alignment",
         "Senior-level title",
@@ -302,6 +302,32 @@
         "Fintech",
         "Lending",
         "Cards",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8185942",
+      "title": "Group Product Manager, APAC [Head of Products, APAC]",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8185942",
+      "description": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for Global and Regional brands like Facebook, Uber, Temu, Alibaba, Popmart, Singapore Airlines and Agoda - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Group Product Manager, Adyen APAC</strong></p> <p>As the Group Product Manager for Adyen APAC, you will be a pivotal member of the Adyen APAC Leadership Team. You will define and execute the product strategy for one of Adyen’s highest-growth regions across 7+ markets, ensuring our merchants can expand their reach through locally preferred and innovative payment methods.</p> <p>This role sits within the global Payments",
+      "posted": "2026-09-22T06:18:33-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 65,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
         "AI/ML",
         "Platform"
       ],
