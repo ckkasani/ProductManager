@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T19:38:42.737Z",
+  "lastUpdated": "2026-09-22T22:49:32.156Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 21,
+    "greenhouse": 20,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 20,
+  "totalJobs": 19,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -510,30 +510,6 @@
         "Payments",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-sofi-7894776003",
-      "title": "Principal Product Manager, Commercial Banking",
-      "company": "SoFi",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "CA - San Francisco; NY - New York City; WA - Seattle",
-      "url": "https://sofi.com/careers/job/7894776003?gh_jid=7894776003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The Role:</span></strong></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">We’re building Commercial Banking from the ground up and are looking for a Principal Product Manager to lead the s",
-      "posted": "2026-09-21T14:29:38-04:00",
-      "source": "Greenhouse",
-      "department": "SFT Financial Services Product",
-      "match": 60,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Banking"
       ],
       "status": "new"
     }
