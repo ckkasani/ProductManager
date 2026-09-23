@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T13:29:37.759Z",
+  "lastUpdated": "2026-09-23T19:34:24.951Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 21,
+    "greenhouse": 23,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 20,
+  "totalJobs": 22,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -42,6 +42,33 @@
         "Fintech",
         "Payments",
         "Fraud",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8226893",
+      "title": "Staff Product Manager, Agentic Commerce",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "Seattle, San Francisco, New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8226893",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Agentic payments is a team that’s building new API and integration experiences for agentic commerce online. We think that the proliferation of consumer-facing AI experiences will unlock new ways that consumers buy things online, and our existing payments experiences need to evolve to new commercial models that cutting-edge builders are starting. Our first launch, Instant Checkout in collaboration with OpenAI, took the industry by storm and we’re bringing experiences like that to the entire universe of AI agents, and sellers.</p> <h2><strong>What you’ll do</strong></h2> <",
+      "posted": "2026-09-23T13:26:36-04:00",
+      "source": "Greenhouse",
+      "department": "8510 Agentic Commerce",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
         "AI/ML",
         "Platform"
       ],
@@ -74,13 +101,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7737526",
+      "id": "gh-stripe-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
       "posted": "2026-09-10T13:11:58-04:00",
       "source": "Greenhouse",
@@ -485,6 +512,31 @@
         "Cards",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8161148",
+      "title": "Senior Product Manager, AI-Native Merchant Experiences",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8161148",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, AI-Native Merchant Experiences</h3> <p>The world's largest businesses run on Adyen. Payments, financial products, and increasingly the commerce workflows around them — money movement, billing, loyalty — flow through a single platform, across dozens of markets and hundreds of payment methods, at a scale most companies never encounter.</p> <p>That scale comes with complexity, and handling it on our merchants' behalf has always been our mission. But the way people expect to work is changing in real time. The pay",
+      "posted": "2026-09-23T13:03:04-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 62,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
