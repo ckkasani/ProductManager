@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T12:50:46.192Z",
+  "lastUpdated": "2026-09-26T19:07:38.192Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -47,13 +47,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7737526",
+      "id": "gh-stripe-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
       "posted": "2026-09-25T16:44:39-04:00",
       "source": "Greenhouse",
@@ -317,32 +317,6 @@
       "status": "new"
     },
     {
-      "id": "gh-robinhood-8044746",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Menlo Park, CA; New York, NY; Washington, DC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
-      "posted": "2026-09-25T13:03:21-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7913698",
       "title": "Staff Product Manager, Sail Core",
       "company": "Stripe",
@@ -393,6 +367,32 @@
         "Payments",
         "AI/ML",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-robinhood-8044746",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>Robinhood's Money team is building the next generation of banking and spending products for all Americans. Our team members drive never-before-seen products and features from concept to launch to hyperscale. As a Product Manager, you will play a central role in shaping the future of our core banking product and the broader platform that powers it. You'll help define the systems, capabilities, and product foundations that enable new banking experiences, while partnering cross-functionally to bring products from concept through launch and scale.</p> <p><strong>This role is based in our Menlo Park, CA, New York, NY,",
+      "posted": "2026-09-25T13:03:21-04:00",
+      "source": "Greenhouse",
+      "department": "Money Product Division",
+      "match": 68,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -476,14 +476,14 @@
     },
     {
       "id": "gh-coinbase-8234060",
-      "title": "Group Product Manager, FinHub",
+      "title": "Group Product Manager, Money Movement",
       "company": "Coinbase",
       "industry": "fintech",
       "stage": "Public",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
       "description": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchainutm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”<a href=\"https://www.coinbase.com/careers\">learn more about working at Coinbase</a>.</p></div><p><strong>Team/ Role Paragraph:</strong></p> <p>FinHub owns how money moves at Coinbase. Every dollar and token that enters, leaves, or moves within the company runs through this platform - fiat across ACH, wires, cards, RTP, and SEPA, crypto across dozens of blockchain networks, and internal movement across ledgers, legal entities, and customer accounts. As a Group Product Manager on the FinHub team within <a h",
-      "posted": "2026-09-25T18:33:57-04:00",
+      "posted": "2026-09-26T13:37:56-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 63,
