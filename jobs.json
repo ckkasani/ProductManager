@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T13:43:24.626Z",
+  "lastUpdated": "2026-09-27T19:39:29.524Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 23,
+    "greenhouse": 22,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 22,
+  "totalJobs": 21,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -450,31 +450,6 @@
       "status": "new"
     },
     {
-      "id": "gh-coinbase-8234060",
-      "title": "Group Product Manager, Money Movement",
-      "company": "Coinbase",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
-      "description": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchainutm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”<a href=\"https://www.coinbase.com/careers\">learn more about working at Coinbase</a>.</p></div><p><strong>Team/ Role Paragraph:</strong></p> <p>FinHub owns how money moves at Coinbase. Every dollar and token that enters, leaves, or moves within the company runs through this platform - fiat across ACH, wires, cards, RTP, and SEPA, crypto across dozens of blockchain networks, and internal movement across ledgers, legal entities, and customer accounts. As a Group Product Manager on the FinHub team within <a h",
-      "posted": "2026-09-26T13:37:56-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 63,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-mercury-6187759004",
       "title": "Head of Product - Personal Banking",
       "company": "Mercury",
@@ -549,26 +524,27 @@
       "status": "new"
     },
     {
-      "id": "gh-sofi-7894776003",
-      "title": "Principal Product Manager, Commercial Banking",
-      "company": "SoFi",
+      "id": "gh-coinbase-8234060",
+      "title": "Group Product Manager, Money Movement",
+      "company": "Coinbase",
       "industry": "fintech",
       "stage": "Public",
-      "location": "CA - San Francisco; NY - New York City; WA - Seattle",
-      "url": "https://sofi.com/careers/job/7894776003?gh_jid=7894776003",
-      "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The Role:</span></strong></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">We’re building Commercial Banking from the ground up and are looking for a Principal Product Manager to lead the s",
-      "posted": "2026-09-24T13:51:27-04:00",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
+      "description": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchainutm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”<a href=\"https://www.coinbase.com/careers\">learn more about working at Coinbase</a>.</p></div><p><strong>Team/ Role Paragraph:</strong></p> <p>FinHub owns how money moves at Coinbase. Every dollar and token that enters, leaves, or moves within the company runs through this platform - fiat across ACH, wires, cards, RTP, and SEPA, crypto across dozens of blockchain networks, and internal movement across ledgers, legal entities, and customer accounts. As a Group Product Manager on the FinHub team within <a h",
+      "posted": "2026-09-26T13:37:56-04:00",
       "source": "Greenhouse",
-      "department": "SFT Financial Services Product",
-      "match": 60,
+      "department": "Product",
+      "match": 61,
       "reasons": [
-        "Senior-level title",
         "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Banking"
+        "Cards",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
