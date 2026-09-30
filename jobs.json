@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T04:55:41.340Z",
+  "lastUpdated": "2026-09-30T14:46:26.756Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,14 +11,42 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 22,
+    "greenhouse": 28,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 20,
+  "totalJobs": 26,
   "highMatchJobs": 0,
   "jobs": [
+    {
+      "id": "gh-mercury-6187763004",
+      "title": "Head of Product - Business Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
+      "description": "<p>In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and settle the net. On October 11, 1853, in the basement of 14 Wall Street, 52 banks cleared $22.6 million in a single sitting. Money between banks had stopped being an event and became seamless infrastructure.</p> <p>A century and a half later, the hard part is unchanged: moving money once is easy; making it work every time, for hundreds of thousands of businesses, across every rail, is hard. The bank account is where a company's financial life happens - payroll clears or it doesn't; a wire lands or a deal slips; the month closes clean, or someone loses a weekend to it. Mercury is building a business banking* product at a scale better than anything else in the market.</p> <p>Business Banking is the heart of Mercury. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving deposit and payment growth, and owning busines",
+      "posted": "2026-09-30T01:02:06-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 78,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
     {
       "id": "gh-stripe-8043083",
       "title": "Staff Product Manager, Issuing",
@@ -69,6 +97,31 @@
         "Lending",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6181121004",
+      "title": "Senior Product Manager - Reconciliation",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6181121004",
+      "description": "<h3><strong>About the role</strong></h3> <p>At Mercury, we believe financial operations should be seamless, scalable, and built on a foundation of trust. The Reconciliation team develops the products, processes, and controls that protect the accuracy and integrity of Mercury’s core financial systems and money movement.</p> <p>In this role, you will lead the evolution of reconciliation at Mercury, including the key financial controls that enable operational excellence, strong governance, and end-to-end auditability. You’ll partner closely with Product, Engineering, Finance, Operations, and Accounting to automate complex workflows, strengthen control coverage, and ensure issues are detected, investigated, and resolved quickly.</p> <p>Our goal is to make financial accuracy a given. You’ll help build a reconciliation platform that is reliable, transparent, and scalable—giving Mercury confidence in every transaction and enabling us to grow without compromising financial integrity.<br><br><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></p> <h3><strong>What you’ll do</strong></h3> <ul",
+      "posted": "2026-09-30T01:02:06-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 74,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -127,6 +180,30 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6187759004",
+      "title": "Head of Product - Personal Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
+      "posted": "2026-09-30T01:02:06-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 72,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-8065034",
       "title": "Staff Product Manager, Connect",
       "company": "Stripe",
@@ -153,6 +230,32 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6106974004",
+      "title": "Head of Product - Business Lending",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6106974004",
+      "description": "<p>In 1910, a Norfolk lawyer named Arthur Morris kept seeing the same thing: a steadily employed worker needed a small loan, the banks turned him away for lack of collateral, and he was left with nowhere reputable to borrow. Morris decided a banking system that shut out most of the people it was meant to serve had a \"weak spot\" worth fixing, so he built a lender that lent on character and steady income, backed by two references and repaid in small installments. What made it matter wasn't any single loan, but that Morris turned the idea into a repeatable system and scaled it to more than a hundred Morris Plan banks across thirty-seven states.</p> <p>A century later, the hard part is unchanged: making one good loan is easy; building a business that makes millions of them well is hard. Mercury is building a banking*-grade lending business, where credit extends the trust businesses already place in us to hold and move their money. We need a leader to turn that foundation into a thriving, responsibly-scaled business.</p> <p>We’re looking for a Head of Product to own Mercury's lending business end-to-end: defining product strategy, leading a team of product managers and lending specialis",
+      "posted": "2026-09-30T01:01:59-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 70,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7819059",
       "title": "Staff Product Manager, Payments",
       "company": "Stripe",
@@ -175,6 +278,30 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6148371004",
+      "title": "Senior Product Manager - Users",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6148371004",
+      "description": "<p>Linus Yale patented the modern pin tumbler lock in 1861, and hotels took to it immediately. The clever part was never the lock; it was master keying. The same door opens for a guest with one key and the manager with another, each cut to a different depth of authority. It solved the problem every growing building has, and introduced a new one, because now a single key opens everything.</p> <p>The hard part was never the lock. It's deciding who gets which key<em>.</em></p> <p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>The Users team owns who is allowed to do what: roles, permissions, invitations, and the authorization layer every other product team builds on. From a solo founder working with agents to an enterprise onboarding employees for spend without exposing banking* details, our job is to support that range while keeping the core product simple.</p> <p>Every product Mercury ",
+      "posted": "2026-09-30T01:02:04-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 68,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Banking"
       ],
       "status": "new"
     },
@@ -306,6 +433,56 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6126980004",
+      "title": "Senior Product Manager - Core Interfaces",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6126980004",
+      "description": "<p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>Dashboard is the home base of Mercury and the connective tissue between everything you need: home, search, tasks, notifications, and the moment-to-moment sense of place and priority. When it's done right, it feels like a thousand tiny things working invisibly in your favor.</p> <p>As Mercury grows more capable, it also grows more complex. Our job is to make sure customers only ever feel the first part: to take an increasingly powerful product and keep it legible, no matter how much is happening underneath it.</p> <p>Our product should meet customers where they are: every task closed, every intent read correctly, every alert landing before it's needed. We aim to make our customers feel that their ambition is inevitable.</p> <p><strong><em>*</em></strong><em> Mercury is a fintech company, not an FDIC-insured bank. Banking services provid",
+      "posted": "2026-09-30T01:02:02-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 65,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8185942",
+      "title": "Group Product Manager, APAC [Head of Products, APAC]",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8185942",
+      "description": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for Global and Regional brands like Facebook, Uber, Temu, Alibaba, Popmart, Singapore Airlines and Agoda - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Group Product Manager, Adyen APAC</strong></p> <p>As the Group Product Manager for Adyen APAC, you will be a pivotal member of the Adyen APAC Leadership Team. You will define and execute the product strategy for one of Adyen’s highest-growth regions across 7+ markets, ensuring our merchants can expand their reach through locally preferred and innovative payment methods.</p> <p>This role sits within the global Payments",
+      "posted": "2026-09-30T01:37:17-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 65,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-robinhood-8044746",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -357,50 +534,26 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6187759004",
-      "title": "Head of Product - Personal Banking",
+      "id": "gh-mercury-6098827004",
+      "title": "Senior Product Manager - Business Lending",
       "company": "Mercury",
       "industry": "fintech",
       "stage": "C",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
-      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
-      "posted": "2026-09-17T17:59:39-04:00",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6098827004",
+      "description": "<p>In the days after the 1906 earthquake and fire destroyed most of San Francisco, the city's banks stayed shut, their vaults too hot to open for weeks. Amadeo Giannini, who ran the small Bank of Italy, did the opposite. He set up a makeshift desk on the wharf, a plank laid across two barrels, and began lending. Most of his customers were shopkeepers, fishermen, and tradespeople who had lost everything, including any papers proving who they were. So Giannini lent on a signature and a handshake, betting on the people in front of him. Those loans helped rebuild the city block by block, and, the story goes, every one of them was paid back.</p> <p>That's the promise of a business loan: capital, offered fairly and fast, to people with the will and the plan to build something. More than a century later, too many growing businesses still hit a version of the closed vault: slow processes, opaque decisions, and paperwork that arrives too late to matter.</p> <p>At Mercury, we're building lending products that give growing businesses fast, fair, transparent access to the capital that lets them say yes when it counts. We're looking for a Senior PM to own this product end-to-end. You'll blend s",
+      "posted": "2026-09-30T01:01:58-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 63,
+      "match": 64,
       "reasons": [
-        "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8158552",
-      "title": "Senior Product Manager, Capital",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8158552",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Capital</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Capital, Banking, and Issuing, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Capital</em>, which will be foundational for Adyen’s next generation Financial Products. The Capital team is on a mission ",
-      "posted": "2026-09-16T01:57:11-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 63,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
+        "Lending",
+        "AI/ML",
         "Banking"
       ],
       "status": "new"
