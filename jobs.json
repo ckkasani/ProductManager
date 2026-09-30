@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T14:46:26.756Z",
+  "lastUpdated": "2026-09-30T20:40:06.176Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -28,7 +28,7 @@
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
       "description": "<p>In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and settle the net. On October 11, 1853, in the basement of 14 Wall Street, 52 banks cleared $22.6 million in a single sitting. Money between banks had stopped being an event and became seamless infrastructure.</p> <p>A century and a half later, the hard part is unchanged: moving money once is easy; making it work every time, for hundreds of thousands of businesses, across every rail, is hard. The bank account is where a company's financial life happens - payroll clears or it doesn't; a wire lands or a deal slips; the month closes clean, or someone loses a weekend to it. Mercury is building a business banking* product at a scale better than anything else in the market.</p> <p>Business Banking is the heart of Mercury. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving deposit and payment growth, and owning busines",
-      "posted": "2026-09-30T01:02:06-04:00",
+      "posted": "2026-09-30T13:21:07-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 78,
@@ -109,7 +109,7 @@
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6181121004",
       "description": "<h3><strong>About the role</strong></h3> <p>At Mercury, we believe financial operations should be seamless, scalable, and built on a foundation of trust. The Reconciliation team develops the products, processes, and controls that protect the accuracy and integrity of Mercury’s core financial systems and money movement.</p> <p>In this role, you will lead the evolution of reconciliation at Mercury, including the key financial controls that enable operational excellence, strong governance, and end-to-end auditability. You’ll partner closely with Product, Engineering, Finance, Operations, and Accounting to automate complex workflows, strengthen control coverage, and ensure issues are detected, investigated, and resolved quickly.</p> <p>Our goal is to make financial accuracy a given. You’ll help build a reconciliation platform that is reliable, transparent, and scalable—giving Mercury confidence in every transaction and enabling us to grow without compromising financial integrity.<br><br><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></p> <h3><strong>What you’ll do</strong></h3> <ul",
-      "posted": "2026-09-30T01:02:06-04:00",
+      "posted": "2026-09-30T13:47:07-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 74,
@@ -188,7 +188,7 @@
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
       "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
-      "posted": "2026-09-30T01:02:06-04:00",
+      "posted": "2026-09-30T13:22:50-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 72,
@@ -567,7 +567,7 @@
       "location": "CA - San Francisco; NY - New York City; WA - Seattle",
       "url": "https://sofi.com/careers/job/7894776003?gh_jid=7894776003",
       "description": "<div class=\"content-intro\"><p><a href=\"https://www.sofi.com/sofi-employee-applicant-privacy-notice/\" target=\"_blank\"><strong>Employee Applicant Privacy Notice</strong></a></p> <p><strong>Who we are:</strong></p> <div> <p>Shape a brighter financial future with us.</p> <p>Together with our members, we’re changing the way people think about and interact with personal finance.</p> <p>We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.</strong></p> </div></div><p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The Role:</span></strong></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">We’re building Commercial Banking from the ground up and are looking for a Principal Product Manager to lead the s",
-      "posted": "2026-09-29T18:03:34-04:00",
+      "posted": "2026-09-30T15:13:32-04:00",
       "source": "Greenhouse",
       "department": "SFT Financial Services Product",
       "match": 62,
@@ -610,32 +610,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7773693003",
-      "title": "Senior Product Manager, Credit & Pricing",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p data-pm-slice=\"1 1 []\"><strong>About The Role</strong></p> <p>As a Senior Product Manager on Affirm’s Credit Pricing team, you’ll build products that help merchants turn flexible payments into measurable business growth. You’ll own the strategy for merchant pricing products and the platform capabilities behind them, helping businesses offer compelling financing, improve conversion, and generate incremental sales, while balancing merchant payment acceptance costs with sustainable economics for Affirm.</p> <p>This role combines B2B product leadership with consumer product intuition. You’ll work directly with commercial teams and merchants to understand their growth objectives and economics, translate complex pricing capabilities into intuitive products, and bring new solutions to market. You’ll also partner across teams to connect pricing with how consumers discover and choose financing, while shaping future opportunities across targeted offers, incentives, and adver",
-      "posted": "2026-09-29T14:17:59-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 62,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-8161148",
       "title": "Principal Product Manager, AI-Native Merchant Experiences",
       "company": "Adyen",
@@ -655,6 +629,32 @@
       "tags": [
         "Fintech",
         "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7773691003",
+      "title": "Senior Product Manager, Credit & Pricing",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773691003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p data-pm-slice=\"1 1 []\"><strong>About The Role</strong></p> <p>As a Senior Product Manager on Affirm’s Credit Pricing team, you’ll build products that help merchants turn flexible payments into measurable business growth. You’ll own the strategy for merchant pricing products and the platform capabilities behind them, helping businesses offer compelling financing, improve conversion, and generate incremental sales, while balancing merchant payment acceptance costs with sustainable economics for Affirm.</p> <p>This role combines B2B product leadership with consumer product intuition. You’ll work directly with commercial teams and merchants to understand their growth objectives and economics, translate complex pricing capabilities into intuitive products, and bring new solutions to market. You’ll also partner across teams to connect pricing with how consumers discover and choose financing, while shaping future opportunities across targeted offers, incentives, and adver",
+      "posted": "2026-09-29T14:17:22-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 60,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
         "AI/ML",
         "Platform"
       ],
