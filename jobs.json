@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T23:33:34.088Z",
+  "lastUpdated": "2026-09-30T04:55:41.340Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -306,33 +306,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7801336003",
-      "title": "Senior Director, Product Management (Card)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platform that powers card issuance, authorization, servicing, and partner integrations.</p> <p>This is a pillar-level leadership role responsible for defining strategy, building a high-performing team, and delivering durable business outcomes across one of Affirm’s most strategic product areas.</p> <h3><strong><strong>What you’ll do</strong></strong></h3> <p><strong><strong>Own the Card domain end-to-end</strong></strong></p> <ul> <li>Define and drive the multi-year vision for Affirm Card across consumer experience, growth, and economics, inclusive of new card products that co",
-      "posted": "2026-09-22T19:36:06-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 65,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Cards",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-robinhood-8044746",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -453,6 +426,33 @@
       "tags": [
         "Fintech",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7801336003",
+      "title": "Senior Director, Product Management (Card)",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platform that powers card issuance, authorization, servicing, and partner integrations.</p> <p>This is a pillar-level leadership role responsible for defining strategy, building a high-performing team, and delivering durable business outcomes across one of Affirm’s most strategic product areas.</p> <h3><strong><strong>What you’ll do</strong></strong></h3> <p><strong><strong>Own the Card domain end-to-end</strong></strong></p> <ul> <li>Define and drive the multi-year vision for Affirm Card across consumer experience, growth, and economics, inclusive of new card products that co",
+      "posted": "2026-09-22T19:36:06-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 62,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Cards",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
