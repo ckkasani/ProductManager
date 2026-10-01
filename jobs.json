@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T05:08:55.926Z",
+  "lastUpdated": "2026-10-01T15:16:20.874Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 28,
+    "greenhouse": 27,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 26,
+  "totalJobs": 25,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -433,32 +433,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8185942",
-      "title": "Group Product Manager, APAC [Head of Products, APAC]",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8185942",
-      "description": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for Global and Regional brands like Facebook, Uber, Temu, Alibaba, Popmart, Singapore Airlines and Agoda - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Group Product Manager, Adyen APAC</strong></p> <p>As the Group Product Manager for Adyen APAC, you will be a pivotal member of the Adyen APAC Leadership Team. You will define and execute the product strategy for one of Adyen’s highest-growth regions across 7+ markets, ensuring our merchants can expand their reach through locally preferred and innovative payment methods.</p> <p>This role sits within the global Payments",
-      "posted": "2026-09-30T01:37:17-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 65,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-robinhood-8044746",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -530,6 +504,32 @@
         "Fintech",
         "AI/ML",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8185942",
+      "title": "Group Product Manager, APAC [Head of Products, APAC]",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8185942",
+      "description": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for Global and Regional brands like Facebook, Uber, Temu, Alibaba, Popmart, Singapore Airlines and Agoda - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Group Product Manager, Adyen APAC</strong></p> <p>As the Group Product Manager for Adyen APAC, you will be a pivotal member of the Adyen APAC Leadership Team. You will define and execute the product strategy for one of Adyen’s highest-growth regions across 7+ markets, ensuring our merchants can expand their reach through locally preferred and innovative payment methods.</p> <p>This role sits within the global Payments",
+      "posted": "2026-09-30T01:37:17-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
@@ -635,15 +635,15 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7773693003",
+      "id": "gh-affirm-7773691003",
       "title": "Senior Product Manager, Credit & Pricing",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote Canada / Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
+      "location": "Remote US / Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773691003",
       "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p data-pm-slice=\"1 1 []\"><strong>About The Role</strong></p> <p>As a Senior Product Manager on Affirm’s Credit Pricing team, you’ll build products that help merchants turn flexible payments into measurable business growth. You’ll own the strategy for merchant pricing products and the platform capabilities behind them, helping businesses offer compelling financing, improve conversion, and generate incremental sales, while balancing merchant payment acceptance costs with sustainable economics for Affirm.</p> <p>This role combines B2B product leadership with consumer product intuition. You’ll work directly with commercial teams and merchants to understand their growth objectives and economics, translate complex pricing capabilities into intuitive products, and bring new solutions to market. You’ll also partner across teams to connect pricing with how consumers discover and choose financing, while shaping future opportunities across targeted offers, incentives, and adver",
-      "posted": "2026-09-29T14:17:59-04:00",
+      "posted": "2026-09-29T14:17:22-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
       "match": 60,
@@ -657,32 +657,6 @@
         "Lending",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8060230",
-      "title": "Senior Product Manager - Banking Networks Global",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8060230",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Banking Networks</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen's value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts, and capital; facilitated by Adyen's global banking licenses. Behind every one of these products sits a critical dependency: reliable, direct connecti",
-      "posted": "2026-09-17T10:33:14-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 60,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
       ],
       "status": "new"
     }
