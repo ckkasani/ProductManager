@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T14:35:57.919Z",
+  "lastUpdated": "2026-10-02T20:32:10.288Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 27,
+    "greenhouse": 25,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 25,
+  "totalJobs": 24,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -74,13 +74,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8142649",
+      "id": "gh-stripe-7737526",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
       "posted": "2026-09-25T16:44:39-04:00",
       "source": "Greenhouse",
@@ -201,6 +201,32 @@
         "Fintech",
         "Payments",
         "Compliance",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8140438",
+      "title": "Staff Product Manager, Mobile",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "New York City, Toronto, Chicago, or Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8140438",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>From having their phone buzz as their first payment comes in to quickly resolving customer issues on-the-go, the Stripe mobile app is a critical lifeline for founders and business owners around the world. Our team is responsible for both the app platform and user-facing experiences. We collaborate closely with every product team to represent, shape, and enhance what it means to be mobile. The next chapter of our mobile efforts will take the quality bar to even greater heights and redefine mobile money movement.</p> <p>We’re hiring a passionate product leader to shape th",
+      "posted": "2026-10-02T12:31:56-04:00",
+      "source": "Greenhouse",
+      "department": "8569 MerchantXP - PM",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
         "Platform"
       ],
       "status": "new"
@@ -411,30 +437,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6148371004",
-      "title": "Senior Product Manager - Users",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6148371004",
-      "description": "<p>Linus Yale patented the modern pin tumbler lock in 1861, and hotels took to it immediately. The clever part was never the lock; it was master keying. The same door opens for a guest with one key and the manager with another, each cut to a different depth of authority. It solved the problem every growing building has, and introduced a new one, because now a single key opens everything.</p> <p>The hard part was never the lock. It's deciding who gets which key<em>.</em></p> <p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>The Users team owns who is allowed to do what: roles, permissions, invitations, and the authorization layer every other product team builds on. From a solo founder working with agents to an enterprise onboarding employees for spend without exposing banking* details, our job is to support that range while keeping the core product simple.</p> <p>Every product Mercury ",
-      "posted": "2026-09-30T01:02:04-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 66,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7812856",
       "title": "Senior Product Manager, Enterprise",
       "company": "Stripe",
@@ -535,31 +537,6 @@
       "status": "new"
     },
     {
-      "id": "gh-robinhood-8044746",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Menlo Park, CA; New York, NY; Washington, DC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.</p> <p>The Money and Banking team’s mission is to design and scale the next generation of financial products that help our customers manage and grow their daily funds. We build ",
-      "posted": "2026-10-01T14:30:36-04:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 62,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-affirm-7801336003",
       "title": "Senior Director, Product Management (Card)",
       "company": "Affirm",
@@ -636,28 +613,27 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7773691003",
-      "title": "Senior Product Manager, Credit & Pricing",
-      "company": "Affirm",
+      "id": "gh-robinhood-8044746",
+      "title": "Staff Product Manager, Banking",
+      "company": "Robinhood",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773691003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p data-pm-slice=\"1 1 []\"><strong>About The Role</strong></p> <p>As a Senior Product Manager on Affirm’s Credit Pricing team, you’ll build products that help merchants turn flexible payments into measurable business growth. You’ll own the strategy for merchant pricing products and the platform capabilities behind them, helping businesses offer compelling financing, improve conversion, and generate incremental sales, while balancing merchant payment acceptance costs with sustainable economics for Affirm.</p> <p>This role combines B2B product leadership with consumer product intuition. You’ll work directly with commercial teams and merchants to understand their growth objectives and economics, translate complex pricing capabilities into intuitive products, and bring new solutions to market. You’ll also partner across teams to connect pricing with how consumers discover and choose financing, while shaping future opportunities across targeted offers, incentives, and adver",
-      "posted": "2026-09-29T14:17:22-04:00",
+      "location": "Menlo Park, CA; New York, NY; Washington, DC",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
+      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.</p> <p>The Money and Banking team’s mission is to design and scale the next generation of financial products that help our customers manage and grow their daily funds. We build ",
+      "posted": "2026-10-01T14:30:36-04:00",
       "source": "Greenhouse",
-      "department": "Product Management",
+      "department": "Money Product Division",
       "match": 60,
       "reasons": [
+        "Senior-level title",
         "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
-        "Payments",
-        "Lending",
         "AI/ML",
-        "Platform"
+        "Banking"
       ],
       "status": "new"
     }
