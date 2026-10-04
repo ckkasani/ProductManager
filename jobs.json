@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T19:20:56.068Z",
+  "lastUpdated": "2026-10-04T22:54:57.185Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -279,32 +279,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8161148",
-      "title": "Principal Product Manager, AI-Native Merchant Experiences",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8161148",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Principal Product Manager, AI-Native Merchant Experiences</h3> <p>The world's largest businesses run on Adyen. Payments, financial products, and increasingly the commerce workflows around them — money movement, billing, loyalty — flow through a single platform, across dozens of markets and hundreds of payment methods, at a scale most companies never encounter.</p> <p>That scale comes with complexity, and handling it on our merchants' behalf has always been our mission. But the way people expect to work is changing in real time. The ",
-      "posted": "2026-10-01T17:26:24-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 66,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-8226893",
       "title": "Staff Product Manager, Agentic Commerce",
       "company": "Stripe",
@@ -478,6 +452,31 @@
         "Fintech",
         "Lending",
         "Cards",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8161148",
+      "title": "Principal Product Manager, AI-Native Merchant Experiences",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8161148",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Principal Product Manager, AI-Native Merchant Experiences</h3> <p>The world's largest businesses run on Adyen. Payments, financial products, and increasingly the commerce workflows around them — money movement, billing, loyalty — flow through a single platform, across dozens of markets and hundreds of payment methods, at a scale most companies never encounter.</p> <p>That scale comes with complexity, and handling it on our merchants' behalf has always been our mission. But the way people expect to work is changing in real time. The ",
+      "posted": "2026-10-01T17:26:24-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 62,
+      "reasons": [
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
         "AI/ML",
         "Platform"
       ],
