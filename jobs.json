@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T18:08:57.912Z",
+  "lastUpdated": "2026-10-06T23:41:02.966Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -432,6 +432,31 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6218705004",
+      "title": "Senior Product Manager - Consumer Credit Card",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6218705004",
+      "description": "<p>In 1949, as Diners Club tells it, Frank McNamara finished dinner in Manhattan and found his wallet at home in another suit. His wife came down and paid. He returned to the same table the following February and settled the bill with a piece of cardboard, honored at twenty-seven restaurants and carried by two hundred people, most of them his friends. A year later there were 42,000.</p> <p>McNamara solved two problems at once. Acceptance: enough restaurants to make the card worth carrying, and enough diners to make it worth accepting. And credit: thirty unsecured days of it, on nothing but a signature. The networks settled acceptance decades ago. What is left is the credit, and the question of why someone carries this card rather than another one. That is this role.</p> <p>Mercury is building its first consumer credit card. We are looking for a Senior Product Manager to define what it is, ship it, and grow it from a first cohort into a portfolio. The scope is the credit account itself: the acquisition and application funnel, the approval experience and the underwriting decisions behind it, how the line moves over time, what the rewards are worth, and the experience of carrying the ",
+      "posted": "2026-10-06T18:11:24-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 64,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Cards",
+        "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-8258815",
       "title": "Staff Product Manager, Radar - Fraud and Abuse Prevention",
       "company": "Stripe",
@@ -504,33 +529,6 @@
       "tags": [
         "Fintech",
         "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-7801336003",
-      "title": "Senior Director, Product Management (Card)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platform that powers card issuance, authorization, servicing, and partner integrations.</p> <p>This is a pillar-level leadership role responsible for defining strategy, building a high-performing team, and delivering durable business outcomes across one of Affirm’s most strategic product areas.</p> <h3><strong><strong>What you’ll do</strong></strong></h3> <p><strong><strong>Own the Card domain end-to-end</strong></strong></p> <ul> <li>Define and drive the multi-year vision for Affirm Card across consumer experience, growth, and economics, inclusive of new card products that co",
-      "posted": "2026-09-22T19:36:06-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 62,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Cards",
-        "AI/ML",
         "Platform"
       ],
       "status": "new"
