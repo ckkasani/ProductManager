@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T15:22:20.727Z",
+  "lastUpdated": "2026-10-07T21:07:22.027Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 19,
+    "greenhouse": 20,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 19,
+  "totalJobs": 20,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -101,29 +101,29 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6187763004",
-      "title": "Head of Product - Business Banking",
-      "company": "Mercury",
+      "id": "gh-affirm-7999793003",
+      "title": "Senior Director, Product Management (Post-Purchase Experiences and Platforms)",
+      "company": "Affirm",
       "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
-      "description": "<p>In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and settle the net. On October 11, 1853, in the basement of 14 Wall Street, 52 banks cleared $22.6 million in a single sitting. Money between banks had stopped being an event and became seamless infrastructure.</p> <p>A century and a half later, the hard part is unchanged: moving money once is easy; making it work every time, for hundreds of thousands of businesses, across every rail, is hard. The bank account is where a company's financial life happens - payroll clears or it doesn't; a wire lands or a deal slips; the month closes clean, or someone loses a weekend to it. Mercury is building a business banking* product at a scale better than anything else in the market.</p> <p>Business Banking is the heart of Mercury. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving deposit and payment growth, and owning busines",
-      "posted": "2026-09-30T13:21:07-04:00",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Post-purchase experiences are one of Affirm’s most critical customer experiences, directly shaping customer trust, credit performance, and the economics of every loan we serve. We’re looking for a Senior Director of Product Management to lead the teams responsible for the end-to-end repayments journey—from how customers manage and make payments to how Affirm supports customers through delinquency, collectio",
+      "posted": "2026-10-07T16:43:31-04:00",
       "source": "Greenhouse",
-      "department": "Product",
-      "match": 72,
+      "department": "Financial Platforms Product",
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
-        "AI/ML",
-        "Platform",
-        "Banking"
+        "Lending",
+        "Platform"
       ],
       "status": "new"
     },
@@ -155,24 +155,27 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6181121004",
-      "title": "Senior Product Manager - Reconciliation",
+      "id": "gh-mercury-6187763004",
+      "title": "Head of Product - Business Banking",
       "company": "Mercury",
       "industry": "fintech",
       "stage": "C",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6181121004",
-      "description": "<h3><strong>About the role</strong></h3> <p>At Mercury, we believe financial operations should be seamless, scalable, and built on a foundation of trust. The Reconciliation team develops the products, processes, and controls that protect the accuracy and integrity of Mercury’s core financial systems and money movement.</p> <p>In this role, you will lead the evolution of reconciliation at Mercury, including the key financial controls that enable operational excellence, strong governance, and end-to-end auditability. You’ll partner closely with Product, Engineering, Finance, Operations, and Accounting to automate complex workflows, strengthen control coverage, and ensure issues are detected, investigated, and resolved quickly.</p> <p>Our goal is to make financial accuracy a given. You’ll help build a reconciliation platform that is reliable, transparent, and scalable—giving Mercury confidence in every transaction and enabling us to grow without compromising financial integrity.<br><br><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></p> <h3><strong>What you’ll do</strong></h3> <ul",
-      "posted": "2026-09-30T13:47:07-04:00",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
+      "description": "<p>In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and settle the net. On October 11, 1853, in the basement of 14 Wall Street, 52 banks cleared $22.6 million in a single sitting. Money between banks had stopped being an event and became seamless infrastructure.</p> <p>A century and a half later, the hard part is unchanged: moving money once is easy; making it work every time, for hundreds of thousands of businesses, across every rail, is hard. The bank account is where a company's financial life happens - payroll clears or it doesn't; a wire lands or a deal slips; the month closes clean, or someone loses a weekend to it. Mercury is building a business banking* product at a scale better than anything else in the market.</p> <p>Business Banking is the heart of Mercury. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving deposit and payment growth, and owning busines",
+      "posted": "2026-09-30T13:21:07-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 68,
+      "match": 69,
       "reasons": [
         "Good skill match",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
+        "Payments",
+        "AI/ML",
         "Platform",
         "Banking"
       ],
@@ -231,29 +234,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6187759004",
-      "title": "Head of Product - Personal Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
-      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
-      "posted": "2026-09-30T13:22:50-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 66,
-      "reasons": [
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-8161148",
       "title": "Principal Product Manager, AI-Native Merchant Experiences",
       "company": "Adyen",
@@ -276,6 +256,30 @@
         "Payments",
         "AI/ML",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6181121004",
+      "title": "Senior Product Manager - Reconciliation",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6181121004",
+      "description": "<h3><strong>About the role</strong></h3> <p>At Mercury, we believe financial operations should be seamless, scalable, and built on a foundation of trust. The Reconciliation team develops the products, processes, and controls that protect the accuracy and integrity of Mercury’s core financial systems and money movement.</p> <p>In this role, you will lead the evolution of reconciliation at Mercury, including the key financial controls that enable operational excellence, strong governance, and end-to-end auditability. You’ll partner closely with Product, Engineering, Finance, Operations, and Accounting to automate complex workflows, strengthen control coverage, and ensure issues are detected, investigated, and resolved quickly.</p> <p>Our goal is to make financial accuracy a given. You’ll help build a reconciliation platform that is reliable, transparent, and scalable—giving Mercury confidence in every transaction and enabling us to grow without compromising financial integrity.<br><br><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></p> <h3><strong>What you’ll do</strong></h3> <ul",
+      "posted": "2026-09-30T13:47:07-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 65,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -430,6 +434,29 @@
         "Cards",
         "Fraud",
         "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6187759004",
+      "title": "Head of Product - Personal Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
+      "posted": "2026-09-30T13:22:50-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Banking"
       ],
       "status": "new"
     },
