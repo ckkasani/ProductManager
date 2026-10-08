@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T15:24:48.363Z",
+  "lastUpdated": "2026-10-08T21:10:59.796Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -289,33 +289,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7999793003",
-      "title": "Senior Director, Product Management (Post-Purchase Experiences and Platforms)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Post-purchase experiences are one of Affirm’s most critical customer experiences, directly shaping customer trust, credit performance, and the economics of every loan we serve. We’re looking for a Senior Director of Product Management to lead the teams responsible for the end-to-end repayments journey—from how customers manage and make payments to how Affirm supports customers through delinquency, collectio",
-      "posted": "2026-10-07T16:43:31-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-8140438",
       "title": "Staff Product Manager, Mobile",
       "company": "Stripe",
@@ -364,6 +337,33 @@
         "Fintech",
         "Payments",
         "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7999793003",
+      "title": "Senior Director, Product Management (Post-Purchase Experiences and Platforms)",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Post-purchase experiences are one of Affirm’s most critical customer experiences, directly shaping customer trust, credit performance, and the economics of every loan we serve. We’re looking for a Senior Director of Product Management to lead the teams responsible for the end-to-end repayments journey—from how customers manage and make payments to how Affirm supports customers through delinquency, collectio",
+      "posted": "2026-10-07T16:43:31-04:00",
+      "source": "Greenhouse",
+      "department": "Financial Platforms Product",
+      "match": 69,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
         "Platform"
       ],
       "status": "new"
