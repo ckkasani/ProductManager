@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T20:41:45.824Z",
+  "lastUpdated": "2026-10-10T05:13:22.416Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,24 +11,24 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 24,
+    "greenhouse": 26,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 23,
+  "totalJobs": 25,
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-stripe-7737526",
+      "id": "gh-stripe-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
-      "posted": "2026-10-09T14:20:29-04:00",
+      "posted": "2026-10-09T14:20:32-04:00",
       "source": "Greenhouse",
       "department": "8555 Payments Globalization - PM",
       "match": 81,
@@ -181,6 +181,59 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8147288",
+      "title": "Senior Product Manager, Banking",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8147288",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Banking</h3> <p>We are seeking a Senior Product Manager, Banking (US) to define and scale the next phase of Adyen’s banking strategy in North America. This role owns the end-to-end product vision, strategy, and execution for Adyen’s US banking capabilities, sitting at the intersection of payments, money movement, platform services, and embedded finance.</p> <p>Adyen has already built the foundational banking infrastructure — licenses, regulatory approvals, integrations into local clearing systems like ACH, RT",
+      "posted": "2026-10-09T22:02:17-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 72,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8018202",
+      "title": "Senior Product Manager, Issuing",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Issuing</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Issuing, Banking, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data.<br><br>We are looking for a Senior Product Manager to help scale Issuing, which will be foundational for Adyen’s next generation Financial Products. The Issuing team is on a mission to enable business",
+      "posted": "2026-10-09T22:30:24-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 72,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -424,6 +477,30 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6148371004",
+      "title": "Senior Product Manager - Users",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6148371004",
+      "description": "<p>Linus Yale patented the modern pin tumbler lock in 1861, and hotels took to it immediately. The clever part was never the lock; it was master keying. The same door opens for a guest with one key and the manager with another, each cut to a different depth of authority. It solved the problem every growing building has, and introduced a new one, because now a single key opens everything.</p> <p>The hard part was never the lock. It's deciding who gets which key<em>.</em></p> <p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>The Users team owns who is allowed to do what: roles, permissions, invitations, and the authorization layer every other product team builds on. From a solo founder working with agents to an enterprise onboarding employees for spend without exposing banking* details, our job is to support that range while keeping the core product simple.</p> <p>Every product Mercury ",
+      "posted": "2026-10-09T18:07:40-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 68,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-6181121004",
       "title": "Senior Product Manager - Reconciliation",
       "company": "Mercury",
@@ -518,31 +595,6 @@
         "Fintech",
         "Payments",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6218705004",
-      "title": "Senior Product Manager - Consumer Credit Card",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6218705004",
-      "description": "<p>In 1949, as Diners Club tells it, Frank McNamara finished dinner in Manhattan and found his wallet at home in another suit. His wife came down and paid. He returned to the same table the following February and settled the bill with a piece of cardboard, honored at twenty-seven restaurants and carried by two hundred people, most of them his friends. A year later there were 42,000.</p> <p>McNamara solved two problems at once. Acceptance: enough restaurants to make the card worth carrying, and enough diners to make it worth accepting. And credit: thirty unsecured days of it, on nothing but a signature. The networks settled acceptance decades ago. What is left is the credit, and the question of why someone carries this card rather than another one. That is this role.</p> <p>Mercury is building its first consumer credit card. We are looking for a Senior Product Manager to define what it is, ship it, and grow it from a first cohort into a portfolio. The scope is the credit account itself: the acquisition and application funnel, the approval experience and the underwriting decisions behind it, how the line moves over time, what the rewards are worth, and the experience of carrying the ",
-      "posted": "2026-10-06T18:11:24-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 62,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Cards",
-        "AI/ML"
       ],
       "status": "new"
     },
