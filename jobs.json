@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T23:21:26.378Z",
+  "lastUpdated": "2026-10-11T05:03:38.835Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -128,6 +128,32 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-8065034",
+      "title": "Staff Product Manager, Connect",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "N/A",
+      "url": "https://stripe.com/jobs/search?gh_jid=8065034",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the Product - Connect Platform</strong></h3> <p>Connect is Stripe’s platform for businesses that serve other businesses. It gives platforms the infrastructure to represent the people and companies in their ecosystem, onboard and verify them, manage their accounts, accept payments, and pay them out - without building payments, compliance, or financial-services systems themselves. This is how businesses like Shopify can help entrepreneurs run and grow their businesses. It is also the kind of infrastructure that marketplaces such as DoorDash need to coordinate money movement across large networ",
+      "posted": "2026-10-07T19:02:27-04:00",
+      "source": "Greenhouse",
+      "department": "8250 Connect - PM",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Compliance",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-8147288",
       "title": "Senior Product Manager, Banking",
       "company": "Adyen",
@@ -139,7 +165,7 @@
       "posted": "2026-10-09T22:02:17-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 72,
+      "match": 70,
       "reasons": [
         "Good skill match",
         "Fresh posting",
@@ -165,7 +191,7 @@
       "posted": "2026-10-09T22:30:24-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 72,
+      "match": 70,
       "reasons": [
         "Good skill match",
         "Fresh posting",
@@ -177,32 +203,6 @@
         "Cards",
         "Platform",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8065034",
-      "title": "Staff Product Manager, Connect",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "N/A",
-      "url": "https://stripe.com/jobs/search?gh_jid=8065034",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the Product - Connect Platform</strong></h3> <p>Connect is Stripe’s platform for businesses that serve other businesses. It gives platforms the infrastructure to represent the people and companies in their ecosystem, onboard and verify them, manage their accounts, accept payments, and pay them out - without building payments, compliance, or financial-services systems themselves. This is how businesses like Shopify can help entrepreneurs run and grow their businesses. It is also the kind of infrastructure that marketplaces such as DoorDash need to coordinate money movement across large networ",
-      "posted": "2026-10-07T19:02:27-04:00",
-      "source": "Greenhouse",
-      "department": "8250 Connect - PM",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Compliance",
-        "Platform"
       ],
       "status": "new"
     },
