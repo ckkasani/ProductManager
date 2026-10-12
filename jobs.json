@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T05:17:36.793Z",
+  "lastUpdated": "2026-10-12T17:36:34.104Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,24 +11,24 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 23,
+    "greenhouse": 25,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 22,
+  "totalJobs": 23,
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-stripe-8142649",
+      "id": "gh-stripe-7737526",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
-      "posted": "2026-10-09T14:20:32-04:00",
+      "posted": "2026-10-09T14:20:29-04:00",
       "source": "Greenhouse",
       "department": "8555 Payments Globalization - PM",
       "match": 79,
@@ -43,6 +43,34 @@
         "Payments",
         "Lending",
         "Cards",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8273741",
+      "title": "Senior Staff Product Manager, Financial Risk",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
+      "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
+      "posted": "2026-10-12T07:48:19-04:00",
+      "source": "Greenhouse",
+      "department": "8260 Risk and Compliance Platform PM",
+      "match": 76,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "Fraud",
         "Platform"
       ],
       "status": "new"
