@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T03:57:29.286Z",
+  "lastUpdated": "2026-10-16T08:56:37.387Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -74,15 +74,15 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8273741",
+      "id": "gh-stripe-8264005",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8264005",
       "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
-      "posted": "2026-10-13T05:48:07-04:00",
+      "posted": "2026-10-13T05:47:52-04:00",
       "source": "Greenhouse",
       "department": "8260 Risk and Compliance Platform PM",
       "match": 74,
@@ -235,33 +235,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8045868",
-      "title": "Senior Product Manager - Split Payments",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8045868",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Split Payments</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen’s value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts and capital; facilitated by Adyen’s global Banking licenses. Behind every platform transaction is a critical need to dynamically automate fund distribut",
-      "posted": "2026-10-13T03:31:35-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-8065034",
       "title": "Staff Product Manager, Connect",
       "company": "Stripe",
@@ -323,6 +296,32 @@
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
       "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Issuing</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Issuing, Banking, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data.<br><br>We are looking for a Senior Product Manager to help scale Issuing, which will be foundational for Adyen’s next generation Financial Products. The Issuing team is on a mission to enable business",
       "posted": "2026-10-09T22:30:24-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8045868",
+      "title": "Senior Product Manager - Split Payments",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8045868",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Split Payments</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen’s value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts and capital; facilitated by Adyen’s global Banking licenses. Behind every platform transaction is a critical need to dynamically automate fund distribut",
+      "posted": "2026-10-13T03:31:35-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
       "match": 66,
