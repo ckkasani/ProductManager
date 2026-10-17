@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T22:41:22.953Z",
+  "lastUpdated": "2026-10-17T03:47:20.075Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 29,
+    "greenhouse": 28,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 25,
+  "totalJobs": 24,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -368,32 +368,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8018202",
-      "title": "Senior Product Manager, Issuing",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Issuing</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Issuing, Banking, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data.<br><br>We are looking for a Senior Product Manager to help scale Issuing, which will be foundational for Adyen’s next generation Financial Products. The Issuing team is on a mission to enable business",
-      "posted": "2026-10-09T22:30:24-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 66,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-8045868",
       "title": "Senior Product Manager - Split Payments",
       "company": "Adyen",
@@ -415,31 +389,6 @@
         "Payments",
         "Cards",
         "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6223264004",
-      "title": "Senior Product Manager - Invoicing",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6223264004",
-      "description": "<p>Every business needs to get paid. For many of the startups and small businesses that bank with Mercury, that starts with sending an invoice. The process has to be effortless. A polished, professional invoice should take seconds to create. Customers should be able to pay easily. Once the payment arrives, it should match itself to the right invoice without anyone lifting a finger.</p> <p>Mercury Invoicing is a fast-growing product serving customers across Technology, Professional Services, Real Estate, and more. We’re looking for a Senior Product Manager to take a product that already works and make it even more powerful.</p> <p>You’ll own the full Invoicing experience: the dashboard where businesses track what they’re owed, the builder where they create invoices, and the payer experience on the other side. You’ll work closely with the PM who built Invoicing from scratch and now leads adjacent efforts. Together, you’ll decide how Invoicing grows to meet more complex customer needs without losing the simplicity that made customers choose it in the first place.</p> <p>*<em>Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Grou",
-      "posted": "2026-10-15T21:10:24-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 65,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
         "Banking"
       ],
       "status": "new"
@@ -548,6 +497,57 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6223264004",
+      "title": "Senior Product Manager - Invoicing",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6223264004",
+      "description": "<p>Every business needs to get paid. For many of the startups and small businesses that bank with Mercury, that starts with sending an invoice. The process has to be effortless. A polished, professional invoice should take seconds to create. Customers should be able to pay easily. Once the payment arrives, it should match itself to the right invoice without anyone lifting a finger.</p> <p>Mercury Invoicing is a fast-growing product serving customers across Technology, Professional Services, Real Estate, and more. We’re looking for a Senior Product Manager to take a product that already works and make it even more powerful.</p> <p>You’ll own the full Invoicing experience: the dashboard where businesses track what they’re owed, the builder where they create invoices, and the payer experience on the other side. You’ll work closely with the PM who built Invoicing from scratch and now leads adjacent efforts. Together, you’ll decide how Invoicing grows to meet more complex customer needs without losing the simplicity that made customers choose it in the first place.</p> <p>*<em>Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Grou",
+      "posted": "2026-10-15T21:10:24-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8018202",
+      "title": "Senior Product Manager, Issuing",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Issuing</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Issuing, Banking, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data.<br><br>We are looking for a Senior Product Manager to help scale Issuing, which will be foundational for Adyen’s next generation Financial Products. The Issuing team is on a mission to enable business",
+      "posted": "2026-10-09T22:30:24-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-7812856",
       "title": "Senior Product Manager, Enterprise",
       "company": "Stripe",
@@ -592,31 +592,6 @@
         "Fintech",
         "Payments",
         "Lending",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-coinbase-8234060",
-      "title": "Group Product Manager, Money Movement",
-      "company": "Coinbase",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
-      "description": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchainutm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”<a href=\"https://www.coinbase.com/careers\">learn more about working at Coinbase</a>.</p></div><p><strong>Team/ Role Paragraph:</strong></p> <p>FinHub owns how money moves at Coinbase. Every dollar and token that enters, leaves, or moves within the company runs through this platform - fiat across ACH, wires, cards, RTP, and SEPA, crypto across dozens of blockchain networks, and internal movement across ledgers, legal entities, and customer accounts. As a Group Product Manager on the FinHub team within <a h",
-      "posted": "2026-10-13T19:55:27-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 61,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Cards",
         "AI/ML",
         "Platform"
       ],
