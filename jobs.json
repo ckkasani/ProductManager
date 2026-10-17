@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T08:24:36.031Z",
+  "lastUpdated": "2026-10-17T15:17:16.308Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -20,13 +20,13 @@
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-affirm-7694938003",
+      "id": "gh-affirm-7694940003",
       "title": "Staff Product Manager, Affirm Bank",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003",
       "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full pictu",
       "posted": "2026-10-16T17:13:47-04:00",
       "source": "Greenhouse",
@@ -101,15 +101,15 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-7737526",
+      "id": "gh-stripe-8142649",
       "title": "Staff Product Manager, Local Payment Methods Growth",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=7737526",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142649",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The payments landscape is changing rapidly and our team is at the forefront of this change. Depending on where you live, you may be used to paying with a credit card (United States), iDEAL (Netherlands) or UPI (India), amongst hundreds of other global payment methods. It turns out how you pay is increasingly dependent on where you are and what business you're buying from.</p> <p>The Local Payment Methods team is responsible for Stripe's fastest growing payments business. These payment methods are often the single largest conversion improvement merchants can make to their checkout, d",
-      "posted": "2026-10-09T14:20:29-04:00",
+      "posted": "2026-10-09T14:20:32-04:00",
       "source": "Greenhouse",
       "department": "8555 Payments Globalization - PM",
       "match": 72,
@@ -572,13 +572,13 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7773691003",
+      "id": "gh-affirm-7773693003",
       "title": "Senior Product Manager, Credit & Pricing",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773691003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
       "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p data-pm-slice=\"1 1 []\"><strong>About The Role</strong></p> <p>As a Senior Product Manager on Affirm’s Credit Pricing team, you’ll build products that help merchants turn flexible payments into measurable business growth. You’ll own the strategy for merchant pricing products and the platform capabilities behind them, helping businesses offer compelling financing, improve conversion, and generate incremental sales, while balancing merchant payment acceptance costs with sustainable economics for Affirm.</p> <p>This role combines B2B product leadership with consumer product intuition. You’ll work directly with commercial teams and merchants to understand their growth objectives and economics, translate complex pricing capabilities into intuitive products, and bring new solutions to market. You’ll also partner across teams to connect pricing with how consumers discover and choose financing, while shaping future opportunities across targeted offers, incentives, and adver",
       "posted": "2026-10-16T17:13:47-04:00",
       "source": "Greenhouse",
