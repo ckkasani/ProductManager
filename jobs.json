@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T23:11:16.140Z",
+  "lastUpdated": "2026-10-22T04:04:35.754Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 29,
+    "greenhouse": 30,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 26,
+  "totalJobs": 27,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -158,13 +158,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8273741",
+      "id": "gh-stripe-8264005",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8264005",
       "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
       "posted": "2026-10-21T14:53:01-04:00",
       "source": "Greenhouse",
@@ -484,10 +484,10 @@
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "New York, US - Remote, Toronto",
+      "location": "New York, US - Remote (East Coast), Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=7913698",
       "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>Sail Core builds Stripe's frontend platform—the data layer, navigation, observability, and developer tooling that 50+ product teams use to ship web applications, with the Dashboard being the largest. We are responsible for enabling a stellar developer experience for frontend engineers at Stripe. We're hiring a deeply technical product manager to own the platform strategy, drive cross-company modernization initiatives, and set the standard for frontend excellence at Stripe.</p> <h2>What you'll do</h2> <p>How should a platform team decide what to build when 50 teams depend on you and each one thinks their request is the mo",
-      "posted": "2026-10-21T14:53:01-04:00",
+      "posted": "2026-10-21T22:44:06-04:00",
       "source": "Greenhouse",
       "department": "8569 MerchantXP - PM",
       "match": 70,
@@ -658,6 +658,32 @@
         "Cards",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8302785",
+      "title": "Senior Product Manager - Domestic Card Schemes",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8302785",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p></p> <p><strong>Senior Product Manager - Domestic Card Schemes</strong></p> <p><span style=\"font-weight: 400;\">Payments in EMEA is where local meets global. As a Senior Product Manager in the EMEA payments team, you will shape how leading merchants get paid across the region, through the payment methods their shoppers actually prefer.</span></p> <p><span style=\"font-weight: 400;\">Your primary focus is our domestic card schemes: the local alte",
+      "posted": "2026-10-21T19:15:02-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 62,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
