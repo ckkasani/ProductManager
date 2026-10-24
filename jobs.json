@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T12:31:28.010Z",
+  "lastUpdated": "2026-10-24T18:40:06.086Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -553,31 +553,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-8020318003",
-      "title": "Senior Product Manager",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote UK",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8020318003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Our mission to deliver honest financial products that improve lives extends beyond borders. Consumers across the globe need safe, transparent financing. Our retail partners need Affirm to be there for them, wherever that might be. To help achieve this vision, we are expanding our product lines and becoming a global company.</p> <p>The International product team is responsible for building and scaling Affirm’s products and experiences across international markets. This role focuses on consumer payments, making it easier for consumers to repay Affirm and ensuring payments are processed safely and cost-effectively.</p> <p>As a Senior Product Manager on the International team, you will drive the strategy, execution, and growth of Affirm’s consumer payments products across international markets – fro",
-      "posted": "2026-10-23T09:20:43-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 62,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-8281712",
       "title": "Senior Product Manager, Identity & Risk Intelligence",
       "company": "Adyen",
@@ -599,6 +574,31 @@
         "Payments",
         "Fraud",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-8020318003",
+      "title": "Senior Product Manager",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote UK",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8020318003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Our mission to deliver honest financial products that improve lives extends beyond borders. Consumers across the globe need safe, transparent financing. Our retail partners need Affirm to be there for them, wherever that might be. To help achieve this vision, we are expanding our product lines and becoming a global company.</p> <p>The International product team is responsible for building and scaling Affirm’s products and experiences across international markets. This role focuses on consumer payments, making it easier for consumers to repay Affirm and ensuring payments are processed safely and cost-effectively.</p> <p>As a Senior Product Manager on the International team, you will drive the strategy, execution, and growth of Affirm’s consumer payments products across international markets – fro",
+      "posted": "2026-10-23T09:20:43-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 60,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "AI/ML"
       ],
       "status": "new"
     },
