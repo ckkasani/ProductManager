@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T04:06:04.091Z",
+  "lastUpdated": "2026-10-26T15:00:16.146Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 22,
+    "greenhouse": 20,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 20,
+  "totalJobs": 18,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -127,13 +127,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8273741",
+      "id": "gh-stripe-8264005",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8264005",
       "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
       "posted": "2026-10-22T09:16:16-04:00",
       "source": "Greenhouse",
@@ -485,56 +485,6 @@
         "Payments",
         "Lending",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8281712",
-      "title": "Senior Product Manager, Identity & Risk Intelligence",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8281712",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>The opportunity:<br></strong></p> <p>We are seeking a Senior Product Manager to lead our Anti-Money Laundering (AML) detection product within Identity Risk Intelligence. Financial crime keeps getting more complex, and as Adyen expands into new products and markets, our detection needs to scale with it - without becoming a bottleneck for growth. <br>This role needs a Product Manager who can take a clear strategy and drive it to executi",
-      "posted": "2026-10-19T08:24:06-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 62,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-8020318003",
-      "title": "Senior Product Manager",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote UK",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8020318003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Our mission to deliver honest financial products that improve lives extends beyond borders. Consumers across the globe need safe, transparent financing. Our retail partners need Affirm to be there for them, wherever that might be. To help achieve this vision, we are expanding our product lines and becoming a global company.</p> <p>The International product team is responsible for building and scaling Affirm’s products and experiences across international markets. This role focuses on consumer payments, making it easier for consumers to repay Affirm and ensuring payments are processed safely and cost-effectively.</p> <p>As a Senior Product Manager on the International team, you will drive the strategy, execution, and growth of Affirm’s consumer payments products across international markets – fro",
-      "posted": "2026-10-23T09:20:43-04:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 60,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML"
       ],
       "status": "new"
     }
