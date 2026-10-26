@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T22:23:03.929Z",
+  "lastUpdated": "2026-10-26T04:06:04.091Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,34 +19,6 @@
   "totalJobs": 20,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-stripe-8204649",
-      "title": "Head of Product Sales, Payouts",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, NYC",
-      "url": "https://stripe.com/jobs/search?gh_jid=8204649",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Stripe is investing in building out its Payouts product sales team to help prospects and customers move money globally with greater speed, flexibility, and control. Our growing footprint of Payouts products (Instant, Next day, Global payouts) and Currency Management Solutions (FX, MCS ) enable businesses to send funds to sellers, service providers, contractors, creators, claimants, customers, and other third-party recipients around the world, as well as better manager their cash flow and treasury operations.</p> <p>You will represent Stripe across our global markets exte",
-      "posted": "2026-10-22T19:47:39-04:00",
-      "source": "Greenhouse",
-      "department": "1642 Product Sales - MaaS",
-      "match": 77,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-8043083",
       "title": "Staff Product Manager, Issuing",
@@ -70,6 +42,33 @@
         "Payments",
         "Cards",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8204649",
+      "title": "Head of Product Sales, Payouts",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, NYC",
+      "url": "https://stripe.com/jobs/search?gh_jid=8204649",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Stripe is investing in building out its Payouts product sales team to help prospects and customers move money globally with greater speed, flexibility, and control. Our growing footprint of Payouts products (Instant, Next day, Global payouts) and Currency Management Solutions (FX, MCS ) enable businesses to send funds to sellers, service providers, contractors, creators, claimants, customers, and other third-party recipients around the world, as well as better manager their cash flow and treasury operations.</p> <p>You will represent Stripe across our global markets exte",
+      "posted": "2026-10-22T19:47:39-04:00",
+      "source": "Greenhouse",
+      "department": "1642 Product Sales - MaaS",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
