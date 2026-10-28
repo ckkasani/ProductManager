@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T20:31:03.667Z",
+  "lastUpdated": "2026-10-28T04:57:06.850Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 19,
+    "greenhouse": 17,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 17,
+  "totalJobs": 16,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -100,61 +100,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7999793003",
-      "title": "Senior Director, Product Management (Financial Platforms)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Affirm’s financial platforms power how loans are created, recorded, funded, serviced, and repaid, as well as how money moves across our products, partners, and markets. We’re looking for a Senior Director of Product Management to lead a portfolio spanning Capital and Affirm Bank, Loan Products, and Payment Services.</p> <p>This leader will oversee a large, multi-domain product organization of approximately ",
-      "posted": "2026-10-27T00:24:35-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-affirm-7694938003",
-      "title": "Staff Product Manager, Affirm Bank",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building its own bank — and this role sits at the center of that ambition. We’re looking for a Staff Product Manager who has shipped a consumer-facing deposit or fintech product to market. You’ll own the end-to-end bank product: launching the deposit product to consumers, operationalizing a new bank charter within Affirm’s ecosystem, driving loan originations through the bank entity, and ensuring seamless integration across Affirm’s platform. This is a rare opportunity to build a foundational new business line from the ground up — one that will reshape how Affirm funds, serves, and grows relationships with its consumers. You’ll work at the intersection of regulated banking, platform engineering, and consumer products to bring Affirm’s bank to life.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Serve as the single-threaded product owner across deposits, loan originations, banking compliance, and operations. You are the person who holds the full pictu",
-      "posted": "2026-10-16T17:13:47-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 71,
-      "reasons": [
-        "Strong skill alignment",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Lending",
-        "Compliance",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-8264005",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
@@ -229,6 +174,34 @@
         "Fintech",
         "Payments",
         "Compliance",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7999793003",
+      "title": "Senior Director, Product Management (Financial Platforms)",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Affirm’s financial platforms power how loans are created, recorded, funded, serviced, and repaid, as well as how money moves across our products, partners, and markets. We’re looking for a Senior Director of Product Management to lead a portfolio spanning Capital and Affirm Bank, Loan Products, and Payment Services.</p> <p>This leader will oversee a large, multi-domain product organization of approximately ",
+      "posted": "2026-10-27T00:24:35-04:00",
+      "source": "Greenhouse",
+      "department": "Financial Platforms Product",
+      "match": 69,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "AI/ML",
         "Platform"
       ],
       "status": "new"
