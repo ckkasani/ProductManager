@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T20:52:16.950Z",
+  "lastUpdated": "2026-10-29T05:08:36.149Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 26,
+    "greenhouse": 25,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 25,
+  "totalJobs": 24,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -510,31 +510,6 @@
         "Fintech",
         "Payments",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6223264004",
-      "title": "Senior Product Manager - Invoicing",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6223264004",
-      "description": "<p>Every business needs to get paid. For many of the startups and small businesses that bank with Mercury, that starts with sending an invoice. The process has to be effortless. A polished, professional invoice should take seconds to create. Customers should be able to pay easily. Once the payment arrives, it should match itself to the right invoice without anyone lifting a finger.</p> <p>Mercury Invoicing is a fast-growing product serving customers across Technology, Professional Services, Real Estate, and more. We’re looking for a Senior Product Manager to take a product that already works and make it even more powerful.</p> <p>You’ll own the full Invoicing experience: the dashboard where businesses track what they’re owed, the builder where they create invoices, and the payer experience on the other side. You’ll work closely with the PM who built Invoicing from scratch and now leads adjacent efforts. Together, you’ll decide how Invoicing grows to meet more complex customer needs without losing the simplicity that made customers choose it in the first place.</p> <p>*<em>Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Grou",
-      "posted": "2026-10-28T14:13:34-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 65,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Banking"
       ],
       "status": "new"
     },
