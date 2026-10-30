@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T20:57:26.020Z",
+  "lastUpdated": "2026-10-30T05:08:03.308Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 27,
+    "greenhouse": 26,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 26,
+  "totalJobs": 25,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -527,58 +527,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7999793003",
-      "title": "Senior Director, Product Management (Financial Platforms)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Affirm’s financial platforms power how loans are created, recorded, funded, serviced, and repaid, as well as how money moves across our products, partners, and markets. We’re looking for a Senior Director of Product Management to lead a portfolio spanning Capital and Affirm Bank, Loan Products, and Payment Services.</p> <p>This leader will oversee a large, multi-domain product organization of approximately ",
-      "posted": "2026-10-27T00:24:35-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 69,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6148371004",
-      "title": "Senior Product Manager - Users",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6148371004",
-      "description": "<p>Linus Yale patented the modern pin tumbler lock in 1861, and hotels took to it immediately. The clever part was never the lock; it was master keying. The same door opens for a guest with one key and the manager with another, each cut to a different depth of authority. It solved the problem every growing building has, and introduced a new one, because now a single key opens everything.</p> <p>The hard part was never the lock. It's deciding who gets which key<em>.</em></p> <p>Mercury is built for the building class: those who act on their ambition, who see something that doesn't exist and decide to make it real with their time, money, and team; whether that's a side project or a scaling unicorn. We build the financial stack for them, backed by elegant and intelligent software meant to work from day one to scale.</p> <p>The Users team owns who is allowed to do what: roles, permissions, invitations, and the authorization layer every other product team builds on. From a solo founder working with agents to an enterprise onboarding employees for spend without exposing banking* details, our job is to support that range while keeping the core product simple.</p> <p>Every product Mercury ",
-      "posted": "2026-10-28T14:13:33-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 66,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-7862254",
       "title": "Group Product Manager – Fraud Intelligence",
       "company": "Adyen",
@@ -601,6 +549,33 @@
         "Cards",
         "Fraud",
         "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7999793003",
+      "title": "Senior Director, Product Management (Financial Platforms)",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Affirm’s financial platforms power how loans are created, recorded, funded, serviced, and repaid, as well as how money moves across our products, partners, and markets. We’re looking for a Senior Director of Product Management to lead a portfolio spanning Capital and Affirm Bank, Loan Products, and Payment Services.</p> <p>This leader will oversee a large, multi-domain product organization of approximately ",
+      "posted": "2026-10-27T00:24:35-04:00",
+      "source": "Greenhouse",
+      "department": "Financial Platforms Product",
+      "match": 65,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "AI/ML",
+        "Platform"
       ],
       "status": "new"
     },
