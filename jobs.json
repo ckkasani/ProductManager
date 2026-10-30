@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T14:56:18.552Z",
+  "lastUpdated": "2026-10-30T20:35:55.229Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 27,
+    "greenhouse": 31,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 26,
+  "totalJobs": 28,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -159,13 +159,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8264005",
+      "id": "gh-stripe-8273741",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8264005",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
       "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
       "posted": "2026-10-29T10:42:09-04:00",
       "source": "Greenhouse",
@@ -194,7 +194,7 @@
       "stage": "Late",
       "location": "SF, SEA, NYC",
       "url": "https://stripe.com/jobs/search?gh_jid=8234243",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>Stripe’s Accounting Products team is building modern infrastructure for the Office of the CFO. Our vision is to give finance teams, and the agents that support them, one reconciled and explainable presentation of financial truth.</p> <p>Today, the data and context required to make accounting decisions are fragmented across billing systems, contracts, spreadsheets, general ledgers, and the minds of the people doing the work. Finance teams spend significant time reconstructing what happened, determining the appropriate accounting treatment, reconciling results, and gathering evidence.",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies��from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>Stripe’s Accounting Products team is building modern infrastructure for the Office of the CFO. Our vision is to give finance teams, and the agents that support them, one reconciled and explainable presentation of financial truth.</p> <p>Today, the data and context required to make accounting decisions are fragmented across billing systems, contracts, spreadsheets, general ledgers, and the minds of the people doing the work. Finance teams spend significant time reconstructing what happened, determining the appropriate accounting treatment, reconciling results, and gathering evidence",
       "posted": "2026-10-29T10:42:09-04:00",
       "source": "Greenhouse",
       "department": "8412 Subscriptions",
@@ -576,6 +576,57 @@
         "Lending",
         "AI/ML",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-coinbase-8234060",
+      "title": "Group Product Manager, Money Movement",
+      "company": "Coinbase",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
+      "description": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchainutm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”<a href=\"https://www.coinbase.com/careers\">learn more about working at Coinbase</a>.</p></div><p><strong>Team/ Role Paragraph:</strong></p> <p>FinHub owns how money moves at Coinbase. Every dollar and token that enters, leaves, or moves within the company runs through this platform - fiat across ACH, wires, cards, RTP, and SEPA, crypto across dozens of blockchain networks, and internal movement across ledgers, legal entities, and customer accounts. As a Group Product Manager on the FinHub team within <a h",
+      "posted": "2026-10-30T11:13:54-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-brex-8659249002",
+      "title": "Senior Product Manager, Travel",
+      "company": "Brex",
+      "industry": "fintech",
+      "stage": "D",
+      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8659249002?gh_jid=8659249002",
+      "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h3><strong>Product at Brex</strong></h3> <p></p> <p>The Product team is at th",
+      "posted": "2026-10-30T14:27:59-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Cards",
+        "AI/ML",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
