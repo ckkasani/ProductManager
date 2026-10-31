@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T20:35:55.229Z",
+  "lastUpdated": "2026-10-31T04:54:03.133Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 31,
+    "greenhouse": 34,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 28,
+  "totalJobs": 30,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -159,13 +159,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8273741",
+      "id": "gh-stripe-8264005",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "London / Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
+      "location": "Dublin / London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8264005",
       "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
       "posted": "2026-10-29T10:42:09-04:00",
       "source": "Greenhouse",
@@ -194,7 +194,7 @@
       "stage": "Late",
       "location": "SF, SEA, NYC",
       "url": "https://stripe.com/jobs/search?gh_jid=8234243",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies��from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>Stripe’s Accounting Products team is building modern infrastructure for the Office of the CFO. Our vision is to give finance teams, and the agents that support them, one reconciled and explainable presentation of financial truth.</p> <p>Today, the data and context required to make accounting decisions are fragmented across billing systems, contracts, spreadsheets, general ledgers, and the minds of the people doing the work. Finance teams spend significant time reconstructing what happened, determining the appropriate accounting treatment, reconciling results, and gathering evidence",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>Stripe’s Accounting Products team is building modern infrastructure for the Office of the CFO. Our vision is to give finance teams, and the agents that support them, one reconciled and explainable presentation of financial truth.</p> <p>Today, the data and context required to make accounting decisions are fragmented across billing systems, contracts, spreadsheets, general ledgers, and the minds of the people doing the work. Finance teams spend significant time reconstructing what happened, determining the appropriate accounting treatment, reconciling results, and gathering evidence.",
       "posted": "2026-10-29T10:42:09-04:00",
       "source": "Greenhouse",
       "department": "8412 Subscriptions",
@@ -398,6 +398,62 @@
       "status": "new"
     },
     {
+      "id": "gh-affirm-7801336003",
+      "title": "Senior Director, Product Management (Card)",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platform that powers card issuance, authorization, servicing, and partner integrations.</p> <p>This is a pillar-level leadership role responsible for defining strategy, building a high-performing team, and delivering durable business outcomes across one of Affirm’s most strategic product areas.</p> <h3><strong><strong>What you’ll do</strong></strong></h3> <p><strong><strong>Own the Card domain end-to-end</strong></strong></p> <ul> <li>Define and drive the multi-year vision for Affirm Card across consumer experience, growth, and economics, inclusive of new card products that co",
+      "posted": "2026-10-30T17:15:12-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 71,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "Cards",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7999793003",
+      "title": "Senior Director, Product Management (Financial Platforms)",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Affirm’s financial platforms power how loans are created, recorded, funded, serviced, and repaid, as well as how money moves across our products, partners, and markets. We’re looking for a Senior Director of Product Management to lead a portfolio spanning Capital and Affirm Bank, Loan Products, and Payment Services.</p> <p>This leader will oversee a large, multi-domain product organization of approximately ",
+      "posted": "2026-10-30T17:15:12-04:00",
+      "source": "Greenhouse",
+      "department": "Financial Platforms Product",
+      "match": 71,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-6187759004",
       "title": "Head of Product - Personal Banking",
       "company": "Mercury",
@@ -553,33 +609,6 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7999793003",
-      "title": "Senior Director, Product Management (Financial Platforms)",
-      "company": "Affirm",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p><strong>About the Product team</strong></p> <p>The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarity, support cross-functional execution, and champion the user in every decision.</p> <p><strong>About the role</strong></p> <p>Affirm’s financial platforms power how loans are created, recorded, funded, serviced, and repaid, as well as how money moves across our products, partners, and markets. We’re looking for a Senior Director of Product Management to lead a portfolio spanning Capital and Affirm Bank, Loan Products, and Payment Services.</p> <p>This leader will oversee a large, multi-domain product organization of approximately ",
-      "posted": "2026-10-27T00:24:35-04:00",
-      "source": "Greenhouse",
-      "department": "Financial Platforms Product",
-      "match": 65,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Lending",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-coinbase-8234060",
       "title": "Group Product Manager, Money Movement",
       "company": "Coinbase",
@@ -605,15 +634,15 @@
       "status": "new"
     },
     {
-      "id": "gh-brex-8659249002",
+      "id": "gh-brex-8659251002",
       "title": "Senior Product Manager, Travel",
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
-      "url": "https://www.brex.com/careers/8659249002?gh_jid=8659249002",
+      "location": "New York, New York, United States / San Francisco, California, United States / Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8659251002?gh_jid=8659251002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h3><strong>Product at Brex</strong></h3> <p></p> <p>The Product team is at th",
-      "posted": "2026-10-30T14:27:59-04:00",
+      "posted": "2026-10-30T13:59:04-04:00",
       "source": "Greenhouse",
       "department": "Product",
       "match": 63,
@@ -681,27 +710,51 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7801336003",
-      "title": "Senior Director, Product Management (Card)",
+      "id": "gh-affirm-8020318003",
+      "title": "Senior Product Manager",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
-      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is building the next generation of consumer finance, and the Affirm Card sits at the center of that vision—blending debit, pay-over-time, and network-native experiences into a single product.</p> <p>We’re looking for a Senior Director of Product to lead the Affirm Card and Card Platform—owning both the end-user experience, the business outcomes of every card product, and the underlying platform that powers card issuance, authorization, servicing, and partner integrations.</p> <p>This is a pillar-level leadership role responsible for defining strategy, building a high-performing team, and delivering durable business outcomes across one of Affirm’s most strategic product areas.</p> <h3><strong><strong>What you’ll do</strong></strong></h3> <p><strong><strong>Own the Card domain end-to-end</strong></strong></p> <ul> <li>Define and drive the multi-year vision for Affirm Card across consumer experience, growth, and economics, inclusive of new card products that co",
-      "posted": "2026-10-16T17:13:47-04:00",
+      "location": "Remote UK",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8020318003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Our mission to deliver honest financial products that improve lives extends beyond borders. Consumers across the globe need safe, transparent financing. Our retail partners need Affirm to be there for them, wherever that might be. To help achieve this vision, we are expanding our product lines and becoming a global company.</p> <p>The International product team is responsible for building and scaling Affirm’s products and experiences across international markets. This role focuses on consumer payments, making it easier for consumers to repay Affirm and ensuring payments are processed safely and cost-effectively.</p> <p>As a Senior Product Manager on the International team, you will drive the strategy, execution, and growth of Affirm’s consumer payments products across international markets – fro",
+      "posted": "2026-10-30T17:15:12-04:00",
       "source": "Greenhouse",
       "department": "Product Management",
       "match": 62,
       "reasons": [
-        "Good skill match",
-        "Senior-level title",
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
+        "Payments",
         "Lending",
-        "Cards",
+        "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-affirm-7773693003",
+      "title": "Senior Product Manager, Credit & Pricing",
+      "company": "Affirm",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
+      "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p data-pm-slice=\"1 1 []\"><strong>About The Role</strong></p> <p>As a Senior Product Manager on Affirm’s Credit Pricing team, you’ll build products that help merchants turn flexible payments into measurable business growth. You’ll own the strategy for merchant pricing products and the platform capabilities behind them, helping businesses offer compelling financing, improve conversion, and generate incremental sales, while balancing merchant payment acceptance costs with sustainable economics for Affirm.</p> <p>This role combines B2B product leadership with consumer product intuition. You’ll work directly with commercial teams and merchants to understand their growth objectives and economics, translate complex pricing capabilities into intuitive products, and bring new solutions to market. You’ll also partner across teams to connect pricing with how consumers discover and choose financing, while shaping future opportunities across targeted offers, incentives, and adver",
+      "posted": "2026-10-30T17:15:12-04:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 62,
+      "reasons": [
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Lending",
         "AI/ML",
         "Platform"
       ],
