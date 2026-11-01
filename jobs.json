@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T23:13:40.975Z",
+  "lastUpdated": "2026-11-01T05:21:26.359Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -131,13 +131,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8264005",
+      "id": "gh-stripe-8273741",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8264005",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
       "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
       "posted": "2026-10-29T10:42:09-04:00",
       "source": "Greenhouse",
@@ -660,7 +660,7 @@
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States",
+      "location": "New York, New York, United States / San Francisco, California, United States / Seattle, Washington, United States",
       "url": "https://www.brex.com/careers/8659251002?gh_jid=8659251002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h3><strong>Product at Brex</strong></h3> <p></p> <p>The Product team is at th",
       "posted": "2026-10-30T13:59:04-04:00",
@@ -731,13 +731,13 @@
       "status": "new"
     },
     {
-      "id": "gh-affirm-7773691003",
+      "id": "gh-affirm-7773693003",
       "title": "Senior Product Manager, Credit & Pricing",
       "company": "Affirm",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Remote US / Remote Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773691003",
+      "location": "Remote Canada / Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
       "description": "<div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p data-pm-slice=\"1 1 []\"><strong>About The Role</strong></p> <p>As a Senior Product Manager on Affirm’s Credit Pricing team, you’ll build products that help merchants turn flexible payments into measurable business growth. You’ll own the strategy for merchant pricing products and the platform capabilities behind them, helping businesses offer compelling financing, improve conversion, and generate incremental sales, while balancing merchant payment acceptance costs with sustainable economics for Affirm.</p> <p>This role combines B2B product leadership with consumer product intuition. You’ll work directly with commercial teams and merchants to understand their growth objectives and economics, translate complex pricing capabilities into intuitive products, and bring new solutions to market. You’ll also partner across teams to connect pricing with how consumers discover and choose financing, while shaping future opportunities across targeted offers, incentives, and adver",
       "posted": "2026-10-30T17:15:12-04:00",
       "source": "Greenhouse",
