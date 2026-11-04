@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T11:57:01.184Z",
+  "lastUpdated": "2026-11-04T19:39:52.076Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -69,6 +69,32 @@
         "AI/ML",
         "Platform",
         "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-7812856",
+      "title": "Staff Product Manager, Enterprise",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
+      "posted": "2026-11-04T08:48:12-05:00",
+      "source": "Greenhouse",
+      "department": "8712 Enterprise Engine",
+      "match": 73,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
       ],
       "status": "new"
     },
@@ -154,33 +180,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6187763004",
-      "title": "Head of Product - Business Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
-      "description": "<p>In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and settle the net. On October 11, 1853, in the basement of 14 Wall Street, 52 banks cleared $22.6 million in a single sitting. Money between banks had stopped being an event and became seamless infrastructure.</p> <p>A century and a half later, the hard part is unchanged: moving money once is easy; making it work every time, for hundreds of thousands of businesses, across every rail, is hard. The bank account is where a company's financial life happens - payroll clears or it doesn't; a wire lands or a deal slips; the month closes clean, or someone loses a weekend to it. Mercury is building a business banking* product at a scale better than anything else in the market.</p> <p>Business Banking is the heart of Mercury. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving deposit and payment growth, and owning busines",
-      "posted": "2026-10-28T14:13:33-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 72,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-8264005",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
@@ -260,30 +259,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6236462004",
-      "title": "Senior Product Manager - Fraud",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6236462004",
-      "description": "<p>Holds. Limits. Locks. Closures. The judicious use of these tools is designed to protect good customers. But if wielded maladroitly, good customers get entangled in unnecessary friction, burden our operations teams, and may become detractors and churn. At Mercury, we believe banking* should be empowering and seamless, not difficult, confusing, or stressful.</p> <p>As a Product Manager for Fraud, you’ll build products that enable Mercury to master these tools and deftly balance customer experience with fraud prevention. You'll develop a deep understanding of our customers, their accounts, and our money movement products to build systems that protect our customers and Mercury from fraud. You’ll work cross-functionally to build products for both end users and internal risk teams that enable Mercury to provide a seamless and safe banking* experience.</p> <p>We are looking for someone who can lead us in redefining how risk friction is used, measured, and optimized to unlock the seamless, magical banking* experience we believe is possible.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Member",
-      "posted": "2026-10-28T14:13:35-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Fraud",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-adyen-8018202",
       "title": "Senior Product Manager, Issuing",
       "company": "Adyen",
@@ -338,52 +313,29 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6181121004",
-      "title": "Senior Product Manager - Reconciliation",
+      "id": "gh-mercury-6187763004",
+      "title": "Head of Product - Business Banking",
       "company": "Mercury",
       "industry": "fintech",
       "stage": "C",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6181121004",
-      "description": "<h3><strong>About the role</strong></h3> <p>At Mercury, we believe financial operations should be seamless, scalable, and built on a foundation of trust. The Reconciliation team develops the products, processes, and controls that protect the accuracy and integrity of Mercury’s core financial systems and money movement.</p> <p>In this role, you will lead the evolution of reconciliation at Mercury, including the key financial controls that enable operational excellence, strong governance, and end-to-end auditability. You’ll partner closely with Product, Engineering, Finance, Operations, and Accounting to automate complex workflows, strengthen control coverage, and ensure issues are detected, investigated, and resolved quickly.</p> <p>Our goal is to make financial accuracy a given. You’ll help build a reconciliation platform that is reliable, transparent, and scalable—giving Mercury confidence in every transaction and enabling us to grow without compromising financial integrity.<br><br><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></p> <h3><strong>What you’ll do</strong></h3> <ul",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187763004",
+      "description": "<p>In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and settle the net. On October 11, 1853, in the basement of 14 Wall Street, 52 banks cleared $22.6 million in a single sitting. Money between banks had stopped being an event and became seamless infrastructure.</p> <p>A century and a half later, the hard part is unchanged: moving money once is easy; making it work every time, for hundreds of thousands of businesses, across every rail, is hard. The bank account is where a company's financial life happens - payroll clears or it doesn't; a wire lands or a deal slips; the month closes clean, or someone loses a weekend to it. Mercury is building a business banking* product at a scale better than anything else in the market.</p> <p>Business Banking is the heart of Mercury. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers, driving deposit and payment growth, and owning busines",
       "posted": "2026-10-28T14:13:33-04:00",
       "source": "Greenhouse",
       "department": "Product",
-      "match": 68,
+      "match": 69,
       "reasons": [
         "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8161148",
-      "title": "Principal Product Manager, AI-Native Merchant Experiences",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8161148",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Principal Product Manager, AI-Native Merchant Experiences</h3> <p>The world's largest businesses run on Adyen. Payments, financial products, and increasingly the commerce workflows around them — money movement, billing, loyalty — flow through a single platform, across dozens of markets and hundreds of payment methods, at a scale most companies never encounter.</p> <p>That scale comes with complexity, and handling it on our merchants' behalf has always been our mission. But the way people expect to work is changing in real time. The ",
-      "posted": "2026-11-03T11:43:07-05:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 68,
-      "reasons": [
         "Senior-level title",
-        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
         "AI/ML",
-        "Platform"
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -465,6 +417,30 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6236462004",
+      "title": "Senior Product Manager - Fraud",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6236462004",
+      "description": "<p>Holds. Limits. Locks. Closures. The judicious use of these tools is designed to protect good customers. But if wielded maladroitly, good customers get entangled in unnecessary friction, burden our operations teams, and may become detractors and churn. At Mercury, we believe banking* should be empowering and seamless, not difficult, confusing, or stressful.</p> <p>As a Product Manager for Fraud, you’ll build products that enable Mercury to master these tools and deftly balance customer experience with fraud prevention. You'll develop a deep understanding of our customers, their accounts, and our money movement products to build systems that protect our customers and Mercury from fraud. You’ll work cross-functionally to build products for both end users and internal risk teams that enable Mercury to provide a seamless and safe banking* experience.</p> <p>We are looking for someone who can lead us in redefining how risk friction is used, measured, and optimized to unlock the seamless, magical banking* experience we believe is possible.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Member",
+      "posted": "2026-10-28T14:13:35-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Fraud",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-8060230",
       "title": "Senior Product Manager - Banking Networks Global",
       "company": "Adyen",
@@ -487,29 +463,6 @@
         "Payments",
         "Cards",
         "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-mercury-6187759004",
-      "title": "Head of Product - Personal Banking",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
-      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
-      "posted": "2026-10-28T14:13:33-04:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 66,
-      "reasons": [
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
         "Banking"
       ],
       "status": "new"
@@ -539,6 +492,32 @@
       "status": "new"
     },
     {
+      "id": "gh-adyen-8161148",
+      "title": "Principal Product Manager, AI-Native Merchant Experiences",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8161148",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Principal Product Manager, AI-Native Merchant Experiences</h3> <p>The world's largest businesses run on Adyen. Payments, financial products, and increasingly the commerce workflows around them — money movement, billing, loyalty — flow through a single platform, across dozens of markets and hundreds of payment methods, at a scale most companies never encounter.</p> <p>That scale comes with complexity, and handling it on our merchants' behalf has always been our mission. But the way people expect to work is changing in real time. The ",
+      "posted": "2026-11-03T11:43:07-05:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 66,
+      "reasons": [
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-adyen-8281712",
       "title": "Senior Product Manager, Identity & Risk Intelligence",
       "company": "Adyen",
@@ -560,30 +539,6 @@
         "Fintech",
         "Payments",
         "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-7812856",
-      "title": "Senior Product Manager, Enterprise",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Enterprise Product team is responsible for bridging the gap between Stripe's core capabilities and the bespoke needs of the world's largest organizations. We are hiring product managers who will be aligned to specific priority industries (e.g., insurance, healthcare, public sector), with each product manager acting as the \"CEO\" of their assigned vertical—identifying high-leverage opportunities, building 0-to-1 products to solve industry-specific blockers, and influencing our global product roadmap. You will be a critical partner to GTM leadership (Sales, Partnerships, Marketing) and a navigator across the broader Pro",
-      "posted": "2026-10-29T10:42:09-04:00",
-      "source": "Greenhouse",
-      "department": "8712 Enterprise Engine",
-      "match": 65,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
         "Platform"
       ],
       "status": "new"
@@ -643,6 +598,30 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6181121004",
+      "title": "Senior Product Manager - Reconciliation",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6181121004",
+      "description": "<h3><strong>About the role</strong></h3> <p>At Mercury, we believe financial operations should be seamless, scalable, and built on a foundation of trust. The Reconciliation team develops the products, processes, and controls that protect the accuracy and integrity of Mercury’s core financial systems and money movement.</p> <p>In this role, you will lead the evolution of reconciliation at Mercury, including the key financial controls that enable operational excellence, strong governance, and end-to-end auditability. You’ll partner closely with Product, Engineering, Finance, Operations, and Accounting to automate complex workflows, strengthen control coverage, and ensure issues are detected, investigated, and resolved quickly.</p> <p>Our goal is to make financial accuracy a given. You’ll help build a reconciliation platform that is reliable, transparent, and scalable—giving Mercury confidence in every transaction and enabling us to grow without compromising financial integrity.<br><br><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.</em></p> <h3><strong>What you’ll do</strong></h3> <ul",
+      "posted": "2026-10-28T14:13:33-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 65,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-stripe-8140438",
       "title": "Staff Product Manager, Mobile",
       "company": "Stripe",
@@ -694,6 +673,29 @@
       "status": "new"
     },
     {
+      "id": "gh-mercury-6187759004",
+      "title": "Head of Product - Personal Banking",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6187759004",
+      "description": "<p>In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew £10 from the world's first cash machine. It took a four-digit code (originally six, until his wife told him nobody remembers six). The bank's hours had stopped being the customer's problem.</p> <p>Nearly sixty years later, the bar has moved, but the test hasn't: a personal financial product is judged on whether it fits the life of the person using it. People do not read documentation, forgive a confusing screen, or care how the ledger works. They want one place that makes sense of everything — spending, saving, planning, investing — and that anticipates rather than reports: where they stand, what deserves attention, what to do next. Mercury is building personal banking* to that standard.</p> <p>Personal Banking is how Mercury earns a place in someone's financial life. We're looking for a Head of Product to own it end-to-end: setting product strategy, leading a team of product managers",
+      "posted": "2026-10-28T14:13:33-04:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 63,
+      "reasons": [
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-robinhood-8044746",
       "title": "Staff Product Manager, Banking",
       "company": "Robinhood",
@@ -705,7 +707,7 @@
       "posted": "2026-11-03T10:55:25-05:00",
       "source": "Greenhouse",
       "department": "Money Product Division",
-      "match": 62,
+      "match": 60,
       "reasons": [
         "Senior-level title",
         "Fresh posting",
