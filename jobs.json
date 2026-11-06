@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T11:56:35.340Z",
+  "lastUpdated": "2026-11-06T19:15:04.976Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 30,
+    "greenhouse": 29,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 29,
+  "totalJobs": 28,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -66,33 +66,6 @@
         "Fintech",
         "Payments",
         "Cards",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8176254",
-      "title": "Staff Product Manager,  Startup Products",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "NYC, Chicago, Seattle, San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8176254",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Startup Products team builds Stripe Atlas and other products that help founders start and run a company, from anywhere in the world. We believe that startups are one of the most effective ways to solve the world's problems, and we want to give founders a running start — and keep them running. We help founders form their company, raise capital, execute critical legal agreements, access the internet's best tools, and automate operations while feeling ambitious, smart, and assured. Our goal is to create more startups that get to product-market fit, fast.</p> <p>Our team",
-      "posted": "2026-11-05T11:14:48-05:00",
-      "source": "Greenhouse",
-      "department": "3710 Startup Product",
-      "match": 72,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
         "Platform"
       ],
       "status": "new"
@@ -205,6 +178,33 @@
       "status": "new"
     },
     {
+      "id": "gh-stripe-8176254",
+      "title": "Staff Product Manager,  Startup Products",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "NYC, Chicago, Seattle, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8176254",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Startup Products team builds Stripe Atlas and other products that help founders start and run a company, from anywhere in the world. We believe that startups are one of the most effective ways to solve the world's problems, and we want to give founders a running start — and keep them running. We help founders form their company, raise capital, execute critical legal agreements, access the internet's best tools, and automate operations while feeling ambitious, smart, and assured. Our goal is to create more startups that get to product-market fit, fast.</p> <p>Our team",
+      "posted": "2026-11-05T11:14:48-05:00",
+      "source": "Greenhouse",
+      "department": "3710 Startup Product",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
       "id": "gh-mercury-6187763004",
       "title": "Head of Product - Business Banking",
       "company": "Mercury",
@@ -259,14 +259,14 @@
     },
     {
       "id": "gh-adyen-8281712",
-      "title": "Senior Product Manager, Identity & Risk Intelligence",
+      "title": "Senior Product Manager, AML",
       "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
       "location": "Amsterdam",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8281712",
       "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>The opportunity:<br></strong></p> <p>We are seeking a Senior Product Manager to lead our Anti-Money Laundering (AML) detection product within Identity Risk Intelligence. Financial crime keeps getting more complex, and as Adyen expands into new products and markets, our detection needs to scale with it - without becoming a bottleneck for growth. <br>This role needs a Product Manager who can take a clear strategy and drive it to executi",
-      "posted": "2026-11-06T03:02:43-05:00",
+      "posted": "2026-11-06T08:12:21-05:00",
       "source": "Greenhouse",
       "department": "Product Management",
       "match": 68,
@@ -279,6 +279,7 @@
         "Fintech",
         "Payments",
         "Fraud",
+        "AI/ML",
         "Platform"
       ],
       "status": "new"
@@ -742,31 +743,6 @@
         "Payments",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-robinhood-8044746",
-      "title": "Staff Product Manager, Banking",
-      "company": "Robinhood",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Menlo Park, CA; New York, NY; Washington, DC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
-      "description": "<div class=\"content-intro\"><h2>Join us in building the future of finance.</h2> <p>Our mission is to democratize finance for all. <a href=\"https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048\" target=\"_blank\">An estimated $124 trillion of assets</a> will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.</p></div><h2><strong>About the team + role</strong></h2> <p>We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.</p> <p>The Money and Banking team’s mission is to design and scale the next generation of financial products that help our customers manage and grow their daily funds. We build ",
-      "posted": "2026-11-03T10:55:25-05:00",
-      "source": "Greenhouse",
-      "department": "Money Product Division",
-      "match": 60,
-      "reasons": [
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "AI/ML",
-        "Banking"
       ],
       "status": "new"
     }
