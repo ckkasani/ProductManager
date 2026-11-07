@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T14:47:20.086Z",
+  "lastUpdated": "2026-11-07T20:01:08.220Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -232,13 +232,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8264005",
+      "id": "gh-stripe-8273741",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8264005",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
       "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
       "posted": "2026-10-29T10:42:09-04:00",
       "source": "Greenhouse",
