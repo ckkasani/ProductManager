@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T14:54:06.605Z",
+  "lastUpdated": "2026-11-08T20:18:03.120Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -147,33 +147,6 @@
         "Payments",
         "Lending",
         "Fraud",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8176254",
-      "title": "Staff Product Manager,  Startup Products",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "NYC, Chicago, Seattle, San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8176254",
-      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Startup Products team builds Stripe Atlas and other products that help founders start and run a company, from anywhere in the world. We believe that startups are one of the most effective ways to solve the world's problems, and we want to give founders a running start — and keep them running. We help founders form their company, raise capital, execute critical legal agreements, access the internet's best tools, and automate operations while feeling ambitious, smart, and assured. Our goal is to create more startups that get to product-market fit, fast.</p> <p>Our team",
-      "posted": "2026-11-05T11:14:48-05:00",
-      "source": "Greenhouse",
-      "department": "3710 Startup Product",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
         "Platform"
       ],
       "status": "new"
@@ -331,6 +304,32 @@
       "tags": [
         "Fintech",
         "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8176254",
+      "title": "Staff Product Manager,  Startup Products",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "NYC, Chicago, Seattle, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8176254",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Startup Products team builds Stripe Atlas and other products that help founders start and run a company, from anywhere in the world. We believe that startups are one of the most effective ways to solve the world's problems, and we want to give founders a running start — and keep them running. We help founders form their company, raise capital, execute critical legal agreements, access the internet's best tools, and automate operations while feeling ambitious, smart, and assured. Our goal is to create more startups that get to product-market fit, fast.</p> <p>Our team",
+      "posted": "2026-11-05T11:14:48-05:00",
+      "source": "Greenhouse",
+      "department": "3710 Startup Product",
+      "match": 66,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "AI/ML",
         "Platform"
       ],
       "status": "new"
