@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T18:33:29.541Z",
+  "lastUpdated": "2026-11-10T02:36:50.003Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,6 +19,31 @@
   "totalJobs": 27,
   "highMatchJobs": 0,
   "jobs": [
+    {
+      "id": "gh-mercury-6236462004",
+      "title": "Senior Product Manager - Fraud",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6236462004",
+      "description": "<p>Holds. Limits. Locks. Closures. The judicious use of these tools is designed to protect good customers. But if wielded maladroitly, good customers get entangled in unnecessary friction, burden our operations teams, and may become detractors and churn. At Mercury, we believe banking* should be empowering and seamless, not difficult, confusing, or stressful.</p> <p>As a Product Manager for Fraud, you’ll build products that enable Mercury to master these tools and deftly balance customer experience with fraud prevention. You'll develop a deep understanding of our customers, their accounts, and our money movement products to build systems that protect our customers and Mercury from fraud. You’ll work cross-functionally to build products for both end users and internal risk teams that enable Mercury to provide a seamless and safe banking* experience.</p> <p>We are looking for someone who can lead us in redefining how risk friction is used, measured, and optimized to unlock the seamless, magical banking* experience we believe is possible.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Member",
+      "posted": "2026-11-09T16:29:28-05:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 76,
+      "reasons": [
+        "Good skill match",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Fraud",
+        "Banking"
+      ],
+      "status": "new"
+    },
     {
       "id": "gh-stripe-8043083",
       "title": "Staff Product Manager, Issuing",
@@ -153,30 +178,6 @@
       "status": "new"
     },
     {
-      "id": "gh-mercury-6236462004",
-      "title": "Senior Product Manager - Fraud",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6236462004",
-      "description": "<p>Holds. Limits. Locks. Closures. The judicious use of these tools is designed to protect good customers. But if wielded maladroitly, good customers get entangled in unnecessary friction, burden our operations teams, and may become detractors and churn. At Mercury, we believe banking* should be empowering and seamless, not difficult, confusing, or stressful.</p> <p>As a Product Manager for Fraud, you’ll build products that enable Mercury to master these tools and deftly balance customer experience with fraud prevention. You'll develop a deep understanding of our customers, their accounts, and our money movement products to build systems that protect our customers and Mercury from fraud. You’ll work cross-functionally to build products for both end users and internal risk teams that enable Mercury to provide a seamless and safe banking* experience.</p> <p>We are looking for someone who can lead us in redefining how risk friction is used, measured, and optimized to unlock the seamless, magical banking* experience we believe is possible.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Member",
-      "posted": "2026-11-05T17:02:38-05:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Fraud",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-mercury-6187763004",
       "title": "Head of Product - Business Banking",
       "company": "Mercury",
@@ -204,13 +205,13 @@
       "status": "new"
     },
     {
-      "id": "gh-stripe-8264005",
+      "id": "gh-stripe-8273741",
       "title": "Senior Staff Product Manager, Risk",
       "company": "Stripe",
       "industry": "fintech",
       "stage": "Late",
-      "location": "Dublin / London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8264005",
+      "location": "London / Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
       "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and create new business models. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. You can read more about the business we’re building and what we’re looking forward to in our annual letter.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Risk team builds trust, an essential ingredient for Stripe’s mission to increase the GDP of the internet. We make it possible for millions of businesses to access and use Stripe’s financial infrastructure while protecting our users, financial partners, and the broader ecosystem from harm.</p> <p>Risk sits at the center of our users’ and Stripe’s ability to grow safely. We help legitimate businesses access Stripe’s financial services, provide credit to creditwor",
       "posted": "2026-10-29T10:42:09-04:00",
       "source": "Greenhouse",
