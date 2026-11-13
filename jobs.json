@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T16:41:23.124Z",
+  "lastUpdated": "2026-11-13T00:57:27.422Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -20,31 +20,6 @@
   "highMatchJobs": 0,
   "jobs": [
     {
-      "id": "gh-mercury-6236462004",
-      "title": "Senior Product Manager - Fraud",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6236462004",
-      "description": "<p>Holds. Limits. Locks. Closures. The judicious use of these tools is designed to protect good customers. But if wielded maladroitly, good customers get entangled in unnecessary friction, burden our operations teams, and may become detractors and churn. At Mercury, we believe banking* should be empowering and seamless, not difficult, confusing, or stressful.</p> <p>As a Product Manager for Fraud, you’ll build products that enable Mercury to master these tools and deftly balance customer experience with fraud prevention. You'll develop a deep understanding of our customers, their accounts, and our money movement products to build systems that protect our customers and Mercury from fraud. You’ll work cross-functionally to build products for both end users and internal risk teams that enable Mercury to provide a seamless and safe banking* experience.</p> <p>We are looking for someone who can lead us in redefining how risk friction is used, measured, and optimized to unlock the seamless, magical banking* experience we believe is possible.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Member",
-      "posted": "2026-11-09T16:29:28-05:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 74,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Fraud",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-8381041",
       "title": "Staff Product Manager, Foundation Pillar ",
       "company": "Stripe",
@@ -56,7 +31,7 @@
       "posted": "2026-11-11T15:42:45-05:00",
       "source": "Greenhouse",
       "department": "8412 Subscriptions",
-      "match": 73,
+      "match": 71,
       "reasons": [
         "Good skill match",
         "Senior-level title",
@@ -67,6 +42,56 @@
         "Fintech",
         "Payments",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8315951",
+      "title": "Staff Product Manager, Custom Objects",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, California",
+      "url": "https://stripe.com/jobs/search?gh_jid=8315951",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <div> <div> <p><a href=\"https://docs.stripe.com/custom-objects\" target=\"_blank\">Custom objects</a> allow businesses to define custom data models in Stripe, ensuring Stripe reflects how their business operates. A business might have data that doesn’t fit standard Stripe objects, such as Shipments, Reservations, or InsurancePolicies. Once defined in Stripe, that custom data can be used with Stripe-native objects, such as Customers, Subscriptions, and Invoices. Companies can keep their existing system of record and bring over what their Stripe integration needs, or use custom objects as t",
+      "posted": "2026-11-12T15:19:08-05:00",
+      "source": "Greenhouse",
+      "department": "8566 Developer Platform - PM",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6236462004",
+      "title": "Senior Product Manager - Fraud",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6236462004",
+      "description": "<p>Holds. Limits. Locks. Closures. The judicious use of these tools is designed to protect good customers. But if wielded maladroitly, good customers get entangled in unnecessary friction, burden our operations teams, and may become detractors and churn. At Mercury, we believe banking* should be empowering and seamless, not difficult, confusing, or stressful.</p> <p>As a Product Manager for Fraud, you’ll build products that enable Mercury to master these tools and deftly balance customer experience with fraud prevention. You'll develop a deep understanding of our customers, their accounts, and our money movement products to build systems that protect our customers and Mercury from fraud. You’ll work cross-functionally to build products for both end users and internal risk teams that enable Mercury to provide a seamless and safe banking* experience.</p> <p>We are looking for someone who can lead us in redefining how risk friction is used, measured, and optimized to unlock the seamless, magical banking* experience we believe is possible.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Member",
+      "posted": "2026-11-09T16:29:28-05:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 70,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Fraud",
+        "Banking"
       ],
       "status": "new"
     },
@@ -93,30 +118,6 @@
         "Cards",
         "Fraud",
         "AI/ML"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8312348",
-      "title": "Group Product Manager, Revenue Platform",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8312348",
-      "description": "<p></p> <p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h2></h2> <h2><strong>Group Product Manager, Revenue Platform</strong></h2> <h4><strong>The Opportunity</strong></h4> <p>Adyen is a full-stack payment processor and licensed global bank, serving many of the world’s largest enterprises across more than 250 payment methods and dozens of markets. One of the reasons they choose us is how we charge them. Our Interchange++ model shows interchange, scheme fees and Adyen’s own markup as separate",
-      "posted": "2026-11-11T12:41:43-05:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 66,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
       ],
       "status": "new"
     },
@@ -188,6 +189,30 @@
       "reasons": [
         "Good skill match",
         "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8312348",
+      "title": "Group Product Manager, Revenue Platform",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8312348",
+      "description": "<p></p> <p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h2></h2> <h2><strong>Group Product Manager, Revenue Platform</strong></h2> <h4><strong>The Opportunity</strong></h4> <p>Adyen is a full-stack payment processor and licensed global bank, serving many of the world’s largest enterprises across more than 250 payment methods and dozens of markets. One of the reasons they choose us is how we charge them. Our Interchange++ model shows interchange, scheme fees and Adyen’s own markup as separate",
+      "posted": "2026-11-11T12:41:43-05:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 64,
+      "reasons": [
+        "Fresh posting",
         "Perfect domain fit"
       ],
       "tags": [
@@ -326,31 +351,6 @@
         "Lending",
         "AI/ML",
         "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-coinbase-8360386",
-      "title": "Senior Product Manager, Payments & TRUST Network ",
-      "company": "Coinbase",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386",
-      "description": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchainutm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”<a href=\"https://www.coinbase.com/careers\">Learn more about working at Coinbase</a>.</p> <div id=\"fortidlp-input-element-parent\"></div></div><div class=\"md-block\"> <p>When crypto moves between exchanges, regulators in most major markets require that customer information travels with the transaction — the same idea as a bank wire. That's the Travel Rule, and Coinbase built TRUST (Travel Rule Universal Solution Technology), the industry's leading Travel Rule network with 200+ member VASPs. As PM, you'll own",
-      "posted": "2026-11-09T12:43:29-05:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 60,
-      "reasons": [
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Banking"
       ],
       "status": "new"
     },
