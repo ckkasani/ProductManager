@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T11:59:19.976Z",
+  "lastUpdated": "2026-11-13T19:32:53.539Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -118,33 +118,6 @@
         "Cards",
         "Fraud",
         "AI/ML"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8281712",
-      "title": "Senior Product Manager, AML",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8281712",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>The opportunity:<br></strong></p> <p>We are seeking a Senior Product Manager to lead our Anti-Money Laundering (AML) detection product within Identity Risk Intelligence. Financial crime keeps getting more complex, and as Adyen expands into new products and markets, our detection needs to scale with it - without becoming a bottleneck for growth. <br>This role needs a Product Manager who can take a clear strategy and drive it to executi",
-      "posted": "2026-11-10T10:44:01-05:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 66,
-      "reasons": [
-        "Good skill match",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Fraud",
-        "AI/ML",
-        "Platform"
       ],
       "status": "new"
     },
@@ -349,6 +322,32 @@
         "Fintech",
         "Payments",
         "Lending",
+        "AI/ML",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8281712",
+      "title": "Senior Product Manager, AML",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8281712",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>The opportunity:<br></strong></p> <p>We are seeking a Senior Product Manager to lead our Anti-Money Laundering (AML) detection product within Identity Risk Intelligence. Financial crime keeps getting more complex, and as Adyen expands into new products and markets, our detection needs to scale with it - without becoming a bottleneck for growth. <br>This role needs a Product Manager who can take a clear strategy and drive it to executi",
+      "posted": "2026-11-10T10:44:01-05:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 62,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Fraud",
         "AI/ML",
         "Platform"
       ],
