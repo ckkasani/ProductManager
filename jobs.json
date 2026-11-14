@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T17:49:21.004Z",
+  "lastUpdated": "2026-11-14T23:45:44.305Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,32 +19,6 @@
   "totalJobs": 12,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-stripe-8381041",
-      "title": "Staff Product Manager, Foundation Pillar ",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, SEA, NY, Remote-US ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8381041",
-      "description": "<h2><span style=\"font-weight: 400;\"><strong>Who we are</strong></span></h2> <h3><span style=\"font-weight: 400;\"><strong>About Stripe</strong></span></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <ul> <li>The Billing Foundations team builds the core infrastructure and data foundations that power Stripe Billing and support products across Stripe’s revenue and finance suite, including Tax. We build the shared systems that help these products scale, from real-time infrastructure for usage-based billing to customer balance management.</li> <li>Our product is the infrastructure itself: the building blocks that product teams depend on to deliver reliable ex",
-      "posted": "2026-11-11T15:42:45-05:00",
-      "source": "Greenhouse",
-      "department": "8412 Subscriptions",
-      "match": 71,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-mercury-6236462004",
       "title": "Senior Product Manager - Fraud",
@@ -86,6 +60,31 @@
         "Good skill match",
         "Senior-level title",
         "Fresh posting",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8381041",
+      "title": "Staff Product Manager, Foundation Pillar ",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NY, Remote-US ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8381041",
+      "description": "<h2><span style=\"font-weight: 400;\"><strong>Who we are</strong></span></h2> <h3><span style=\"font-weight: 400;\"><strong>About Stripe</strong></span></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <ul> <li>The Billing Foundations team builds the core infrastructure and data foundations that power Stripe Billing and support products across Stripe’s revenue and finance suite, including Tax. We build the shared systems that help these products scale, from real-time infrastructure for usage-based billing to customer balance management.</li> <li>Our product is the infrastructure itself: the building blocks that product teams depend on to deliver reliable ex",
+      "posted": "2026-11-11T15:42:45-05:00",
+      "source": "Greenhouse",
+      "department": "8412 Subscriptions",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
         "Perfect domain fit"
       ],
       "tags": [
