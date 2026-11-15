@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T15:30:01.549Z",
+  "lastUpdated": "2026-11-15T20:54:42.267Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -40,32 +40,6 @@
         "Fintech",
         "Fraud",
         "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-stripe-8315951",
-      "title": "Staff Product Manager, Custom Objects",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "San Francisco, California",
-      "url": "https://stripe.com/jobs/search?gh_jid=8315951",
-      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <div> <div> <p><a href=\"https://docs.stripe.com/custom-objects\" target=\"_blank\">Custom objects</a> allow businesses to define custom data models in Stripe, ensuring Stripe reflects how their business operates. A business might have data that doesn’t fit standard Stripe objects, such as Shipments, Reservations, or InsurancePolicies. Once defined in Stripe, that custom data can be used with Stripe-native objects, such as Customers, Subscriptions, and Invoices. Companies can keep their existing system of record and bring over what their Stripe integration needs, or use custom objects as t",
-      "posted": "2026-11-12T15:19:08-05:00",
-      "source": "Greenhouse",
-      "department": "8566 Developer Platform - PM",
-      "match": 68,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Fresh posting",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
       ],
       "status": "new"
     },
@@ -117,6 +91,31 @@
         "Cards",
         "Fraud",
         "AI/ML"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8315951",
+      "title": "Staff Product Manager, Custom Objects",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "San Francisco, California",
+      "url": "https://stripe.com/jobs/search?gh_jid=8315951",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <div> <div> <p><a href=\"https://docs.stripe.com/custom-objects\" target=\"_blank\">Custom objects</a> allow businesses to define custom data models in Stripe, ensuring Stripe reflects how their business operates. A business might have data that doesn’t fit standard Stripe objects, such as Shipments, Reservations, or InsurancePolicies. Once defined in Stripe, that custom data can be used with Stripe-native objects, such as Customers, Subscriptions, and Invoices. Companies can keep their existing system of record and bring over what their Stripe integration needs, or use custom objects as t",
+      "posted": "2026-11-12T15:19:08-05:00",
+      "source": "Greenhouse",
+      "department": "8566 Developer Platform - PM",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
       ],
       "status": "new"
     },
