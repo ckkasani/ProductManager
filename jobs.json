@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T18:10:00.457Z",
+  "lastUpdated": "2026-11-17T02:50:23.929Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -19,30 +19,6 @@
   "totalJobs": 8,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-mercury-6236462004",
-      "title": "Senior Product Manager - Fraud",
-      "company": "Mercury",
-      "industry": "fintech",
-      "stage": "C",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6236462004",
-      "description": "<p>Holds. Limits. Locks. Closures. The judicious use of these tools is designed to protect good customers. But if wielded maladroitly, good customers get entangled in unnecessary friction, burden our operations teams, and may become detractors and churn. At Mercury, we believe banking* should be empowering and seamless, not difficult, confusing, or stressful.</p> <p>As a Product Manager for Fraud, you’ll build products that enable Mercury to master these tools and deftly balance customer experience with fraud prevention. You'll develop a deep understanding of our customers, their accounts, and our money movement products to build systems that protect our customers and Mercury from fraud. You’ll work cross-functionally to build products for both end users and internal risk teams that enable Mercury to provide a seamless and safe banking* experience.</p> <p>We are looking for someone who can lead us in redefining how risk friction is used, measured, and optimized to unlock the seamless, magical banking* experience we believe is possible.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Member",
-      "posted": "2026-11-09T16:29:28-05:00",
-      "source": "Greenhouse",
-      "department": "Product",
-      "match": 70,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Fraud",
-        "Banking"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-stripe-8381041",
       "title": "Staff Product Manager, Foundation Pillar ",
@@ -65,6 +41,30 @@
         "Fintech",
         "Payments",
         "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-mercury-6236462004",
+      "title": "Senior Product Manager - Fraud",
+      "company": "Mercury",
+      "industry": "fintech",
+      "stage": "C",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6236462004",
+      "description": "<p>Holds. Limits. Locks. Closures. The judicious use of these tools is designed to protect good customers. But if wielded maladroitly, good customers get entangled in unnecessary friction, burden our operations teams, and may become detractors and churn. At Mercury, we believe banking* should be empowering and seamless, not difficult, confusing, or stressful.</p> <p>As a Product Manager for Fraud, you’ll build products that enable Mercury to master these tools and deftly balance customer experience with fraud prevention. You'll develop a deep understanding of our customers, their accounts, and our money movement products to build systems that protect our customers and Mercury from fraud. You’ll work cross-functionally to build products for both end users and internal risk teams that enable Mercury to provide a seamless and safe banking* experience.</p> <p>We are looking for someone who can lead us in redefining how risk friction is used, measured, and optimized to unlock the seamless, magical banking* experience we believe is possible.</p> <p><em>*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Member",
+      "posted": "2026-11-09T16:29:28-05:00",
+      "source": "Greenhouse",
+      "department": "Product",
+      "match": 67,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Fraud",
+        "Banking"
       ],
       "status": "new"
     },
