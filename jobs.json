@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T17:03:43.852Z",
+  "lastUpdated": "2026-11-19T01:47:16.063Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,39 +11,14 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 6,
+    "greenhouse": 5,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 6,
+  "totalJobs": 5,
   "highMatchJobs": 0,
   "jobs": [
-    {
-      "id": "gh-stripe-8381041",
-      "title": "Staff Product Manager, Foundation Pillar ",
-      "company": "Stripe",
-      "industry": "fintech",
-      "stage": "Late",
-      "location": "SF, SEA, NY, Remote-US ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8381041",
-      "description": "<h2><span style=\"font-weight: 400;\"><strong>Who we are</strong></span></h2> <h3><span style=\"font-weight: 400;\"><strong>About Stripe</strong></span></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <ul> <li>The Billing Foundations team builds the core infrastructure and data foundations that power Stripe Billing and support products across Stripe’s revenue and finance suite, including Tax. We build the shared systems that help these products scale, from real-time infrastructure for usage-based billing to customer balance management.</li> <li>Our product is the infrastructure itself: the building blocks that product teams depend on to deliver reliable ex",
-      "posted": "2026-11-11T15:42:45-05:00",
-      "source": "Greenhouse",
-      "department": "8412 Subscriptions",
-      "match": 67,
-      "reasons": [
-        "Good skill match",
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
     {
       "id": "gh-mercury-6236462004",
       "title": "Senior Product Manager - Fraud",
@@ -80,6 +55,31 @@
       "posted": "2026-11-12T15:19:08-05:00",
       "source": "Greenhouse",
       "department": "8566 Developer Platform - PM",
+      "match": 64,
+      "reasons": [
+        "Good skill match",
+        "Senior-level title",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Platform"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-stripe-8381041",
+      "title": "Staff Product Manager, Foundation Pillar ",
+      "company": "Stripe",
+      "industry": "fintech",
+      "stage": "Late",
+      "location": "SF, SEA, NY, Remote-US ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8381041",
+      "description": "<h2><span style=\"font-weight: 400;\"><strong>Who we are</strong></span></h2> <h3><span style=\"font-weight: 400;\"><strong>About Stripe</strong></span></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <ul> <li>The Billing Foundations team builds the core infrastructure and data foundations that power Stripe Billing and support products across Stripe’s revenue and finance suite, including Tax. We build the shared systems that help these products scale, from real-time infrastructure for usage-based billing to customer balance management.</li> <li>Our product is the infrastructure itself: the building blocks that product teams depend on to deliver reliable ex",
+      "posted": "2026-11-11T15:42:45-05:00",
+      "source": "Greenhouse",
+      "department": "8412 Subscriptions",
       "match": 64,
       "reasons": [
         "Good skill match",
@@ -135,29 +135,6 @@
       "reasons": [
         "Good skill match",
         "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8312348",
-      "title": "Group Product Manager, Revenue Platform",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8312348",
-      "description": "<p></p> <p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h2></h2> <h2><strong>Group Product Manager, Revenue Platform</strong></h2> <h4><strong>The Opportunity</strong></h4> <p>Adyen is a full-stack payment processor and licensed global bank, serving many of the world’s largest enterprises across more than 250 payment methods and dozens of markets. One of the reasons they choose us is how we charge them. Our Interchange++ model shows interchange, scheme fees and Adyen’s own markup as separate",
-      "posted": "2026-11-11T12:41:43-05:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 60,
-      "reasons": [
         "Perfect domain fit"
       ],
       "tags": [
