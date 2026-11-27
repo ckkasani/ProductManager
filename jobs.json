@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T00:26:14.172Z",
+  "lastUpdated": "2026-11-27T13:37:35.426Z",
   "config": {
     "daysBack": 14,
     "minScore": 60,
@@ -11,12 +11,12 @@
     ]
   },
   "sourceStats": {
-    "greenhouse": 29,
+    "greenhouse": 26,
     "lever": 0,
     "workday": 0,
     "duckduckgo": 0
   },
-  "totalJobs": 26,
+  "totalJobs": 23,
   "highMatchJobs": 0,
   "jobs": [
     {
@@ -127,32 +127,6 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-7862254",
-      "title": "Group Product Manager – Fraud Intelligence",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/7862254",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3><strong>The Opportunity</strong></h3> <p>Adyen is a full-stack payment processor and licensed global bank, serving millions of businesses and billions of shoppers. As we grow into banking, card issuing, and embedded finance, the stakes of who we let into our platform, and what they do once they’re here, keep rising.</p> <p>Fraud Intelligence protects Adyen from two kinds of bad actors: those who disguise who they are to gain access to the fi",
-      "posted": "2026-11-20T08:17:30-05:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 69,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Fraud",
-        "AI/ML"
-      ],
-      "status": "new"
-    },
-    {
       "id": "gh-stripe-7517535",
       "title": "Staff Product Manager, GenAI and Agent Foundations",
       "company": "Stripe",
@@ -259,66 +233,14 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8303418",
-      "title": "Senior Product Manager, Capital",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8303418",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Capital</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Capital, Banking, and Issuing, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Capital</em>, which will be foundational for Adyen’s next generation Financial Products. The Capital team is on a mission ",
-      "posted": "2026-11-20T08:17:30-05:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 66,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8018202",
-      "title": "Senior Product Manager, Issuing",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Issuing</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Issuing, Banking, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data.<br><br>We are looking for a Senior Product Manager to help scale Issuing, which will be foundational for Adyen’s next generation Financial Products. The Issuing team is on a mission to enable business",
-      "posted": "2026-11-20T08:17:30-05:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 66,
-      "reasons": [
-        "Good skill match",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "Cards",
-        "Platform",
-        "Banking"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8045868",
-      "title": "Senior Product Manager - Split Payments",
+      "id": "gh-adyen-7862254",
+      "title": "Group Product Manager – Fraud Intelligence",
       "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
       "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8045868",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Split Payments</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen’s value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts and capital; facilitated by Adyen’s global Banking licenses. Behind every platform transaction is a critical need to dynamically automate fund distribut",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7862254",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h3><strong>The Opportunity</strong></h3> <p>Adyen is a full-stack payment processor and licensed global bank, serving millions of businesses and billions of shoppers. As we grow into banking, card issuing, and embedded finance, the stakes of who we let into our platform, and what they do once they’re here, keep rising.</p> <p>Fraud Intelligence protects Adyen from two kinds of bad actors: those who disguise who they are to gain access to the fi",
       "posted": "2026-11-20T08:17:30-05:00",
       "source": "Greenhouse",
       "department": "Product Management",
@@ -331,8 +253,8 @@
         "Fintech",
         "Payments",
         "Cards",
-        "Platform",
-        "Banking"
+        "Fraud",
+        "AI/ML"
       ],
       "status": "new"
     },
@@ -464,14 +386,14 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8060230",
-      "title": "Senior Product Manager - Banking Networks Global",
+      "id": "gh-adyen-8303418",
+      "title": "Senior Product Manager, Capital",
       "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8060230",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Banking Networks</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen's value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts, and capital; facilitated by Adyen's global banking licenses. Behind every one of these products sits a critical dependency: reliable, direct connecti",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8303418",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Capital</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Capital, Banking, and Issuing, powered by our unified global platform, banking licenses, and dynamic identity data.</p> <p>We are looking for a <em>Senior Product Manager</em> to help scale <em>Capital</em>, which will be foundational for Adyen’s next generation Financial Products. The Capital team is on a mission ",
       "posted": "2026-11-20T08:17:30-05:00",
       "source": "Greenhouse",
       "department": "Product Management",
@@ -490,43 +412,18 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8161148",
-      "title": "Principal Product Manager, AI-Native Merchant Experiences",
+      "id": "gh-adyen-8018202",
+      "title": "Senior Product Manager, Issuing",
       "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8161148",
-      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Principal Product Manager, AI-Native Merchant Experiences</h3> <p>The world's largest businesses run on Adyen. Payments, financial products, and increasingly the commerce workflows around them — money movement, billing, loyalty — flow through a single platform, across dozens of markets and hundreds of payment methods, at a scale most companies never encounter.</p> <p>That scale comes with complexity, and handling it on our merchants' behalf has always been our mission. But the way people expect to work is changing in real time. The ",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8018202",
+      "description": "<h2>This is Adyen</h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</p> <h3>Senior Product Manager, Issuing</h3> <p>We have a massive opportunity ahead of us – to scale Adyen’s financial products by 10x, ushering in the next phase of growth for the company. Adyen has built a Financial OS spanning Issuing, Banking, and Capital, powered by our unified global platform, banking licenses, and dynamic identity data.<br><br>We are looking for a Senior Product Manager to help scale Issuing, which will be foundational for Adyen’s next generation Financial Products. The Issuing team is on a mission to enable business",
       "posted": "2026-11-20T08:17:30-05:00",
       "source": "Greenhouse",
       "department": "Product Management",
-      "match": 62,
-      "reasons": [
-        "Senior-level title",
-        "Perfect domain fit"
-      ],
-      "tags": [
-        "Fintech",
-        "Payments",
-        "AI/ML",
-        "Platform"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "gh-adyen-8281712",
-      "title": "Senior Product Manager, AML",
-      "company": "Adyen",
-      "industry": "fintech",
-      "stage": "Public",
-      "location": "Amsterdam",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8281712",
-      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>The opportunity:<br></strong></p> <p>We are seeking a Senior Product Manager to lead our Anti-Money Laundering (AML) detection product within Identity Risk Intelligence. Financial crime keeps getting more complex, and as Adyen expands into new products and markets, our detection needs to scale with it - without becoming a bottleneck for growth. <br>This role needs a Product Manager who can take a clear strategy and drive it to executi",
-      "posted": "2026-11-20T08:17:30-05:00",
-      "source": "Greenhouse",
-      "department": "Product Management",
-      "match": 62,
+      "match": 63,
       "reasons": [
         "Good skill match",
         "Perfect domain fit"
@@ -534,9 +431,35 @@
       "tags": [
         "Fintech",
         "Payments",
-        "Fraud",
-        "AI/ML",
-        "Platform"
+        "Cards",
+        "Platform",
+        "Banking"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "gh-adyen-8045868",
+      "title": "Senior Product Manager - Split Payments",
+      "company": "Adyen",
+      "industry": "fintech",
+      "stage": "Public",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8045868",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Split Payments</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen’s value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts and capital; facilitated by Adyen’s global Banking licenses. Behind every platform transaction is a critical need to dynamically automate fund distribut",
+      "posted": "2026-11-20T08:17:30-05:00",
+      "source": "Greenhouse",
+      "department": "Product Management",
+      "match": 63,
+      "reasons": [
+        "Good skill match",
+        "Perfect domain fit"
+      ],
+      "tags": [
+        "Fintech",
+        "Payments",
+        "Cards",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     },
@@ -647,7 +570,7 @@
       "company": "Brex",
       "industry": "fintech",
       "stage": "D",
-      "location": "San Francisco, California, United States / Seattle, Washington, United States / New York, New York, United States",
+      "location": "San Francisco, California, United States / New York, New York, United States / Seattle, Washington, United States",
       "url": "https://www.brex.com/careers/8959593002?gh_jid=8959593002",
       "description": "<div class=\"content-intro\"><p><strong>Why join us</strong></p> <p>Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.</p> <p>Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.</p></div><h3><strong>Product at Brex</strong></h3> <p>The Product team is at the forefr",
       "posted": "2026-11-24T10:50:16-05:00",
@@ -668,25 +591,28 @@
       "status": "new"
     },
     {
-      "id": "gh-adyen-8312348",
-      "title": "Group Product Manager, Revenue Platform",
+      "id": "gh-adyen-8060230",
+      "title": "Senior Product Manager - Banking Networks Global",
       "company": "Adyen",
       "industry": "fintech",
       "stage": "Public",
-      "location": "Chicago",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8312348",
-      "description": "<p></p> <p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <h2></h2> <h2><strong>Group Product Manager, Revenue Platform</strong></h2> <h4><strong>The Opportunity</strong></h4> <p>Adyen is a full-stack payment processor and licensed global bank, serving many of the world’s largest enterprises across more than 250 payment methods and dozens of markets. One of the reasons they choose us is how we charge them. Our Interchange++ model shows interchange, scheme fees and Adyen’s own markup as separate",
+      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8060230",
+      "description": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, HM, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p> <p><strong>Senior Product Manager, Banking Networks</strong></p> <p>Adyen is a truly global company that processes billions in payments annually. Adyen's value goes beyond Ecommerce and In-Person payments with a broad offering of embedded payments and financial services like issuing, bank accounts, and capital; facilitated by Adyen's global banking licenses. Behind every one of these products sits a critical dependency: reliable, direct connecti",
       "posted": "2026-11-20T08:17:30-05:00",
       "source": "Greenhouse",
       "department": "Product Management",
       "match": 60,
       "reasons": [
+        "Good skill match",
         "Perfect domain fit"
       ],
       "tags": [
         "Fintech",
         "Payments",
-        "Platform"
+        "Cards",
+        "Platform",
+        "Banking"
       ],
       "status": "new"
     }
